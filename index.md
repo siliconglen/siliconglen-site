@@ -14,9 +14,10 @@ description: "Siliconglen: critical thinking, delivery and Agile with Craig Cock
         <a class="btn" href="{{ '/results/' | relative_url }}">See results</a>
       </div>
     </div>
-    <div class="photo-placeholder" role="img" aria-label="Placeholder for a photograph of Craig Cockburn speaking or working, pending real photography">
-      Photo of Craig<br>(placeholder — real photography to follow)
-    </div>
+    <figure class="photo-placeholder">
+      <img src="https://picsum.photos/seed/siliconglen-hero/960/720" width="960" height="720" alt="Temporary generic stock photo standing in for a real photograph of Craig Cockburn, to be replaced before launch" loading="eager">
+      <figcaption>Temporary stock photo, real photography to follow</figcaption>
+    </figure>
   </div>
 </section>
 
@@ -26,18 +27,22 @@ description: "Siliconglen: critical thinking, delivery and Agile with Craig Cock
     <h2>Think. Decide. Deliver. Improve.</h2>
     <div class="grid grid--4">
       <div class="card">
+        <svg class="card-icon" viewBox="0 0 24 24" width="32" height="32" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 18h6"/><path d="M10 21h4"/><path d="M12 3a6 6 0 0 0-4 10.5c.6.55 1 1.3 1 2.1V16h6v-.4c0-.8.4-1.55 1-2.1A6 6 0 0 0 12 3Z"/></svg>
         <h3>Think</h3>
         <p>Challenge assumptions and expose blind spots before they cost you.</p>
       </div>
       <div class="card">
+        <svg class="card-icon" viewBox="0 0 24 24" width="32" height="32" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="m8.5 12.5 2.5 2.5 5-5"/></svg>
         <h3>Decide</h3>
         <p>Turn analysis into a clear, defensible decision.</p>
       </div>
       <div class="card">
+        <svg class="card-icon" viewBox="0 0 24 24" width="32" height="32" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M7 17 17 7"/><path d="M9 7h8v8"/></svg>
         <h3>Deliver</h3>
         <p>Turn decisions into working outcomes, not just plans.</p>
       </div>
       <div class="card">
+        <svg class="card-icon" viewBox="0 0 24 24" width="32" height="32" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 17 10 11l4 4 6-7"/><path d="M15 8h5v5"/></svg>
         <h3>Improve</h3>
         <p>Use what's delivered to make the organisation better next time.</p>
       </div>
@@ -45,7 +50,7 @@ description: "Siliconglen: critical thinking, delivery and Agile with Craig Cock
   </div>
 </section>
 
-<section class="section section--dark">
+<section class="section section--tint">
   <div class="section__inner">
     <p class="section-eyebrow">Start here</p>
     <h2>What are you trying to solve?</h2>
@@ -67,16 +72,19 @@ description: "Siliconglen: critical thinking, delivery and Agile with Craig Cock
     <p class="lede">None of these stands alone. Critical thinking sharpens the decision, delivery turns it into a working outcome, and Agile keeps the organisation improving after it lands.</p>
     <div class="grid grid--3">
       <div class="card">
+        <svg class="card-icon" viewBox="0 0 24 24" width="32" height="32" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m20 20-4.35-4.35"/></svg>
         <h3>Critical Thinking</h3>
         <p>Including Red Team Thinking&reg;: challenging assumptions and exposing blind spots before they become expensive.</p>
         <p><a href="{{ '/work-with-me/critical-thinking/' | relative_url }}">More on Critical Thinking</a></p>
       </div>
       <div class="card">
+        <svg class="card-icon" viewBox="0 0 24 24" width="32" height="32" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M7 17 17 7"/><path d="M9 7h8v8"/></svg>
         <h3>Delivery</h3>
         <p>Programme and project delivery, and organisational transformation, proving that advice can become a working result.</p>
         <p><a href="{{ '/work-with-me/programme-delivery/' | relative_url }}">More on Delivery</a></p>
       </div>
       <div class="card">
+        <svg class="card-icon" viewBox="0 0 24 24" width="32" height="32" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 12a9 9 0 0 1 15-6.7L21 8"/><path d="M21 3v5h-5"/><path d="M21 12a9 9 0 0 1-15 6.7L3 16"/><path d="M3 21v-5h5"/></svg>
         <h3>Agile</h3>
         <p>Adaptive delivery, organisational improvement and team leadership capability, one part of the offer, not the whole of it.</p>
         <p><a href="{{ '/work-with-me/agile-transformation/' | relative_url }}">More on Agile</a></p>
@@ -111,7 +119,7 @@ description: "Siliconglen: critical thinking, delivery and Agile with Craig Cock
   </div>
 </section>
 
-<section class="section section--dark">
+<section class="section section--card">
   <div class="section__inner">
     <p class="section-eyebrow">AI &amp; Critical Thinking</p>
     <h2>AI can produce an answer. Who is challenging the answer?</h2>
@@ -173,7 +181,7 @@ description: "Siliconglen: critical thinking, delivery and Agile with Craig Cock
   </div>
 </section>
 
-<section class="section section--dark">
+<section class="section section--tint">
   <div class="section__inner">
     <p class="section-eyebrow">Get in touch</p>
     <h2>Have a problem worth thinking through properly?</h2>

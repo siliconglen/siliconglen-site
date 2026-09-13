@@ -9,6 +9,8 @@
   --measure: 68ch;
 }
 
+.site-topbar { height: 6px; background: var(--accent); }
+
 * { box-sizing: border-box; }
 body { margin: 0; background: var(--paper); color: var(--ink); font: 1.125rem/1.6 var(--font); }
 a { color: var(--accent); }
@@ -43,6 +45,7 @@ h3 { margin: 0 0 .5rem; font-size: 1.25rem; }
 /* Homepage sections, plain throughout, only alternating white / very light grey */
 .section { padding-block: clamp(3rem, 8vw, 5rem); border-bottom: 1px solid var(--line); }
 .section--card { background: var(--paper-2); }
+.section--tint { background: #eaf4f0; }
 
 /* Hero */
 .hero { padding-block: clamp(2.5rem, 8vw, 5rem) clamp(2rem, 5vw, 3rem); }
@@ -56,13 +59,16 @@ h3 { margin: 0 0 .5rem; font-size: 1.25rem; }
 .btn:not(.btn--primary) { background: transparent; color: var(--accent); }
 .btn:not(.btn--primary):hover, .btn:not(.btn--primary):focus-visible { background: var(--accent); color: #fff; }
 
-.photo-placeholder { display: flex; align-items: center; justify-content: center; min-height: 16rem; border: 1px dashed var(--line); background: var(--paper-2); color: var(--muted); text-align: center; padding: 1.5rem; font-weight: 500; }
+.photo-placeholder { margin: 0; }
+.photo-placeholder img { display: block; width: 100%; height: auto; border: 1px solid var(--line); }
+.photo-placeholder figcaption { margin-top: .5rem; color: var(--muted); font-size: .85rem; text-align: center; }
 
 /* Cards */
 .grid { display: grid; gap: 1.5rem; margin-top: 2rem; }
 .grid--3 { grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr)); }
 .grid--4 { grid-template-columns: repeat(auto-fit, minmax(13rem, 1fr)); }
 .card { padding: 1.5rem; background: var(--paper); border: 1px solid var(--line); }
+.card-icon { display: block; margin-bottom: .75rem; color: var(--accent); }
 .section--card .card { background: var(--paper); }
 
 /* Problem-led list, plain, on light background */
