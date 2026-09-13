@@ -43,3 +43,56 @@ h1 { max-width: 14ch; margin: 0; font-size: clamp(3rem, 9vw, 6rem); line-height:
 @media (max-width: 60rem) { .site-header { position: static; } .site-header__inner { align-items: flex-start; flex-direction: column; padding-block: 1rem; } .nav-list { margin: 0; } .nav-list details ul { right: auto; left: 0; } }
 @media (prefers-reduced-motion: reduce) { *, *::before, *::after { scroll-behavior: auto !important; transition-duration: .01ms !important; animation-duration: .01ms !important; } }
 
+
+/* Homepage sections */
+.section { padding-block: clamp(3rem, 8vw, 6rem); border-bottom: 1px solid var(--line); }
+.section--card { background: var(--paper-2); }
+.section--dark { background: var(--dark-section); color: var(--paper); border-bottom-color: transparent; }
+.section--dark a { color: var(--accent-on-dark); }
+.section__inner { width: min(100% - 2rem, 76rem); margin-inline: auto; }
+.section-eyebrow { margin: 0 0 .5rem; font: 600 .75rem/1.4 var(--font-mono); letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
+.section--dark .section-eyebrow { color: var(--accent-on-dark); }
+.section h2 { font-size: clamp(2rem, 5vw, 3.25rem); margin: 0 0 1rem; line-height: .98; }
+
+/* Hero */
+.hero { padding-block: clamp(3rem, 10vw, 7rem) clamp(2rem, 6vw, 4rem); border-bottom: 1px solid var(--line); }
+.hero__grid { display: grid; gap: 2.5rem; grid-template-columns: 1.3fr 1fr; align-items: end; }
+.hero h1 { max-width: none; }
+.hero__ctas { display: flex; flex-wrap: wrap; gap: 1rem; margin-top: 2rem; }
+@media (max-width: 60rem) { .hero__grid { grid-template-columns: 1fr; } }
+
+/* Buttons */
+.btn { display: inline-flex; align-items: center; min-height: 2.75rem; padding: .6rem 1.5rem; border: 1px solid var(--ink); background: transparent; font: 600 .8rem/1 var(--font-mono); text-transform: uppercase; letter-spacing: .05em; text-decoration: none; color: var(--ink); }
+.btn:hover, .btn:focus-visible { background: var(--accent); border-color: var(--accent); color: var(--paper); }
+.btn--primary { background: var(--ink); color: var(--paper); }
+.section--dark .btn { border-color: var(--paper); color: var(--paper); }
+.section--dark .btn--primary { background: var(--accent-on-dark); border-color: var(--accent-on-dark); color: var(--ink); }
+.section--dark .btn--primary:hover, .section--dark .btn--primary:focus-visible { background: var(--paper); border-color: var(--paper); }
+
+/* Photography placeholder */
+.photo-placeholder { display: flex; align-items: center; justify-content: center; min-height: 16rem; border: 1px dashed var(--line); background: var(--paper-2); color: var(--muted); font: 600 .8rem/1.5 var(--font-mono); text-align: center; padding: 1.5rem; }
+
+/* Card grids */
+.grid { display: grid; gap: 1.5rem; margin-top: 2rem; }
+.grid--3 { grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr)); }
+.grid--4 { grid-template-columns: repeat(auto-fit, minmax(13rem, 1fr)); }
+.card { padding: 1.5rem; background: var(--paper); border: 1px solid var(--line); }
+.section--card .card { background: var(--paper); }
+.section--dark .card { background: rgba(255, 255, 255, .06); border-color: rgba(255, 255, 255, .25); }
+.card h3 { margin: 0 0 .5rem; font-family: var(--font-display); text-transform: uppercase; font-size: 1.1rem; }
+
+/* Problem-led list */
+.problem-list { list-style: none; margin: 2rem 0 0; padding: 0; border-top: 1px solid rgba(255, 255, 255, .25); }
+.problem-list li { border-bottom: 1px solid rgba(255, 255, 255, .25); }
+.problem-list a { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 1rem; min-height: 2.75rem; padding-block: 1.25rem; color: var(--paper); font-size: 1.15rem; }
+.problem-list .arrow { font: 600 .8rem/1 var(--font-mono); color: var(--accent-on-dark); white-space: nowrap; }
+
+/* Results ledger */
+.ledger { list-style: none; margin: 2rem 0 0; padding: 0; }
+.ledger li { display: grid; grid-template-columns: 7rem 1fr; gap: 1.5rem; align-items: baseline; padding-block: 1.25rem; border-bottom: 1px solid var(--line); }
+.ledger .figure { font: 700 clamp(1.75rem, 4vw, 2.5rem)/1 var(--font-mono); color: var(--accent); }
+.ledger .desc { max-width: var(--measure); }
+.ledger .desc strong { display: block; margin-bottom: .25rem; font-family: var(--font-display); text-transform: uppercase; letter-spacing: .02em; }
+@media (max-width: 40rem) { .ledger li { grid-template-columns: 1fr; } }
+
+.stub-note { margin-top: 1.5rem; font: 600 .875rem/1.5 var(--font-mono); color: var(--muted); }
