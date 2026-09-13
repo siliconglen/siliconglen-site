@@ -1,0 +1,35 @@
+title: Siliconglen
+description: Critical thinking, delivery and Agile with Craig Cockburn.
+url: "https://siliconglen.github.io"
+baseurl: "/siliconglen-site"
+lang: en-GB
+markdown: kramdown
+permalink: pretty
+
+collections:
+  case_studies:
+    output: true
+    permalink: /results/case-studies/:name/
+  talks:
+    output: true
+    permalink: /insights/talks/:name/
+  articles:
+    output: true
+    permalink: /insights/articles/:name/
+
+defaults:
+  - scope: { path: "", type: case_studies }
+    values: { layout: collection-item, collection_label: "Case study" }
+  - scope: { path: "", type: talks }
+    values: { layout: collection-item, collection_label: "Talk" }
+  - scope: { path: "", type: articles }
+    values: { layout: collection-item, collection_label: "Article" }
+
+exclude:
+  - .bundle
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - PROJECT_BRIEF.md
+  - vendor
+
