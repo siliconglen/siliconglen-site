@@ -97,4 +97,17 @@ h3 { margin: 0 0 .5rem; font-size: 1.25rem; }
 .js-reveal .reveal { opacity: 0; transform: translateY(1.25rem); transition: opacity .6s ease, transform .6s ease; }
 .js-reveal .reveal.is-visible { opacity: 1; transform: translateY(0); }
 
+/* Contact form */
+.contact-form { max-width: 34rem; margin-top: 2rem; }
+.form-field { margin-bottom: 1.25rem; }
+.form-field label { display: block; margin-bottom: .4rem; font-weight: 600; }
+.form-field .optional { font-weight: 400; color: var(--muted); }
+.form-field input, .form-field select, .form-field textarea { width: 100%; min-height: 2.75rem; padding: .6rem .75rem; border: 1px solid var(--line); background: var(--paper); color: var(--ink); font: 1rem/1.4 var(--font); }
+.form-field textarea { min-height: 8rem; resize: vertical; }
+.form-field input:focus-visible, .form-field select:focus-visible, .form-field textarea:focus-visible { outline: .2rem solid var(--accent); outline-offset: .1rem; }
+.form-honeypot { position: absolute; left: -9999px; width: 1px; height: 1px; overflow: hidden; }
+.form-consent { max-width: var(--measure); color: var(--muted); font-size: .9rem; }
+.form-actions { margin-top: 1.5rem; }
+.form-alt-contact { margin-top: 2rem; padding-top: 1.5rem; border-top: 1px solid var(--line); color: var(--muted); }
+
 @media (prefers-reduced-motion: reduce) { *, *::before, *::after { transition-duration: .01ms !important; animation-duration: .01ms !important; } }
