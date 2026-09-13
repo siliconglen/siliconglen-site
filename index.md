@@ -29,7 +29,7 @@ description: "Siliconglen: critical thinking, delivery and Agile with Craig Cock
   </div>
 </section>
 
-<section class="section section--card">
+<section class="section section--card reveal">
   <div class="section__inner">
     <p class="section-eyebrow">How the work happens</p>
     <h2>Think. Decide. Deliver. Improve.</h2>
@@ -58,7 +58,7 @@ description: "Siliconglen: critical thinking, delivery and Agile with Craig Cock
   </div>
 </section>
 
-<section class="section section--tint">
+<section class="section section--tint reveal">
   <div class="section__inner">
     <p class="section-eyebrow">Start here</p>
     <h2>What are you trying to solve?</h2>
@@ -73,7 +73,7 @@ description: "Siliconglen: critical thinking, delivery and Agile with Craig Cock
   </div>
 </section>
 
-<section class="section">
+<section class="section reveal">
   <div class="section__inner">
     <p class="section-eyebrow">Three connected capabilities</p>
     <h2>Critical Thinking &middot; Delivery &middot; Agile</h2>
@@ -101,7 +101,7 @@ description: "Siliconglen: critical thinking, delivery and Agile with Craig Cock
   </div>
 </section>
 
-<section class="section section--card">
+<section class="section section--card reveal">
   <div class="section__inner">
     <p class="section-eyebrow">Evidence, not claims</p>
     <h2>Results</h2>
@@ -127,7 +127,7 @@ description: "Siliconglen: critical thinking, delivery and Agile with Craig Cock
   </div>
 </section>
 
-<section class="section section--card">
+<section class="section section--card reveal">
   <div class="section__inner">
     <p class="section-eyebrow">AI &amp; Critical Thinking</p>
     <h2>AI can produce an answer. Who is challenging the answer?</h2>
@@ -136,7 +136,7 @@ description: "Siliconglen: critical thinking, delivery and Agile with Craig Cock
   </div>
 </section>
 
-<section class="section">
+<section class="section reveal">
   <div class="section__inner">
     <p class="section-eyebrow">Speaking</p>
     <h2>Talks and video</h2>
@@ -158,7 +158,7 @@ description: "Siliconglen: critical thinking, delivery and Agile with Craig Cock
   </div>
 </section>
 
-<section class="section section--card">
+<section class="section section--card reveal">
   <div class="section__inner">
     <p class="section-eyebrow">Insights</p>
     <h2>Recent thinking</h2>
@@ -180,7 +180,7 @@ description: "Siliconglen: critical thinking, delivery and Agile with Craig Cock
   </div>
 </section>
 
-<section class="section">
+<section class="section reveal">
   <div class="section__inner">
     <p class="section-eyebrow">About</p>
     <h2>Craig Cockburn</h2>
@@ -189,7 +189,7 @@ description: "Siliconglen: critical thinking, delivery and Agile with Craig Cock
   </div>
 </section>
 
-<section class="section section--tint">
+<section class="section section--tint reveal">
   <div class="section__inner">
     <p class="section-eyebrow">Get in touch</p>
     <h2>Have a problem worth thinking through properly?</h2>

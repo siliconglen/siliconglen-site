@@ -94,4 +94,7 @@ h3 { margin: 0 0 .5rem; font-size: 1.25rem; }
 
 .stub-note { margin-top: 1.5rem; color: var(--muted); }
 
+.js-reveal .reveal { opacity: 0; transform: translateY(1.25rem); transition: opacity .6s ease, transform .6s ease; }
+.js-reveal .reveal.is-visible { opacity: 1; transform: translateY(0); }
+
 @media (prefers-reduced-motion: reduce) { *, *::before, *::after { transition-duration: .01ms !important; animation-duration: .01ms !important; } }
