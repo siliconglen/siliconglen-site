@@ -9,13 +9,21 @@ description: "Siliconglen: critical thinking, delivery and Agile with Craig Cock
       <p class="section-eyebrow">Critical Thinking · Delivery · Agile</p>
       <h1>Think clearer.<br>Decide better.<br>Deliver what matters.</h1>
       <p class="lede">I'm Craig Cockburn. I help leaders and organisations challenge assumptions, make better decisions and turn those decisions into results.</p>
+      <div class="tag-row">
+        <span class="tag">Critical Thinking</span>
+        <span class="tag">Delivery</span>
+        <span class="tag">Agile</span>
+        <span class="tag">Red Team Thinking&reg;</span>
+      </div>
       <div class="hero__ctas">
         <a class="btn btn--primary" href="{{ '/work-with-me/' | relative_url }}">Work with me</a>
         <a class="btn" href="{{ '/results/' | relative_url }}">See results</a>
       </div>
     </div>
     <figure class="photo-placeholder">
-      <img src="https://picsum.photos/seed/siliconglen-hero/960/720" width="960" height="720" alt="Temporary generic stock photo standing in for a real photograph of Craig Cockburn, to be replaced before launch" loading="eager">
+      <div class="photo-frame">
+        <img src="https://picsum.photos/seed/siliconglen-hero/960/720" width="960" height="720" alt="Temporary generic stock photo standing in for a real photograph of Craig Cockburn, to be replaced before launch" loading="eager">
+      </div>
       <figcaption>Temporary stock photo, real photography to follow</figcaption>
     </figure>
   </div>
