@@ -1,12 +1,21 @@
 ---
 layout: default
 ---
-<article class="wrapper prose">
-  <header class="page-header">
+<header class="page-header page-header--accent">
+  <div class="wrapper">
     {% if page.eyebrow %}<p class="eyebrow">{{ page.eyebrow }}</p>{% endif %}
     <h1>{{ page.title }}</h1>
     {% if page.intro %}<p class="lede">{{ page.intro }}</p>{% endif %}
-  </header>
+    {% if page.image %}
+      <figure class="photo-placeholder page-header__image">
+        <div class="photo-frame photo-frame--wide">
+          <img src="{{ page.image }}" alt="{{ page.image_alt | default: 'Temporary generic stock photo, to be replaced before launch' }}" loading="eager">
+        </div>
+        <figcaption>Temporary stock photo, real photography to follow</figcaption>
+      </figure>
+    {% endif %}
+  </div>
+</header>
+<article class="wrapper prose">
   {{ content }}
 </article>
-

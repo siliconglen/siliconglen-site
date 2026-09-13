@@ -5,6 +5,8 @@ eyebrow: Work with me
 intro: Challenge assumptions, examine evidence and make decisions you can explain and act on.
 description: "Critical thinking support with Craig Cockburn: frame the real problem, test assumptions and evidence, and make clearer, defensible decisions."
 permalink: /work-with-me/critical-thinking/
+image: https://picsum.photos/seed/siliconglen-critical-thinking/1200/675
+image_alt: "Temporary generic stock photo standing in for a real photograph representing critical thinking work, to be replaced before launch"
 ---
 
 ## See the problem clearly before solving it
