@@ -28,6 +28,8 @@ defaults:
 exclude:
   - Gemfile
   - Gemfile.lock
+  - .bundle
+  - vendor
   - README.md
   - PROJECT_BRIEF.md
 
