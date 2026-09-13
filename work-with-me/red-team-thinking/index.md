@@ -5,6 +5,8 @@ eyebrow: Work with me
 intro: Challenge a strategy, plan or prevailing view before reality does it for you.
 description: "Red Team Thinking with Craig Cockburn: independently challenge assumptions, test plans and expose blind spots while there is still time to act."
 permalink: /work-with-me/red-team-thinking/
+image: https://picsum.photos/seed/siliconglen-red-team-thinking/1200/675
+image_alt: "Temporary generic stock photo standing in for a real photograph representing Red Team Thinking work, to be replaced before launch"
 ---
 
 ## Put important plans under constructive pressure
