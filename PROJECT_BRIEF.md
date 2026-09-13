@@ -31,7 +31,7 @@ Suggested hero:
 > I'm Craig Cockburn. I help leaders and organisations challenge assumptions, make better decisions and turn those decisions into results.  
 > Critical Thinking · Delivery · Agile
 
-Every page's identity lockup must read “SILICONGLEN, Craig Cockburn”.
+Every page's identity lockup must read "SILICONGLEN, Craig Cockburn".
 
 ## 3. Audience and journeys
 
@@ -80,27 +80,26 @@ Rhythm: photographic hero → four-part cycle → contrasting problems → visua
 
 ## 6. Visual system
 
-**Standard:** bold, editorial, credible and accessible. Use authentic photography of Craig, large confident type, alternating light/dark/photographic/accent sections, whitespace, high-contrast blocks, outcome statistics and subtle non-essential motion. Design mobile-first and respect `prefers-reduced-motion`.
+**Revised 13 September 2026, supersedes the original editorial direction below.** After reviewing the built homepage, the condensed all-caps display font, monospace labels and tan palette read as over-designed and reduced legibility. The site now uses one plain system sans-serif throughout (no webfont loading at all, faster and simpler), a white background with light-grey and soft teal-tint sections for rhythm, and a thin teal bar across the top of every page as the one distinctive brand mark. Simple single-colour line-icon SVGs (not photography) illustrate the Think/Decide/Deliver/Improve and capability cards. **Standard is now: plain, bold, immediately readable, still visually interesting through colour and simple icons rather than typographic flourish.**
 
-Avoid stock consultancy/Post-it imagery, synthetic AI imagery, low contrast, tiny text, gradients/blobs/glassmorphism, carousels, certification walls, dominant Agile diagrams and performance-harming animation.
+**Photography policy:** real photography of Craig is still the goal and should replace placeholders as soon as it exists. Generic stock photography is permitted as a temporary development placeholder only, so Craig can evaluate layout and proportions, clearly not final content, and must be swapped for real photography (or removed) before public launch. Never present temporary stock photography as though it depicts Craig or a real client situation.
+
+Current tokens (replace the previous block entirely, do not mix the two systems):
 
 ```css
---paper: #F1EFE9;
---paper-2: #E7E3D9;
---ink: #16181A;
---muted: #7A7364;
---line: #CBC5B7;
---dark-section: #14171A;
---accent: #1F6F5C;
---accent-on-dark: #3FB596;
---font-display: "Big Shoulders Display", sans-serif;
---font-body: "Source Serif 4", serif;
---font-mono: "IBM Plex Mono", monospace;
+--paper: #ffffff;
+--paper-2: #f6f6f6;
+--tint: #eaf4f0;
+--ink: #1a1a1a;
+--muted: #595959;
+--line: #dddddd;
+--accent: #156048;
+--font: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
 ```
 
-Body copy is approximately 17–18px at 1.5–1.7 line height with sensible measure. Headings may reach 60–80px+ using `clamp()`. Use a sticky slim navigation and Work With Me CTA/dropdown, alternating section treatments, a numeric results ledger and explicitly labelled photo placeholders until authentic images are supplied.
+Body copy is 1.125rem/1.6 in the plain system font. Headings are bold, sentence case (not uppercase), sized with `clamp()`, no letter-spacing tricks, condensed display fonts clump at small sizes and were the cause of an earlier readability complaint. Still avoid: low contrast, tiny text, gradients/blobs/glassmorphism, carousels, certification walls, dominant Agile diagrams and performance-harming animation.
 
-References are Firewalkers, Red Team Thinking, Snehal Talati, James Stamford and DSLX for selected editorial, functional and commercial qualities—not imitation.
+References are Firewalkers, Red Team Thinking, Snehal Talati, James Stamford and DSLX for selected editorial, functional and commercial qualities, not imitation. Red Team Thinking specifically informed the shift to plain, bold, high-contrast text and simple card-plus-icon/photo patterns over typographic decoration.
 
 ## 7. Evidence
 
@@ -110,7 +109,7 @@ Case-study fields: situation, difficulty, Craig's role, approach, change, measur
 
 ## 8. AI and Critical Thinking
 
-Editorial hook: “AI can produce an answer. Who is challenging the answer? If the AI is wrong, how would you know?” Cover verification, hallucination/false confidence, automation bias, decision quality, red-teaming output and useful AI without outsourcing judgement.
+Editorial hook: "AI can produce an answer. Who is challenging the answer? If the AI is wrong, how would you know?" Cover verification, hallucination/false confidence, automation bias, decision quality, red-teaming output and useful AI without outsourcing judgement.
 
 ## 9. Speaking and publishing
 
