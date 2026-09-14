@@ -4,14 +4,14 @@ title: Agile Coaching
 eyebrow: Work with me
 intro: Use adaptive delivery, feedback and organisational learning to help teams deliver and improve.
 description: "Use adaptive delivery, feedback and organisational learning to help teams deliver and improve."
-permalink: /work-with-me/agile-transformation/
+permalink: /work-with-me/agile-coaching/
 ---
 
 ## Agile should improve delivery, not become the destination
 
 An organisation can adopt Agile language and activity while the important constraints remain untouched. The useful question is not whether a framework is being followed, but whether the organisation can deliver valuable outcomes, learn from evidence and respond intelligently.
 
-I treat Agile as one connected capability: adaptive delivery and organisational improvement supported by stronger team and leadership capability.
+The coaching connects adaptive delivery and organisational improvement with stronger team and leadership capability.
 
 ## What we can cover
 

@@ -34,7 +34,7 @@ a:focus-visible, summary:focus-visible { outline: .2rem solid var(--accent); out
 .nav-list__chevron { display: inline-block; width: .8em; color: currentColor; font-size: .9em; line-height: 1; text-align: center; transition: transform .2s ease; }
 .nav-list__dropdown[open] > .nav-list__toggle { border-bottom-color: var(--accent); background: var(--accent); color: #fff; }
 .nav-list__dropdown[open] .nav-list__chevron { transform: rotate(180deg); }
-.nav-list__panel { position: absolute; z-index: 1; left: 0; display: grid; grid-template-columns: repeat(5, max-content); gap: .25rem; width: max-content; max-width: calc(100vw - 20rem); margin: 0; padding: .75rem; border: 1px solid var(--line); background: var(--paper); list-style: none; box-shadow: 0 6px 16px rgba(0,0,0,.12); }
+.nav-list__panel { position: absolute; z-index: 1; left: 0; display: grid; grid-template-columns: repeat(3, max-content); gap: .25rem; width: max-content; max-width: calc(100vw - 20rem); margin: 0; padding: .75rem; border: 1px solid var(--line); background: var(--paper); list-style: none; box-shadow: 0 6px 16px rgba(0,0,0,.12); }
 .nav-list__panel li { display: inline-flex; width: max-content; }
 .nav-list__panel a { display: flex; height: 100%; min-height: 3.5rem; align-items: center; padding: .65rem .8rem; color: var(--ink); font-size: .95rem; line-height: 1.3; text-decoration: none; }
 .nav-list__panel a:hover, .nav-list__panel a:focus-visible { background: #e3effa; color: var(--accent); text-decoration: none; }

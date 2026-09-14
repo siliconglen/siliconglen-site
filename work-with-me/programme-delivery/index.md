@@ -36,10 +36,6 @@ I work with the people and suppliers involved to turn priorities into action and
 ### Learn and adapt
 Evidence from delivery informs the next decision rather than being hidden by the original plan.
 
-## Evidence from complex delivery
-
-For Southwark Council, the programme involved 13 suppliers and around 150 people and was recognised as BCS UK IT Project Team of the Year. In a government digital programme rescue, requirements were taken to launch in six hours, with an external implementation cost of £19,300. These are distinct situations, but both show the importance of connecting rapid judgement with disciplined delivery.
-
 ## What you leave with
 
 A shared view of the outcome, clearer ownership and dependencies, decisions translated into action, and a working basis for monitoring and improving delivery. Where the engagement includes implementation, the purpose is a delivered result—not advice left on a shelf.

@@ -127,6 +127,34 @@ The online tourist booking platform was rescued and delivered on time.
 
 **Capabilities:** Delivery · Critical Thinking
 
+## Trading technology hardware team turnaround workshop
+
+### Situation
+
+A hardware engineering team at a trading technology firm in the City of London, building FPGAs (Field-Programmable Gate Arrays — reprogrammable chips used for ultra-low-latency trading systems), was struggling with delivery friction and had been operating without an Engineering Manager in post.
+
+### Difficulty
+
+Blockers to shipping were not clearly understood even within the team, and decision-making ownership had become unclear in the absence of permanent leadership.
+
+### Craig's role
+
+Craig was engaged to design and facilitate a full-day offsite workshop for the team.
+
+### Approach
+
+Craig designed a structured day combining trust-building exercises, diagnostic discussion of the current delivery process, disciplined experimentation techniques, and facilitated work on team listening, challenge and decision-making norms, adapted specifically to the needs of a neurodivergent-inclusive team.
+
+### Change
+
+The team left the day with an agreed, owned set of interim actions, clearer decision-making norms, and explicit agreements on how ideas would be raised, challenged and decided in the absence of a permanent Engineering Manager.
+
+### Measured outcome
+
+The client expressed delight with the day itself. Despite follow-up requests, the client did not respond with information on longer-term impact, so no longer-term outcome is claimed here.
+
+**Capabilities:** Team Facilitation · Delivery
+
 ## Discuss the outcome you need
 
 Every situation is different, and previous results are not a substitute for understanding the present problem. If you need a decision challenged or an outcome delivered, start with what must change and how success could be evidenced.
