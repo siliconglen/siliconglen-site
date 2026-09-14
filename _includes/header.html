@@ -9,16 +9,19 @@
         {% for item in site.data.navigation %}
           <li>
             {% if item.children %}
-              <details>
-                <summary>{{ item.label }}</summary>
-                <ul>
+              <details class="nav-list__dropdown">
+                <summary class="nav-list__toggle">
+                  <span>{{ item.label }}</span>
+                  <span class="nav-list__chevron" aria-hidden="true">&#9662;</span>
+                </summary>
+                <ul class="nav-list__panel">
                   {% for child in item.children %}
                     <li><a href="{{ child.url | relative_url }}">{{ child.label }}</a></li>
                   {% endfor %}
                 </ul>
               </details>
             {% else %}
-              <a href="{{ item.url | relative_url }}"{% if page.url == item.url %} aria-current="page"{% endif %}>{{ item.label }}</a>
+              <a class="nav-list__link" href="{{ item.url | relative_url }}"{% if page.url == item.url %} aria-current="page"{% endif %}>{{ item.label }}</a>
             {% endif %}
           </li>
         {% endfor %}
@@ -26,4 +29,3 @@
     </nav>
   </div>
 </header>
-
