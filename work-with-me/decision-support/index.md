@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Decision Support
-eyebrow: Make a difficult decision
+title: Decision Support Workshops
+eyebrow: Work with me
 intro: Clarify the real question, test the evidence and options, and reach a decision you can explain and act on.
 description: "Clarify the real question, test the evidence and options, and reach a decision you can explain and act on."
 permalink: /work-with-me/decision-support/

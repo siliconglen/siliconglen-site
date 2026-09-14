@@ -20,7 +20,7 @@ Make the question clearer, examine the evidence and expose blind spots while the
 - [Critical Thinking]({{ '/work-with-me/critical-thinking/' | relative_url }}) for practical challenge and clearer reasoning.
 - [Red Team Thinking®]({{ '/work-with-me/red-team-thinking/' | relative_url }}) for structured, independent challenge to a strategy or plan.
 - [Decision Support]({{ '/work-with-me/decision-support/' | relative_url }}) for a specific difficult decision.
-- [Training & Workshops]({{ '/work-with-me/training-workshops/' | relative_url }}) to help people become better thinkers.
+- [Red Team Thinking Training]({{ '/work-with-me/red-team-thinking/' | relative_url }}) to help people become better thinkers.
 
 ## Delivery
 
