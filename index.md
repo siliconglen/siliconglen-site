@@ -8,7 +8,7 @@ description: "Siliconglen: critical thinking, delivery and Agile with Craig Cock
     <div>
       <p class="section-eyebrow">Critical Thinking · Delivery · Agile</p>
       <h1>Think clearer.<br>Decide better.<br>Deliver what matters.</h1>
-      <p class="lede">I'm Craig Cockburn. I help leaders and organisations challenge assumptions, make better decisions and turn those decisions into results.</p>
+      <p class="lede">I'm Craig Cockburn. I help leaders and organisations challenge assumptions, make better decisions and turn those decisions into results. Over 25 years in the industry, spanning retail, banking, insurance, manufacturing and public sector, I combine hands-on programme delivery with critical thinking and Red Team Thinking® to cut through noise and get to what actually matters.</p>
       <div class="tag-row">
         <span class="tag">Critical Thinking</span>
         <span class="tag">Delivery</span>

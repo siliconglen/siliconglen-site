@@ -25,6 +25,38 @@ The organising proposition is simple: **Think. Decide. Deliver. Improve.** Start
 
 That can mean challenging a strategy, supporting a difficult decision, leading complex delivery, helping an organisation improve how work gets done, training people in practical critical thinking, or speaking and facilitating.
 
+## Career
+
+Craig started as a Software Engineer at Digital Equipment Company (1987 to 1992/93), working on DECnet development and technically certifying Digital's largest customers, and received a personal recognition award from founder Ken Olsen.
+
+He went on to lead the e-commerce rescue and platform delivery for the Scottish Tourist Board / VisitScotland (2000 to 2006), before moving into programme and project management, including a six-supplier, 150-person digital transformation programme for Southwark Council that won the BCS/Computing "IT Project Team of the Year" award in 2010.
+
+From 2007 onwards Craig moved into public sector programme and project management, including launching the pilot that became mygov.scot for the Scottish Government, before specialising in enterprise agile coaching from 2018: Lloyds Banking Group, Royal Bank of Scotland, Morgan Stanley, BT, and Admiral Insurance, where he set up the Agile Centre of Excellence and trained 500+ people.
+
+More recently, Craig has worked leading on the roll out of agile at Kuberno, an Enterprise Agile Coach at Allied Irish Bank in Dublin, and an Agile Coach at Jaguar Land Rover, embedding agile ways of working across manufacturing plants in Birmingham and Liverpool. Since 2023, through Siliconglen Ltd, he has delivered SAFe training internationally, spoken and trained on critical thinking in Romania, India and Malta, and led an AI-assisted rewrite of a 900-page website that delivered a 260% increase in visits and over 500% increase in revenue the following month.
+
+## Boards and directorships
+
+Craig has served as a Director of Dot Scot Registry (2012 to 2023), the Scottish Government-backed not-for-profit regulator for the .scot domain, and of Comann an Luchd-Ionnsachaidh, the Gaelic learners' educational charity (1992 to 1998).
+
+## Credentials
+
+Craig is a Chartered Fellow of the British Computer Society (CITP, CEng, FBCS) and a Chartered Manager and Fellow of the Chartered Management Institute (CMgr FCMI). He holds SAFe Practice Consultant (SPC6) and SAFe Lean Portfolio Manager certifications, is a Professional Scrum Master (PSM-1), and holds PRINCE2 and Managing Successful Programmes (MSP) Foundation and Practitioner qualifications. He is a Certified Red Team Coach (Gold) and Certified Red Team Instructor, having taught Red Team Thinking in India, Romania, Malta and online.
+
+He holds an M.Sc. in Large Software Systems Development from Napier University (with class medal and distinction) and a B.Sc. (Honours) in Computer Science from the University of Edinburgh, with distinction in Artificial Intelligence.
+
+## Publications and recognition
+
+Craig is co-author of *Agile: An Unexpected Journey* and wrote the foreword to *Your Guide to Passing the PSM-I Assessment*. He is named in the official W3C HTML5 specification acknowledgements, and is thanked in Mike Burrows' *Agendashift*.
+
+In 2025, following consultation with Professor Shane Frederick of Yale's School of Management, Craig published a paper offering a small correction to how Daniel Kahneman's *Thinking, Fast and Slow* summarised Frederick's own research.
+
+In 1990, Craig drafted a patent application for a keyboardless, laptop-shaped device for browsing pages and following links, complete with bookmarks and personalised news, predating the web browser and Digital's first PC launch. The application stalled when internal sponsorship changed and was never filed.
+
+## Speaking
+
+Craig has given talks at Agile Tour London, agile20reflect (which he co-organised in 2021), and as a guest conference speaker on product management and organisational decision-making in Cluj, Romania and Bangalore, India. He has also guest lectured at Edinburgh Napier University and the University of Edinburgh.
+
 ## Before agile: a long-running campaign for smoke-free pubs
 
 Long before "critical thinking" became Craig's professional focus, he ran a one-man campaign for smoke-free areas in pubs, starting in 1990. The campaign was featured on Channel 4's consumer programme Checkout, reaching an estimated 3 million viewers according to the production company at the time. Craig was later credited in the acknowledgements of the 1992 ASH guidebook Eat, Drink & Sleep Smoke-Free for his help tracking down smoke-free pubs, sat on the ASH Scotland expert panel on smoking in public places, and gave written evidence to the Scottish Parliament's Health Committee in 2004 in support of the smoking ban that followed in 2006. He also has an unlikely claim to fame: a listing in Seth Godin's 1994 book E-Mail Addresses of the Rich & Famous, on the same page as Noam Chomsky.
