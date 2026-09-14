@@ -41,7 +41,7 @@ Craig has served as a Director of Dot Scot Registry (2012 to 2023), the Scottish
 
 ## Credentials
 
-Craig is a Chartered Fellow of the British Computer Society (CITP, CEng, FBCS) and a Chartered Manager and Fellow of the Chartered Management Institute (CMgr FCMI). He holds SAFe Practice Consultant (SPC6) and SAFe Lean Portfolio Manager certifications, is a Professional Scrum Master (PSM-1), and holds PRINCE2 and Managing Successful Programmes (MSP) Foundation and Practitioner qualifications. He is a Certified Red Team Coach (Gold) and Certified Red Team Instructor, having taught Red Team Thinking in India, Romania, Malta and online.
+Craig is a Chartered Fellow of the British Computer Society (CITP, CEng, FBCS) and a Chartered Manager and Fellow of the Chartered Management Institute (CMgr FCMI). He holds SAFe Practice Consultant (SPC6) and SAFe Lean Portfolio Manager certifications, is a Professional Scrum Master (PSM-1), and holds PRINCE2 and Managing Successful Programmes (MSP) Foundation and Practitioner qualifications. He is a Certified Red Team Coach (Gold) and Certified Red Team Instructor, having taught Red Team Thinking in India, Romania, Malta and online, and is certified in Red Team Thinking® in the Age of AI (July 2026).
 
 He holds an M.Sc. in Large Software Systems Development from Napier University (with class medal and distinction) and a B.Sc. (Honours) in Computer Science from the University of Edinburgh, with distinction in Artificial Intelligence.
 
