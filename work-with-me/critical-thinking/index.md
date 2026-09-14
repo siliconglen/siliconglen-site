@@ -25,7 +25,7 @@ This is practical critical thinking for live organisational work, not an abstrac
 - Designing a decision process that people can understand and trust.
 - Reviewing AI-generated analysis without outsourcing human judgement.
 
-If AI is part of the picture, see [AI](/ai/) for how Craig treats AI output as a hypothesis to test, not an answer to adopt.
+If AI is part of the picture, see [AI]({{ '/ai/' | relative_url }}) for how Craig treats AI output as a hypothesis to test, not an answer to adopt.
 
 ## Ways to work together
 
@@ -33,19 +33,19 @@ If AI is part of the picture, see [AI](/ai/) for how Craig treats AI output as a
 
 Focused help with a specific high-stakes or difficult decision: clarify the question, test the options and reach a defensible way forward.
 
-[Explore decision support](/work-with-me/decision-support/)
+[Explore decision support]({{ '/work-with-me/decision-support/' | relative_url }})
 
 ### Red Team Thinking®
 
 A structured challenge to a strategy, plan or prevailing view, designed to expose weaknesses early enough to do something useful about them.
 
-[Explore Red Team Thinking](/work-with-me/red-team-thinking/)
+[Explore Red Team Thinking]({{ '/work-with-me/red-team-thinking/' | relative_url }})
 
 ### Training and workshops
 
 Practical sessions that give teams shared methods for questioning assumptions, evaluating information and improving the quality of decisions.
 
-[Explore training and workshops](/work-with-me/training-workshops/)
+[Explore training and workshops]({{ '/work-with-me/training-workshops/' | relative_url }})
 
 ## What you leave with
 
@@ -68,4 +68,4 @@ This work is particularly useful when:
 
 You do not need to choose a method before getting in touch. Describe the problem, the decision or the plan that needs challenging, and we can work out the most useful next step.
 
-[Contact Craig](/contact/) or email [craig@siliconglen.com](mailto:craig@siliconglen.com).
+[Contact Craig]({{ '/contact/' | relative_url }}) or email [craig@siliconglen.com](mailto:craig@siliconglen.com).

@@ -11,7 +11,7 @@ permalink: /ai/
 
 Craig's interest in AI isn't new, and it isn't theoretical. It runs from undergraduate research in the Department of Artificial Intelligence at the University of Edinburgh in the 1980s, through hands-on delivery work using AI tooling today, to a critical thinking practice built specifically to stop AI's confident output from being accepted uncritically.
 
-The thread connecting all of it is simple: AI is genuinely useful for expanding what one person can see and do quickly. It is not a substitute for judgement, domain knowledge or verification. For more on how that applies to checking AI-generated analysis, see [Critical Thinking](/work-with-me/critical-thinking/).
+The thread connecting all of it is simple: AI is genuinely useful for expanding what one person can see and do quickly. It is not a substitute for judgement, domain knowledge or verification. For more on how that applies to checking AI-generated analysis, see [Critical Thinking]({{ '/work-with-me/critical-thinking/' | relative_url }}).
 
 ## A quick-start guide AI could have written years ago
 
@@ -37,4 +37,4 @@ Craig's interest in this field goes back to his own undergraduate work in Edinbu
 
 If you're weighing how to use AI in your own organisation, whether that's a specific tool, a policy for verifying AI-generated work, or training your team to use AI well without outsourcing their thinking, that's a conversation worth having early.
 
-[Contact Craig](/contact/) or email [craig@siliconglen.com](mailto:craig@siliconglen.com).
+[Contact Craig]({{ '/contact/' | relative_url }}) or email [craig@siliconglen.com](mailto:craig@siliconglen.com).
