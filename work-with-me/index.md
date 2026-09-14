@@ -27,7 +27,6 @@ Make the question clearer, examine the evidence and expose blind spots while the
 Move beyond advice and plans to coordinate complex work and produce a result.
 
 - [Programme & Project Delivery]({{ '/work-with-me/programme-delivery/' | relative_url }}) for complex programmes and change.
-- [Organisational Transformation]({{ '/work-with-me/organisational-transformation/' | relative_url }}) for changes to the wider system in which delivery happens.
 
 ## Agile
 

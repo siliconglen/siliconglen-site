@@ -6,6 +6,9 @@ lang: en-GB
 markdown: kramdown
 permalink: pretty
 
+plugins:
+  - jekyll-sitemap
+
 collections:
   case_studies:
     output: true
@@ -32,4 +35,3 @@ exclude:
   - vendor
   - README.md
   - PROJECT_BRIEF.md
-
