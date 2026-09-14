@@ -132,7 +132,7 @@ description: "Siliconglen: critical thinking, delivery and Agile with Craig Cock
     <p class="section-eyebrow">AI &amp; Critical Thinking</p>
     <h2>AI can produce an answer. Who is challenging the answer?</h2>
     <p class="lede">If the AI is wrong, how would you know? This is where critical thinking and AI meet: verification, automation bias, decision quality, and using AI to improve delivery without outsourcing human judgement.</p>
-    <p><a href="{{ '/ai-and-critical-thinking/' | relative_url }}">Read more on AI &amp; Critical Thinking</a></p>
+    <p><a href="{{ '/ai/' | relative_url }}">Read more on AI &amp; Critical Thinking</a></p>
   </div>
 </section>
 
