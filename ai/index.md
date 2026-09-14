@@ -23,7 +23,7 @@ It worked, and worked well: a better first-time guide than the manufacturer or t
 
 Craig has used AI directly in delivery work, not just written about it.
 
-As Head of Agile Adoption at Kuberno, a NASDAQ-funded fintech startup, he used Azure DevOps alongside LLM AI tools to build Power BI reporting, and implemented business process automation for the leadership team, working with a toolset that included Copilot and ChatGPT.
+Leading on the roll out of agile at Kuberno, a NASDAQ-funded fintech startup, he used Azure DevOps alongside LLM AI tools to build Power BI reporting, and implemented business process automation for the leadership team, working with a toolset that included Copilot and ChatGPT.
 
 In his current role, Craig has designed and built, assisted by AI, a customer onboarding system connecting Microsoft Planner, SharePoint lists and Power BI to Microsoft Teams, and a company-wide ticketing and planning system integrating Microsoft Forms, SharePoint lists, Azure DevOps, Teams, Outlook and Power Automate. He also leads company-wide AI initiatives and training in his current organisation.
 
