@@ -25,6 +25,10 @@ The organising proposition is simple: **Think. Decide. Deliver. Improve.** Start
 
 That can mean challenging a strategy, supporting a difficult decision, leading complex delivery, helping an organisation improve how work gets done, training people in practical critical thinking, or speaking and facilitating.
 
+## Before agile: a long-running campaign for smoke-free pubs
+
+Long before "critical thinking" became Craig's professional focus, he ran a one-man campaign for smoke-free areas in pubs, starting in 1990. The campaign was featured on Channel 4's consumer programme Checkout, reaching an estimated 3 million viewers according to the production company at the time. Craig was later credited in the acknowledgements of the 1992 ASH guidebook Eat, Drink & Sleep Smoke-Free for his help tracking down smoke-free pubs, sat on the ASH Scotland expert panel on smoking in public places, and gave written evidence to the Scottish Parliament's Health Committee in 2004 in support of the smoking ban that followed in 2006. He also has an unlikely claim to fame: a listing in Seth Godin's 1994 book E-Mail Addresses of the Rich & Famous, on the same page as Noam Chomsky.
+
 ## Wider work
 
 Talks, YouTube and LinkedIn connect to the practice, while substantive positioning, articles and evidence are kept on this site. AI is treated as a useful tool that still requires verification, challenge and human judgement.
