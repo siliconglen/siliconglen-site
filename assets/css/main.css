@@ -41,7 +41,8 @@ h3 { margin: 0 0 .5rem; font-size: 1.25rem; }
 .prose > p, .prose > ul, .prose > ol { max-width: var(--measure); }
 .eyebrow, .section-eyebrow { margin: 0 0 .5rem; font-weight: 600; font-size: .85rem; text-transform: uppercase; letter-spacing: .04em; color: var(--muted); }
 .tag-row { display: flex; flex-wrap: wrap; gap: .5rem; margin-top: 1.25rem; }
-.tag { padding: .35rem .85rem; border: 1px solid var(--line); border-radius: 999px; background: var(--paper-2); color: var(--ink); font-size: .85rem; font-weight: 600; }
+.tag { padding: .35rem .85rem; border: 1px solid var(--line); border-radius: 999px; background: var(--paper-2); color: var(--ink); font-size: .85rem; font-weight: 600; text-decoration: none; }
+.tag:hover, .tag:focus-visible { border-color: var(--accent); color: var(--accent); }
 .site-footer { padding-block: 2rem; background: var(--paper-2); color: var(--ink); border-top: 1px solid var(--line); }
 .site-footer a { color: var(--accent); }
 .site-footer .legal { margin-top: 1.5rem; padding-top: 1.5rem; border-top: 1px solid var(--line); font-size: .8rem; line-height: 1.6; color: var(--muted); }

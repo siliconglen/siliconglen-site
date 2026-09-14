@@ -10,10 +10,10 @@ description: "Siliconglen: critical thinking, delivery and Agile with Craig Cock
       <h1>Think clearer.<br>Decide better.<br>Deliver what matters.</h1>
       <p class="lede">I'm Craig Cockburn. I help leaders and organisations challenge assumptions, make better decisions and turn those decisions into results. Over 25 years in the industry, spanning retail, banking, insurance, manufacturing and public sector, I combine hands-on programme delivery with critical thinking and Red Team Thinking® to cut through noise and get to what actually matters.</p>
       <div class="tag-row">
-        <span class="tag">Critical Thinking</span>
-        <span class="tag">Delivery</span>
-        <span class="tag">Agile</span>
-        <span class="tag">Red Team Thinking&reg;</span>
+        <a class="tag" href="{{ '/work-with-me/critical-thinking/' | relative_url }}">Critical Thinking</a>
+        <a class="tag" href="{{ '/work-with-me/programme-delivery/' | relative_url }}">Delivery</a>
+        <a class="tag" href="{{ '/work-with-me/agile-transformation/' | relative_url }}">Agile</a>
+        <a class="tag" href="{{ '/work-with-me/red-team-thinking/' | relative_url }}">Red Team Thinking&reg;</a>
       </div>
       <div class="hero__ctas">
         <a class="btn btn--primary" href="{{ '/work-with-me/' | relative_url }}">Work with me</a>
