@@ -12,7 +12,7 @@ description: "Siliconglen: critical thinking, delivery and Agile with Craig Cock
       <div class="tag-row">
         <a class="tag" href="{{ '/work-with-me/critical-thinking/' | relative_url }}">Critical Thinking</a>
         <a class="tag" href="{{ '/work-with-me/programme-delivery/' | relative_url }}">Delivery</a>
-        <a class="tag" href="{{ '/work-with-me/agile-transformation/' | relative_url }}">Agile</a>
+        <a class="tag" href="{{ '/work-with-me/agile-coaching/' | relative_url }}">Agile</a>
         <a class="tag" href="{{ '/work-with-me/red-team-thinking/' | relative_url }}">Red Team Thinking&reg;</a>
       </div>
       <div class="hero__ctas">
@@ -66,7 +66,7 @@ description: "Siliconglen: critical thinking, delivery and Agile with Craig Cock
       <li><a href="{{ '/work-with-me/decision-support/' | relative_url }}"><span>We need to make a difficult decision.</span><span class="arrow">&rarr; Decision Support</span></a></li>
       <li><a href="{{ '/work-with-me/red-team-thinking/' | relative_url }}"><span>We need someone to challenge our strategy.</span><span class="arrow">&rarr; Red Team Thinking</span></a></li>
       <li><a href="{{ '/work-with-me/programme-delivery/' | relative_url }}"><span>We need a complex programme delivered.</span><span class="arrow">&rarr; Programme &amp; Project Delivery</span></a></li>
-      <li><a href="{{ '/work-with-me/agile-transformation/' | relative_url }}"><span>Our organisation isn't delivering as well as it should.</span><span class="arrow">&rarr; Transformation &amp; Agile</span></a></li>
+      <li><a href="{{ '/work-with-me/agile-coaching/' | relative_url }}"><span>Our organisation isn't delivering as well as it should.</span><span class="arrow">&rarr; Transformation &amp; Agile</span></a></li>
       <li><a href="{{ '/work-with-me/red-team-thinking/' | relative_url }}"><span>We want our people to become better thinkers.</span><span class="arrow">&rarr; Red Team Thinking Training</span></a></li>
       <li><a href="{{ '/speaking/' | relative_url }}"><span>We need a speaker or facilitator.</span><span class="arrow">&rarr; Speaking</span></a></li>
     </ul>
@@ -95,7 +95,7 @@ description: "Siliconglen: critical thinking, delivery and Agile with Craig Cock
         <svg class="card-icon" viewBox="0 0 24 24" width="32" height="32" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 12a9 9 0 0 1 15-6.7L21 8"/><path d="M21 3v5h-5"/><path d="M21 12a9 9 0 0 1-15 6.7L3 16"/><path d="M3 21v-5h5"/></svg>
         <h3>Agile</h3>
         <p>Adaptive delivery, organisational improvement and team leadership capability, one part of the offer, not the whole of it.</p>
-        <p><a href="{{ '/work-with-me/agile-transformation/' | relative_url }}">More on Agile</a></p>
+        <p><a href="{{ '/work-with-me/agile-coaching/' | relative_url }}">More on Agile</a></p>
       </div>
     </div>
   </div>

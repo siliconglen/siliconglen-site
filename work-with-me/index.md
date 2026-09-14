@@ -32,7 +32,7 @@ Move beyond advice and plans to coordinate complex work and produce a result.
 
 Use feedback, evidence and adaptation to improve delivery rather than treating Agile as the whole answer.
 
-- [Agile Transformation]({{ '/work-with-me/agile-transformation/' | relative_url }}) for adaptive delivery, organisational improvement and team leadership capability.
+- [Agile Coaching]({{ '/work-with-me/agile-coaching/' | relative_url }}) for adaptive delivery, organisational improvement and team leadership capability.
 
 ## How the work happens
 
