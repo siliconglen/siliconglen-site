@@ -5,8 +5,6 @@ eyebrow: Work with me
 intro: Challenge assumptions, examine evidence and make decisions you can explain and act on.
 description: "Critical thinking support with Craig Cockburn: frame the real problem, test assumptions and evidence, and make clearer, defensible decisions."
 permalink: /work-with-me/critical-thinking/
-image: https://picsum.photos/seed/siliconglen-critical-thinking/1200/675
-image_alt: "Temporary generic stock photo standing in for a real photograph representing critical thinking work, to be replaced before launch"
 ---
 
 ## See the problem clearly before solving it
@@ -27,25 +25,27 @@ This is practical critical thinking for live organisational work, not an abstrac
 - Designing a decision process that people can understand and trust.
 - Reviewing AI-generated analysis without outsourcing human judgement.
 
+If AI is part of the picture, see [AI](/ai/) for how Craig treats AI output as a hypothesis to test, not an answer to adopt.
+
 ## Ways to work together
 
 ### Decision support
 
 Focused help with a specific high-stakes or difficult decision: clarify the question, test the options and reach a defensible way forward.
 
-[Explore decision support]({{ '/work-with-me/decision-support/' | relative_url }})
+[Explore decision support](/work-with-me/decision-support/)
 
 ### Red Team Thinking®
 
 A structured challenge to a strategy, plan or prevailing view, designed to expose weaknesses early enough to do something useful about them.
 
-[Explore Red Team Thinking]({{ '/work-with-me/red-team-thinking/' | relative_url }})
+[Explore Red Team Thinking](/work-with-me/red-team-thinking/)
 
 ### Training and workshops
 
 Practical sessions that give teams shared methods for questioning assumptions, evaluating information and improving the quality of decisions.
 
-[Explore training and workshops]({{ '/work-with-me/training-workshops/' | relative_url }})
+[Explore training and workshops](/work-with-me/training-workshops/)
 
 ## What you leave with
 
@@ -68,4 +68,4 @@ This work is particularly useful when:
 
 You do not need to choose a method before getting in touch. Describe the problem, the decision or the plan that needs challenging, and we can work out the most useful next step.
 
-[Contact Craig]({{ '/contact/' | relative_url }}) or email [craig@siliconglen.com](mailto:craig@siliconglen.com).
+[Contact Craig](/contact/) or email [craig@siliconglen.com](mailto:craig@siliconglen.com).

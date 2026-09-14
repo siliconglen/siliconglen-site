@@ -64,7 +64,7 @@ A Southwark Council programme involved a large network of organisations and peop
 The delivery environment included **13 suppliers** and **around 150 people**, all requiring coordination around one programme.
 
 ### Craig's role
-Craig worked in the coordination and delivery of the programme. The present source does not provide a more specific role title.
+Craig worked as Programme Manager, coordinating the participating suppliers and people around programme delivery.
 
 ### Approach
 The work brought the participating suppliers and people together around programme delivery. A fuller account of governance or delivery techniques will require additional evidence before publication.
@@ -95,9 +95,37 @@ AI assisted the page rewriting, while human judgement and analytics remained par
 The site's content was rewritten at scale and its performance continued to be measured.
 
 ### Measured outcome
-The rewrite was followed by a **measurable improvement in traffic and revenue**. The current evidence does not provide publishable figures beyond that statement.
+The rewrite was followed by over 1,000 new users the following month, a 260% increase in visits, and a 500%+ increase in revenue.
 
 **Capabilities:** AI & Critical Thinking · Delivery · Improvement
+
+## VisitScotland e-commerce rescue
+
+### Situation
+
+VisitScotland's online tourist booking platform needed to launch against an external deadline.
+
+### Difficulty
+
+The entire development team had been poached by other businesses shortly before the deadline.
+
+### Craig's role
+
+Craig identified poor delivery processes, led developer recruitment, and rebuilt the test environments.
+
+### Approach
+
+Craig identified bugs in the supplier's work that resulted in six-figure fines for the supplier, while rebuilding the team and the delivery process from a standing start.
+
+### Change
+
+The development capability and delivery process were rebuilt in time to meet the deadline.
+
+### Measured outcome
+
+The online tourist booking platform was rescued and delivered on time.
+
+**Capabilities:** Delivery · Critical Thinking
 
 ## Discuss the outcome you need
 
