@@ -11,11 +11,27 @@ permalink: /speaking/
 
 Speaking can give people a shared question, challenge a comfortable assumption and create a useful starting point for action. Craig's subjects connect critical thinking with delivery and organisational improvement, including how people can use AI without outsourcing judgement.
 
-## Talks and video
+Craig has given 30+ talks on strategy, critical thinking, Red Team Thinking, structuring and visualising talks, neurodiversity, and ways of working, at conferences and events including Agile Lithuania, Agile India, conferences in Romania, and Agile Tour London.
 
-No individual talks have been published in this site's talks collection yet. As material is added, this page will link to indexable pages containing the talk title, event, date, video URL, description, topics and an edited transcript or article where available.
+## Featured talks
 
-Video will be hosted on YouTube and presented here using privacy-enhanced, performance-conscious embeds. The substantive context will remain available on the site rather than existing only on a social platform.
+### Red Team Thinking: critical thinking practices to support more proactive agility
+Craig explains how Red Team Thinking techniques help teams and organisations avoid groupthink and make better decisions.
+[Watch on YouTube](https://youtu.be/_NeHGCgzqN4)
+
+### Knowledge Canvas: visualising the story for teaching, speaking and training
+A talk given at Agile Lithuania on using the Knowledge Canvas, a visualisation practice to help structure and deliver talks and training.
+[Watch on YouTube](https://youtu.be/_7zXnpn3xog)
+
+### Visualise and iterate your agile roadmaps using a strategy map
+Given as part of the Agile20Reflect Festival, on visualising and iterating strategy via a map to make it more inclusive and relevant.
+[Watch on YouTube](https://www.youtube.com/watch?v=CgoxHcN9gGM)
+
+## All talks
+
+Video is hosted on YouTube and presented using privacy-enhanced, performance-conscious embeds. The substantive context remains available on this site rather than existing only on a social platform.
+
+<iframe width="100%" height="450" src="https://www.youtube.com/embed/videoseries?list=PL1_uFW2b_gsd_6qZqgFLJCrJ1y0a8Cpom" title="Craig Cockburn speaking playlist" frameborder="0" allowfullscreen></iframe>
 
 ## What a session can cover
 
