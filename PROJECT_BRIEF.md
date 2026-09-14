@@ -54,8 +54,12 @@ Every page's identity lockup must read "SILICONGLEN, Craig Cockburn".
     decision-support/
     programme-delivery/
     agile-coaching/
-    training-workshops/
-  ai-and-critical-thinking/
+    leadership-strategy/
+    team-turnaround-workshops/
+    business-agility/
+    delivery/
+    training-workshops/ [redirect]
+  ai/
   speaking/
     critical-thinking-talks/
     visualising-strategy/
