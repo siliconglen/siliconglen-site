@@ -1,0 +1,5 @@
+# TEMPORARY: Deliberately block all crawling while this site is hosted on the GitHub Pages preview URL.
+# LAUNCH TODO: Remove or reverse this block when siliconglen.com DNS is connected and the site is ready for indexing.
+
+User-agent: *
+Disallow: /
