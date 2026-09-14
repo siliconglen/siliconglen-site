@@ -21,7 +21,13 @@ It worked, and worked well: a better first-time guide than the manufacturer or t
 
 ## Hands-on delivery with AI
 
-Craig has used AI directly in delivery work, not just written about it. This includes an AI-assisted rewrite of the roughly 900-page siliconglen.scot website, which retained human review and analytics throughout rather than outsourcing judgement to the tool, and was followed by a measurable increase in traffic and revenue. It also includes practical AI use in recent engagements, including at Kuberno and in building the Connected Response work-tracking system.
+Craig has used AI directly in delivery work, not just written about it.
+
+As Head of Agile Adoption at Kuberno, a NASDAQ-funded fintech startup, he used Azure DevOps alongside LLM AI tools to build Power BI reporting, and implemented business process automation for the leadership team, working with a toolset that included Copilot and ChatGPT.
+
+In his current role, Craig has designed and built, assisted by AI, a customer onboarding system connecting Microsoft Planner, SharePoint lists and Power BI to Microsoft Teams, and a company-wide ticketing and planning system integrating Microsoft Forms, SharePoint lists, Azure DevOps, Teams, Outlook and Power Automate. He also leads company-wide AI initiatives and training in his current organisation.
+
+Separately, an AI-assisted rewrite of the roughly 900-page siliconglen.scot website retained human review and analytics throughout rather than outsourcing judgement to the tool, and was followed by a measurable increase in traffic and revenue.
 
 ## Roots in AI research
 

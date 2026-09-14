@@ -31,7 +31,7 @@ Given as part of the Agile20Reflect Festival, on visualising and iterating strat
 
 Video is hosted on YouTube and presented using privacy-enhanced, performance-conscious embeds. The substantive context remains available on this site rather than existing only on a social platform.
 
-<iframe width="100%" height="450" src="https://www.youtube.com/embed/videoseries?list=PL1_uFW2b_gsd_6qZqgFLJCrJ1y0a8Cpom" title="Craig Cockburn speaking playlist" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="450" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL1_uFW2b_gsd_6qZqgFLJCrJ1y0a8Cpom" title="Craig Cockburn speaking playlist" frameborder="0" allowfullscreen></iframe>
 
 ## What a session can cover
 
