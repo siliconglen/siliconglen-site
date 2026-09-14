@@ -45,7 +45,7 @@ A structured challenge to a strategy, plan or prevailing view, designed to expos
 
 Practical sessions that give teams shared methods for questioning assumptions, evaluating information and improving the quality of decisions.
 
-[Explore training and workshops]({{ '/work-with-me/training-workshops/' | relative_url }})
+[Explore Red Team Thinking Training]({{ '/work-with-me/red-team-thinking/' | relative_url }})
 
 ## What you leave with
 

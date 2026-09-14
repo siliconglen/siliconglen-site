@@ -1,74 +1,73 @@
 ---
 layout: page
-title: Red Team Thinking®
+title: Red Team Thinking Training
 eyebrow: Work with me
-intro: Challenge a strategy, plan or prevailing view before reality does it for you.
-description: "Red Team Thinking with Craig Cockburn: independently challenge assumptions, test plans and expose blind spots while there is still time to act."
+intro: A structured critical thinking programme that helps leadership teams challenge assumptions and make stronger, more resilient decisions.
+description: "Red Team Thinking training with Craig Cockburn: a practical programme that gives leadership teams structured tools to expose blind spots, test plans and improve decisions."
 permalink: /work-with-me/red-team-thinking/
 image: https://picsum.photos/seed/siliconglen-red-team-thinking/1200/675
 image_alt: "Temporary generic stock photo standing in for a real photograph representing Red Team Thinking work, to be replaced before launch"
 ---
 
-## Put important plans under constructive pressure
+## Don't outsource thinking
 
 A strategy can be coherent, well researched and widely supported while still resting on assumptions that nobody has tested. The more work invested in it, the harder those assumptions can become to see or question.
 
-Red Team Thinking® provides a structured, independent challenge. It examines how a conclusion was reached, looks for missing perspectives and tests whether the plan remains credible when conditions change.
+Red Team Thinking® provides a structured, constructive challenge. The methodology was developed from military and intelligence tradecraft and brought into business by bestselling author Bryce G. Hoffman. As a Certified Red Team Instructor, Craig delivers the training under licence, tailored to your organisation's actual challenges rather than a generic script.
 
-The purpose is not to criticise for effect or to replace the people responsible for the decision. It is to make the thinking stronger while there is still time to act.
+The purpose is not to criticise for effect or replace the people responsible for a decision. It is to give your team practical methods for examining how conclusions were reached, finding missing perspectives and testing whether plans remain credible when conditions change.
 
-## What we can challenge
+## Format
 
-- A strategy before approval or commitment.
-- A business case, investment proposal or transformation plan.
+The RTT Accelerator programme runs as two half-day (four-hour) sessions, delivered on-site at a location of your choosing or online. Before the workshop, participants receive a short set of reflection questions covering their own decision-making strengths, how they respond to challenge, and how their organisation currently encourages or discourages critical thinking. There's nothing to submit in advance; it simply primes the room to engage from the first session.
+
+## What's covered
+
+Across the two sessions, your team learns six practical tools for stronger decision-making:
+
+- **Think-Write-Share**, a structured way of surfacing ideas from the whole team rather than just the loudest voices in the room.
+- **Weighted Anonymous Feedback**, which draws out honest input on a plan or idea without it being filtered by hierarchy.
+- **Lies We Tell Ourselves**, a technique for surfacing the comfortable assumptions an organisation uses to avoid uncomfortable truths.
+- **Six Strategic Questions**, a quick discipline for checking that a plan is solving the right problem before committing resources to it.
+- **Assumptions Challenge**, for identifying and stress-testing the assumptions a plan depends on, whether stated or unstated.
+- **Pre-Mortem Analysis**, which asks a team to imagine a plan has already failed and work backwards to find out why, so weaknesses surface while there's still time to fix them.
+
+The wider Red Team Thinking toolkit goes well beyond these six tools. Sessions can draw on other techniques, from stakeholder analysis to structured stress-testing methods, where they fit your situation better.
+
+## Student experience
+
+Learning is hands-on throughout rather than lecture-based. Teams work through a realistic strategic planning case study together, applying each tool to a live-feeling scenario before turning it on their own real plans and decisions. Each participant receives a workbook and a certificate of completion, and Craig follows up around 60 days after the course to see how the tools have bedded in and where they've made the most difference.
+
+## Tailored to your organisation
+
+Every organisation's decision-making challenges are different, so the mix of tools, case material and balance between the sessions is adapted to your team. The training can focus on challenges such as:
+
+- A strategy, business case, investment proposal or transformation plan.
 - The assumptions behind a programme or major decision.
 - Confidence in forecasts, dependencies and measures of success.
 - Whether dissenting evidence or alternative explanations have been overlooked.
 - How a plan may be understood by customers, partners, competitors or critics.
 - AI-generated analysis that appears convincing but has not been independently tested.
 
-## How the work happens
-
-### Frame the question
-
-We agree what needs testing, why it matters and what a useful challenge must produce. This keeps the work focused on the decision rather than turning it into a general review.
-
-### Examine the case
-
-I review the available evidence, assumptions, options, dependencies and uncertainties. Depending on the situation, this can include interviews, document review or a facilitated session with the people closest to the work.
-
-### Apply structured challenge
-
-We use appropriate Red Team Thinking techniques to surface blind spots, explore alternative perspectives and identify where confidence is stronger than the evidence supports.
-
-### Turn insight into action
-
-Findings are prioritised and translated into practical choices: what to change, what to investigate, what to monitor and which risks should be accepted explicitly.
-
 ## What you leave with
 
-The output is proportionate to the decision. It may include a concise challenge report, an assumption map, alternative scenarios, questions requiring evidence, changes to the plan and a clear record of remaining uncertainty.
+Your team leaves with a shared set of repeatable tools for surfacing assumptions, gathering candid perspectives and turning challenge into practical choices. The workbook supports continued use after the sessions, while the follow-up helps embed the methods in real decisions rather than leaving them in the training room.
 
-You also gain a stronger basis for explaining the decision. The goal is not certainty where certainty is impossible, but a plan that has faced meaningful challenge and can be improved because of it.
+The goal is not certainty where certainty is impossible, but stronger thinking: plans that have faced meaningful challenge and teams better equipped to explain what they decided and why.
 
 ## When this is useful
 
-Red Team Thinking is particularly useful when:
+Red Team Thinking Training is particularly useful when:
 
 - a decision is difficult to reverse;
 - a proposal has strong internal momentum;
 - senior stakeholders broadly agree and want to guard against groupthink;
 - the team needs challenge without creating an adversarial review;
-- assumptions have not been revisited as circumstances changed;
-- failure would carry significant financial, operational or reputational cost; or
-- you want to know how a sceptical outsider might interpret the case.
+- assumptions have not been revisited as circumstances changed; or
+- failure would carry significant financial, operational or reputational cost.
 
-## Related support
+## Build a team that challenges well
 
-If the central need is to frame and make a specific choice, [decision support]({{ '/work-with-me/decision-support/' | relative_url }}) may be the better starting point. For broader methods that teams can continue using themselves, explore [critical thinking]({{ '/work-with-me/critical-thinking/' | relative_url }}) or [training and workshops]({{ '/work-with-me/training-workshops/' | relative_url }}).
-
-## Challenge the plan before committing to it
-
-Describe the strategy, proposal or decision that needs testing, where it stands now and what is at stake. We can then agree the most useful scope for an independent challenge.
+Describe your team's current decision-making challenges and the plans or decisions where sharper thinking would make the most difference. We can shape the right programme together.
 
 [Contact Craig]({{ '/contact/' | relative_url }}) or email [craig@siliconglen.com](mailto:craig@siliconglen.com).

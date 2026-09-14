@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Agile Transformation
-eyebrow: Improve organisational delivery
+title: Agile Coaching
+eyebrow: Work with me
 intro: Use adaptive delivery, feedback and organisational learning to help teams deliver and improve.
 description: "Use adaptive delivery, feedback and organisational learning to help teams deliver and improve."
 permalink: /work-with-me/agile-transformation/

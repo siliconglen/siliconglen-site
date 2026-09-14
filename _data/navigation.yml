@@ -3,11 +3,11 @@
 - label: Work With Me
   url: /work-with-me/
   children:
-    - { label: Red Team Thinking® Workshops, url: /work-with-me/red-team-thinking/ }
-    - { label: Supporting Your Decisions, url: /work-with-me/decision-support/ }
-    - { label: Delivering Programmes, url: /work-with-me/programme-delivery/ }
-    - { label: Coaching Agile Teams, url: /work-with-me/agile-transformation/ }
-    - { label: Running Training & Workshops, url: /work-with-me/training-workshops/ }
+    - { label: Red Team Thinking Training, url: /work-with-me/red-team-thinking/ }
+    - { label: Decision Support Workshops, url: /work-with-me/decision-support/ }
+    - { label: Programme Delivery, url: /work-with-me/programme-delivery/ }
+    - { label: Agile Coaching, url: /work-with-me/agile-transformation/ }
+    - { label: Leadership Strategy, url: /work-with-me/leadership-strategy/ }
 - { label: Critical Thinking, url: /work-with-me/critical-thinking/ }
 - { label: Delivery, url: /work-with-me/programme-delivery/ }
 - { label: Business Agility, url: /work-with-me/agile-transformation/ }
