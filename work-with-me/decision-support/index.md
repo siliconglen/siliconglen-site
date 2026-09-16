@@ -36,9 +36,9 @@ We test the reasoning, look for missing perspectives and identify where confiden
 ### Decide and act
 We record the rationale, remaining uncertainty and practical next steps so the decision can move into delivery.
 
-## What you leave with
+## The decision record
 
-Depending on the need, you may leave with a clearer decision statement, explicit criteria, an evidence and assumption map, tested options, prioritised risks and an actionable next-step plan. The goal is not a longer report; it is a decision people can understand and use.
+I turn the workshop into a concise decision record: the agreed question and owner, explicit comparison criteria, an evidence-and-assumption map, tested options, prioritised risks, the rationale and remaining uncertainty, plus an actionable next-step plan. The goal is not a longer report; it is a decision people can understand, explain and use.
 
 ## When this is useful
 
@@ -52,4 +52,4 @@ Depending on the need, you may leave with a clearer decision statement, explicit
 
 Describe the choice, what is at stake and when it must be made. We can agree a proportionate next step.
 
-[Contact Craig]({{ '/contact/' | relative_url }}) or email [craig@siliconglen.com](mailto:craig@siliconglen.com).
+[Contact me]({{ '/contact/' | relative_url }}) or email [craig@siliconglen.com](mailto:craig@siliconglen.com).

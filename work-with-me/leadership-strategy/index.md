@@ -13,7 +13,7 @@ As business author Geoffrey Moore observes in *Escape Velocity*, strategy conver
 
 I work with leadership teams to close that gap: connecting the direction they've set to the plans, priorities and decisions that put it into practice, and keeping that connection alive rather than filing it away after a single planning cycle.
 
-This connects directly to Craig's talk on strategy: how to form an agile strategy and visualise it in a complex landscape, connecting it to roadmaps, backlogs, Wardley mapping and the Strategy Cycle, drawing on the work of Simon Wardley, Roman Pichler and Dave Snowden. The talk also uses a novel visualisation technique to visualise the talk itself.
+This connects directly to my talk on strategy: how to form an agile strategy and visualise it in a complex landscape, connecting it to roadmaps, backlogs, Wardley mapping and the Strategy Cycle, drawing on the work of Simon Wardley, Roman Pichler and Dave Snowden. The talk also uses a novel visualisation technique to visualise the talk itself.
 
 [Watch "Strategy Maps - Connect Your Roadmaps to the Bigger Picture" (Agile India 2022)](https://www.youtube.com/watch?v=m8bgiCs1p1g) · [More detail on ConfEngine](https://confengine.com/conferences/agile-india-2022/proposal/16884/strategy-maps-a-visualisation-practice-to-connect-your-roadmaps-to-the-bigger-picture)
 
@@ -29,9 +29,9 @@ This connects directly to Craig's talk on strategy: how to form an agile strateg
 
 Leadership Strategy work sits between the two: less about stress-testing a single plan (Red Team Thinking Training) and less about the mechanics of running delivery (Programme Delivery). It's about the leadership team itself: whether they share a clear, connected picture of where they're going and why, and whether that picture is actually usable by the people delivering against it.
 
-## What you leave with
+## A strategy map people can use
 
-Typically a clearer, visualised connection between strategy and roadmap, a leadership team more aligned on priorities, and a practical way of revisiting that alignment as things change, rather than a static document that goes out of date the week it's published.
+I help the team produce a visual connection from strategic direction to roadmaps, backlogs and priorities, with the reasoning visible rather than buried in a slide deck. The team also agrees how and when to revisit that map as circumstances change, so it remains a working decision aid rather than a static document.
 
 ## When this is useful
 
@@ -44,4 +44,4 @@ Typically a clearer, visualised connection between strategy and roadmap, a leade
 
 Describe where your leadership team's strategy currently feels disconnected from delivery, and we'll work out the most useful starting point.
 
-[Contact Craig]({{ '/contact/' | relative_url }}) or email [craig@siliconglen.com](mailto:craig@siliconglen.com).
+[Contact me]({{ '/contact/' | relative_url }}) or email [craig@siliconglen.com](mailto:craig@siliconglen.com).

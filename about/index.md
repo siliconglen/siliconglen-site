@@ -7,6 +7,8 @@ description: "About Craig Cockburn and Siliconglen: critical thinking, delivery 
 permalink: /about/
 ---
 
+*Formal biography — written in the third person.*
+
 ## Understand the real problem before trying to solve it
 
 **Craig Cockburn CITP CEng FBCS** helps leaders think more clearly, decide with confidence, and deliver complex change — combining programme and project delivery rooted in 2007, 14+ years coaching leaders and delivery teams, including establishing Agile Centres of Excellence, with Red Team Thinking® and applied critical thinking since 2020 and strategy visualisation since 2019, across banking, insurance, manufacturing, and public sector. He also has 16 years' non-executive board experience.
@@ -70,11 +72,17 @@ Critical thinking, Agile and delivery certifications:
 
 Craig is a co-listed author of *Agile: An Unexpected Journey*. He wrote the foreword for and verified the content of *Your Guide to Passing the PSM Assessment*, and is thanked by name in Mike Burrows' *Agendashift*.
 
+Craig has been [recognised by Thinkers360](https://www.thinkers360.com/tl/profiles/view/8985) as a Top 50 thought leader in Product Management, a Top 50 thought leader in Agile and a Top 100 thought leader in Behavioral Science.
+
 In 2025, following consultation with Professor Shane Frederick of Yale's School of Management, Craig published a paper offering a small correction to how Daniel Kahneman's *Thinking, Fast and Slow* summarised Frederick's own research.
 
 ## Speaking
 
 Craig has given talks at Agile Tour London, agile20reflect (which he co-organised in 2021), and as a guest conference speaker on product management and organisational decision-making in Cluj, Romania and Bangalore, India. He has also guest lectured at Edinburgh Napier University and the University of Edinburgh.
+
+## Professional community leadership
+
+Craig was a founding committee member of the **BCS Agile Specialist Group** from January 2012 to November 2023 (11 years 11 months), contributing sustained leadership to the professional Agile community. He was also a founding committee member of the **BCS Neurodiverse IT Specialist Group** from June 2022 to April 2024, experience that informs his neurodivergent-inclusive workshop design.
 
 ## Earlier work and curiosities
 

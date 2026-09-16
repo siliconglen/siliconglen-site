@@ -7,7 +7,7 @@ description: "Hands-on support for complex programmes and change where coordinat
 permalink: /work-with-me/programme-delivery/
 ---
 
-**For Craig's broader delivery track record, see [Delivery]({{ '/work-with-me/delivery/' | relative_url }}).**
+**For my broader delivery track record, see [Delivery]({{ '/work-with-me/delivery/' | relative_url }}).**
 
 ## Plans do not deliver themselves
 
@@ -40,9 +40,9 @@ I work with the people and suppliers involved to turn priorities into action and
 ### Learn and adapt
 Evidence from delivery informs the next decision rather than being hidden by the original plan.
 
-## What you leave with
+## Control that connects to delivery
 
-A shared view of the outcome, clearer ownership and dependencies, decisions translated into action, and a working basis for monitoring and improving delivery. Where the engagement includes implementation, the purpose is a delivered result—not advice left on a shelf.
+I make the outcome, owners, supplier dependencies, governance cadence and blocked decisions visible, then connect each to action. That is the discipline I used while coordinating 13 third-party suppliers, over 150 council staff and five delivery-partner teams on the Southwark programme. Where an engagement includes implementation, the purpose is a delivered result—not advice left on a shelf.
 
 ## When this is useful
 
@@ -56,4 +56,4 @@ A shared view of the outcome, clearer ownership and dependencies, decisions tran
 
 Describe what must be delivered, the current difficulty and the people involved.
 
-[Contact Craig]({{ '/contact/' | relative_url }}) or email [craig@siliconglen.com](mailto:craig@siliconglen.com).
+[Contact me]({{ '/contact/' | relative_url }}) or email [craig@siliconglen.com](mailto:craig@siliconglen.com).
