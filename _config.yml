@@ -34,4 +34,5 @@ exclude:
   - .bundle
   - vendor
   - README.md
-  - PROJECT_BRIEF.md
+  - DESIGN_STANDARDS.md
+  - SITE_PURPOSE.md
