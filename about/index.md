@@ -2,20 +2,10 @@
 layout: page
 title: About Craig Cockburn
 eyebrow: Siliconglen
-intro: A practice connecting critical thinking, complex delivery, organisational improvement and AI.
+intro: Extensive experience connecting critical thinking, complex delivery, organisational improvement and AI.
 description: "About Craig Cockburn and Siliconglen: critical thinking, delivery and Agile focused on clearer decisions and useful outcomes."
 permalink: /about/
 ---
-
-*Craig's professional biography.*
-
-## Understand the real problem before trying to solve it
-
-**Craig Cockburn M.Sc. CEng CITP CMgr FBCS FCMI** helps leaders think more clearly, decide with confidence, and deliver complex change — combining programme and project delivery rooted in 2007, 14+ years coaching leaders and delivery teams, including establishing Agile Centres of Excellence, with Red Team Thinking® and applied critical thinking since 2020 and strategy visualisation since 2019, across banking, insurance, manufacturing, and public sector. He also has 16 years' non-executive board experience.
-
-Craig has been a Chartered Engineer and Chartered IT Professional with the British Computer Society since 2005 and a Chartered IT Professional Fellow since 30 March 2012. He has been a Fellow of the Chartered Management Institute since 31 January 2013 and a Chartered Manager since 10 September 2018. He is also a Certified Red Team Coach (Gold), Red Team Thinking, and a Certified Red Team Instructor, Red Team Thinking. His work runs from software and the early internet, through complex programme delivery, to organisational systems, critical thinking and AI. The context has changed, but the thread is consistent: understand the real problem, test the assumptions and turn a sound decision into a useful result.
-
-Siliconglen brings that work together as one blended practice. Critical Thinking sharpens the question and the decision. Delivery translates it into a working outcome. Agile supports adaptive delivery and improvement after the work meets reality. None is presented as a separate business or a complete answer on its own.
 
 ## Evidence over a CV
 
@@ -26,6 +16,14 @@ Craig's work is grounded in demonstrated client outcomes. Examples include the [
 The organising proposition is simple: **Think. Decide. Deliver. Improve.** Start with the problem and evidence, make the decision explicit, connect it to delivery, then use what happens to improve the organisation's next move.
 
 That can mean challenging a strategy, supporting a difficult decision, leading complex delivery, helping an organisation improve how work gets done, training people in practical critical thinking, or speaking and facilitating.
+
+## Understand the real problem before trying to solve it
+
+**Craig Cockburn M.Sc. CEng CITP CMgr FBCS FCMI** helps leaders think more clearly, decide with confidence, and deliver complex change — combining programme and project delivery rooted in 2007, 14+ years coaching leaders and delivery teams, including establishing Agile Centres of Excellence, with Red Team Thinking® and applied critical thinking since 2020 and strategy visualisation since 2019, across banking, insurance, manufacturing, and public sector. He also has 16 years' non-executive board experience.
+
+Craig has been a Chartered Engineer and Chartered IT Professional with the British Computer Society since 2005 and a Chartered IT Professional Fellow since 30 March 2012. He has been a Fellow of the Chartered Management Institute since 31 January 2013 and a Chartered Manager since 10 September 2018. He is also a Certified Red Team Coach (Gold), Red Team Thinking, and a Certified Red Team Instructor, Red Team Thinking. His work runs from software and the early internet, through complex programme delivery, to organisational systems, critical thinking and AI. The context has changed, but the thread is consistent: understand the real problem, test the assumptions and turn a sound decision into a useful result.
+
+Siliconglen brings that work together as one blended practice. Critical Thinking sharpens the question and the decision. Delivery translates it into a working outcome. Agile supports adaptive delivery and improvement after the work meets reality. None is presented as a separate business or a complete answer on its own.
 
 ## Career
 

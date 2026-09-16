@@ -32,9 +32,20 @@ is authorised to change and why.
 
 ## Case Studies page
 - The page formerly named "Results" is named "Case Studies" (URL: /case-studies/).
-- Organised into sections by area, matching Craig's key areas of work: Critical Thinking, Delivery, Business Agility, AI. (Critical Thinking currently has no case study entries — this is a known, accepted gap, not an error.)
+- Organised into sections for the areas that currently have case studies: Delivery, Business Agility, AI. Critical Thinking must not appear until real case studies exist for that area.
 - The page has on-page quick links at the top, using relative anchor links (e.g. #ai, #delivery, #business-agility) to jump to each section.
 - Every case study referenced from any other page (About, Delivery, Business Agility, AI, homepage) must link to its specific anchor on this page, not duplicate the case study's full content elsewhere.
+
+## Editorial and meta commentary
+- No page may ever contain commentary about the site's own content, publishing intentions, editorial approach, or production process as visitor-facing text. This includes but is not limited to: statements about what content "will be" published, how claims are sourced or verified, descriptions of the site's own organisation or structure, and any sentence whose subject is the site or its content pipeline rather than Craig's work or expertise.
+- This is a general category, not a fixed list of banned phrases. Before adding any new page or section, check whether the text describes the site itself rather than Craig, his work, or his expertise — if so, remove or rewrite it.
+- The only exception is the AI page's own statement about how this site was built, which is explicitly permitted and protected elsewhere in this file.
+
+## Speaking vs Work With Me
+- Speaking page: content about teaching a topic to an audience, at a conference, in-house event, or similar — including workshop-format talks (e.g. a teaching workshop at a conference). This is knowledge-sharing, not client engagement.
+- Work With Me: content about helping a specific organisation solve a specific problem it has.
+- The test: does this describe teaching a topic, or solving a named organisation's problem? Teaching → Speaking. Problem-solving → Work With Me.
+- A workshop delivered at a conference to teach a topic (e.g. Agile India) belongs on Speaking, not Work With Me, even though the word "workshop" appears in its name.
 
 ## Homepage hero pills
 - The four pills under the hero (Critical Thinking, Delivery, Agile, AI) link exclusively to their corresponding top-level evidence pages: /critical-thinking/, /delivery/, /business-agility/, /ai/.

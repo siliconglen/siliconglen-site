@@ -13,9 +13,7 @@ As business author Geoffrey Moore observes in *Escape Velocity*, strategy conver
 
 I work with leadership teams to close that gap: connecting the direction they've set to the plans, priorities and decisions that put it into practice, and keeping that connection alive rather than filing it away after a single planning cycle.
 
-This connects directly to my talk on strategy: how to form an agile strategy and visualise it in a complex landscape, connecting it to roadmaps, backlogs, Wardley mapping and the Strategy Cycle, drawing on the work of Simon Wardley, Roman Pichler and Dave Snowden. The talk also uses a novel visualisation technique to visualise the talk itself.
-
-<iframe class="media-embed" width="100%" height="450" src="https://www.youtube-nocookie.com/embed/m8bgiCs1p1g" title="Strategy Maps - Connect Your Roadmaps to the Bigger Picture (Agile India 2022)" allowfullscreen></iframe>
+I help leadership teams form an agile strategy and visualise it in a complex landscape, connecting it to roadmaps, backlogs, Wardley mapping and the Strategy Cycle, drawing on the work of Simon Wardley, Roman Pichler and Dave Snowden.
 
 ## What we can work on
 

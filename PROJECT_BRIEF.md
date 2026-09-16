@@ -64,22 +64,20 @@ Every page's identity lockup must read "SILICONGLEN, Craig Cockburn".
     critical-thinking-talks/
     visualising-strategy/
     [individual-talk-pages]
-  insights/
-    articles/
-    talks/
+  articles/
   case-studies/
     case-studies/
   about/
   contact/
 ```
 
-Primary navigation: Home; Work With Me; Critical Thinking; Delivery & Transformation; Agile; Speaking; Insights; About; Contact. Dropdowns may simplify presentation, but all three capabilities must remain top-level discoverable.
+Primary navigation: Home; Work With Me; Critical Thinking; Delivery & Transformation; Agile; Speaking; About; Contact. Dropdowns may simplify presentation, but all three capabilities must remain top-level discoverable.
 
 ## 5. Homepage
 
-In order: photographic hero with two CTAs and Craig named; Think/Decide/Deliver/Improve cycle; problem-led routes; three blended capabilities; evidence ledger with quantified outcomes; AI & Critical Thinking editorial feature; speaking and lazy YouTube material; insights; short About Craig narrative; contact CTA and form.
+In order: photographic hero with two CTAs and Craig named; Think/Decide/Deliver/Improve cycle; problem-led routes; three blended capabilities; evidence ledger with quantified outcomes; AI & Critical Thinking editorial feature; speaking and lazy YouTube material; short About Craig narrative; contact CTA and form.
 
-Rhythm: photographic hero → four-part cycle → contrasting problems → visual break → capabilities → large-number results → AI editorial → speaking/video → insights → Craig → bold contact CTA.
+Rhythm: photographic hero → four-part cycle → contrasting problems → visual break → capabilities → large-number results → AI editorial → speaking/video → Craig → bold contact CTA.
 
 ## 6. Visual system
 
@@ -130,7 +128,7 @@ Jekyll built by GitHub Actions and hosted on GitHub Pages; static HTML; Markdown
 
 ## 12. Workflow
 
-Create repository and Jekyll foundation; enable Pages via Actions; build the design system and approve the homepage; then add core pages, evidence, speaking and insights; implement forms/analytics/metadata; inventory old URLs; test accessibility/performance/mobile/browser/forms; and change DNS only after explicit approval and validation.
+Create repository and Jekyll foundation; enable Pages via Actions; build the design system and approve the homepage; then add core pages, evidence and speaking; implement forms/analytics/metadata; inventory old URLs; test accessibility/performance/mobile/browser/forms; and change DNS only after explicit approval and validation.
 
 ## 13. SEO and migration
 

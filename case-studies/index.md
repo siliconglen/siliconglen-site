@@ -12,11 +12,7 @@ prose_class: prose--case-studies
 
 These case studies show how Craig approaches complex work and the measured outcomes achieved for clients.
 
-**On this page:** [Critical Thinking](#critical-thinking) · [Delivery](#delivery) · [Business Agility](#business-agility) · [AI](#ai)
-
-## Critical Thinking {#critical-thinking}
-
-Case studies in this area are forthcoming.
+**On this page:** [Delivery](#delivery) · [Business Agility](#business-agility) · [AI](#ai)
 
 ## Delivery {#delivery}
 
