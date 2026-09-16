@@ -15,8 +15,6 @@ Craig is a Chartered IT Professional, Chartered Engineer and Fellow of BCS; a Ch
 
 Siliconglen brings that work together as one blended practice. Critical Thinking sharpens the question and the decision. Delivery translates it into a working outcome. Agile supports adaptive delivery and improvement after the work meets reality. None is presented as a separate business or a complete answer on its own.
 
-Clients engage Craig personally, with delivery through Siliconglen Ltd. It is a solo practice, not a larger firm or associate network.
-
 ## Evidence over a CV
 
 The site is organised around client problems and outcomes rather than a long chronology. The evidence includes same-day incident response on the Government Spending Challenge under head-of-government visibility; coordination of 13 third-party suppliers, over 150 Southwark staff and five Vangent teams on a transformation delivered just ahead of schedule and within 0.2% under budget; and an approximately 900-page AI-assisted Siliconglen rewrite followed by measurable traffic and revenue improvement.
@@ -39,7 +37,7 @@ Craig also managed a Southwark Council digital transformation involving 13 third
 
 From 2007 onwards Craig moved into public sector programme and project management, including launching the pilot that became mygov.scot for the Scottish Government, before specialising in enterprise agile coaching from 2018: Lloyds Banking Group, Royal Bank of Scotland, Morgan Stanley, BT, and Admiral Insurance, where he set up the Agile Centre of Excellence and trained 500+ people.
 
-More recently, Craig has worked leading on the roll out of agile at Kuberno, as an Enterprise Agile Coach at Allied Irish Bank in Dublin, and as an Agile Coach at Jaguar Land Rover, embedding agile ways of working across manufacturing plants in Birmingham and Liverpool. Since 2023, through Siliconglen Ltd, he has delivered SAFe training internationally, spoken and trained on critical thinking in Romania, India and Malta, and led an AI-assisted rewrite of a 900-page website that delivered a 260% increase in visits and over 500% increase in revenue the following month. Recent work has also included a six-month engagement in which he moved teams from spreadsheet tracking to Azure DevOps, built a company-wide ticketing and reporting system integrating Microsoft Forms, SharePoint, Power Automate and Power BI, project-managed an ISO 9001 rollout, and led company-wide AI adoption and training. This work was delivered for a £100M+ turnover company recognised as Platinum Investors in People.
+More recently, Craig has worked leading on the roll out of agile at Kuberno, as an Enterprise Agile Coach at Allied Irish Bank in Dublin, and as an Agile Coach at Jaguar Land Rover, embedding agile ways of working across manufacturing plants in Birmingham and Liverpool. Since 2023, he has delivered SAFe training internationally, spoken and trained on critical thinking in Romania, India and Malta, and led an AI-assisted rewrite of a 900-page website that delivered a 260% increase in visits and over 500% increase in revenue the following month.
 
 ## Boards and directorships
 

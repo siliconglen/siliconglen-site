@@ -25,8 +25,6 @@ Craig has used AI directly in delivery work, not just written about it.
 
 Leading on the roll out of agile at Kuberno, a NASDAQ-funded fintech startup, he used Azure DevOps alongside LLM AI tools to build Power BI reporting, and implemented business process automation for the leadership team, working with a toolset that included Copilot and ChatGPT.
 
-In a recent six-month engagement, Craig designed and built, assisted by AI, a customer onboarding system connecting Microsoft Planner, SharePoint lists and Power BI to Microsoft Teams. He also moved teams from spreadsheet tracking to Azure DevOps, built a company-wide ticketing and reporting system integrating Microsoft Forms, SharePoint, Power Automate and Power BI, and led company-wide AI adoption and training. The work was for a £100M+ turnover company recognised as Platinum Investors in People.
-
 Separately, an AI-assisted rewrite of the roughly 900-page siliconglen.scot website retained human review and analytics throughout rather than outsourcing judgement to the tool, and was followed by a measurable increase in traffic and revenue.
 
 This website is another small, live example of AI-assisted development. It went from a design brief to a production-ready site in under a week, using two different LLMs, with human direction and review throughout. The full build history is verifiable in the public [Siliconglen site GitHub repository](https://github.com/siliconglen/siliconglen-site).
