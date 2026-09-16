@@ -9,7 +9,7 @@ layout: default
     {% if page.image %}
       <figure class="photo-placeholder page-header__image">
         <div class="photo-frame photo-frame--wide">
-          <img src="{{ page.image }}" alt="{{ page.image_alt | default: 'Temporary generic stock photo, to be replaced before launch' }}" loading="eager">
+          <img src="{{ page.image }}"{% if page.image_alt %} alt="{{ page.image_alt | escape }}"{% else %} alt=""{% endif %} loading="eager">
         </div>
         <figcaption>Temporary stock photo, real photography to follow</figcaption>
       </figure>

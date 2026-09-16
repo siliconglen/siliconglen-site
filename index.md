@@ -22,7 +22,7 @@ description: "Siliconglen: critical thinking, delivery and Agile with Craig Cock
     </div>
     <figure class="photo-placeholder">
       <div class="photo-frame">
-        <img src="https://picsum.photos/seed/siliconglen-hero/960/720" width="960" height="720" alt="Temporary generic stock photo standing in for a real photograph of Craig Cockburn, to be replaced before launch" loading="eager">
+        <img src="https://picsum.photos/seed/siliconglen-hero/960/720" width="960" height="720" alt="" loading="eager">
       </div>
       <figcaption>Temporary stock photo, real photography to follow</figcaption>
     </figure>

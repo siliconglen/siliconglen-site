@@ -6,7 +6,7 @@ intro: A structured critical thinking programme that helps leadership teams chal
 description: "Red Team Thinking training with Craig Cockburn: a practical programme that gives leadership teams structured tools to expose blind spots, test plans and improve decisions."
 permalink: /work-with-me/red-team-thinking/
 image: https://picsum.photos/seed/siliconglen-red-team-thinking/1200/675
-image_alt: "Temporary generic stock photo standing in for a real photograph representing Red Team Thinking work, to be replaced before launch"
+image_alt: "Red Team Thinking workshop"
 ---
 
 ## Don't outsource thinking
