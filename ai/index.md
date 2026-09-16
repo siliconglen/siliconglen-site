@@ -23,7 +23,9 @@ It worked, and worked well: a better first-time guide than the manufacturer or t
 
 Craig has used AI directly in delivery work, not just written about it.
 
-Leading on the roll out of agile at Kuberno, a NASDAQ-funded fintech startup, he used Azure DevOps alongside LLM AI tools to build Power BI reporting, and implemented business process automation for the leadership team, working with a toolset that included Copilot and ChatGPT.
+Craig led the rollout of Agile at Kuberno, a NASDAQ-funded fintech startup, using Azure DevOps alongside LLM AI tools to build Power BI reporting, and implemented business process automation for the leadership team, working with a toolset that included Copilot and ChatGPT.
+
+More recently, Craig has led process improvement, delivery and quality initiatives in a tech startup (energy sector).
 
 Separately, an AI-assisted rewrite of the roughly 900-page siliconglen.scot website retained human review and analytics throughout rather than outsourcing judgement to the tool, and was followed by a measurable increase in traffic and revenue.
 

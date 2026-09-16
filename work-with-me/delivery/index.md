@@ -23,9 +23,11 @@ From 2007 Craig moved into public sector programme and project management, inclu
 
 More recently, delivery leadership has continued at Jaguar Land Rover (embedding ways of working across manufacturing plants in Birmingham and Liverpool) and at Kuberno.
 
+More recently, Craig has led process improvement, delivery and quality initiatives in a tech startup (energy sector).
+
 ## Organisational improvement in practice
 
-Craig has led process improvement, delivery and quality initiatives in a tech startup (energy sector). Key achievements include:
+Key achievements include:
 
 - Introducing organisational tooling, moving teams from Excel to Azure DevOps, implementing Scrum and long-term planning, and establishing metrics to support improvement, distinguish support from delivery work, and inform prioritisation.
 - Designing and building customer-onboarding tooling from scratch, with AI assistance, using Microsoft Planner, SharePoint lists and Power BI connectors to Microsoft Teams. The tooling received positive feedback.

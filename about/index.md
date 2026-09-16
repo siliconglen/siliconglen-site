@@ -37,7 +37,9 @@ Craig also managed a Southwark Council digital transformation involving 13 third
 
 From 2007 onwards Craig moved into public sector programme and project management, including launching the pilot that became mygov.scot for the Scottish Government, before specialising in enterprise agile coaching from 2018: Lloyds Banking Group, Royal Bank of Scotland, Morgan Stanley, BT, and Admiral Insurance, where he set up the Agile Centre of Excellence and trained 500+ people.
 
-More recently, Craig has worked leading on the roll out of agile at Kuberno, as an Enterprise Agile Coach at Allied Irish Bank in Dublin, and as an Agile Coach at Jaguar Land Rover, embedding agile ways of working across manufacturing plants in Birmingham and Liverpool. Since 2023, he has delivered SAFe training internationally, spoken and trained on critical thinking in Romania, India and Malta, and led an AI-assisted rewrite of a 900-page website that delivered a 260% increase in visits and over 500% increase in revenue the following month.
+More recently, Craig led the rollout of Agile at Kuberno, worked as an Enterprise Agile Coach at Allied Irish Bank in Dublin, and worked as an Agile Coach at Jaguar Land Rover, embedding agile ways of working across manufacturing plants in Birmingham and Liverpool. Since 2023, he has delivered SAFe training internationally, spoken and trained on critical thinking in Romania, India and Malta, and led an AI-assisted rewrite of a 900-page website that delivered a 260% increase in visits and over 500% increase in revenue the following month.
+
+More recently, Craig has led process improvement, delivery and quality initiatives in a tech startup (energy sector).
 
 ## Boards and directorships
 
