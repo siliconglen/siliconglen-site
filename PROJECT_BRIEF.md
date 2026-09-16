@@ -1,3 +1,5 @@
+> **SUPERSEDED.** This document is the original project brief from 13 September 2026 and is kept for historical reference only. It is out of date in places (including the colour and typography sections, which conflict with current standards). For all current, authoritative design and content decisions, see `DESIGN_STANDARDS.md` in the repository root. Do not use this document as a source of truth for any current task.
+
 # Siliconglen New Website: Comprehensive Brief and Build Reference
 
 Prepared 13 September 2026. This is the single reference for building the proposed replacement site.
