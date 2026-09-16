@@ -208,9 +208,7 @@ The team left the day with an agreed, owned set of interim actions, clearer deci
 
 ### Measured outcome
 
-The client expressed delight with the day itself.
-
-**Evidence note:** Longer-term impact data was not supplied, so none is claimed.
+The client asked for a workshop; they were happy with it. That is the outcome.
 
 **Capabilities:** Team Facilitation · Delivery
 

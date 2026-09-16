@@ -1,16 +1,19 @@
 - label: Home
   url: /
-- label: Services
+- label: Work With Me
   url: /work-with-me/
   children:
-    - { label: Critical Thinking, url: /work-with-me/critical-thinking/ }
     - { label: Red Team Thinking Training, url: /work-with-me/red-team-thinking/ }
     - { label: Decision Support Workshops, url: /work-with-me/decision-support/ }
     - { label: Programme & Project Delivery, url: /work-with-me/programme-delivery/ }
     - { label: Agile Coaching, url: /work-with-me/agile-coaching/ }
     - { label: Leadership Strategy, url: /work-with-me/leadership-strategy/ }
     - { label: Team Turnaround Workshops, url: /work-with-me/team-turnaround-workshops/ }
-- { label: Results, url: /results/ }
+- { label: Critical Thinking, url: /work-with-me/critical-thinking/ }
+- { label: Delivery, url: /work-with-me/delivery/ }
+- { label: Business Agility, url: /work-with-me/business-agility/ }
+- { label: AI, url: /ai/ }
 - { label: Speaking, url: /speaking/ }
+- { label: Insights, url: /insights/ }
 - { label: About, url: /about/ }
 - { label: Contact, url: /contact/ }
