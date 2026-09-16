@@ -21,7 +21,7 @@ The programme also made Southwark self-sufficient on its new CMS, replacing a mo
 
 From 2007 Craig moved into public sector programme and project management, including launching the pilot that became mygov.scot for the Scottish Government.
 
-More recently, delivery leadership has continued at Jaguar Land Rover (embedding ways of working across manufacturing plants in Birmingham and Liverpool), at Kuberno, and in his current role, where he has designed and built AI-assisted tooling for customer onboarding and company-wide ticketing and planning systems from scratch.
+More recently, delivery leadership has continued at Jaguar Land Rover (embedding ways of working across manufacturing plants in Birmingham and Liverpool) and at Kuberno. In a recent six-month engagement, Craig moved teams from spreadsheet tracking to Azure DevOps, built a company-wide ticketing and reporting system integrating Microsoft Forms, SharePoint, Power Automate and Power BI, project-managed an ISO 9001 rollout, and led company-wide AI adoption and training. The client was a £100M+ turnover company recognised as Platinum Investors in People.
 
 Craig holds PRINCE2 Foundation & Practitioner, MSP Foundation & Practitioner and DSDM Atern Foundation qualifications. Craig Cockburn CITP CEng FBCS is a Chartered IT Professional, Chartered Engineer and Fellow of BCS.
 

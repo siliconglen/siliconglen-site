@@ -47,7 +47,7 @@ Every organisation's decision-making challenges are different, so the mix of too
 - Confidence in forecasts, dependencies and measures of success.
 - Whether dissenting evidence or alternative explanations have been overlooked.
 - How a plan may be understood by customers, partners, competitors or critics.
-- AI-generated analysis that appears convincing but has not been independently tested.
+- AI-generated analysis that appears convincing but has not been objectively tested.
 
 ## What you leave with
 

@@ -45,7 +45,7 @@ Depending on the need, you may leave with a clearer decision statement, explicit
 - The stakes are high or the choice is hard to reverse.
 - Evidence is incomplete or senior people interpret it differently.
 - The organisation is moving before success has been defined.
-- A persuasive proposal has not received independent challenge.
+- A persuasive proposal has not received objective challenge.
 - An AI-produced answer appears confident but has not been verified.
 
 ## Make the next decision clearer
