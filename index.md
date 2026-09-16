@@ -149,6 +149,45 @@ description: "Siliconglen: critical thinking, delivery and Agile with Craig Cock
   </div>
 </section>
 
+<section class="section reveal" aria-labelledby="testimonials-heading">
+  <div class="section__inner">
+    <p class="section-eyebrow">What people say</p>
+    <h2 id="testimonials-heading">Trusted across teams and organisations</h2>
+    <div class="grid grid--3">
+      <figure class="card testimonial">
+        <blockquote>“Craig brought trustworthy technical insight about the platform and fully understood the content side of the equation. He had a level head and good judgement on prioritising real requirements from ‘helpful suggestions’.”</blockquote>
+        <figcaption><strong>Nick Jones</strong><br>Head of Digital, Prime Minister's Office and Cabinet Office (2011–2013)</figcaption>
+        <p><a href="https://www.linkedin.com/in/siliconglen/details/recommendations/">See the full recommendation on LinkedIn</a></p>
+      </figure>
+      <figure class="card testimonial">
+        <blockquote>“Craig managed a number of projects delivering to the technology roadmap. He is very personable and has displayed a mature approach to project progression. I have no doubt in his ability to undertake the management of large scale projects with ease.”</blockquote>
+        <figcaption><strong>Roshan Daryanani</strong><br>Enterprise and Solution Architect, LEVO Enterprises</figcaption>
+        <p><a href="https://www.linkedin.com/in/siliconglen/details/recommendations/">See the full recommendation on LinkedIn</a></p>
+      </figure>
+      <figure class="card testimonial">
+        <blockquote>“This guy understands technology and the Internet!”</blockquote>
+        <figcaption><strong>Michael Perone</strong><br>Founder, Investor and Creator</figcaption>
+        <p><a href="https://www.linkedin.com/in/siliconglen/details/recommendations/">See the full recommendation on LinkedIn</a></p>
+      </figure>
+      <figure class="card testimonial">
+        <blockquote>“Craig was a dedicated and conscientious Project Manager at HMH. Craig built up strong and effective working relationships with geographically dispersed vendors and team members, working long hours to cover multiple timezones where required.”</blockquote>
+        <figcaption><strong>Fiona Malone</strong><br>Delivery Director, Houghton Mifflin Harcourt</figcaption>
+        <p><a href="https://www.linkedin.com/in/siliconglen/details/recommendations/">See the full recommendation on LinkedIn</a></p>
+      </figure>
+      <figure class="card testimonial">
+        <blockquote>“I had the pleasure of working with Craig during a major project at Pocketkings. He is a pragmatic project leader, flexible and dynamic, who never takes his eye off the ball and the overall project goals. As well as navigating a time pressurized project efficiently and accurately on target, he consistently motivated the team to achieve their optimum capacity, resulting in successful, on-target project deployment.”</blockquote>
+        <figcaption><strong>Sorcha Moore</strong><br>Lead Product UX Designer, Full Tilt Poker (2007–2010) — a desktop and mobile gaming platform that reached over 23 million users at its peak in 2008</figcaption>
+        <p><a href="https://www.linkedin.com/in/siliconglen/details/recommendations/">See the full recommendation on LinkedIn</a></p>
+      </figure>
+      <figure class="card testimonial">
+        <blockquote>“Craig and I worked together for several years as part of the team developing the community bid for the dotScot Top Level Domain Name (gTLD), and we are now both on the board of the dotScot Registry... Craig has a great eye for detail and the determination to see projects through, as well as a deep knowledge of project governance — a great person to have on your team!”</blockquote>
+        <figcaption><strong>Polly Purvis, OBE FRSE</strong><br>Chair, Converge Challenge &amp; NED</figcaption>
+        <p><a href="https://www.linkedin.com/in/siliconglen/details/recommendations/">See the full recommendation on LinkedIn</a></p>
+      </figure>
+    </div>
+  </div>
+</section>
+
 <section class="section section--card reveal">
   <div class="section__inner">
     <p class="section-eyebrow">AI &amp; Critical Thinking</p>
