@@ -9,7 +9,7 @@ permalink: /ai/
 
 ## AI is a tool, not an oracle
 
-Craig's interest in AI isn't new, and it isn't theoretical. It runs from undergraduate research in the Department of Artificial Intelligence at the University of Edinburgh in the 1980s, through hands-on delivery work using AI tooling today, to a critical thinking practice built specifically to stop AI's confident output from being accepted uncritically.
+Craig's interest in AI isn't new, and it isn't theoretical. It runs from undergraduate research in the Department of Artificial Intelligence at the University of Edinburgh in the 1980s, through hands-on delivery work using AI tooling today, to Red Team Thinking® and applied critical thinking practised since 2020 to stop AI's confident output from being accepted uncritically.
 
 The thread connecting all of it is simple: AI is genuinely useful for expanding what one person can see and do quickly. It is not a substitute for judgement, domain knowledge or verification. For more on how that applies to checking AI-generated analysis, see [Critical Thinking]({{ '/work-with-me/critical-thinking/' | relative_url }}).
 
@@ -25,7 +25,7 @@ Craig has used AI directly in delivery work, not just written about it.
 
 Leading on the roll out of agile at Kuberno, a NASDAQ-funded fintech startup, he used Azure DevOps alongside LLM AI tools to build Power BI reporting, and implemented business process automation for the leadership team, working with a toolset that included Copilot and ChatGPT.
 
-In his current role, Craig has designed and built, assisted by AI, a customer onboarding system connecting Microsoft Planner, SharePoint lists and Power BI to Microsoft Teams, and a company-wide ticketing and planning system integrating Microsoft Forms, SharePoint lists, Azure DevOps, Teams, Outlook and Power Automate. He also leads company-wide AI initiatives and training in his current organisation.
+In a recent six-month engagement, Craig designed and built, assisted by AI, a customer onboarding system connecting Microsoft Planner, SharePoint lists and Power BI to Microsoft Teams. He also moved teams from spreadsheet tracking to Azure DevOps, built a company-wide ticketing and reporting system integrating Microsoft Forms, SharePoint, Power Automate and Power BI, and led company-wide AI adoption and training. The work was for a £100M+ turnover company recognised as Platinum Investors in People.
 
 Separately, an AI-assisted rewrite of the roughly 900-page siliconglen.scot website retained human review and analytics throughout rather than outsourcing judgement to the tool, and was followed by a measurable increase in traffic and revenue.
 
@@ -48,7 +48,7 @@ This is available as a facilitated team workshop. Sessions cover where AI genuin
 
 - Your team already uses AI heavily for analysis or drafting, but has no consistent way of checking what comes back.
 - Leadership wants the team genuinely more capable with AI, not just faster at accepting its first answer.
-- A specific AI-assisted piece of work (a strategy, a business case, an analysis) needs independent scrutiny before it's relied on.
+- A specific AI-assisted piece of work (a strategy, a business case, an analysis) needs objective scrutiny before it's relied on.
 
 ## Start the conversation
 

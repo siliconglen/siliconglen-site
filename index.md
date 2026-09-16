@@ -8,9 +8,8 @@ description: "Siliconglen: critical thinking, delivery and Agile with Craig Cock
     <div>
       <p class="section-eyebrow">Critical Thinking · Delivery · Agile</p>
       <h1>Think clearer.<br>Decide better.<br>Deliver what matters.</h1>
-      <p class="lede">I'm Craig Cockburn. I founded Siliconglen in 2001, so the practice has been running for 25+ years. I help leaders and organisations challenge assumptions, make better decisions and turn those decisions into results.</p>
-      <p>For 14+ years I have coached leaders and delivery teams, including establishing Agile Centres of Excellence. I combine that experience with hands-on programme delivery, critical thinking and Red Team Thinking® to cut through noise and get to what actually matters.</p>
-      <p><strong>Head of Function at a £100M+ turnover company (Platinum Investors in People), leading IT delivery and org-wide process improvement, since March 2026.</strong></p>
+      <p class="lede">I'm Craig Cockburn. I help leaders think more clearly, decide with confidence, and deliver complex change — combining programme and project delivery rooted in 2007, 14+ years coaching leaders and delivery teams, including establishing Agile Centres of Excellence, with Red Team Thinking® and applied critical thinking since 2020 and strategy visualisation since 2019, across banking, insurance, manufacturing, and public sector.</p>
+      <p>Recent work has included a six-month engagement leading IT delivery and organisational process improvement for a £100M+ turnover company (Platinum Investors in People), including leading the organisation's AI adoption and training.</p>
       <p>Clients engage me personally, with delivery through Siliconglen Ltd. It is a solo practice, not a larger consultancy or associate network.</p>
       <div class="tag-row">
         <a class="tag" href="{{ '/work-with-me/critical-thinking/' | relative_url }}">Critical Thinking</a>

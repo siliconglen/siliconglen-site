@@ -62,7 +62,7 @@ This work is particularly useful when:
 - a plan feels persuasive but has not been properly challenged;
 - a programme is moving quickly without a shared definition of success;
 - an AI tool has produced a plausible answer that still needs verification; or
-- you need an independent challenge without handing the decision to an outsider.
+- you need objective challenge without handing the decision to an outsider.
 
 ## Start with the decision in front of you
 

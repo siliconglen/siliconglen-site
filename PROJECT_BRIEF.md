@@ -126,7 +126,7 @@ Use Formspree without login for visitors or a custom backend. Include name, emai
 
 ## 11. Technology
 
-Jekyll built by GitHub Actions and hosted on GitHub Pages; static HTML; Markdown/Jekyll collections; no Node/npm build, CMS, login or database. Keep source on GitHub. Use YouTube, existing GA4/Search Console and later Formspree. Registrar/DNS remain independent at Krystal. Development uses only the temporary `siliconglen.github.io/siliconglen-site` URL.
+Jekyll built by GitHub Actions and hosted on GitHub Pages; static HTML; Markdown/Jekyll collections; no Node/npm build, CMS, login or database. Keep source on GitHub. Use YouTube, existing GA4/Search Console and later Formspree. Registrar/DNS remain separately managed at Krystal. Development uses only the temporary `siliconglen.github.io/siliconglen-site` URL.
 
 ## 12. Workflow
 
