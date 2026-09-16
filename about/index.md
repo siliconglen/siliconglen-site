@@ -7,7 +7,7 @@ description: "About Craig Cockburn and Siliconglen: critical thinking, delivery 
 permalink: /about/
 ---
 
-*Formal biography — written in the third person.*
+*Craig's professional biography.*
 
 ## Understand the real problem before trying to solve it
 
@@ -19,9 +19,9 @@ Siliconglen brings that work together as one blended practice. Critical Thinking
 
 ## Evidence over a CV
 
-The site is organised around client problems and outcomes rather than a long chronology. The evidence includes same-day incident response on the Government Spending Challenge under head-of-government visibility; coordination of 13 third-party suppliers, over 150 Southwark staff and five Vangent teams on a transformation delivered just ahead of schedule and within 0.2% under budget; and an approximately 900-page AI-assisted Siliconglen rewrite followed by measurable traffic and revenue improvement.
+Craig's work is grounded in demonstrated client outcomes. The evidence includes same-day incident response on the Government Spending Challenge under head-of-government visibility; coordination of 13 third-party suppliers, over 150 Southwark staff and five Vangent teams on a transformation delivered just ahead of schedule and within 0.2% under budget; and an approximately 900-page AI-assisted Siliconglen rewrite followed by measurable traffic and revenue improvement.
 
-More detail, with the limits of the available evidence made explicit, is available in [Results]({{ '/results/' | relative_url }}).
+Explore these and other engagements in [Results]({{ '/results/' | relative_url }}).
 
 ## How Craig works
 
@@ -88,7 +88,7 @@ Craig was a founding committee member of the **BCS Agile Specialist Group** from
 
 ## Earlier work and curiosities
 
-*Optional background beyond Craig's core professional credentials.*
+*Some less conventional parts of Craig's story.*
 
 In 1990, Craig drafted a patent application for a keyboardless, laptop-shaped device for browsing pages and following links, complete with bookmarks and personalised news, predating the web browser and Digital's first PC launch. The application stalled when internal sponsorship changed and was never filed.
 
