@@ -10,7 +10,7 @@ prose_class: prose--case-studies
 
 ## Outcomes matter more than a method catalogue
 
-These case studies expand the evidence summarised on the homepage. They use a consistent structure: situation, difficulty, Craig's role, approach, change and measured outcome. Where the source material does not yet provide a detail, the account does not manufacture one.
+These case studies show how Craig approaches complex work and the measured outcomes achieved for clients.
 
 ## Enterprise Agile Coach, Admiral Group plc
 
@@ -100,7 +100,7 @@ Craig contributed to identifying the security problem and delivering the secure 
 ### Approach
 The work connected diagnosis with implementation: understand the security issue, define a suitable response and carry it through to delivery.
 
-**Evidence note:** The available record does not include further technical detail.
+Further technical details are not available.
 
 ### Change
 A secure procurement solution replaced the unresolved security problem.

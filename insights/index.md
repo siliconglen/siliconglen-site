@@ -9,19 +9,15 @@ permalink: /insights/
 
 ## A home for useful, durable thinking
 
-Insights will connect the questions raised in Craig's consultancy, delivery, training and speaking work. Full articles will be published here first, with summaries and links shared on LinkedIn, so the useful substance remains accessible and indexable on the Siliconglen site.
+Articles and talk write-ups are on their way — check back soon.
 
 ## Articles
 
-No articles have been published in the site's article collection yet. When they are ready, this page will provide routes into the full on-site pieces rather than inventing headlines or publishing empty placeholders.
-
-Older LinkedIn work may be exported, lightly revised and republished with its images where appropriate. That migration will preserve the substance while making the site the primary home for future work.
+[Coming soon]
 
 ## Talks
 
-Talk pages will bring together structured details—including title, event, date, URL, description, topics and featured status—with an edited transcript or related article when available. Video will remain hosted on YouTube using privacy-enhanced, lazy-loading presentation.
-
-There are currently no real talks in the collection. Visit [Speaking]({{ '/speaking/' | relative_url }}) for the current overview of subjects and formats.
+Talk write-ups and videos are coming soon. In the meantime, visit [Speaking]({{ '/speaking/' | relative_url }}) to explore current subjects and formats.
 
 ## What to expect
 
