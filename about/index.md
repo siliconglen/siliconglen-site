@@ -88,7 +88,7 @@ Other curiosities include an IMDb-listed Gaelic film credit and being named in t
 
 ## Wider work
 
-Talks, YouTube and LinkedIn connect to the practice, while substantive positioning, articles and evidence are kept on this site. AI is treated as a useful tool that still requires verification, challenge and human judgement.
+Talks, YouTube and LinkedIn connect to the practice, while substantive positioning, articles and evidence are kept on this site.
 
 ## Start with the problem
 
