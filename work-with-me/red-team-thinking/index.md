@@ -13,13 +13,13 @@ image_alt: "Temporary generic stock photo standing in for a real photograph repr
 
 A strategy can be coherent, well researched and widely supported while still resting on assumptions that nobody has tested. The more work invested in it, the harder those assumptions can become to see or question.
 
-Red Team Thinking® provides a structured, constructive challenge. The methodology was developed from military and intelligence tradecraft and brought into business by bestselling author Bryce G. Hoffman. As a Certified Red Team Instructor, Red Team Thinking (awarded October 2025), Craig delivers the training under licence, tailored to your organisation's actual challenges rather than a generic script. He separately holds the Certified Red Team Coach (Gold), Red Team Thinking credential, awarded 16 July 2024.
+Red Team Thinking® provides a structured, constructive challenge. The methodology was developed from military and intelligence tradecraft and brought into business by bestselling author Bryce G. Hoffman. As a Certified Red Team Instructor, Red Team Thinking (awarded October 2025), I deliver the training under licence, tailored to your organisation's actual challenges rather than a generic script. I separately hold the Certified Red Team Coach (Gold), Red Team Thinking credential, awarded 16 July 2024.
 
 The purpose is not to criticise for effect or replace the people responsible for a decision. It is to give your team practical methods for examining how conclusions were reached, finding missing perspectives and testing whether plans remain credible when conditions change.
 
-## Format
+## Two sessions, six tools and a follow-up
 
-The RTT Accelerator programme runs as two half-day (four-hour) sessions, delivered on-site at a location of your choosing or online. Before the workshop, participants receive a short set of reflection questions covering their own decision-making strengths, how they respond to challenge, and how their organisation currently encourages or discourages critical thinking. There's nothing to submit in advance; it simply primes the room to engage from the first session.
+The RTT Accelerator programme runs as two half-day (four-hour) sessions, delivered on-site at a location of your choosing or online. Before the workshop, participants receive a short set of reflection questions covering their own decision-making strengths, how they respond to challenge, and how their organisation currently encourages or discourages critical thinking. There's nothing to submit in advance; it primes the room for the six tools below. Each participant receives a workbook and certificate, and I follow up around 60 days later to help the methods transfer into real decisions.
 
 ## What's covered
 
@@ -36,7 +36,7 @@ The wider Red Team Thinking toolkit goes well beyond these six tools. Sessions c
 
 ## Student experience
 
-Learning is hands-on throughout rather than lecture-based. Teams work through a realistic strategic planning case study together, applying each tool to a live-feeling scenario before turning it on their own real plans and decisions. Each participant receives a workbook and a certificate of completion, and Craig follows up around 60 days after the course to see how the tools have bedded in and where they've made the most difference.
+Learning is hands-on throughout rather than lecture-based. Teams work through a realistic strategic planning case study together, applying each tool to a live-feeling scenario before turning it on their own real plans and decisions.
 
 ## Tailored to your organisation
 
@@ -72,4 +72,4 @@ Describe your team's current decision-making challenges and the plans or decisio
 
 If your team's challenge is specifically about using AI well in decision-making, see [AI-assisted decision support, critically challenged]({{ '/ai/#ai-assisted-decision-support-critically-challenged' | relative_url }}) on the AI page.
 
-[Contact Craig]({{ '/contact/' | relative_url }}) or email [craig@siliconglen.com](mailto:craig@siliconglen.com).
+[Contact me]({{ '/contact/' | relative_url }}) or email [craig@siliconglen.com](mailto:craig@siliconglen.com).

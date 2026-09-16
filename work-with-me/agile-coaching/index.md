@@ -7,7 +7,7 @@ description: "Use adaptive delivery, feedback and organisational learning to hel
 permalink: /work-with-me/agile-coaching/
 ---
 
-**For Craig's broader business agility track record, see [Business Agility]({{ '/work-with-me/business-agility/' | relative_url }}).**
+**For my broader business agility track record, see [Business Agility]({{ '/work-with-me/business-agility/' | relative_url }}).**
 
 ## Agile should improve delivery, not become the destination
 
@@ -30,9 +30,9 @@ We begin with the organisation's problem, not a standard transformation recipe. 
 
 An engagement may be a short diagnostic followed by a focused coaching plan, regular team and leadership coaching over an agreed period, or embedded support for a wider change. Sessions can run on-site, online or in a blended format. We agree the participants, cadence, measures of improvement and handover so the organisation builds capability rather than dependence.
 
-## What you leave with
+## Capability, not framework dependence
 
-You leave with clearer outcomes, a more visible delivery system, practical improvements to feedback and decision-making, and capability that can continue beyond the engagement. Success is better organisational delivery, not ceremonial compliance.
+I have established an Agile Centre of Excellence and trained more than 500 people at Admiral Insurance, and embedded ways of working beyond software teams at Jaguar Land Rover's Birmingham and Liverpool manufacturing plants. I use that experience to leave you with clearer outcomes, a visible delivery system, improved feedback and decision-making, and capability that continues after handover—not dependence on a framework or coach.
 
 ## When this is useful
 
@@ -46,4 +46,4 @@ You leave with clearer outcomes, a more visible delivery system, practical impro
 
 Describe the delivery problem and what meaningful improvement would look like.
 
-[Contact Craig]({{ '/contact/' | relative_url }}) or email [craig@siliconglen.com](mailto:craig@siliconglen.com).
+[Contact me]({{ '/contact/' | relative_url }}) or email [craig@siliconglen.com](mailto:craig@siliconglen.com).

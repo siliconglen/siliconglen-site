@@ -11,11 +11,11 @@ permalink: /work-with-me/business-agility/
 
 ## Agility that survives regulation and scale
 
-Craig has over 12 years in scaled agile delivery and programme management, specialising in enterprise agile coaching since 2018 across some of the most regulated, highest-stakes environments in the UK: Lloyds Banking Group, Royal Bank of Scotland, Morgan Stanley, BT, and Admiral Insurance, where he set up the Agile Centre of Excellence and trained over 500 people.
+I have over 12 years in scaled agile delivery and programme management, specialising in enterprise agile coaching since 2018 across some of the most regulated, highest-stakes environments in the UK: Lloyds Banking Group, Royal Bank of Scotland, Morgan Stanley, BT, and Admiral Insurance, where I set up the Agile Centre of Excellence and trained over 500 people.
 
-More recently, this has included leading on the roll out of agile at Kuberno, a NASDAQ-funded fintech startup, an Enterprise Agile Coach role at Allied Irish Bank in Dublin, and agile coaching at Jaguar Land Rover, embedding agile ways of working across manufacturing plants rather than just software teams.
+More recently, I have led on the roll out of agile at Kuberno, a NASDAQ-funded fintech startup, worked as an Enterprise Agile Coach at Allied Irish Bank in Dublin, and coached at Jaguar Land Rover, embedding agile ways of working across manufacturing plants rather than just software teams.
 
-Craig is a founding committee member of the BCS Agile Specialist Group, a Certified SAFe 6 Practice Consultant and Certified SAFe 6 Lean Portfolio Manager, and a co-listed author of *Agile: An Unexpected Journey*. He is qualified to teach SAFe across multiple course tracks, including Leading SAFe, Product Owner/Product Manager and Scrum Master. In 2021 he was an advisor and early supporter of the agile20reflect festival, which he went on to co-organise.
+I was a founding committee member of the **BCS Agile Specialist Group** from January 2012 to November 2023 (11 years 11 months), an extended contribution to Agile community leadership. I am a Certified SAFe 6 Practice Consultant and Certified SAFe 6 Lean Portfolio Manager, and a co-author of *Agile: An Unexpected Journey*. I am qualified to teach SAFe across multiple course tracks, including Leading SAFe, Product Owner/Product Manager and Scrum Master. In 2021 I was an advisor and early supporter of the agile20reflect festival, which I went on to co-organise.
 
 ## From track record to an engagement
 

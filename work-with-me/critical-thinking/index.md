@@ -25,7 +25,7 @@ This is practical critical thinking for live organisational work, not an abstrac
 - Designing a decision process that people can understand and trust.
 - Reviewing AI-generated analysis without outsourcing human judgement.
 
-If AI is part of the picture, see [AI]({{ '/ai/' | relative_url }}) for how Craig treats AI output as a hypothesis to test, not an answer to adopt.
+If AI is part of the picture, see [AI]({{ '/ai/' | relative_url }}) for how I treat AI output as a hypothesis to test, not an answer to adopt.
 
 ## Ways to work together
 
@@ -47,9 +47,9 @@ Practical sessions that give teams shared methods for questioning assumptions, e
 
 [Explore Red Team Thinking Training]({{ '/work-with-me/red-team-thinking/' | relative_url }})
 
-## What you leave with
+## A usable reasoning trail
 
-The output depends on the problem. It may be a clearer decision statement, an evidence map, tested assumptions, decision criteria, risks that need action or a practical next-step plan. The aim is not a longer report. It is clearer reasoning that supports useful action.
+I capture the reasoning in artefacts the team can use: a clearer decision statement, an evidence-and-assumption map, explicit decision criteria, tested options, risks that need action and a practical next-step plan. The aim is not a longer report. It is a visible trail from question to action that colleagues can challenge and decision owners can explain.
 
 Critical thinking also connects directly to delivery. A sound decision should be translated into an outcome, tested in practice and improved as new evidence emerges.
 
@@ -68,4 +68,4 @@ This work is particularly useful when:
 
 You do not need to choose a method before getting in touch. Describe the problem, the decision or the plan that needs challenging, and we can work out the most useful next step.
 
-[Contact Craig]({{ '/contact/' | relative_url }}) or email [craig@siliconglen.com](mailto:craig@siliconglen.com).
+[Contact me]({{ '/contact/' | relative_url }}) or email [craig@siliconglen.com](mailto:craig@siliconglen.com).

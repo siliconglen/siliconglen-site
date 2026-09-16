@@ -58,10 +58,10 @@ permalink: /contact/
 
 ## What happens next
 
-Craig reads every enquiry personally and will normally reply within two working days. The first response may ask a few focused questions or suggest a short introductory call; there is no obligation, and any scope, timing and fees will be agreed before work starts.
+I read every enquiry personally and will normally reply within two working days. My first response may ask a few focused questions or suggest a short introductory call; there is no obligation, and we will agree any scope, timing and fees before work starts.
 
 Work can be delivered remotely worldwide. On-site work is available across the UK and Ireland, and internationally by arrangement.
 
 ## Privacy note
 
-This form uses Formspree to process the details you submit and deliver them to Craig. Formspree therefore receives the information entered above as a service provider. Siliconglen uses it only to respond to and follow up your enquiry, does not sell it, and does not add you to a marketing list. Please do not include confidential or sensitive information in the form; email Craig first if your enquiry requires a more suitable channel.
+This form uses Formspree to process the details you submit and deliver them to me. Formspree therefore receives the information entered above as a service provider. I use it only to respond to and follow up your enquiry, do not sell it, and do not add you to a marketing list. Please do not include confidential or sensitive information in the form; email me first if your enquiry requires a more suitable channel.

@@ -9,20 +9,20 @@ permalink: /speaking/
 
 ## Ideas that lead back to practical work
 
-Speaking can give people a shared question, challenge a comfortable assumption and create a useful starting point for action. Craig's subjects connect critical thinking with delivery and organisational improvement, including how people can use AI without outsourcing judgement.
+Speaking can give people a shared question, challenge a comfortable assumption and create a useful starting point for action. My subjects connect critical thinking with delivery and organisational improvement, including how people can use AI without outsourcing judgement.
 
-Craig has given 30+ talks on strategy, critical thinking, Red Team Thinking, structuring and visualising talks, neurodiversity, and ways of working, at conferences and events including Agile Lithuania, Agile India, conferences in Romania, and Agile Tour London.
+I have given 30+ talks on strategy, critical thinking, Red Team Thinking, structuring and visualising talks, neurodiversity, and ways of working. These include international conference appearances in Cluj, Romania and Bangalore, India, as well as Agile Lithuania, Agile India and Agile Tour London. I have also guest lectured at Edinburgh Napier University and the University of Edinburgh.
 
 ## Relevant credentials and authorship
 
-Craig is a **Certified Red Team Coach (Gold), Red Team Thinking** (awarded 16 July 2024) and a **Certified Red Team Instructor, Red Team Thinking** (awarded October 2025). He is also a Certified SAFe 6 Practice Consultant, qualified to teach course tracks including Leading SAFe, Product Owner/Product Manager and Scrum Master.
+I am a **Certified Red Team Coach (Gold), Red Team Thinking** (awarded 16 July 2024) and a **Certified Red Team Instructor, Red Team Thinking** (awarded October 2025). I am also a Certified SAFe 6 Practice Consultant, qualified to teach course tracks including Leading SAFe, Product Owner/Product Manager and Scrum Master.
 
-He wrote the foreword for and verified the content of *Your Guide to Passing the PSM Assessment*, is a co-listed author of *Agile: An Unexpected Journey*, and is thanked by name in Mike Burrows' *Agendashift*.
+I wrote the foreword for and verified the content of *Your Guide to Passing the PSM Assessment*, am a co-author of *Agile: An Unexpected Journey*, and am thanked by name in Mike Burrows' *Agendashift*. Thinkers360 has also [recognised me](https://www.thinkers360.com/tl/profiles/view/8985) as a Top 50 thought leader in Product Management and Agile, and a Top 100 thought leader in Behavioral Science.
 
 ## Featured talks
 
 ### Red Team Thinking: critical thinking practices to support more proactive agility
-Craig explains how Red Team Thinking techniques help teams and organisations avoid groupthink and make better decisions.
+I explain how Red Team Thinking techniques help teams and organisations avoid groupthink and make better decisions.
 [Watch on YouTube](https://youtu.be/_NeHGCgzqN4)
 
 ### Knowledge Canvas: visualising the story for teaching, speaking and training
@@ -65,4 +65,4 @@ A shared way to discuss the issue, questions worth pursuing and a clear connecti
 
 Share the audience, format, subject, date and the outcome you want the session to support.
 
-[Contact Craig]({{ '/contact/' | relative_url }}) or email [craig@siliconglen.com](mailto:craig@siliconglen.com).
+[Contact me]({{ '/contact/' | relative_url }}) or email [craig@siliconglen.com](mailto:craig@siliconglen.com).

@@ -46,7 +46,9 @@ The solution had to meet the security need while avoiding the cost implied by th
 Craig contributed to identifying the security problem and delivering the secure solution.
 
 ### Approach
-The work connected diagnosis with implementation: understand the security issue, define a suitable response and carry it through to delivery. Further technical details are not stated in the current evidence.
+The work connected diagnosis with implementation: understand the security issue, define a suitable response and carry it through to delivery.
+
+**Evidence note:** The available record does not include further technical detail.
 
 ### Change
 A secure procurement solution replaced the unresolved security problem.
@@ -154,7 +156,9 @@ The team left the day with an agreed, owned set of interim actions, clearer deci
 
 ### Measured outcome
 
-The client expressed delight with the day itself. Despite follow-up requests, the client did not respond with information on longer-term impact, so no longer-term outcome is claimed here.
+The client expressed delight with the day itself.
+
+**Evidence note:** Longer-term impact data was not supplied, so none is claimed.
 
 **Capabilities:** Team Facilitation · Delivery
 

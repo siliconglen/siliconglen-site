@@ -27,7 +27,7 @@ You do not need to translate your problem into consultancy terminology. Start wi
 
 ### A complex initiative needs experienced hands-on leadership
 
-[Programme & Project Delivery]({{ '/work-with-me/programme-delivery/' | relative_url }}) is for work involving multiple teams, suppliers, dependencies or a programme that has lost direction. Craig can establish control, coordinate delivery or help recover the work, with an engagement shaped around the programme and the outcome that must be delivered.
+[Programme & Project Delivery]({{ '/work-with-me/programme-delivery/' | relative_url }}) is for work involving multiple teams, suppliers, dependencies or a programme that has lost direction. I can establish control, coordinate delivery or help recover the work, with an engagement shaped around the programme and the outcome that must be delivered.
 
 ### Agile activity is not producing better outcomes
 
@@ -41,9 +41,9 @@ You do not need to translate your problem into consultancy terminology. Start wi
 
 [Team Turnaround Workshops]({{ '/work-with-me/team-turnaround-workshops/' | relative_url }}) are structured full-day offsites for surfacing blockers, rebuilding enough trust for honest discussion and leaving with agreed actions and owners. They suit teams that need a decisive reset rather than another status meeting.
 
-## How the work happens
+## Match the engagement to the problem
 
-We clarify the outcome, understand the situation and agree a proportionate piece of work. That may mean focused decision support, training, hands-on delivery, coaching or a workshop. The work stays connected to evidence, practical action and what the organisation learns.
+I first clarify the outcome and the situation, then match the work to it: a decision record and evidence map for a difficult choice; two half-day Red Team Thinking sessions for repeatable skills; hands-on programme leadership for delivery; or a full-day team offsite ending in named actions and owners. The work stays connected to evidence, practical action and what your organisation learns.
 
 ## What you leave with
 
@@ -53,4 +53,4 @@ The precise output follows the problem: a defensible decision, a stronger plan, 
 
 You do not need to diagnose the service yourself. Describe the problem and what a good outcome would look like.
 
-[Contact Craig]({{ '/contact/' | relative_url }}) or email [craig@siliconglen.com](mailto:craig@siliconglen.com).
+[Contact me]({{ '/contact/' | relative_url }}) or email [craig@siliconglen.com](mailto:craig@siliconglen.com).
