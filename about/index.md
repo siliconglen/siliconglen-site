@@ -9,7 +9,7 @@ permalink: /about/
 
 ## Evidence over a CV
 
-Craig's work is grounded in demonstrated client outcomes. Examples include the [Government Spending Challenge]({{ '/case-studies/#government-spending-challenge' | relative_url }}), the [Southwark Council programme]({{ '/case-studies/#southwark-council-programme' | relative_url }}) and the [Siliconglen AI-assisted rewrite]({{ '/case-studies/#siliconglen-ai-assisted-rewrite' | relative_url }}). Further engagements are organised by area on the [Case Studies page]({{ '/case-studies/' | relative_url }}).
+Craig's work is grounded in demonstrated client outcomes. Examples include the [Government Spending Challenge]({{ '/case-studies/#government-spending-challenge' | relative_url }}), the [Southwark Council programme]({{ '/case-studies/#southwark-council-programme' | relative_url }}) and the [Siliconglen AI-assisted rewrite]({{ '/case-studies/#siliconglen-ai-assisted-rewrite' | relative_url }}). His wider experience spans delivery, business agility and applied AI.
 
 ## How Craig works
 
@@ -89,10 +89,6 @@ In 1990, Craig drafted a patent application for a keyboardless, laptop-shaped de
 Long before "critical thinking" became Craig's professional focus, he ran a one-man campaign for smoke-free areas in pubs, starting in 1990. The campaign was featured on Channel 4's consumer programme Checkout, reaching an estimated 3 million viewers according to the production company at the time. Craig was later credited in the acknowledgements of the 1992 ASH guidebook Eat, Drink & Sleep Smoke-Free for his help tracking down smoke-free pubs, sat on the ASH Scotland expert panel on smoking in public places, and gave written evidence to the Scottish Parliament's Health Committee in 2004 in support of the smoking ban that followed in 2006. He also has an unlikely claim to fame: he and Noam Chomsky were two of only fourteen people listed under 'Philosophers and Deep Thinkers' in Seth Godin's 1994 book *E-Mail Addresses of the Rich & Famous*.
 
 Other curiosities include an IMDb-listed Gaelic film credit and being named in the official W3C HTML5 specification acknowledgements.
-
-## Wider work
-
-Talks, YouTube and LinkedIn connect to the practice, while substantive positioning, articles and evidence are kept on this site.
 
 ## Start with the problem
 

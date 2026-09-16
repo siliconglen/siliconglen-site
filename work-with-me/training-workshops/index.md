@@ -12,6 +12,6 @@ sitemap: false
     <title>Red Team Thinking Training</title>
   </head>
   <body>
-    <p>This page has moved to <a href="{{ '/work-with-me/red-team-thinking/' | relative_url }}">Red Team Thinking Training</a>.</p>
+    <p><a href="{{ '/work-with-me/red-team-thinking/' | relative_url }}">Red Team Thinking Training</a></p>
   </body>
 </html>
