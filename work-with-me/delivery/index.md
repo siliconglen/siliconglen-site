@@ -23,7 +23,7 @@ From 2007 Craig moved into public sector programme and project management, inclu
 
 More recently, delivery leadership has continued at Jaguar Land Rover (embedding ways of working across manufacturing plants in Birmingham and Liverpool), at Kuberno, and in his current role, where he has designed and built AI-assisted tooling for customer onboarding and company-wide ticketing and planning systems from scratch.
 
-Craig holds PRINCE2 and Managing Successful Programmes (MSP) Foundation and Practitioner qualifications, and is a Chartered Fellow of the British Computer Society.
+Craig holds PRINCE2 Foundation & Practitioner, MSP Foundation & Practitioner and DSDM Atern Foundation qualifications. Craig Cockburn CITP CEng FBCS is a Chartered IT Professional, Chartered Engineer and Fellow of BCS.
 
 ## From track record to an engagement
 

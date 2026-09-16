@@ -15,7 +15,7 @@ Craig has over 12 years in scaled agile delivery and programme management, speci
 
 More recently, this has included leading on the roll out of agile at Kuberno, a NASDAQ-funded fintech startup, an Enterprise Agile Coach role at Allied Irish Bank in Dublin, and agile coaching at Jaguar Land Rover, embedding agile ways of working across manufacturing plants rather than just software teams.
 
-Craig is a founding committee member of the BCS Agile Specialist Group, a certified SAFe Practice Consultant (SPC6) and SAFe Lean Portfolio Manager, and co-author of *Agile: An Unexpected Journey*. In 2021 he was an advisor and early supporter of the agile20reflect festival, which he went on to co-organise.
+Craig is a founding committee member of the BCS Agile Specialist Group, a Certified SAFe 6 Practice Consultant and Certified SAFe 6 Lean Portfolio Manager, and a co-listed author of *Agile: An Unexpected Journey*. He is qualified to teach SAFe across multiple course tracks, including Leading SAFe, Product Owner/Product Manager and Scrum Master. In 2021 he was an advisor and early supporter of the agile20reflect festival, which he went on to co-organise.
 
 ## From track record to an engagement
 
