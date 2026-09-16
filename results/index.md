@@ -70,11 +70,13 @@ Craig worked as Programme Manager, coordinating the participating suppliers, Van
 ### Approach
 The work brought the participating suppliers and people together, while developing Southwark's own capability. More than **150 web authors** were trained so that the council became self-sufficient on the new CMS; previously, it had paid a supplier upward of **£15,000 per change**.
 
+Governance ran through weekly team meetings, a fortnightly Programme Board and monthly Executive reviews, stepping up to weekly Executive reviews ahead of go-live. Independent audience research by Synovate, a market research firm later acquired by Ipsos, comprised **25 assisted user sessions ("surfs")** and **four focus groups of 10 residents**, conducted over **three research phases** and including eye-tracking analysis of the final site design. This research provided the basis for the finding that **90% of respondents** said the redesign made them more likely to use the site.
+
 ### Change
 The redesigned service increased web use, improved accessibility and shifted more service requests and transactions to lower-cost online channels. Service-request processing time fell by **over 50%**, and online transactions saved **over 80%** of the cost of face-to-face servicing.
 
 ### Measured outcome
-The programme was delivered **just ahead of schedule** and **within 0.2% under budget**. Web visitors increased by **40%**, traffic on interactive maps increased by **250%**, and **90%** of usability research respondents said the redesign made them more likely to use the site. The site rose **279 places** in an accessibility/DDA compliance review. The CMS investment achieved full payback within **six months**. Online parking services reached **40% migration to the web channel within one month** and were on track to save **over £144,000 a year**. The programme won [IT Project Team of the Year](https://www.bcs.org/events/awards-and-competitions/uk-it-industry-awards/previous-winners/uk-it-industry-awards-2010-winners/project-excellence-awards-2010/) in the Project Excellence category at the BCS and Computing UK IT Industry Awards 2010.
+The programme was delivered **just ahead of schedule** and **within 0.2% under budget**. Web visitors increased by **40%**, traffic on interactive maps increased by **250%**, and the site rose **279 places** in an accessibility/DDA compliance review. The CMS investment achieved full payback within **six months**. Online parking services reached **40% migration to the web channel within one month** and were on track to save **over £144,000 a year**. The programme won [IT Project Team of the Year](https://www.bcs.org/events/awards-and-competitions/uk-it-industry-awards/previous-winners/uk-it-industry-awards-2010-winners/project-excellence-awards-2010/) in the Project Excellence category at the BCS and Computing UK IT Industry Awards 2010.
 
 **Capabilities:** Delivery · Organisational improvement
 
