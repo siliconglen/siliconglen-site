@@ -31,7 +31,7 @@ More recently, I have led process improvement, delivery and quality initiatives 
 
 Separately, an AI-assisted rewrite of the roughly 900-page siliconglen.scot website retained human review and analytics throughout rather than outsourcing judgement to the tool, and was followed by a measurable increase in traffic and revenue.
 
-I built this website from its design brief in under a week using two different LLMs, with human direction and review throughout. The public [Siliconglen site GitHub repository](https://github.com/siliconglen/siliconglen-site) records the full process.
+Craig built this website from its design brief in under a week using two different LLMs, with human direction and review throughout. The public [Siliconglen site GitHub repository](https://github.com/siliconglen/siliconglen-site) records the full process.
 
 ## AI-assisted decision support, critically challenged
 

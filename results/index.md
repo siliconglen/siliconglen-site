@@ -100,7 +100,7 @@ Craig contributed to identifying the security problem and delivering the secure 
 ### Approach
 The work connected diagnosis with implementation: understand the security issue, define a suitable response and carry it through to delivery.
 
-Further technical details are not available.
+The insecure existing procurement solution and site were identified as unfit for purpose and completely replaced—not patched or incrementally improved—with a new secure solution delivered in under three months, at approximately 98% under the initial budget estimate.
 
 ### Change
 A secure procurement solution replaced the unresolved security problem.
