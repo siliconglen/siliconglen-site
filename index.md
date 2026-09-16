@@ -138,7 +138,7 @@ description: "Siliconglen: critical thinking, delivery and Agile with Craig Cock
       </li>
       <li>
         <span class="figure">13</span>
-        <span class="desc"><strong>Southwark Council</strong>13 third-party suppliers and over 150 Southwark staff coordinated on a transformation delivered just ahead of schedule and within 0.2% under budget.</span>
+        <span class="desc"><strong>Southwark Council</strong>13 third-party suppliers and over 150 Southwark staff coordinated on a transformation delivered just ahead of schedule and within 0.2% under budget. The programme won <a href="https://www.bcs.org/events/awards-and-competitions/uk-it-industry-awards/previous-winners/uk-it-industry-awards-2010-winners/project-excellence-awards-2010/">IT Project Team of the Year</a> in the Project Excellence category at the BCS and Computing UK IT Industry Awards 2010.</span>
       </li>
       <li>
         <span class="figure">~900</span>
