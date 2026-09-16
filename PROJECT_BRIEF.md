@@ -106,7 +106,7 @@ References are Firewalkers, Red Team Thinking, Snehal Talati, James Stamford and
 
 ## 7. Evidence
 
-Priority candidates: six-hour government programme rescue and £19,300 external cost; CIO Council secure portal in under three months/about 98% under initial budget; Southwark's 13 suppliers/about 150 people and BCS award; VisitScotland e-commerce rescue; an approximately 900-page AI-assisted rewrite with analytics retained; and permissible enterprise work. Do not publish broader claims without evidence.
+Priority candidates: the Government Spending Challenge same-day incident response; CIO Council secure portal in under three months/about 98% under initial budget; Southwark's 13 third-party suppliers, over 150 staff and measured service outcomes; VisitScotland e-commerce rescue; an approximately 900-page AI-assisted rewrite with analytics retained; and permissible enterprise work. Do not publish broader claims without evidence.
 
 Case-study fields: situation, difficulty, Craig's role, approach, change, measured outcome, capabilities and optional testimonial/evidence.
 

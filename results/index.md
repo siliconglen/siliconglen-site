@@ -11,25 +11,25 @@ permalink: /results/
 
 These case studies expand the evidence summarised on the homepage. They use a consistent structure: situation, difficulty, Craig's role, approach, change and measured outcome. Where the source material does not yet provide a detail, the account does not manufacture one.
 
-## Government digital programme rescue
+## Government Spending Challenge
 
 ### Situation
-A government digital programme needed to move from requirements to launch.
+From May to August 2010, Craig was a Senior Project Manager at Directgov, managing significant web projects including HM Treasury's Government Spending Challenge website for the Office of No. 10 Downing Street. The service was [launched by the Prime Minister and Mark Zuckerberg](https://youtu.be/b5Bbzi7s1Ko).
 
 ### Difficulty
-The programme required rescue and an exceptionally rapid path from defining what was needed to putting it live.
+The service operated under head-of-government visibility and reached approximately **400,000 page views an hour** at peak. Shortly after launch, its open public-comment feature attracted a wave of inappropriate submissions, creating an immediate risk to public confidence.
 
 ### Craig's role
-Craig worked on the programme rescue, connecting the requirements to delivery.
+As Senior Project Manager, Craig identified the risk and led the incident response.
 
 ### Approach
-The work concentrated on the essential requirements and the practical implementation needed to reach launch. The available evidence does not support a more detailed public account of the organisation, team or techniques used.
+Craig redesigned the site with reduced interactivity and led its relaunch: from identifying the problem to restoring the service online, the turnaround happened on the same day.
 
 ### Change
-The programme moved from requirements to a launched result rather than remaining a plan.
+The revised service returned online with the immediate public-comment risk controlled. [The Drum's contemporaneous report covered its return](https://www.thedrum.com/news/governments-spending-challenge-site-back-online).
 
 ### Measured outcome
-Requirements to launch took **six hours**, with an external implementation cost of **£19,300**.
+The Spending Challenge saved the UK government **over £500 million**. The source is an [Institute for Government briefing note](https://www.instituteforgovernment.org.uk/publication/report/policy-making-real-world), which cites Delib's own 2010 case study, *The Spending Challenge – UK Government uses Dialogue App to save over £500m per year*.
 
 **Capabilities:** Critical Thinking · Delivery
 
@@ -58,22 +58,22 @@ The secure solution was delivered in **under three months**, at **roughly 98% un
 ## Southwark Council programme
 
 ### Situation
-A Southwark Council programme involved a large network of organisations and people.
+A Southwark Council digital transformation brought a substantial network of organisations and people together to improve the council's website, publishing capability and online services.
 
 ### Difficulty
-The delivery environment included **13 suppliers** and **around 150 people**, all requiring coordination around one programme.
+The delivery environment included **13 third-party suppliers**, **over 150 Southwark staff** and **five teams within delivery partner Vangent**, all requiring coordination around one programme.
 
 ### Craig's role
-Craig worked as Programme Manager, coordinating the participating suppliers and people around programme delivery.
+Craig worked as Programme Manager, coordinating the participating suppliers, Vangent teams and Southwark staff around programme delivery.
 
 ### Approach
-The work brought the participating suppliers and people together around programme delivery. A fuller account of governance or delivery techniques will require additional evidence before publication.
+The work brought the participating suppliers and people together, while developing Southwark's own capability. More than **150 web authors** were trained so that the council became self-sufficient on the new CMS; previously, it had paid a supplier upward of **£15,000 per change**.
 
 ### Change
-Multiple suppliers and a substantial group of participants were coordinated as one programme team.
+The redesigned service increased web use, improved accessibility and shifted more service requests and transactions to lower-cost online channels. Service-request processing time fell by **over 50%**, and online transactions saved **over 80%** of the cost of face-to-face servicing.
 
 ### Measured outcome
-The work was recognised as **BCS UK IT Project Team of the Year**.
+The programme was delivered **just ahead of schedule** and **within 0.2% under budget**. Web visitors increased by **40%**, traffic on interactive maps increased by **250%**, and **90%** of usability research respondents said the redesign made them more likely to use the site. The site rose **279 places** in an accessibility/DDA compliance review. The CMS investment achieved full payback within **six months**. Online parking services reached **40% migration to the web channel within one month** and were on track to save **over £144,000 a year**.
 
 **Capabilities:** Delivery · Organisational improvement
 

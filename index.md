@@ -107,8 +107,8 @@ description: "Siliconglen: critical thinking, delivery and Agile with Craig Cock
     <h2>Results</h2>
     <ul class="ledger">
       <li>
-        <span class="figure">6 hrs</span>
-        <span class="desc"><strong>Government digital programme rescue</strong>Requirements to launch in six hours, delivered at an external implementation cost of &pound;19,300.</span>
+        <span class="figure">Same day</span>
+        <span class="desc"><strong>Government Spending Challenge</strong>As a Directgov Senior Project Manager (May–August 2010), Craig managed significant web projects including HM Treasury's service for the Office of No. 10 Downing Street. <a href="https://youtu.be/b5Bbzi7s1Ko">Launched by the Prime Minister and Mark Zuckerberg</a>, it peaked at approximately 400,000 page views an hour and saved government over £500 million, as reported in an <a href="https://www.instituteforgovernment.org.uk/publication/report/policy-making-real-world">Institute for Government briefing note</a> citing Delib's 2010 case study. When inappropriate public submissions created an immediate risk shortly after launch, Craig identified the issue, redesigned the site with reduced interactivity and restored it online the same day; <a href="https://www.thedrum.com/news/governments-spending-challenge-site-back-online">The Drum reported its return</a>.</span>
       </li>
       <li>
         <span class="figure">&lt;3 mo</span>
@@ -116,7 +116,7 @@ description: "Siliconglen: critical thinking, delivery and Agile with Craig Cock
       </li>
       <li>
         <span class="figure">13</span>
-        <span class="desc"><strong>Southwark Council</strong>13 suppliers and around 150 people coordinated on one programme, recognised as BCS UK IT Project Team of the Year.</span>
+        <span class="desc"><strong>Southwark Council</strong>13 third-party suppliers and over 150 Southwark staff coordinated on a transformation delivered just ahead of schedule and within 0.2% under budget.</span>
       </li>
       <li>
         <span class="figure">~900</span>
