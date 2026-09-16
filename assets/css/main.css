@@ -21,7 +21,7 @@ a:focus-visible, summary:focus-visible { outline: .2rem solid var(--accent); out
 .wrapper, .section__inner, .site-header__inner { width: min(100% - 2rem, 76rem); margin-inline: auto; }
 .skip-link { position: fixed; z-index: 10; top: .5rem; left: .5rem; padding: .75rem 1rem; background: var(--ink); color: #fff; transform: translateY(-200%); }
 .skip-link:focus { transform: none; }
-.site-header { position: sticky; z-index: 5; top: 0; border-bottom: 1px solid var(--line); background: #f5f9fd; }
+.site-header { position: sticky; z-index: 5; top: 0; border-bottom: 1px solid var(--line); background: #eaf2fb; }
 .site-header__inner { display: flex; gap: 1rem; align-items: center; justify-content: space-between; min-height: 4.5rem; }
 .visually-hidden { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0; }
 .nav-menu-button, .nav-backdrop { display: none; }
@@ -31,7 +31,7 @@ a:focus-visible, summary:focus-visible { outline: .2rem solid var(--accent); out
 .nav-list { display: flex; flex-wrap: wrap; gap: .25rem; align-items: center; padding: 0; margin: 0; list-style: none; }
 .nav-list__link, .nav-list__toggle { display: inline-flex; min-height: 2.75rem; align-items: center; padding: .35rem .6rem; border-bottom: .2rem solid transparent; color: var(--ink); text-decoration: none; cursor: pointer; font-weight: 500; }
 .nav-list__link:hover, .nav-list__link:focus-visible,
-.nav-list__toggle:hover, .nav-list__toggle:focus-visible { border-bottom-color: var(--accent); background: #e3effa; color: var(--accent); }
+.nav-list__toggle:hover, .nav-list__toggle:focus-visible { border-bottom-color: var(--accent); background: #eaf2fb; color: var(--accent); }
 .nav-list__link[aria-current="page"] { border-bottom-color: var(--accent); color: var(--accent); }
 .nav-list__item--dropdown { position: relative; display: grid; grid-template-columns: 1fr auto; }
 .nav-list__dropdown { display: contents; }
@@ -44,7 +44,7 @@ a:focus-visible, summary:focus-visible { outline: .2rem solid var(--accent); out
 .nav-list__panel { position: absolute; z-index: 1; top: 100%; left: 0; display: grid; grid-template-columns: repeat(3, max-content); gap: .25rem; width: max-content; max-width: calc(100vw - 20rem); margin: 0; padding: .75rem; border: 1px solid var(--line); background: var(--paper); list-style: none; box-shadow: 0 6px 16px rgba(0,0,0,.12); }
 .nav-list__panel li { display: inline-flex; width: max-content; }
 .nav-list__panel a { display: flex; height: 100%; min-height: 3.5rem; align-items: center; padding: .65rem .8rem; color: var(--ink); font-size: .95rem; line-height: 1.3; text-decoration: none; }
-.nav-list__panel a:hover, .nav-list__panel a:focus-visible { background: #e3effa; color: var(--accent); text-decoration: none; }
+.nav-list__panel a:hover, .nav-list__panel a:focus-visible { background: #eaf2fb; color: var(--accent); text-decoration: none; }
 main { min-height: 60vh; scroll-margin-top: 8rem; }
 .page-header, .page-header h1, .prose h2, .prose h3 { scroll-margin-top: 8rem; }
 .page-header { padding-block: clamp(2.5rem, 8vw, 5rem) 2rem; border-bottom: 1px solid var(--line); }

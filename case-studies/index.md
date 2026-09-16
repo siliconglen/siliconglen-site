@@ -34,7 +34,7 @@ Craig redesigned the site with reduced interactivity and led its relaunch: from 
 The revised service returned online with the immediate public-comment risk controlled. [The Drum's contemporaneous report covered its return](https://www.thedrum.com/news/governments-spending-challenge-site-back-online).
 
 #### Measured outcome
-The Spending Challenge saved the UK government **over £500 million**. The source is an [Institute for Government briefing note](https://www.instituteforgovernment.org.uk/publication/report/policy-making-real-world), which cites Delib's own 2010 case study, *The Spending Challenge – UK Government uses Dialogue App to save over £500m per year*.
+The programme Craig's work supported went on to save the UK government **over £500 million**; the site enabled the public contribution that formed part of that wider programme. The source is an [Institute for Government briefing note](https://www.instituteforgovernment.org.uk/publication/report/policy-making-real-world), which cites Delib's own 2010 case study, *The Spending Challenge – UK Government uses Dialogue App to save over £500m per year*.
 
 **Capabilities:** Critical Thinking · Delivery
 

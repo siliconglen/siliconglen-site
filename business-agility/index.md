@@ -11,7 +11,7 @@ permalink: /business-agility/
 
 ## Agility that survives regulation and scale
 
-I have over 12 years in scaled agile delivery and programme management, specialising in enterprise agile coaching since 2018 across some of the most regulated, highest-stakes environments in the UK: Lloyds Banking Group, Royal Bank of Scotland, Morgan Stanley, BT, and Admiral Insurance, where I set up the Agile Centre of Excellence and trained over 500 people.
+I have over 12 years in scaled agile delivery and programme management, specialising in enterprise agile coaching since 2018 across some of the most regulated, highest-stakes environments in the UK: Lloyds Banking Group, Royal Bank of Scotland, Morgan Stanley, [BT]({{ '/case-studies/#enterprise-agile-coach-bt-mobile-tribe' | relative_url }}), and [Admiral Insurance]({{ '/case-studies/#enterprise-agile-coach-admiral-group-plc' | relative_url }}), where I set up the Agile Centre of Excellence and trained over 500 people.
 
 More recently, I have led on the roll out of agile at Kuberno, a NASDAQ-funded fintech startup, worked as an Enterprise Agile Coach at Allied Irish Bank in Dublin, and coached at Jaguar Land Rover, embedding agile ways of working across manufacturing plants rather than just software teams.
 
