@@ -107,6 +107,13 @@ h3 { margin: 0 0 .5rem; font-size: 1.25rem; }
 .section--card { background: var(--paper-2); }
 .section--tint { background: #eaf2fb; }
 
+/* Text-only proof band; client logos require explicit permission before use. */
+.proof-band { padding-block: clamp(2.5rem, 6vw, 4rem); border-bottom: 1px solid #163e35; background: var(--accent); color: #fff; }
+.proof-band .section-eyebrow { color: #d7eee8; }
+.proof-band p { max-width: var(--measure); }
+.proof-band__list { display: flex; flex-wrap: wrap; gap: .75rem; margin: 1.75rem 0 0; padding: 0; list-style: none; }
+.proof-band__list li { padding: .55rem .9rem; border: 1px solid rgba(255,255,255,.55); font-weight: 700; line-height: 1.3; }
+
 /* Hero */
 .hero { padding-block: clamp(2.5rem, 8vw, 5rem) clamp(2rem, 5vw, 3rem); }
 .hero__grid { display: grid; gap: 2.5rem; grid-template-columns: 1.8fr 1fr; align-items: center; }

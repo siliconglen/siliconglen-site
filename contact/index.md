@@ -47,7 +47,7 @@ permalink: /contact/
   <input type="text" name="_gotcha" class="form-honeypot" tabindex="-1" autocomplete="off" aria-hidden="true">
   <input type="hidden" name="_subject" value="New enquiry from siliconglen.com">
 
-  <p class="form-consent">By submitting this form, you agree that Craig can contact you by email about your enquiry. Your details will not be passed to anyone else.</p>
+  <p class="form-consent">By submitting this form, you agree that Craig can contact you by email about your enquiry.</p>
 
   <div class="form-actions">
     <button type="submit" class="btn btn--primary">Send message</button>
@@ -55,3 +55,13 @@ permalink: /contact/
 </form>
 
 <p class="form-alt-contact">Prefer email directly? Write to <a href="mailto:craig@siliconglen.com">craig@siliconglen.com</a>.</p>
+
+## What happens next
+
+Craig reads every enquiry personally and will normally reply within two working days. The first response may ask a few focused questions or suggest a short introductory call; there is no obligation, and any scope, timing and fees will be agreed before work starts.
+
+Work can be delivered remotely worldwide. On-site work is available across the UK and Ireland, and internationally by arrangement.
+
+## Privacy note
+
+This form uses Formspree to process the details you submit and deliver them to Craig. Formspree therefore receives the information entered above as a service provider. Siliconglen uses it only to respond to and follow up your enquiry, does not sell it, and does not add you to a marketing list. Please do not include confidential or sensitive information in the form; email Craig first if your enquiry requires a more suitable channel.

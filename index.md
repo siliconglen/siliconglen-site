@@ -8,7 +8,10 @@ description: "Siliconglen: critical thinking, delivery and Agile with Craig Cock
     <div>
       <p class="section-eyebrow">Critical Thinking · Delivery · Agile</p>
       <h1>Think clearer.<br>Decide better.<br>Deliver what matters.</h1>
-      <p class="lede">I'm Craig Cockburn. I help leaders and organisations challenge assumptions, make better decisions and turn those decisions into results. Over 25 years in the industry, spanning retail, banking, insurance, manufacturing and public sector, I combine hands-on programme delivery with critical thinking and Red Team Thinking® to cut through noise and get to what actually matters.</p>
+      <p class="lede">I'm Craig Cockburn. I founded Siliconglen in 2001, so the practice has been running for 25+ years. I help leaders and organisations challenge assumptions, make better decisions and turn those decisions into results.</p>
+      <p>For 14+ years I have coached leaders and delivery teams, including establishing Agile Centres of Excellence. I combine that experience with hands-on programme delivery, critical thinking and Red Team Thinking® to cut through noise and get to what actually matters.</p>
+      <p><strong>Head of Function at a £100M+ turnover company (Platinum Investors in People), leading IT delivery and org-wide process improvement, since March 2026.</strong></p>
+      <p>Clients engage me personally, with delivery through Siliconglen Ltd. It is a solo practice, not a larger consultancy or associate network.</p>
       <div class="tag-row">
         <a class="tag" href="{{ '/work-with-me/critical-thinking/' | relative_url }}">Critical Thinking</a>
         <a class="tag" href="{{ '/work-with-me/programme-delivery/' | relative_url }}">Delivery</a>
@@ -26,6 +29,28 @@ description: "Siliconglen: critical thinking, delivery and Agile with Craig Cock
       </div>
       <figcaption>Temporary stock photo, real photography to follow</figcaption>
     </figure>
+  </div>
+</section>
+
+<section class="proof-band" aria-labelledby="experience-heading">
+  <div class="section__inner">
+    <p class="section-eyebrow">Experience includes</p>
+    <h2 id="experience-heading">Across industry and public service</h2>
+    <p>Representative organisations from Craig's employed, contracted and consulting engagements include:</p>
+    <!-- Real client logos must not be added without permission; use text wordmarks only. -->
+    <ul class="proof-band__list" aria-label="Representative organisations">
+      <li>Royal Bank of Scotland</li>
+      <li>Morgan Stanley</li>
+      <li>Admiral Group</li>
+      <li>AIB</li>
+      <li>BT</li>
+      <li>Lloyds Banking Group</li>
+      <li>Jaguar Land Rover</li>
+      <li>HMRC</li>
+      <li>DWP</li>
+      <li>the Scottish Government</li>
+      <li>Southwark Council</li>
+    </ul>
   </div>
 </section>
 
@@ -136,49 +161,25 @@ description: "Siliconglen: critical thinking, delivery and Agile with Craig Cock
   </div>
 </section>
 
+{% assign featured_talks = site.talks | where: "featured", true %}
+{% if featured_talks.size > 0 %}
 <section class="section reveal">
   <div class="section__inner">
     <p class="section-eyebrow">Speaking</p>
     <h2>Talks and video</h2>
-    {% assign featured_talks = site.talks | where: "featured", true %}
-    {% if featured_talks.size > 0 %}
-      <div class="grid grid--3">
-        {% for talk in featured_talks limit: 3 %}
-          <div class="card">
-            <h3>{{ talk.title }}</h3>
-            <p>{{ talk.description }}</p>
-            <p><a href="{{ talk.url | relative_url }}">Watch &amp; read</a></p>
-          </div>
-        {% endfor %}
-      </div>
-    {% else %}
-      <p class="stub-note">Talks are being added. Visit the Speaking section for what's confirmed so far.</p>
-    {% endif %}
+    <div class="grid grid--3">
+      {% for talk in featured_talks limit: 3 %}
+        <div class="card">
+          <h3>{{ talk.title }}</h3>
+          <p>{{ talk.description }}</p>
+          <p><a href="{{ talk.url | relative_url }}">Watch &amp; read</a></p>
+        </div>
+      {% endfor %}
+    </div>
     <p><a href="{{ '/speaking/' | relative_url }}">All speaking &amp; video</a></p>
   </div>
 </section>
-
-<section class="section section--card reveal">
-  <div class="section__inner">
-    <p class="section-eyebrow">Insights</p>
-    <h2>Recent thinking</h2>
-    {% assign recent_articles = site.articles | sort: "date" | reverse %}
-    {% if recent_articles.size > 0 %}
-      <div class="grid grid--3">
-        {% for article in recent_articles limit: 3 %}
-          <div class="card">
-            <h3>{{ article.title }}</h3>
-            <p>{{ article.description }}</p>
-            <p><a href="{{ article.url | relative_url }}">Read more</a></p>
-          </div>
-        {% endfor %}
-      </div>
-    {% else %}
-      <p class="stub-note">Articles are being written. Check back soon, or visit Insights directly.</p>
-    {% endif %}
-    <p><a href="{{ '/insights/' | relative_url }}">All insights</a></p>
-  </div>
-</section>
+{% endif %}
 
 <section class="section reveal">
   <div class="section__inner">
