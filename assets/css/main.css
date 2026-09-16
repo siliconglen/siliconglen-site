@@ -55,8 +55,16 @@ h1 { margin: 0; max-width: none; font-size: clamp(2.25rem, 6vw, 3.5rem); }
 h2 { margin: 0 0 1rem; font-size: clamp(1.75rem, 4vw, 2.5rem); }
 h3 { margin: 0 0 .5rem; font-size: 1.25rem; }
 .lede { max-width: var(--measure); font-size: 1.25rem; color: var(--muted); }
-.prose { padding-bottom: 4rem; }
+.prose { padding-block: clamp(2.5rem, 6vw, 4rem) 4rem; }
 .prose > p, .prose > ul, .prose > ol { max-width: var(--measure); }
+.prose > h2 { margin: clamp(3.5rem, 7vw, 5rem) 0 1rem; }
+.prose > h2:first-child { margin-top: 0; }
+.prose > h3 { margin: 2rem 0 .5rem; }
+.prose > h2 + h3 { margin-top: 1.75rem; }
+.prose--case-studies > h2:not(:first-child) {
+  padding-top: clamp(2rem, 4vw, 3rem);
+  border-top: 1px solid var(--line);
+}
 .eyebrow, .section-eyebrow { margin: 0 0 .5rem; font-weight: 600; font-size: .85rem; text-transform: uppercase; letter-spacing: .04em; color: var(--muted); }
 .tag-row { display: flex; flex-wrap: wrap; gap: .5rem; margin-top: 1.25rem; }
 .tag { padding: .35rem .85rem; border: 1px solid var(--line); border-radius: 999px; background: var(--paper-2); color: var(--ink); font-size: .85rem; font-weight: 600; text-decoration: none; }
@@ -162,7 +170,15 @@ h3 { margin: 0 0 .5rem; font-size: 1.25rem; }
 .form-field textarea { min-height: 9rem; resize: vertical; }
 .form-actions .btn { min-width: 10rem; }
 .form-honeypot { position: absolute; left: -9999px; }
-iframe { display: block; width: 100%; max-width: 100%; aspect-ratio: 16 / 9; height: auto; border: 0; }
+.media-embed {
+  display: block;
+  width: 100%;
+  max-width: 48rem;
+  aspect-ratio: 16 / 9;
+  height: auto;
+  margin: 2rem auto clamp(3rem, 6vw, 4.5rem);
+  border: 0;
+}
 @media (max-width: 32rem) {
   .form-actions .btn { width: 100%; justify-content: center; }
 }
