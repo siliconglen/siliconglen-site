@@ -7,6 +7,8 @@ description: "Use adaptive delivery, feedback and organisational learning to hel
 permalink: /work-with-me/agile-coaching/
 ---
 
+**For Craig's broader business agility track record, see [Business Agility]({{ '/work-with-me/business-agility/' | relative_url }}).**
+
 ## Agile should improve delivery, not become the destination
 
 An organisation can adopt Agile language and activity while the important constraints remain untouched. The useful question is not whether a framework is being followed, but whether the organisation can deliver valuable outcomes, learn from evidence and respond intelligently.
@@ -25,6 +27,8 @@ The coaching connects adaptive delivery and organisational improvement with stro
 ## How the work happens
 
 We begin with the organisation's problem, not a standard transformation recipe. We understand the current delivery system, agree where improvement matters and introduce proportionate changes. Delivery provides evidence; that evidence shapes the next decision and improvement.
+
+An engagement may be a short diagnostic followed by a focused coaching plan, regular team and leadership coaching over an agreed period, or embedded support for a wider change. Sessions can run on-site, online or in a blended format. We agree the participants, cadence, measures of improvement and handover so the organisation builds capability rather than dependence.
 
 ## What you leave with
 

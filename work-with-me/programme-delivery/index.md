@@ -7,6 +7,8 @@ description: "Hands-on support for complex programmes and change where coordinat
 permalink: /work-with-me/programme-delivery/
 ---
 
+**For Craig's broader delivery track record, see [Delivery]({{ '/work-with-me/delivery/' | relative_url }}).**
+
 ## Plans do not deliver themselves
 
 Complex programmes have to connect decisions, people, suppliers, dependencies and changing evidence. When those parts drift apart, more reporting does not necessarily create more control.
@@ -23,6 +25,8 @@ I bring critical thinking into delivery: clarify the outcome, expose the constra
 - Using feedback to adapt the approach while protecting the outcome.
 
 ## How the work happens
+
+The engagement can be a focused diagnostic and recovery plan, interim hands-on leadership for a programme or project, or delivery support through to an agreed outcome. Scope, working pattern, governance and decision authority are agreed up front to fit the scale and urgency of the work.
 
 ### Understand the situation
 We establish what must be delivered, what has already been decided and where reality differs from the plan.
