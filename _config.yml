@@ -12,7 +12,7 @@ plugins:
 collections:
   case_studies:
     output: true
-    permalink: /results/case-studies/:name/
+    permalink: /case-studies/:name/
   talks:
     output: true
     permalink: /insights/talks/:name/

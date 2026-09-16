@@ -67,7 +67,7 @@ Every page's identity lockup must read "SILICONGLEN, Craig Cockburn".
   insights/
     articles/
     talks/
-  results/
+  case-studies/
     case-studies/
   about/
   contact/

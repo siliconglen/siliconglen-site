@@ -15,7 +15,7 @@ My delivery track record spans e-commerce rescue, multi-supplier transformation,
 
 At VisitScotland, I led the e-commerce rescue and platform delivery for the Scottish Tourist Board's online booking platform, rebuilding the delivery team and process after the original development team was poached shortly before a hard external deadline, and identifying supplier bugs that resulted in six-figure fines against the supplier.
 
-At Southwark Council, I managed a complex, award-winning digital transformation across multiple suppliers and teams. [Read the full Southwark Council programme result]({{ '/results/#southwark-council-programme' | relative_url }}).
+At Southwark Council, I managed a complex, award-winning digital transformation across multiple suppliers and teams. [Read the full Southwark Council programme case study]({{ '/case-studies/#southwark-council-programme' | relative_url }}).
 
 From 2007 I moved into public sector programme and project management, including launching the pilot that became mygov.scot for the Scottish Government.
 
@@ -44,4 +44,4 @@ If you need someone to take on a struggling programme, stand up delivery capabil
 
 [Explore Team Turnaround Workshops]({{ '/work-with-me/team-turnaround-workshops/' | relative_url }})
 
-[See full results and case studies]({{ '/results/' | relative_url }})
+[See the Delivery case studies]({{ '/case-studies/#delivery' | relative_url }})
