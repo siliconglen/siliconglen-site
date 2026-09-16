@@ -11,9 +11,9 @@ permalink: /about/
 
 ## Understand the real problem before trying to solve it
 
-**Craig Cockburn CITP CEng FBCS** helps leaders think more clearly, decide with confidence, and deliver complex change — combining programme and project delivery rooted in 2007, 14+ years coaching leaders and delivery teams, including establishing Agile Centres of Excellence, with Red Team Thinking® and applied critical thinking since 2020 and strategy visualisation since 2019, across banking, insurance, manufacturing, and public sector. He also has 16 years' non-executive board experience.
+**Craig Cockburn** helps leaders think more clearly, decide with confidence, and deliver complex change — combining programme and project delivery rooted in 2007, 14+ years coaching leaders and delivery teams, including establishing Agile Centres of Excellence, with Red Team Thinking® and applied critical thinking since 2020 and strategy visualisation since 2019, across banking, insurance, manufacturing, and public sector. He also has 16 years' non-executive board experience.
 
-Craig is a Chartered IT Professional, Chartered Engineer and Fellow of BCS; a Chartered Manager and Chartered Fellow of CMI; a Certified Red Team Coach (Gold), Red Team Thinking; and a Certified Red Team Instructor, Red Team Thinking. His work runs from software and the early internet, through complex programme delivery, to organisational systems, critical thinking and AI. The context has changed, but the thread is consistent: understand the real problem, test the assumptions and turn a sound decision into a useful result.
+Craig has been a Chartered Engineer and Chartered IT Professional with the British Computer Society since 2005 and a Chartered IT Professional Fellow since 30 March 2012. He has been a Fellow of the Chartered Management Institute since 31 January 2013 and a Chartered Manager since 10 September 2018. He is also a Certified Red Team Coach (Gold), Red Team Thinking, and a Certified Red Team Instructor, Red Team Thinking. His work runs from software and the early internet, through complex programme delivery, to organisational systems, critical thinking and AI. The context has changed, but the thread is consistent: understand the real problem, test the assumptions and turn a sound decision into a useful result.
 
 Siliconglen brings that work together as one blended practice. Critical Thinking sharpens the question and the decision. Delivery translates it into a working outcome. Agile supports adaptive delivery and improvement after the work meets reality. None is presented as a separate business or a complete answer on its own.
 
@@ -51,10 +51,12 @@ Craig has 16 years' experience as a non-executive director. He served on the boa
 
 Professional standing and higher education:
 
-- **Craig Cockburn CITP CEng FBCS** — Chartered IT Professional, Chartered Engineer and Fellow of BCS.
-- **Chartered Manager and Chartered Fellow, CMI** (awarded 2018).
-- **Master of Science with Distinction, Large Systems Software Development, Napier University** (1994), awarded the class medal as the top student in the cohort.
-- **Bachelor of Science (Honours), Computer Science, University of Edinburgh**, with distinction in Artificial Intelligence.
+- Chartered Engineer and Chartered IT Professional, British Computer Society (since 2005)
+- Chartered IT Professional Fellow, British Computer Society (30/03/2012)
+- Fellow, Chartered Management Institute (FCMI) (31/01/2013)
+- Chartered Manager, Chartered Management Institute (CMgr FCMI) (10/09/2018)
+- Master of Science with Distinction, Large Systems Software Development, Napier University (24/11/1994), with class medal
+- BSc (Hons) Computer Science, Edinburgh University (1983–1987)
 - **Executive Diploma in Digital Business (with Distinction), Academy of Digital Business Leaders** (2016), achieving the highest marks of the 120 UK business leaders on the programme.
 
 Critical thinking, Agile and delivery certifications:
