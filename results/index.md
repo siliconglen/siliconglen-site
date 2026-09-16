@@ -5,6 +5,7 @@ eyebrow: Evidence, not claims
 intro: Selected outcomes showing how critical thinking, delivery and improvement connect in practice.
 description: "Siliconglen results: evidence from government delivery, secure procurement, complex supplier coordination and AI-assisted publishing."
 permalink: /results/
+prose_class: prose--case-studies
 ---
 
 ## Outcomes matter more than a method catalogue

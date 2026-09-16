@@ -35,7 +35,7 @@ Given as part of the Agile20Reflect Festival, on visualising and iterating strat
 
 ## All talks
 
-<iframe width="100%" height="450" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL1_uFW2b_gsd_6qZqgFLJCrJ1y0a8Cpom" title="Craig Cockburn speaking playlist" frameborder="0" allowfullscreen></iframe>
+<iframe class="media-embed" width="100%" height="450" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL1_uFW2b_gsd_6qZqgFLJCrJ1y0a8Cpom" title="Craig Cockburn speaking playlist" allowfullscreen></iframe>
 
 ## What a session can cover
 

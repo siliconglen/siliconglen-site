@@ -16,6 +16,6 @@ layout: default
     {% endif %}
   </div>
 </header>
-<article class="wrapper prose">
+<article class="wrapper prose{% if page.prose_class %} {{ page.prose_class }}{% endif %}">
   {{ content }}
 </article>
