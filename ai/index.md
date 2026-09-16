@@ -29,6 +29,8 @@ In his current role, Craig has designed and built, assisted by AI, a customer on
 
 Separately, an AI-assisted rewrite of the roughly 900-page siliconglen.scot website retained human review and analytics throughout rather than outsourcing judgement to the tool, and was followed by a measurable increase in traffic and revenue.
 
+This website is another small, live example of AI-assisted development. It went from a design brief to a production-ready site in under a week, using two different LLMs, with human direction and review throughout. The full build history is verifiable in the public [Siliconglen site GitHub repository](https://github.com/siliconglen/siliconglen-site).
+
 ## AI-assisted decision support, critically challenged
 
 Craig is certified in Red Team Thinking® in the Age of AI (July 2026), bringing a structured critical-thinking discipline specifically to how teams use AI for decision support: getting genuine value from AI's speed and breadth, while making sure its output is interrogated and verified rather than accepted on trust.
