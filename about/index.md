@@ -9,7 +9,9 @@ permalink: /about/
 
 ## Understand the real problem before trying to solve it
 
-Craig's work runs from software and the early internet, through complex programme delivery, to organisational systems, critical thinking and AI. The context has changed, but the thread is consistent: understand the real problem, test the assumptions and turn a sound decision into a useful result.
+**Craig Cockburn CITP CEng FBCS** is Head of Function at a £100M+ turnover, Platinum Investors in People company, leading IT delivery and organisation-wide process improvement. He has coached leaders and delivery teams for 14+ years and has 16 years' non-executive board experience. He founded Siliconglen in 2001.
+
+Craig is a Chartered IT Professional, Chartered Engineer and Fellow of BCS; a Chartered Manager and Chartered Fellow of CMI; a Certified Red Team Coach (Gold), Red Team Thinking; and a Certified Red Team Instructor, Red Team Thinking. His work runs from software and the early internet, through complex programme delivery, to organisational systems, critical thinking and AI. The context has changed, but the thread is consistent: understand the real problem, test the assumptions and turn a sound decision into a useful result.
 
 Siliconglen brings that work together as one blended practice. Critical Thinking sharpens the question and the decision. Delivery translates it into a working outcome. Agile supports adaptive delivery and improvement after the work meets reality. None is presented as a separate business or a complete answer on its own.
 
@@ -37,35 +39,52 @@ Craig also managed a Southwark Council digital transformation involving 13 third
 
 From 2007 onwards Craig moved into public sector programme and project management, including launching the pilot that became mygov.scot for the Scottish Government, before specialising in enterprise agile coaching from 2018: Lloyds Banking Group, Royal Bank of Scotland, Morgan Stanley, BT, and Admiral Insurance, where he set up the Agile Centre of Excellence and trained 500+ people.
 
-More recently, Craig has worked leading on the roll out of agile at Kuberno, as an Enterprise Agile Coach at Allied Irish Bank in Dublin, and as an Agile Coach at Jaguar Land Rover, embedding agile ways of working across manufacturing plants in Birmingham and Liverpool. Since 2023, through Siliconglen Ltd, he has delivered SAFe training internationally, spoken and trained on critical thinking in Romania, India and Malta, and led an AI-assisted rewrite of a 900-page website that delivered a 260% increase in visits and over 500% increase in revenue the following month.
-
-Head of Function at a £100M+ turnover company (Platinum Investors in People), leading IT delivery and org-wide process improvement, since March 2026.
+More recently, Craig has worked leading on the roll out of agile at Kuberno, as an Enterprise Agile Coach at Allied Irish Bank in Dublin, and as an Agile Coach at Jaguar Land Rover, embedding agile ways of working across manufacturing plants in Birmingham and Liverpool. Since 2023, through Siliconglen Ltd, he has delivered SAFe training internationally, spoken and trained on critical thinking in Romania, India and Malta, and led an AI-assisted rewrite of a 900-page website that delivered a 260% increase in visits and over 500% increase in revenue the following month. Since March 2026, he has been Head of Function at a £100M+ turnover company, leading IT delivery and organisation-wide process improvement.
 
 ## Boards and directorships
 
-Craig has served as a Director of Dot Scot Registry (2012 to 2023), the Scottish Government-backed not-for-profit regulator for the .scot domain, and of Comann an Luchd-Ionnsachaidh, the Gaelic learners' educational charity (1992 to 1998).
+Craig has 16 years' experience as a non-executive director. He served on the boards of Dot Scot Registry (2012 to 2023), the Scottish Government-backed not-for-profit regulator for the .scot domain, and Comann an Luchd-Ionnsachaidh, the Gaelic learners' educational charity (1992 to 1998).
 
 ## Credentials
 
-Craig is a Chartered Fellow of the British Computer Society (CITP, CEng, FBCS) and a Chartered Manager and Fellow of the Chartered Management Institute (CMgr FCMI). He holds SAFe Practice Consultant (SPC6) and SAFe Lean Portfolio Manager certifications, is a Professional Scrum Master (PSM-1), and holds PRINCE2 and Managing Successful Programmes (MSP) Foundation and Practitioner qualifications. He is a Certified Red Team Coach (Gold) and Certified Red Team Instructor, having taught Red Team Thinking in India, Romania, Malta and online, and is certified in Red Team Thinking® in the Age of AI (July 2026).
+Professional standing and higher education:
 
-He holds an M.Sc. in Large Software Systems Development from Napier University (with class medal and distinction) and a B.Sc. (Honours) in Computer Science from the University of Edinburgh, with distinction in Artificial Intelligence.
+- **Craig Cockburn CITP CEng FBCS** — Chartered IT Professional, Chartered Engineer and Fellow of BCS.
+- **Chartered Manager and Chartered Fellow, CMI** (awarded 2018).
+- **Master of Science with Distinction, Large Systems Software Development, Napier University** (1994), awarded the class medal as the top student in the cohort.
+- **Bachelor of Science (Honours), Computer Science, University of Edinburgh**, with distinction in Artificial Intelligence.
+- **Executive Diploma in Digital Business (with Distinction), Academy of Digital Business Leaders** (2016), achieving the highest marks of the 120 UK business leaders on the programme.
+
+Critical thinking, Agile and delivery certifications:
+
+- **Certified Red Team Coach (Gold), Red Team Thinking** (awarded 16 July 2024).
+- **Certified Red Team Instructor, Red Team Thinking** (awarded October 2025). Craig has taught Red Team Thinking in India, Romania, Malta and online.
+- **Red Team Thinking® in the Age of AI** (July 2026).
+- **Certified SAFe 6 Practice Consultant** and **Certified SAFe 6 Lean Portfolio Manager**. Craig is qualified to teach SAFe across multiple course tracks, including Leading SAFe, Product Owner/Product Manager and Scrum Master.
+- **ICAgile Certified Professional – Agility in the Enterprise (ICP-ENT)** (September 2018).
+- **ICAgile Certified Professional – Coaching Agile Transitions (ICP-CAT)** (February 2019).
+- **Professional Scrum Master I (PSM-1)**, since 2011.
+- **PRINCE2 Foundation & Practitioner**, **MSP Foundation & Practitioner**, and **DSDM Atern Foundation**.
 
 ## Publications and recognition
 
-Craig is co-author of *Agile: An Unexpected Journey* and wrote the foreword to *Your Guide to Passing the PSM-I Assessment*. He is named in the official W3C HTML5 specification acknowledgements, and is thanked in Mike Burrows' *Agendashift*.
+Craig is a co-listed author of *Agile: An Unexpected Journey*. He wrote the foreword for and verified the content of *Your Guide to Passing the PSM Assessment*, and is thanked by name in Mike Burrows' *Agendashift*.
 
 In 2025, following consultation with Professor Shane Frederick of Yale's School of Management, Craig published a paper offering a small correction to how Daniel Kahneman's *Thinking, Fast and Slow* summarised Frederick's own research.
-
-In 1990, Craig drafted a patent application for a keyboardless, laptop-shaped device for browsing pages and following links, complete with bookmarks and personalised news, predating the web browser and Digital's first PC launch. The application stalled when internal sponsorship changed and was never filed.
 
 ## Speaking
 
 Craig has given talks at Agile Tour London, agile20reflect (which he co-organised in 2021), and as a guest conference speaker on product management and organisational decision-making in Cluj, Romania and Bangalore, India. He has also guest lectured at Edinburgh Napier University and the University of Edinburgh.
 
-## Before agile: a long-running campaign for smoke-free pubs
+## Earlier work and curiosities
+
+*Optional background beyond Craig's core professional credentials.*
+
+In 1990, Craig drafted a patent application for a keyboardless, laptop-shaped device for browsing pages and following links, complete with bookmarks and personalised news, predating the web browser and Digital's first PC launch. The application stalled when internal sponsorship changed and was never filed.
 
 Long before "critical thinking" became Craig's professional focus, he ran a one-man campaign for smoke-free areas in pubs, starting in 1990. The campaign was featured on Channel 4's consumer programme Checkout, reaching an estimated 3 million viewers according to the production company at the time. Craig was later credited in the acknowledgements of the 1992 ASH guidebook Eat, Drink & Sleep Smoke-Free for his help tracking down smoke-free pubs, sat on the ASH Scotland expert panel on smoking in public places, and gave written evidence to the Scottish Parliament's Health Committee in 2004 in support of the smoking ban that followed in 2006. He also has an unlikely claim to fame: he and Noam Chomsky were two of only fourteen people listed under 'Philosophers and Deep Thinkers' in Seth Godin's 1994 book *E-Mail Addresses of the Rich & Famous*.
+
+Other curiosities include an IMDb-listed Gaelic film credit and being named in the official W3C HTML5 specification acknowledgements.
 
 ## Wider work
 

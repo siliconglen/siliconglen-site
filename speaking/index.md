@@ -13,6 +13,12 @@ Speaking can give people a shared question, challenge a comfortable assumption a
 
 Craig has given 30+ talks on strategy, critical thinking, Red Team Thinking, structuring and visualising talks, neurodiversity, and ways of working, at conferences and events including Agile Lithuania, Agile India, conferences in Romania, and Agile Tour London.
 
+## Relevant credentials and authorship
+
+Craig is a **Certified Red Team Coach (Gold), Red Team Thinking** (awarded 16 July 2024) and a **Certified Red Team Instructor, Red Team Thinking** (awarded October 2025). He is also a Certified SAFe 6 Practice Consultant, qualified to teach course tracks including Leading SAFe, Product Owner/Product Manager and Scrum Master.
+
+He wrote the foreword for and verified the content of *Your Guide to Passing the PSM Assessment*, is a co-listed author of *Agile: An Unexpected Journey*, and is thanked by name in Mike Burrows' *Agendashift*.
+
 ## Featured talks
 
 ### Red Team Thinking: critical thinking practices to support more proactive agility

@@ -13,7 +13,7 @@ image_alt: "Temporary generic stock photo standing in for a real photograph repr
 
 A strategy can be coherent, well researched and widely supported while still resting on assumptions that nobody has tested. The more work invested in it, the harder those assumptions can become to see or question.
 
-Red Team Thinking® provides a structured, constructive challenge. The methodology was developed from military and intelligence tradecraft and brought into business by bestselling author Bryce G. Hoffman. As a Certified Red Team Instructor, Craig delivers the training under licence, tailored to your organisation's actual challenges rather than a generic script.
+Red Team Thinking® provides a structured, constructive challenge. The methodology was developed from military and intelligence tradecraft and brought into business by bestselling author Bryce G. Hoffman. As a Certified Red Team Instructor, Red Team Thinking (awarded October 2025), Craig delivers the training under licence, tailored to your organisation's actual challenges rather than a generic script. He separately holds the Certified Red Team Coach (Gold), Red Team Thinking credential, awarded 16 July 2024.
 
 The purpose is not to criticise for effect or replace the people responsible for a decision. It is to give your team practical methods for examining how conclusions were reached, finding missing perspectives and testing whether plans remain credible when conditions change.
 
