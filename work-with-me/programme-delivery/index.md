@@ -7,7 +7,7 @@ description: "Hands-on support for complex programmes and change where coordinat
 permalink: /work-with-me/programme-delivery/
 ---
 
-**For my broader delivery track record, see [Delivery]({{ '/work-with-me/delivery/' | relative_url }}).**
+**For my broader delivery track record, see [Delivery]({{ '/delivery/' | relative_url }}).**
 
 ## Plans do not deliver themselves
 

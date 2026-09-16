@@ -4,7 +4,7 @@ title: Critical Thinking
 eyebrow: Work with me
 intro: Challenge assumptions, examine evidence and make decisions you can explain and act on.
 description: "Critical thinking support with Craig Cockburn: frame the real problem, test assumptions and evidence, and make clearer, defensible decisions."
-permalink: /work-with-me/critical-thinking/
+permalink: /critical-thinking/
 ---
 
 ## See the problem clearly before solving it

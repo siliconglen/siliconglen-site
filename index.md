@@ -10,7 +10,7 @@ description: "Siliconglen: critical thinking, delivery and Agile with Craig Cock
       <h1>Think clearer.<br>Decide better.<br>Deliver what matters.</h1>
       <p class="lede">I'm Craig Cockburn. I help leaders think more clearly, decide with confidence, and deliver complex change — combining programme and project delivery rooted in 2007, 14+ years coaching leaders and delivery teams, including establishing Agile Centres of Excellence, with Red Team Thinking® and applied critical thinking since 2020 and strategy visualisation since 2019, across banking, insurance, manufacturing, and public sector.</p>
       <div class="tag-row">
-        <a class="tag" href="{{ '/work-with-me/critical-thinking/' | relative_url }}">Critical Thinking</a>
+        <a class="tag" href="{{ '/critical-thinking/' | relative_url }}">Critical Thinking</a>
         <a class="tag" href="{{ '/work-with-me/programme-delivery/' | relative_url }}">Delivery</a>
         <a class="tag" href="{{ '/work-with-me/agile-coaching/' | relative_url }}">Agile</a>
         <a class="tag" href="{{ '/work-with-me/red-team-thinking/' | relative_url }}">Red Team Thinking&reg;</a>
@@ -105,7 +105,7 @@ description: "Siliconglen: critical thinking, delivery and Agile with Craig Cock
         <svg class="card-icon" viewBox="0 0 24 24" width="32" height="32" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m20 20-4.35-4.35"/></svg>
         <h3>Critical Thinking</h3>
         <p>Including Red Team Thinking&reg;: challenging assumptions and exposing blind spots before they become expensive.</p>
-        <p><a href="{{ '/work-with-me/critical-thinking/' | relative_url }}">More on Critical Thinking</a></p>
+        <p><a href="{{ '/critical-thinking/' | relative_url }}">More on Critical Thinking</a></p>
       </div>
       <div class="card">
         <svg class="card-icon" viewBox="0 0 24 24" width="32" height="32" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M7 17 17 7"/><path d="M9 7h8v8"/></svg>
