@@ -42,7 +42,7 @@ Evidence from delivery informs the next decision rather than being hidden by the
 
 ## Control that connects to delivery
 
-I make the outcome, owners, supplier dependencies, governance cadence and blocked decisions visible, then connect each to action. That is the discipline I used while coordinating 13 third-party suppliers, over 150 council staff and five delivery-partner teams on the Southwark programme. Where an engagement includes implementation, the purpose is a delivered result—not advice left on a shelf.
+I make the outcome, owners, supplier dependencies, governance cadence and blocked decisions visible, then connect each to action. That is the discipline I used while coordinating 13 third-party suppliers, over 150 council staff and five delivery-partner teams on the [Southwark programme]({{ '/case-studies/#southwark-council-programme' | relative_url }}). Where an engagement includes implementation, the purpose is a delivered result—not advice left on a shelf.
 
 ## When this is useful
 

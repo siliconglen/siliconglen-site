@@ -10,6 +10,7 @@ is authorised to change and why.
 - Accent colour is Scottish Saltire blue: #005eb8
 - Tint background: #eaf2fb
 - Button hover/focus: #003d78
+- Banned: #f5f9fd, #e3effa, and any other blue tint not listed above. Only #005eb8 (accent), #eaf2fb (tint), and #003d78 (hover/focus) are permitted blue values anywhere on the site.
 - No other accent colour (teal, green, or otherwise) may be introduced anywhere on the site.
 
 ## Typography
@@ -17,12 +18,11 @@ is authorised to change and why.
 - Fallback stack: Arial, Helvetica, sans-serif.
 
 ## Navigation
-- Top-level navigation is exclusively for evidence/case-study pages: what Craig has already done.
+- Top-level navigation includes evidence pages (Critical Thinking, Delivery, Business Agility, AI, Case Studies) alongside the necessary navigational items Home, Work With Me, About, and Contact.
 - The "Work With Me" dropdown is exclusively for future-tense, bookable services: what Craig will do for a client.
-- No page may appear in both the top nav and the Work With Me dropdown.
-- No top-level navigation item may link into a /work-with-me/ URL.
-- Evidence pages (Critical Thinking, Delivery, Business Agility, AI, Case Studies) must never live under /work-with-me/.
-- Workshops and bookable offers must never appear as content on a top-level evidence page — they belong exclusively under Work With Me.
+- Evidence pages must not live under /work-with-me/, and the Work With Me dropdown must not contain evidence pages.
+- Evidence pages should end with a clear, single call-to-action linking to the most relevant corresponding Work With Me service page — this is intended and correct, not a violation. Evidence pages are not required to strip all mention of related services; they may reference and link to the relevant Work With Me offer as their natural conversion point.
+- The Work With Me top-level navigation item linking directly to /work-with-me/ is correct and intended.
 
 ## Voice
 - Homepage introductory text and service/proposition pages: first person.
@@ -40,6 +40,7 @@ is authorised to change and why.
 - No page may ever contain commentary about the site's own content, publishing intentions, editorial approach, or production process as visitor-facing text. This includes but is not limited to: statements about what content "will be" published, how claims are sourced or verified, descriptions of the site's own organisation or structure, and any sentence whose subject is the site or its content pipeline rather than Craig's work or expertise.
 - This is a general category, not a fixed list of banned phrases. Before adding any new page or section, check whether the text describes the site itself rather than Craig, his work, or his expertise — if so, remove or rewrite it.
 - The only exception is the AI page's own statement about how this site was built, which is explicitly permitted and protected elsewhere in this file.
+- Exception: the single homepage placeholder image caption ("Temporary stock photo, real photography to follow") is permitted to remain as a working reminder until real photography is supplied. This is the only exception to the editorial-commentary ban.
 
 ## Speaking vs Work With Me
 - Speaking page: content about teaching a topic to an audience, at a conference, in-house event, or similar — including workshop-format talks (e.g. a teaching workshop at a conference). This is knowledge-sharing, not client engagement.

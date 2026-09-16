@@ -32,7 +32,7 @@ An engagement may be a short diagnostic followed by a focused coaching plan, reg
 
 ## Capability, not framework dependence
 
-I have established an Agile Centre of Excellence and trained more than 500 people at Admiral Insurance, and embedded ways of working beyond software teams at Jaguar Land Rover's Birmingham and Liverpool manufacturing plants. I use that experience to leave you with clearer outcomes, a visible delivery system, improved feedback and decision-making, and capability that continues after handover—not dependence on a framework or coach.
+I have established an Agile Centre of Excellence and trained more than 500 people at [Admiral Insurance]({{ '/case-studies/#enterprise-agile-coach-admiral-group-plc' | relative_url }}), and embedded ways of working beyond software teams at Jaguar Land Rover's Birmingham and Liverpool manufacturing plants. I use that experience to leave you with clearer outcomes, a visible delivery system, improved feedback and decision-making, and capability that continues after handover—not dependence on a framework or coach.
 
 ## When this is useful
 

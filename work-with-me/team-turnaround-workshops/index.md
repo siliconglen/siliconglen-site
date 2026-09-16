@@ -26,7 +26,7 @@ Each part follows the same pattern: a short framing, a group activity, reference
 
 ## Recent work
 
-I recently facilitated a full-day offsite for a hardware engineering team at a trading technology firm in the City of London, working without an Engineering Manager in post. The team builds FPGAs (Field-Programmable Gate Arrays — reprogrammable chips used to run custom logic directly in hardware rather than software), where shaving microseconds off execution speed can be commercially significant. The brief was to surface real blockers to shipping, identify root causes of delivery friction, and produce a concrete, agreed set of interim actions the team could own, alongside establishing clearer decision-making norms in the interim. The day combined trust-building, structured experimentation techniques suited to a high-performance hardware environment, and explicit team agreements on how ideas are raised, challenged and decided.
+I recently facilitated a full-day offsite for a hardware engineering team at a trading technology firm, helping it surface delivery blockers and agree owned actions and clearer decision-making norms while it worked without an Engineering Manager. [Read the trading technology team turnaround case study]({{ '/case-studies/#trading-technology-hardware-team-turnaround-workshop' | relative_url }}).
 
 ## When this is useful
 
