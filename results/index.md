@@ -12,6 +12,58 @@ prose_class: prose--case-studies
 
 These case studies expand the evidence summarised on the homepage. They use a consistent structure: situation, difficulty, Craig's role, approach, change and measured outcome. Where the source material does not yet provide a detail, the account does not manufacture one.
 
+## Enterprise Agile Coach, Admiral Group plc
+
+*Cardiff, Wales · March 2021 – December 2022 (1 year 10 months)*
+
+### Situation
+Admiral Group's agile transformation had progressed only partially, with adoption inconsistent across teams and no central capability to sustain it.
+
+### Difficulty
+Turning a stalled, partial transformation into a durable capability that teams would actually keep using once the coaching engagement ended, rather than reverting once support was withdrawn.
+
+### Approach
+Jointly established Admiral's Agile Centre of Excellence and advised the Agile PMO. Designed and delivered interactive training across Agile 101, Squad Lead, Product Owner, Delivery Lead, and Leadership tracks, using a Spotify-model approach tailored to Admiral's context, to more than 500 people. Set up ongoing agile communities, a drop-in clinic, and external events to embed learning beyond the training room, and built a central Confluence reference space to sustain it. Coached individuals at every level, from team members to senior leadership and Release Train Engineers. Delivery relied on Actionable Agile, Jira, Confluence, Miro, Mural, and Microsoft Teams.
+
+### Change
+Adoption moved from partial and inconsistent to embedded and self-sustaining, with communities, drop-in support, and a living knowledge base in place beyond the coaching engagement itself.
+
+### Measured outcome
+Over 500 people trained across five course tracks; agile capability established at every organisational level from individual contributor to senior leadership.
+
+> "Craig has contributed so much to the initiatives we've embarked on since the birth of the Agile Centre of Excellence at Admiral."
+>
+> — Jez Winkless, Agile Coach, Admiral Group plc
+>
+> [See the full recommendation on LinkedIn](https://www.linkedin.com/in/siliconglen/details/recommendations/)
+
+## Enterprise Agile Coach, BT (Mobile Tribe)
+
+*Remote (full UK lockdown period) · circa 2020–early 2021 (approximately 8 months)*
+
+### Situation
+BT's Mobile Tribe needed to scale its agile delivery model and build sustainable coaching capability, entirely remotely during COVID lockdown.
+
+### Difficulty
+Establishing effective ways of working and a coaching culture across a rapidly growing set of squads with no in-person contact, while also contributing to BT's wider agile rollout beyond the immediate team.
+
+### Approach
+Worked daily with Tribe leadership to develop excellence in ways of working across a scaled agile delivery model (Spotify/SAFe), as the Tribe grew from 4 to 12 squads with no increase in management overhead. Part of a coaching centre of excellence rolling out agile across BT. Supported Scrum Master and Product Owner onboarding, hackathons, three Big Room Planning events, tribe leadership, Release Train Engineers, and cross-tribe synchronisation. Developed an agile learning pathway and learning library for the tribe, recognised as both innovative and helpful by the wider BT agile community. Supported adoption of Scrum, Jira, Confluence, Jira Align, Mural, and delivery metrics across Product Owners, Scrum Masters, RTEs, and Delivery Leads.
+
+### Change
+The Tribe scaled from 4 to 12 squads without adding management overhead, while sustaining consistently positive feedback from leadership and squads.
+
+### Measured outcome
+Squad count tripled (4 → 12) with no increase in Tribe management overhead; contract extended on the strength of results.
+
+This work was independently profiled by a BT colleague: [Building a (remote) culture of safety](https://robinow.medium.com/building-a-remote-culture-of-safety-ea200f2371fc), Robin Wong, Medium.
+
+> "Craig has been almost entirely responsible for embedding strong and resilient Agile practices, and also for up-skilling incoming Tribe members to a level where they can deliver quality... I couldn't have wished to have had a better Agile Coach by my side on this programme."
+>
+> — Phyroze Mohamed, Programme Manager / Delivery Manager / Senior Project Manager
+>
+> [See the full recommendation on LinkedIn](https://www.linkedin.com/in/siliconglen/details/recommendations/)
+
 ## Government Spending Challenge
 
 ### Situation

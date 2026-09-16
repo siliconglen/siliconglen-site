@@ -33,7 +33,7 @@ Key achievements include:
 
 - Introducing organisational tooling, moving teams from Excel to Azure DevOps, implementing Scrum and long-term planning, and establishing metrics to support improvement, distinguish support from delivery work, and inform prioritisation.
 - Designing and building customer-onboarding tooling from scratch, with AI assistance, using Microsoft Planner, SharePoint lists and Power BI connectors to Microsoft Teams. The tooling received positive feedback.
-- Managing staff directly, including performance and improvement responsibilities.
+- Holding line-management responsibility, including performance and improvement responsibilities.
 - Researching the full range of options for a company-wide ticketing, kanban and planning system, then building an AI-assisted integrated system spanning Microsoft Forms, SharePoint lists, Azure DevOps, Teams and Outlook through Power Automate, with alerts and metrics. This also included researching and presenting commercial alternatives such as Jira Helpdesk, Salesforce and Appian.
 - Project-managing an ISO 9001 rollout.
 - Leading company AI initiatives and training.
