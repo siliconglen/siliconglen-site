@@ -23,4 +23,4 @@ If you need agile ways of working embedded into a team, a department, or a whole
 
 [Explore Agile Coaching]({{ '/work-with-me/agile-coaching/' | relative_url }})
 
-[See full results and case studies]({{ '/results/' | relative_url }})
+[See the Business Agility case studies]({{ '/case-studies/#business-agility' | relative_url }})

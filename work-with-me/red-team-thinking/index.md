@@ -70,6 +70,6 @@ Red Team Thinking Training is particularly useful when:
 
 Describe your team's current decision-making challenges and the plans or decisions where sharper thinking would make the most difference. We can shape the right programme together.
 
-If your team's challenge is specifically about using AI well in decision-making, see [AI-assisted decision support, critically challenged]({{ '/ai/#ai-assisted-decision-support-critically-challenged' | relative_url }}) on the AI page.
+If your team's challenge is specifically about using AI well in decision-making, see [AI-assisted decision support, critically challenged]({{ '/work-with-me/decision-support/#ai-assisted-decision-support' | relative_url }}).
 
 [Contact me]({{ '/contact/' | relative_url }}) or email [craig@siliconglen.com](mailto:craig@siliconglen.com).

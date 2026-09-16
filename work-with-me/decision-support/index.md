@@ -48,6 +48,19 @@ I turn the workshop into a concise decision record: the agreed question and owne
 - A persuasive proposal has not received objective challenge.
 - An AI-produced answer appears confident but has not been verified.
 
+## AI-assisted decision support, critically challenged {#ai-assisted-decision-support}
+
+I also offer this work as a facilitated team workshop focused specifically on AI-assisted decisions. I bring structured critical-thinking discipline from Red Team Thinking® in the Age of AI certification to help teams gain value from AI's speed and breadth without accepting its output on trust.
+
+### What an AI-focused session covers
+
+- Where AI strengthens a decision process, and where handing it control weakens one.
+- Practical techniques for interrogating AI-generated analysis: what is evidence, what is assumption, and what has been missed.
+- Treating confident AI output as a hypothesis to test rather than an answer to adopt.
+- Working through real decisions or AI outputs the team already has in front of it.
+
+This is useful when a team uses AI for analysis or drafting but has no consistent verification practice, or when a specific AI-assisted strategy, business case or analysis needs objective scrutiny before anyone relies on it.
+
 ## Make the next decision clearer
 
 Describe the choice, what is at stake and when it must be made. We can agree a proportionate next step.

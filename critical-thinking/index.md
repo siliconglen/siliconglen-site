@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Critical Thinking
-eyebrow: Work with me
+eyebrow: Evidence
 intro: Challenge assumptions, examine evidence and make decisions you can explain and act on.
 description: "Critical thinking support with Craig Cockburn: frame the real problem, test assumptions and evidence, and make clearer, defensible decisions."
 permalink: /critical-thinking/
@@ -26,26 +26,6 @@ This is practical critical thinking for live organisational work, not an abstrac
 - Reviewing AI-generated analysis without outsourcing human judgement.
 
 If AI is part of the picture, see [AI]({{ '/ai/' | relative_url }}) for how I treat AI output as a hypothesis to test, not an answer to adopt.
-
-## Ways to work together
-
-### Decision support
-
-Focused help with a specific high-stakes or difficult decision: clarify the question, test the options and reach a defensible way forward.
-
-[Explore decision support]({{ '/work-with-me/decision-support/' | relative_url }})
-
-### Red Team Thinking®
-
-A structured challenge to a strategy, plan or prevailing view, designed to expose weaknesses early enough to do something useful about them.
-
-[Explore Red Team Thinking]({{ '/work-with-me/red-team-thinking/' | relative_url }})
-
-### Training and workshops
-
-Practical sessions that give teams shared methods for questioning assumptions, evaluating information and improving the quality of decisions.
-
-[Explore Red Team Thinking Training]({{ '/work-with-me/red-team-thinking/' | relative_url }})
 
 ## A usable reasoning trail
 

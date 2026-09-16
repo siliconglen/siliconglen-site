@@ -11,13 +11,13 @@ description: "Siliconglen: critical thinking, delivery and Agile with Craig Cock
       <p class="lede">I'm Craig Cockburn. I help leaders think more clearly, decide with confidence, and deliver complex change — combining programme and project delivery rooted in 2007, 14+ years coaching leaders and delivery teams, including establishing Agile Centres of Excellence, with Red Team Thinking® and applied critical thinking since 2020 and strategy visualisation since 2019, across banking, insurance, manufacturing, and public sector.</p>
       <div class="tag-row">
         <a class="tag" href="{{ '/critical-thinking/' | relative_url }}">Critical Thinking</a>
-        <a class="tag" href="{{ '/work-with-me/programme-delivery/' | relative_url }}">Delivery</a>
-        <a class="tag" href="{{ '/work-with-me/agile-coaching/' | relative_url }}">Agile</a>
-        <a class="tag" href="{{ '/work-with-me/red-team-thinking/' | relative_url }}">Red Team Thinking&reg;</a>
+        <a class="tag" href="{{ '/delivery/' | relative_url }}">Delivery</a>
+        <a class="tag" href="{{ '/business-agility/' | relative_url }}">Agile</a>
+        <a class="tag" href="{{ '/ai/' | relative_url }}">AI</a>
       </div>
       <div class="hero__ctas">
         <a class="btn btn--primary" href="{{ '/work-with-me/' | relative_url }}">Work with me</a>
-        <a class="btn" href="{{ '/results/' | relative_url }}">See results</a>
+        <a class="btn" href="{{ '/case-studies/' | relative_url }}">See case studies</a>
       </div>
     </div>
     <figure class="photo-placeholder">
@@ -130,22 +130,22 @@ description: "Siliconglen: critical thinking, delivery and Agile with Craig Cock
     <ul class="ledger">
       <li>
         <span class="figure">Same day</span>
-        <span class="desc"><strong>Government Spending Challenge</strong>As a Directgov Senior Project Manager (May–August 2010), Craig managed significant web projects including HM Treasury's service for the Office of No. 10 Downing Street. <a href="https://youtu.be/b5Bbzi7s1Ko">Launched by the Prime Minister and Mark Zuckerberg</a>, it peaked at approximately 400,000 page views an hour and saved government over £500 million, as reported in an <a href="https://www.instituteforgovernment.org.uk/publication/report/policy-making-real-world">Institute for Government briefing note</a> citing Delib's 2010 case study. When inappropriate public submissions created an immediate risk shortly after launch, Craig identified the issue, redesigned the site with reduced interactivity and restored it online the same day; <a href="https://www.thedrum.com/news/governments-spending-challenge-site-back-online">The Drum reported its return</a>.</span>
+        <span class="desc"><strong>Government Spending Challenge</strong>Craig restored a high-profile government service on the same day an immediate public-content risk emerged. <a href="{{ '/case-studies/#government-spending-challenge' | relative_url }}">Read the Government Spending Challenge case study</a>.</span>
       </li>
       <li>
         <span class="figure">&lt;3 mo</span>
-        <span class="desc"><strong>CIO Council secure procurement portal</strong>Security problem identified and a secure solution delivered in under three months, at roughly 98% under the initial budget.</span>
+        <span class="desc"><strong>CIO Council secure procurement portal</strong>A secure replacement was delivered in under three months at roughly 98% under the initial budget. <a href="{{ '/case-studies/#cio-council-secure-procurement-portal' | relative_url }}">Read the secure procurement case study</a>.</span>
       </li>
       <li>
         <span class="figure">13</span>
-        <span class="desc"><strong>Southwark Council</strong>13 third-party suppliers and over 150 Southwark staff coordinated on a transformation delivered just ahead of schedule and within 0.2% under budget. The programme won <a href="https://www.bcs.org/events/awards-and-competitions/uk-it-industry-awards/previous-winners/uk-it-industry-awards-2010-winners/project-excellence-awards-2010/">IT Project Team of the Year</a> in the Project Excellence category at the BCS and Computing UK IT Industry Awards 2010.</span>
+        <span class="desc"><strong>Southwark Council</strong>Craig coordinated 13 suppliers and more than 150 council staff in an award-winning transformation. <a href="{{ '/case-studies/#southwark-council-programme' | relative_url }}">Read the Southwark Council case study</a>.</span>
       </li>
       <li>
         <span class="figure">~900</span>
-        <span class="desc"><strong>Siliconglen AI-assisted rewrite</strong>Pages rewritten with AI assistance, followed by measurable improvement in traffic and revenue.</span>
+        <span class="desc"><strong>Siliconglen AI-assisted rewrite</strong>About 900 pages were rewritten with AI assistance and human review, followed by measured improvement. <a href="{{ '/case-studies/#siliconglen-ai-assisted-rewrite' | relative_url }}">Read the AI-assisted rewrite case study</a>.</span>
       </li>
     </ul>
-    <p><a href="{{ '/results/' | relative_url }}">See the full case studies</a></p>
+    <p><a href="{{ '/case-studies/' | relative_url }}">See the full case studies</a></p>
   </div>
 </section>
 

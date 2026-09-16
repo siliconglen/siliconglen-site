@@ -29,36 +29,13 @@ Craig led the rollout of Agile at Kuberno, a NASDAQ-funded fintech startup, usin
 
 More recently, he has led process improvement, delivery and quality initiatives in a tech startup (energy sector).
 
-Separately, an AI-assisted rewrite of the roughly 900-page siliconglen.scot website retained human review and analytics throughout rather than outsourcing judgement to the tool, and was followed by a measurable increase in traffic and revenue.
+The [siliconglen.scot AI-assisted rewrite case study]({{ '/case-studies/#siliconglen-ai-assisted-rewrite' | relative_url }}) records how human review and analytics supported the work and its measured outcomes.
 
 Craig built this website from its design brief in three days using two different LLMs, with human direction and review throughout. The public [Siliconglen site GitHub repository](https://github.com/siliconglen/siliconglen-site) records the full process.
 
-[See more practical outcomes and case studies]({{ '/results/' | relative_url }}).
+[See more practical outcomes and case studies]({{ '/case-studies/#ai' | relative_url }}).
 
-## AI-assisted decision support, critically challenged
-
-Craig is certified in Red Team Thinking® in the Age of AI (July 2026), bringing a structured critical-thinking discipline specifically to how teams use AI for decision support: getting genuine value from AI's speed and breadth, while making sure its output is interrogated and verified rather than accepted on trust.
-
-This is available as a facilitated team workshop. Sessions cover where AI genuinely adds value in a decision process (surfacing options, expanding what a team can see quickly) and where it must not be allowed to decide, along with practical techniques for interrogating AI-generated analysis before anyone acts on it, so a team builds the habit of treating AI output as a starting hypothesis rather than a finished answer.
-
-## What a session covers
-
-- Where AI genuinely strengthens a decision process, and where handing it control quietly weakens one.
-- Practical techniques for interrogating AI-generated analysis: what's evidence, what's assumption, and what's been missed.
-- Building a habit of treating confident AI output as something to test, not something to adopt.
-- Working through real decisions or AI outputs the team already has in front of them, rather than hypothetical examples.
-
-## When this is useful
-
-- Your team already uses AI heavily for analysis or drafting, but has no consistent way of checking what comes back.
-- Leadership wants the team genuinely more capable with AI, not just faster at accepting its first answer.
-- A specific AI-assisted piece of work (a strategy, a business case, an analysis) needs objective scrutiny before it's relied on.
-
-## Start the conversation
-
-Describe how AI is currently being used in your team's decision-making, and Craig can shape a session around it.
-
-[Contact Craig]({{ '/contact/' | relative_url }}) or email [craig@siliconglen.com](mailto:craig@siliconglen.com).
+AI-assisted decision support is available as a facilitated workshop. [Explore AI-assisted decision support under Work With Me]({{ '/work-with-me/decision-support/#ai-assisted-decision-support' | relative_url }}).
 
 ## Roots in AI research
 

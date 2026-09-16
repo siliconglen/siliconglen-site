@@ -13,7 +13,7 @@
 - { label: Delivery, url: /delivery/ }
 - { label: Business Agility, url: /business-agility/ }
 - { label: AI, url: /ai/ }
-- { label: Results, url: /results/ }
+- { label: Case Studies, url: /case-studies/ }
 - label: About
   url: /about/
   children:
