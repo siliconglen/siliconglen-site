@@ -7,7 +7,7 @@ description: "Use adaptive delivery, feedback and organisational learning to hel
 permalink: /work-with-me/agile-coaching/
 ---
 
-**For my broader business agility track record, see [Business Agility]({{ '/work-with-me/business-agility/' | relative_url }}).**
+**For my broader business agility track record, see [Business Agility]({{ '/business-agility/' | relative_url }}).**
 
 ## Agile should improve delivery, not become the destination
 

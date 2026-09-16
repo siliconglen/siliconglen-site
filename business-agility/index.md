@@ -4,7 +4,7 @@ title: Business Agility
 eyebrow: What I've done
 intro: Over 12 years embedding scaled agile delivery across regulated, high-stakes environments.
 description: "Craig Cockburn on business agility: scaled agile coaching, Agile Centres of Excellence, and agile transformation across banking, insurance and manufacturing."
-permalink: /work-with-me/business-agility/
+permalink: /business-agility/
 ---
 
 **Looking to commission a specific coaching engagement? See [Agile Coaching]({{ '/work-with-me/agile-coaching/' | relative_url }}).**

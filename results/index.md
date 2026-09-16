@@ -208,7 +208,7 @@ The team left the day with an agreed, owned set of interim actions, clearer deci
 
 ### Measured outcome
 
-The client asked for a workshop; they were happy with it. That is the outcome.
+Positive feedback was received from the client following the workshop.
 
 **Capabilities:** Team Facilitation · Delivery
 

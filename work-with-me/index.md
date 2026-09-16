@@ -13,10 +13,6 @@ You may need to make a difficult decision, challenge a strategy, recover a progr
 
 You do not need to translate your problem into consultancy terminology. Start with the situation that sounds most like yours; if several overlap, we can shape a proportionate engagement around the outcome you need.
 
-### Your team needs a practical way to think more clearly
-
-[Critical Thinking]({{ '/work-with-me/critical-thinking/' | relative_url }}) brings facilitated challenge to live organisational questions. Use it when the problem is still unclear, evidence and interpretation are being confused, or a team needs help comparing options. This is applied support for the question in front of you, rather than a training course.
-
 ### Your people need repeatable tools for challenging plans
 
 [Red Team Thinking Training]({{ '/work-with-me/red-team-thinking/' | relative_url }}) is a two-session learning programme for leadership teams that want shared techniques for exposing assumptions, avoiding groupthink and testing strategy. It builds capability your people can keep using, rather than providing one-off challenge to a single decision.

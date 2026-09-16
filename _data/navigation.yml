@@ -9,11 +9,14 @@
     - { label: Agile Coaching, url: /work-with-me/agile-coaching/ }
     - { label: Leadership Strategy, url: /work-with-me/leadership-strategy/ }
     - { label: Team Turnaround Workshops, url: /work-with-me/team-turnaround-workshops/ }
-- { label: Critical Thinking, url: /work-with-me/critical-thinking/ }
-- { label: Delivery, url: /work-with-me/delivery/ }
-- { label: Business Agility, url: /work-with-me/business-agility/ }
+- { label: Critical Thinking, url: /critical-thinking/ }
+- { label: Delivery, url: /delivery/ }
+- { label: Business Agility, url: /business-agility/ }
 - { label: AI, url: /ai/ }
-- { label: Speaking, url: /speaking/ }
-- { label: Insights, url: /insights/ }
-- { label: About, url: /about/ }
+- { label: Results, url: /results/ }
+- label: About
+  url: /about/
+  children:
+    - { label: Speaking, url: /speaking/ }
+    - { label: Insights, url: /insights/ }
 - { label: Contact, url: /contact/ }
