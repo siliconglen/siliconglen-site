@@ -11,7 +11,7 @@ permalink: /about/
 
 ## Understand the real problem before trying to solve it
 
-**Craig Cockburn** helps leaders think more clearly, decide with confidence, and deliver complex change — combining programme and project delivery rooted in 2007, 14+ years coaching leaders and delivery teams, including establishing Agile Centres of Excellence, with Red Team Thinking® and applied critical thinking since 2020 and strategy visualisation since 2019, across banking, insurance, manufacturing, and public sector. He also has 16 years' non-executive board experience.
+**Craig Cockburn M.Sc. CEng CITP CMgr FBCS FCMI** helps leaders think more clearly, decide with confidence, and deliver complex change — combining programme and project delivery rooted in 2007, 14+ years coaching leaders and delivery teams, including establishing Agile Centres of Excellence, with Red Team Thinking® and applied critical thinking since 2020 and strategy visualisation since 2019, across banking, insurance, manufacturing, and public sector. He also has 16 years' non-executive board experience.
 
 Craig has been a Chartered Engineer and Chartered IT Professional with the British Computer Society since 2005 and a Chartered IT Professional Fellow since 30 March 2012. He has been a Fellow of the Chartered Management Institute since 31 January 2013 and a Chartered Manager since 10 September 2018. He is also a Certified Red Team Coach (Gold), Red Team Thinking, and a Certified Red Team Instructor, Red Team Thinking. His work runs from software and the early internet, through complex programme delivery, to organisational systems, critical thinking and AI. The context has changed, but the thread is consistent: understand the real problem, test the assumptions and turn a sound decision into a useful result.
 
@@ -76,7 +76,7 @@ Craig is a co-listed author of *Agile: An Unexpected Journey*. He wrote the fore
 
 Craig has been [recognised by Thinkers360](https://www.thinkers360.com/tl/profiles/view/8985) as a Top 50 thought leader in Product Management, a Top 50 thought leader in Agile and a Top 100 thought leader in Behavioral Science.
 
-In 2025, following consultation with Professor Shane Frederick of Yale's School of Management, Craig published a paper offering a small correction to how Daniel Kahneman's *Thinking, Fast and Slow* summarised Frederick's own research.
+In 2025, following consultation with Professor Shane Frederick of Yale's School of Management, Craig published a paper offering a small correction to how Daniel Kahneman's [*Thinking, Fast and Slow*](https://www.academia.edu/129657170/Thinking_Fast_and_Slow_correction) summarised Frederick's own research.
 
 ## Speaking
 
