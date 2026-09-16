@@ -13,7 +13,7 @@
 .site-topbar { height: 6px; background: var(--accent); }
 
 * { box-sizing: border-box; }
-html { overflow-x: hidden; }
+html { overflow-x: hidden; scroll-padding-top: 8rem; }
 body { margin: 0; background: var(--paper); color: var(--ink); font: 1.125rem/1.6 var(--font); }
 img, video { max-width: 100%; height: auto; }
 a { color: var(--accent); }
@@ -45,7 +45,8 @@ a:focus-visible, summary:focus-visible { outline: .2rem solid var(--accent); out
 .nav-list__panel li { display: inline-flex; width: max-content; }
 .nav-list__panel a { display: flex; height: 100%; min-height: 3.5rem; align-items: center; padding: .65rem .8rem; color: var(--ink); font-size: .95rem; line-height: 1.3; text-decoration: none; }
 .nav-list__panel a:hover, .nav-list__panel a:focus-visible { background: #e3effa; color: var(--accent); text-decoration: none; }
-main { min-height: 60vh; }
+main { min-height: 60vh; scroll-margin-top: 8rem; }
+.page-header, .page-header h1, .prose h2, .prose h3 { scroll-margin-top: 8rem; }
 .page-header { padding-block: clamp(2.5rem, 8vw, 5rem) 2rem; border-bottom: 1px solid var(--line); }
 .page-header__image { margin-top: 1.75rem; }
 .photo-frame--wide { aspect-ratio: 16 / 9; max-height: 20rem; }
@@ -76,6 +77,9 @@ h3 { margin: 0 0 .5rem; font-size: 1.25rem; }
   .nav-list__panel { grid-template-columns: repeat(2, max-content); width: max-content; max-width: calc(100vw - 2rem); }
 }
 @media (max-width: 60rem) {
+  html { scroll-padding-top: 5rem; }
+  main { scroll-margin-top: 5rem; }
+  .page-header, .page-header h1, .prose h2, .prose h3 { scroll-margin-top: 5rem; }
   .site-header__inner { min-height: 3.75rem; }
   .nav-menu-button { position: relative; z-index: 7; display: grid; width: 2.75rem; height: 2.75rem; place-items: center; padding: 0; border: 0; background: transparent; color: var(--ink); cursor: pointer; }
   .nav-menu-button__icon { display: grid; width: 1.5rem; gap: .3rem; }

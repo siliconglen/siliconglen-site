@@ -15,10 +15,10 @@ collections:
     permalink: /case-studies/:name/
   talks:
     output: true
-    permalink: /insights/talks/:name/
+    permalink: /speaking/talks/:name/
   articles:
     output: true
-    permalink: /insights/articles/:name/
+    permalink: /articles/:name/
 
 defaults:
   - scope: { path: "", type: case_studies }

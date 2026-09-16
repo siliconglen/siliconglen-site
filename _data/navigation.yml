@@ -18,5 +18,4 @@
   url: /about/
   children:
     - { label: Speaking, url: /speaking/ }
-    - { label: Insights, url: /insights/ }
 - { label: Contact, url: /contact/ }
