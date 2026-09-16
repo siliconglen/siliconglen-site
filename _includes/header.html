@@ -12,11 +12,12 @@
     <nav id="primary-navigation" class="primary-navigation" aria-label="Primary navigation">
       <ul class="nav-list">
         {% for item in site.data.navigation %}
-          <li>
+          <li{% if item.children %} class="nav-list__item--dropdown"{% endif %}>
             {% if item.children %}
+              <a class="nav-list__link nav-list__parent-link" href="{{ item.url | relative_url }}"{% if page.url == item.url %} aria-current="page"{% endif %}>{{ item.label }}</a>
               <details class="nav-list__dropdown">
-                <summary class="nav-list__toggle">
-                  <span>{{ item.label }}</span>
+                <summary class="nav-list__toggle" aria-label="Open {{ item.label }} menu">
+                  <span class="visually-hidden">Open {{ item.label }} menu</span>
                   <span class="nav-list__chevron" aria-hidden="true">&#9662;</span>
                 </summary>
                 <ul class="nav-list__panel">

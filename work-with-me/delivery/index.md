@@ -7,6 +7,8 @@ description: "Craig Cockburn on delivery: programme rescue, large multi-supplier
 permalink: /work-with-me/delivery/
 ---
 
+**Looking to commission a specific delivery engagement? See [Programme & Project Delivery]({{ '/work-with-me/programme-delivery/' | relative_url }}).**
+
 ## Delivery under real pressure
 
 Craig's delivery track record spans e-commerce rescue, multi-supplier transformation, and public-sector platform launches, not just steady-state programme management.
@@ -23,11 +25,11 @@ More recently, delivery leadership has continued at Jaguar Land Rover (embedding
 
 Craig holds PRINCE2 and Managing Successful Programmes (MSP) Foundation and Practitioner qualifications, and is a Chartered Fellow of the British Computer Society.
 
-## Ready to talk delivery?
+## From track record to an engagement
 
 If you need someone to take on a struggling programme, stand up delivery capability from scratch, or bring structure to a transformation with multiple suppliers, that's exactly this kind of work. Team dynamics and delivery friction often go together — see also Team Turnaround Workshops.
 
-[Explore Programme Delivery]({{ '/work-with-me/programme-delivery/' | relative_url }})
+[Explore the Programme & Project Delivery service]({{ '/work-with-me/programme-delivery/' | relative_url }})
 
 [Explore Team Turnaround Workshops]({{ '/work-with-me/team-turnaround-workshops/' | relative_url }})
 
