@@ -62,14 +62,15 @@ description: "Siliconglen: my work in critical thinking, delivery and Agile. Und
       <li>Royal Bank of Scotland</li>
       <li>Morgan Stanley</li>
       <li>Admiral Group</li>
-      <li>AIB</li>
+      <li>Allied Irish Bank</li>
       <li>BT</li>
       <li>Lloyds Banking Group</li>
       <li>Jaguar Land Rover</li>
-      <li>HMRC</li>
       <li>DWP</li>
-      <li>the Scottish Government</li>
+      <li>The Scottish Government</li>
       <li>Southwark Council</li>
+      <li>John Lewis</li>
+      <li>The CIO Council</li>
     </ul>
   </div>
 </section>
