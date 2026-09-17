@@ -23,6 +23,12 @@ is authorised to change and why.
 - Body text colour must be consistent within any single continuous block of content (e.g. the homepage hero, an intro paragraph pair). Do not mix muted/lighter text colour with standard body text colour within what a visitor would read as one continuous statement, unless one part is deliberately a caption, label, or secondary note and is visually distinguished as such on purpose.
 - Any task that adds or edits CSS, or adds new body content near existing content, must check both the font-family AND the text colour of the surrounding content, and confirm the new content matches unless a deliberate visual distinction is intended and stated in the task.
 
+## Lede paragraphs
+- The `.lede` class (max-width: var(--measure); font-size: 1.25rem) is the standard treatment for narrative prose paragraphs — full sentences written in Craig's voice explaining something, as opposed to list items, card/tile captions, testimonial quotes, or table/ledger entries.
+- On every page except the homepage: apply .lede only to the first paragraph immediately following a heading, where that paragraph is a scene-setting introduction to the section.
+- On the homepage specifically (exception to the rule above): apply .lede to every narrative paragraph on the page, not just the first one per section — including both hero paragraphs and every subsequent prose paragraph, wherever the content is genuine narrative text rather than a list, card, quote, or ledger entry.
+- .lede must never carry a colour property. It controls typography only (size and width). This is a hard rule: the site previously had a visible bug caused by .lede setting a muted colour that applied inconsistently across paragraphs. Any future change to this class must preserve colour-neutrality.
+
 ## Heading and section spacing
 - Every section and subsection must be clearly visually differentiated from the one before and after it. A visitor must be able to tell at a glance where one item (e.g. a case study, a service description, a list entry) ends and the next begins.
 - The gap before a new heading must be visibly larger than the gap between that heading and its own body text — headings must read as attached to the content below them, not floating roughly equidistant between the previous section and their own text.
