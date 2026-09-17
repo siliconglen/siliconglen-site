@@ -53,6 +53,8 @@ Professional standing and higher education:
 - BSc (Hons) Computer Science, Edinburgh University (1983–1987)
 - **Executive Diploma in Digital Business (with Distinction), Academy of Digital Business Leaders** (2016), achieving the highest marks of the 120 UK business leaders on the programme.
 
+BCS does not provide a direct profile link, but chartered status can be independently verified via the [BCS member directory](https://www.bcs.org/find-a-bcs-member/).
+
 Critical thinking, Agile and delivery certifications:
 
 - **Certified Red Team Coach (Gold), Red Team Thinking** (awarded 16 July 2024).

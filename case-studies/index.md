@@ -68,13 +68,13 @@ The secure solution was delivered in **under three months**, at **roughly 98% un
 A Southwark Council digital transformation brought a substantial network of organisations and people together to improve the council's website, publishing capability and online services.
 
 #### Difficulty
-The delivery environment included **13 third-party suppliers**, **over 150 Southwark staff** and **five teams within delivery partner Vangent**, all requiring coordination around one programme.
+The delivery environment included **13 third-party suppliers**, **approximately 150 Southwark staff involved at different stages across the programme's delivery** and **five teams within delivery partner Vangent**, all requiring coordination around one programme.
 
 #### Craig's role
 Craig worked as Programme Manager, coordinating the participating suppliers, Vangent teams and Southwark staff around programme delivery.
 
 #### Approach
-The work brought the participating suppliers and people together, while developing Southwark's own capability. More than **150 web authors** were trained so that the council became self-sufficient on the new CMS; previously, it had paid a supplier upward of **£15,000 per change**.
+The work brought the participating suppliers and people together, while developing Southwark's own capability. Separately, more than **150 web authors** were trained for the operational role of running the site day-to-day after the programme went live, so that the council became self-sufficient on the new CMS; previously, it had paid a supplier upward of **£15,000 per change**. The delivery-stage staff and operational web authors were two groups serving different purposes. Some individuals may have belonged to both groups, but the matching approximate figures do not represent one population being counted twice.
 
 Governance ran through weekly team meetings, a fortnightly Programme Board and monthly Executive reviews, stepping up to weekly Executive reviews ahead of go-live. Independent audience research by Synovate, a market research firm later acquired by Ipsos, comprised **25 assisted user sessions ("surfs")** and **four focus groups of 10 residents**, conducted over **three research phases** and including eye-tracking analysis of the final site design. This research provided the basis for the finding that **90% of respondents** said the redesign made them more likely to use the site.
 
