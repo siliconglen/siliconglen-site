@@ -39,8 +39,7 @@ description: "Siliconglen: my work in critical thinking, delivery and Agile. Und
 
 <section class="section section--tint reveal">
   <div class="section__inner">
-    <p class="section-eyebrow">Start here</p>
-    <h2>What are you trying to solve?</h2>
+    <h2>What type of help do you need?</h2>
     <ul class="problem-list">
       <li><a href="{{ '/work-with-me/decision-support/' | relative_url }}"><span>We need to make a difficult decision.</span><span class="arrow">&rarr; Decision Support</span></a></li>
       <li><a href="{{ '/work-with-me/red-team-thinking/' | relative_url }}"><span>We need someone to challenge our strategy.</span><span class="arrow">&rarr; Red Team Thinking</span></a></li>
