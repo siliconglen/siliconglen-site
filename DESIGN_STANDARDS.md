@@ -25,10 +25,14 @@ is authorised to change and why.
 - The Work With Me top-level navigation item linking directly to /work-with-me/ is correct and intended.
 
 ## Voice
-- Homepage introductory text and service/proposition pages: first person.
+- Homepage: first person throughout, no exceptions. Every sentence on the homepage — hero, evidence/experience sections, case-study summaries, any other content — must use "I" and "my", not "Craig" or "his".
+- Service/proposition pages (Work With Me): first person.
+- Default for every other page not listed above: third person, unless this file explicitly states otherwise.
 - About page: third person.
 - All case studies (Case Studies page and any case study content elsewhere, including any reference to this site's own build): third person.
 - Direct testimonial quotes retain the speaker's own first-person voice and are not affected by this rule.
+- All visitor-facing sentences must be grammatically sound, plain English. A sentence must not attach a date to an abstract noun or concept in a way that doesn't logically make sense (e.g. "delivery rooted in 2007" is not valid — delivery is not a plant with roots). If a date needs stating, state it as a fact about Craig's experience directly (e.g. "I've been delivering complex programmes since 2007"), not as a decorative modifier bolted onto an unrelated noun.
+- Before publishing any new sentence, read it aloud test: does it parse as something a fluent English speaker would actually say? If not, rewrite it.
 
 ## Case Studies page
 - The page formerly named "Results" is named "Case Studies" (URL: /case-studies/).

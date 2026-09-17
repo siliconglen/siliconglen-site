@@ -1,6 +1,6 @@
 ---
 layout: default
-description: "Siliconglen: critical thinking, delivery and Agile with Craig Cockburn. Understand the real problem, decide well, and deliver what matters."
+description: "Siliconglen: my work in critical thinking, delivery and Agile. Understand the real problem, decide well, and deliver what matters."
 ---
 
 <section class="hero section">
@@ -8,7 +8,8 @@ description: "Siliconglen: critical thinking, delivery and Agile with Craig Cock
     <div>
       <p class="section-eyebrow">Critical Thinking · Delivery · Agile</p>
       <h1>Think clearer.<br>Decide better.<br>Deliver what matters.</h1>
-      <p class="lede">I'm Craig Cockburn. I help leaders think more clearly, decide with confidence, and deliver complex change — combining programme and project delivery rooted in 2007, 14+ years coaching leaders and delivery teams, including establishing Agile Centres of Excellence, with Red Team Thinking® and applied critical thinking since 2020 and strategy visualisation since 2019, across banking, insurance, manufacturing, and public sector.</p>
+      <p class="lede">I'm Craig Cockburn. I help leaders think more clearly, decide with confidence, and deliver complex change — combining structured challenge with hands-on delivery, across banking, insurance, manufacturing, retail, telecoms, startups, and public sector.</p>
+      <p>I've led programme and project delivery since 2007, and coached leaders and delivery teams for over 14 years, including establishing Agile Centres of Excellence. I've applied Red Team Thinking® and critical thinking since 2020, and strategy visualisation since 2019.</p>
       <div class="tag-row">
         <a class="tag" href="{{ '/critical-thinking/' | relative_url }}">Critical Thinking</a>
         <a class="tag" href="{{ '/delivery/' | relative_url }}">Delivery</a>
@@ -29,11 +30,33 @@ description: "Siliconglen: critical thinking, delivery and Agile with Craig Cock
   </div>
 </section>
 
+<section class="section reveal">
+  <div class="section__inner">
+    <h2>How I can help you</h2>
+    <p class="lede">Whether you need to challenge a decision, recover a struggling programme, or build lasting delivery capability in your team, I bring structured thinking and hands-on experience to get you unstuck.</p>
+  </div>
+</section>
+
+<section class="section section--tint reveal">
+  <div class="section__inner">
+    <p class="section-eyebrow">Start here</p>
+    <h2>What are you trying to solve?</h2>
+    <ul class="problem-list">
+      <li><a href="{{ '/work-with-me/decision-support/' | relative_url }}"><span>We need to make a difficult decision.</span><span class="arrow">&rarr; Decision Support</span></a></li>
+      <li><a href="{{ '/work-with-me/red-team-thinking/' | relative_url }}"><span>We need someone to challenge our strategy.</span><span class="arrow">&rarr; Red Team Thinking</span></a></li>
+      <li><a href="{{ '/work-with-me/programme-delivery/' | relative_url }}"><span>We need a complex programme delivered.</span><span class="arrow">&rarr; Programme &amp; Project Delivery</span></a></li>
+      <li><a href="{{ '/work-with-me/agile-coaching/' | relative_url }}"><span>Our organisation isn't delivering as well as it should.</span><span class="arrow">&rarr; Transformation &amp; Agile</span></a></li>
+      <li><a href="{{ '/work-with-me/red-team-thinking/' | relative_url }}"><span>We want our people to become better thinkers.</span><span class="arrow">&rarr; Red Team Thinking Training</span></a></li>
+      <li><a href="{{ '/speaking/' | relative_url }}"><span>We need a speaker or facilitator.</span><span class="arrow">&rarr; Speaking</span></a></li>
+    </ul>
+  </div>
+</section>
+
 <section class="proof-band" aria-labelledby="experience-heading">
   <div class="section__inner">
     <p class="section-eyebrow">Experience includes</p>
     <h2 id="experience-heading">Across industry and public service</h2>
-    <p>Representative organisations from Craig's employed, contracted and consulting engagements include:</p>
+    <p>Representative organisations from my employed, contracted and consulting engagements include:</p>
     <!-- Real client logos must not be added without permission; use text wordmarks only. -->
     <ul class="proof-band__list" aria-label="Representative organisations">
       <li>Royal Bank of Scotland</li>
@@ -80,21 +103,6 @@ description: "Siliconglen: critical thinking, delivery and Agile with Craig Cock
   </div>
 </section>
 
-<section class="section section--tint reveal">
-  <div class="section__inner">
-    <p class="section-eyebrow">Start here</p>
-    <h2>What are you trying to solve?</h2>
-    <ul class="problem-list">
-      <li><a href="{{ '/work-with-me/decision-support/' | relative_url }}"><span>We need to make a difficult decision.</span><span class="arrow">&rarr; Decision Support</span></a></li>
-      <li><a href="{{ '/work-with-me/red-team-thinking/' | relative_url }}"><span>We need someone to challenge our strategy.</span><span class="arrow">&rarr; Red Team Thinking</span></a></li>
-      <li><a href="{{ '/work-with-me/programme-delivery/' | relative_url }}"><span>We need a complex programme delivered.</span><span class="arrow">&rarr; Programme &amp; Project Delivery</span></a></li>
-      <li><a href="{{ '/work-with-me/agile-coaching/' | relative_url }}"><span>Our organisation isn't delivering as well as it should.</span><span class="arrow">&rarr; Transformation &amp; Agile</span></a></li>
-      <li><a href="{{ '/work-with-me/red-team-thinking/' | relative_url }}"><span>We want our people to become better thinkers.</span><span class="arrow">&rarr; Red Team Thinking Training</span></a></li>
-      <li><a href="{{ '/speaking/' | relative_url }}"><span>We need a speaker or facilitator.</span><span class="arrow">&rarr; Speaking</span></a></li>
-    </ul>
-  </div>
-</section>
-
 <section class="section reveal">
   <div class="section__inner">
     <p class="section-eyebrow">Three connected capabilities</p>
@@ -130,7 +138,7 @@ description: "Siliconglen: critical thinking, delivery and Agile with Craig Cock
     <ul class="ledger">
       <li>
         <span class="figure">Same day</span>
-        <span class="desc"><strong>Government Spending Challenge</strong>Craig restored a high-profile government service on the same day an immediate public-content risk emerged. <a href="{{ '/case-studies/#government-spending-challenge' | relative_url }}">Read the Government Spending Challenge case study</a>.</span>
+        <span class="desc"><strong>Government Spending Challenge</strong>I restored a high-profile government service on the same day an immediate public-content risk emerged. <a href="{{ '/case-studies/#government-spending-challenge' | relative_url }}">Read the Government Spending Challenge case study</a>.</span>
       </li>
       <li>
         <span class="figure">&lt;3 mo</span>
@@ -138,7 +146,7 @@ description: "Siliconglen: critical thinking, delivery and Agile with Craig Cock
       </li>
       <li>
         <span class="figure">13</span>
-        <span class="desc"><strong>Southwark Council</strong>Craig coordinated 13 suppliers and more than 150 council staff in an award-winning transformation. <a href="{{ '/case-studies/#southwark-council-programme' | relative_url }}">Read the Southwark Council case study</a>.</span>
+        <span class="desc"><strong>Southwark Council</strong>I coordinated 13 suppliers and more than 150 council staff in an award-winning transformation. <a href="{{ '/case-studies/#southwark-council-programme' | relative_url }}">Read the Southwark Council case study</a>.</span>
       </li>
       <li>
         <span class="figure">~900</span>
@@ -220,7 +228,7 @@ description: "Siliconglen: critical thinking, delivery and Agile with Craig Cock
 <section class="section reveal">
   <div class="section__inner">
     <p class="section-eyebrow">About</p>
-    <h2>Craig Cockburn</h2>
+    <h2>About me</h2>
     <p class="lede">From software and the early internet, through complex delivery, to organisational systems, critical thinking and AI, the thread running through it all is the same: understand the real problem before you try to solve it.</p>
     <p><a href="{{ '/about/' | relative_url }}">More about Craig</a></p>
   </div>
