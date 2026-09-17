@@ -15,6 +15,18 @@ I work with leadership teams to close that gap: connecting the direction they've
 
 I help leadership teams form an agile strategy and visualise it in a complex landscape, connecting it to roadmaps, backlogs, Wardley mapping and the Strategy Cycle, drawing on the work of Simon Wardley, Roman Pichler and Dave Snowden.
 
+## See the approach
+
+<iframe class="media-embed" width="100%" height="450" src="https://www.youtube-nocookie.com/embed/AQTMWaR9Rs4" title="How to form and visualise an Agile strategy in a complex landscape" loading="lazy" allowfullscreen></iframe>
+
+*How to form and visualise an Agile strategy in a complex landscape — a talk given at Digital Leaders Week in October 2020, to which 300 people signed up.*
+
+> "This talk was great. Probably one of the best conference talks I've seen for a while... I had been quite critical of my company's lack of a clear vision recently, but I've come to realise that the vision is probably fine and that the problem is strategy. I think this will be really useful. I do think I'm going to have to rewatch it in order to take it all in properly, though!"
+>
+> — Attendee feedback, Digital Leaders Week, 2020
+
+This topic has since been presented at other events, including Agile Tour Vilnius in 2022.
+
 ## What we can work on
 
 - Making strategic direction visible and shared across a leadership team, not just understood by the people who wrote it.

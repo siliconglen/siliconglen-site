@@ -9,9 +9,9 @@ permalink: /work-with-me/decision-support/
 
 ## A decision is only as sound as the thinking behind it
 
-Difficult decisions often combine incomplete evidence, competing priorities and pressure to move. A plausible answer can arrive before the real question has been agreed.
+Difficult decisions often combine incomplete evidence, competing priorities and pressure to move. A plausible answer can arrive before the real question has been agreed, while the knowledge needed to reach a stronger decision may already be spread across your team.
 
-I help leaders and teams frame the decision, distinguish evidence from interpretation and make uncertainty explicit. The decision remains yours; the work makes its basis clearer and more defensible.
+I facilitate leaders and teams through a live decision, strategy or problem using Red Team Thinking® tools and broader critical thinking practices. I bring the tools, structure and process; I do not bring a pre-packaged answer. My role is to guide your team as it surfaces its own knowledge, distinguishes evidence from interpretation and makes uncertainty explicit. The decision and its outcomes remain yours.
 
 ## What we can cover
 
@@ -25,20 +25,22 @@ I help leaders and teams frame the decision, distinguish evidence from interpret
 ## How the work happens
 
 ### Frame
-We define the question, desired outcome, constraints and decision point.
+I guide the team to define the question, desired outcome, constraints and decision point.
 
 ### Examine
-We review the available evidence, interpretations, assumptions and options without pretending uncertainty can be eliminated.
+I facilitate a structured examination of the available evidence, interpretations, assumptions and options without pretending uncertainty can be eliminated.
 
 ### Challenge
-We test the reasoning, look for missing perspectives and identify where confidence exceeds the evidence.
+The team tests its reasoning, looks for missing perspectives and identifies where confidence exceeds the evidence.
 
 ### Decide and act
-We record the rationale, remaining uncertainty and practical next steps so the decision can move into delivery.
+I guide the team to record its rationale, remaining uncertainty and practical next steps so the decision can move into delivery.
 
 ## The decision record
 
-I turn the workshop into a concise decision record: the agreed question and owner, explicit comparison criteria, an evidence-and-assumption map, tested options, prioritised risks, the rationale and remaining uncertainty, plus an actionable next-step plan. The goal is not a longer report; it is a decision people can understand, explain and use.
+I facilitate the creation of a concise decision record: the agreed question and owner, explicit comparison criteria, an evidence-and-assumption map, tested options, prioritised risks, the rationale and remaining uncertainty, plus an actionable next-step plan. The goal is not a longer report; it is a decision people can understand, explain and use.
+
+Engagements of this kind are typically confidential, so client teams and the live problems they work through are not identified here. For an illustration of the underlying approach rather than footage of a client engagement, watch the conference talk on the [Red Team Thinking Training page]({{ '/work-with-me/red-team-thinking/#an-introduction-to-the-approach' | relative_url }}).
 
 ## When this is useful
 
@@ -50,7 +52,7 @@ I turn the workshop into a concise decision record: the agreed question and owne
 
 ## AI-assisted decision support, critically challenged {#ai-assisted-decision-support}
 
-I also offer this work as a facilitated team workshop focused specifically on AI-assisted decisions. I bring structured critical-thinking discipline from Red Team Thinking® in the Age of AI certification to help teams gain value from AI's speed and breadth without accepting its output on trust.
+I also facilitate team workshops focused specifically on AI-assisted decisions. I use structured critical-thinking discipline from Red Team Thinking® in the Age of AI certification to guide teams in gaining value from AI's speed and breadth without accepting its output on trust.
 
 ### What an AI-focused session covers
 

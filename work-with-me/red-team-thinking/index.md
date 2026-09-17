@@ -34,6 +34,12 @@ Across the two sessions, your team learns six practical tools for stronger decis
 
 The wider Red Team Thinking toolkit goes well beyond these six tools. Sessions can draw on other techniques, from stakeholder analysis to structured stress-testing methods, where they fit your situation better.
 
+## An introduction to the approach
+
+<iframe class="media-embed" width="100%" height="450" src="https://www.youtube-nocookie.com/embed/_NeHGCgzqN4" title="Conference talk introducing Red Team Thinking and critical thinking concepts" loading="lazy" allowfullscreen></iframe>
+
+*This conference talk introduces Red Team Thinking and critical thinking concepts at a high level. It is not the full, in-depth training, which runs significantly longer than a conference session.*
+
 ## Student experience
 
 Learning is hands-on throughout rather than lecture-based. Teams work through a realistic strategic planning case study together, applying each tool to a live-feeling scenario before turning it on their own real plans and decisions.
