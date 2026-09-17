@@ -50,6 +50,10 @@ I help the team produce a visual connection from strategic direction to roadmaps
 - A roadmap exists but nobody outside the team who built it understands the reasoning behind it.
 - Strategic direction needs to be revisited following a change in circumstances.
 
+## When this isn't the right fit
+
+This is not the right fit if the need is only to stress-test one plan or to run the mechanics of an existing programme. It is for leadership teams that need to build and maintain a shared connection between strategic direction, priorities and delivery.
+
 ## Start the conversation
 
 Describe where your leadership team's strategy currently feels disconnected from delivery, and we'll work out the most useful starting point.

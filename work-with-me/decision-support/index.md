@@ -63,6 +63,10 @@ I also facilitate team workshops focused specifically on AI-assisted decisions. 
 
 This is useful when a team uses AI for analysis or drafting but has no consistent verification practice, or when a specific AI-assisted strategy, business case or analysis needs objective scrutiny before anyone relies on it.
 
+## When this isn't the right fit
+
+This is not the right fit if you want a consultant to supply the answer or take ownership of the decision and its outcomes. Nor is it a substitute for delivery support once the choice has been made; its purpose is to help your team reach and explain a sound decision.
+
 ## Make the next decision clearer
 
 Describe the choice, what is at stake and when it must be made. We can agree a proportionate next step.

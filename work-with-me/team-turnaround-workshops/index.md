@@ -35,6 +35,10 @@ I recently facilitated a full-day offsite for a hardware engineering team at a t
 - Leadership has changed or is temporarily absent, and decision-making has become unclear.
 - A team wants a structured, evidence-informed way of prioritising experiments rather than ad hoc discussion.
 
+## When this isn't the right fit
+
+This is not the right fit if the team only needs a routine status meeting or if there is no willingness to discuss blockers, trust and ownership openly. A focused offsite can establish owned actions and clearer norms, but it is not a substitute for any longer-term leadership or delivery support those actions reveal.
+
 ## Start the conversation
 
 Describe your team's situation and what a successful day would look like, and we'll shape the right design together.
