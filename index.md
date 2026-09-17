@@ -138,7 +138,7 @@ description: "Siliconglen: my work in critical thinking, delivery and Agile. Und
     <ul class="ledger">
       <li>
         <span class="figure">Same day</span>
-        <span class="desc"><strong>Government Spending Challenge</strong>I restored a high-profile government service on the same day an immediate public-content risk emerged. <a href="{{ '/case-studies/#government-spending-challenge' | relative_url }}">Read the Government Spending Challenge case study</a>.</span>
+        <span class="desc"><strong>Government Spending Challenge</strong>I led the team and provided the solution that restored a high-profile government service on the same day an immediate public-content risk emerged. <a href="{{ '/case-studies/#government-spending-challenge' | relative_url }}">Read the Government Spending Challenge case study</a>.</span>
       </li>
       <li>
         <span class="figure">&lt;3 mo</span>
