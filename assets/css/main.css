@@ -5,7 +5,7 @@
   --muted: #595959;
   --line: #dddddd;
   --accent: #005eb8;
-  --font: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  --font: Arial, Helvetica, sans-serif;
   --font-heading: "Plus Jakarta Sans", Arial, Helvetica, sans-serif;
   --measure: 68ch;
 }
@@ -59,8 +59,9 @@ h3 { margin: 0 0 .5rem; font-size: 1.25rem; }
 .prose > p, .prose > ul, .prose > ol { max-width: var(--measure); }
 .prose > h2 { margin: clamp(3.5rem, 7vw, 5rem) 0 1rem; }
 .prose > h2:first-child { margin-top: 0; }
-.prose > h3 { margin: 2rem 0 .5rem; }
+.prose > h3 { margin: clamp(3rem, 6vw, 4rem) 0 .5rem; }
 .prose > h2 + h3 { margin-top: 1.75rem; }
+.prose > h4 { margin: 1.25rem 0 .25rem; }
 .prose--case-studies > h2:not(:first-child) {
   padding-top: clamp(2rem, 4vw, 3rem);
   border-top: 1px solid var(--line);
