@@ -44,6 +44,12 @@ Evidence from delivery informs the next decision rather than being hidden by the
 
 I make the outcome, owners, supplier dependencies, governance cadence and blocked decisions visible, then connect each to action. That is the discipline I used while coordinating 13 third-party suppliers, over 150 council staff and five delivery-partner teams on the [Southwark programme]({{ '/case-studies/#southwark-council-programme' | relative_url }}). Where an engagement includes implementation, the purpose is a delivered result—not advice left on a shelf.
 
+The same focus on carrying difficult work through to an outcome runs through the [Government Spending Challenge]({{ '/case-studies/#government-spending-challenge' | relative_url }}), the [CIO Council secure procurement portal]({{ '/case-studies/#cio-council-secure-procurement-portal' | relative_url }}) and the [VisitScotland e-commerce rescue]({{ '/case-studies/#visitscotland-e-commerce-rescue' | relative_url }}).
+
+> "Craig brought trustworthy technical insight about the platform and fully understood the content side of the equation. He had a level head and good judgement on prioritising real requirements from 'helpful suggestions'."
+>
+> — Nick Jones, Head of Digital, Prime Minister's Office and Cabinet Office (2011–2013)
+
 ## When this is useful
 
 - A complex programme needs experienced coordination.
@@ -51,6 +57,10 @@ I make the outcome, owners, supplier dependencies, governance cadence and blocke
 - Delivery is moving but priorities or ownership remain unclear.
 - A programme needs recovery, decisive action or a credible route forward.
 - Organisational change must become practical delivery.
+
+## When this isn't the right fit
+
+This is not the right fit if you only need a report or recommendations without hands-on responsibility for moving delivery forward. If the immediate need is to examine a decision before implementation rather than lead the resulting programme, a Decision Support Workshop is likely to be more useful.
 
 ## Move from plan to outcome
 

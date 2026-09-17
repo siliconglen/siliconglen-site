@@ -17,12 +17,6 @@ I have given 30+ talks on strategy, critical thinking, Red Team Thinking, struct
 
 <iframe class="media-embed" width="100%" height="450" src="https://www.youtube-nocookie.com/embed/_NeHGCgzqN4" title="Red Team Thinking: critical thinking practices to support more proactive agility" loading="lazy" allowfullscreen></iframe>
 
-### Visualise and iterate your agile roadmaps using a strategy map
-
-*Event: Agile20Reflect Festival*
-
-<iframe class="media-embed" width="100%" height="450" src="https://www.youtube-nocookie.com/embed/CgoxHcN9gGM" title="Visualise and iterate your agile roadmaps using a strategy map at Agile20Reflect Festival" loading="lazy" allowfullscreen></iframe>
-
 ### Knowledge Canvas
 
 <iframe class="media-embed" width="100%" height="450" src="https://www.youtube-nocookie.com/embed/oU1xIyOasCo" title="Knowledge Canvas" loading="lazy" allowfullscreen></iframe>

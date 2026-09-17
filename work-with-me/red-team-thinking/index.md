@@ -72,6 +72,10 @@ Red Team Thinking Training is particularly useful when:
 - assumptions have not been revisited as circumstances changed; or
 - failure would carry significant financial, operational or reputational cost.
 
+## When this isn't the right fit
+
+This training is not the right fit if you want an external expert to make the decision for you or provide a one-off critique of a live plan. If your team needs facilitated support to work through a specific decision rather than learning a repeatable set of tools, a Decision Support Workshop is the better fit.
+
 ## Build a team that challenges well
 
 Describe your team's current decision-making challenges and the plans or decisions where sharper thinking would make the most difference. We can shape the right programme together.

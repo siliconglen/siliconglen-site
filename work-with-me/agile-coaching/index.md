@@ -34,6 +34,12 @@ An engagement may be a short diagnostic followed by a focused coaching plan, reg
 
 I have established an Agile Centre of Excellence and trained more than 500 people at [Admiral Insurance]({{ '/case-studies/#enterprise-agile-coach-admiral-group-plc' | relative_url }}), and embedded ways of working beyond software teams at Jaguar Land Rover's Birmingham and Liverpool manufacturing plants. I use that experience to leave you with clearer outcomes, a visible delivery system, improved feedback and decision-making, and capability that continues after handover—not dependence on a framework or coach.
 
+> "Craig has contributed so much to the initiatives we've embarked on since the birth of the Agile Centre of Excellence at Admiral."
+>
+> — Jez Winkless, Agile Coach, Admiral Group plc
+
+The [BT Mobile Tribe case study]({{ '/case-studies/#enterprise-agile-coach-bt-mobile-tribe' | relative_url }}) shows how the same outcome-led approach supported a tribe as it grew from four to twelve squads entirely remotely.
+
 ## When this is useful
 
 - The organisation is not delivering as well as it should.
@@ -41,6 +47,10 @@ I have established an Agile Centre of Excellence and trained more than 500 peopl
 - Teams face unclear priorities, slow decisions or hidden dependencies.
 - Leaders need a stronger connection to delivery evidence.
 - A transformation needs to adapt rather than follow a fixed plan regardless of results.
+
+## When this isn't the right fit
+
+This is not the right fit if the goal is simply to install an Agile framework, copy a standard transformation recipe or create an ongoing dependence on a coach. The work needs a real delivery problem, willingness to learn from evidence and people able to act on what the coaching reveals.
 
 ## Improve the way work becomes outcomes
 
