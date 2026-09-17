@@ -54,7 +54,7 @@ h1, h2, h3 { font-family: var(--font-heading); font-weight: 800; line-height: 1.
 h1 { margin: 0; max-width: none; font-size: clamp(2.25rem, 6vw, 3.5rem); }
 h2 { margin: 0 0 1rem; font-size: clamp(1.75rem, 4vw, 2.5rem); }
 h3 { margin: 0 0 .5rem; font-size: 1.25rem; }
-.lede { max-width: var(--measure); font-size: 1.25rem; color: var(--muted); }
+.lede { max-width: var(--measure); font-size: 1.25rem; }
 .prose { padding-block: clamp(2.5rem, 6vw, 4rem) 4rem; }
 .prose > p, .prose > ul, .prose > ol { max-width: var(--measure); }
 .prose > h2 { margin: clamp(3.5rem, 7vw, 5rem) 0 1rem; }

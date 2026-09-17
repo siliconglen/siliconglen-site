@@ -17,6 +17,17 @@ is authorised to change and why.
 - Heading font: Plus Jakarta Sans, weight 800, loaded via Google Fonts.
 - Fallback stack: Arial, Helvetica, sans-serif.
 
+## Font and colour consistency
+- Body text must use exactly the approved font stack: Arial, Helvetica, sans-serif. No platform/system font stack (e.g. -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, or similar OS-default fonts) may be introduced anywhere on the site, even as part of a longer fallback list.
+- Headings must use exactly the approved stack: "Plus Jakarta Sans", Arial, Helvetica, sans-serif, at weight 800.
+- Body text colour must be consistent within any single continuous block of content (e.g. the homepage hero, an intro paragraph pair). Do not mix muted/lighter text colour with standard body text colour within what a visitor would read as one continuous statement, unless one part is deliberately a caption, label, or secondary note and is visually distinguished as such on purpose.
+- Any task that adds or edits CSS, or adds new body content near existing content, must check both the font-family AND the text colour of the surrounding content, and confirm the new content matches unless a deliberate visual distinction is intended and stated in the task.
+
+## Heading and section spacing
+- Every section and subsection must be clearly visually differentiated from the one before and after it. A visitor must be able to tell at a glance where one item (e.g. a case study, a service description, a list entry) ends and the next begins.
+- The gap before a new heading must be visibly larger than the gap between that heading and its own body text — headings must read as attached to the content below them, not floating roughly equidistant between the previous section and their own text.
+- Current implementation: `.prose > h3` uses `margin: clamp(3rem, 6vw, 4rem) 0 .5rem` and `.prose > h4` uses `margin: 1.25rem 0 .25rem`. Any future spacing change must preserve this principle (larger gap above a heading than below it) even if the exact values are adjusted.
+
 ## Navigation
 - Top-level navigation includes evidence pages (Critical Thinking, Delivery, Business Agility, AI, Case Studies) alongside the necessary navigational items Home, Work With Me, About, and Contact.
 - The "Work With Me" dropdown is exclusively for future-tense, bookable services: what Craig will do for a client.
