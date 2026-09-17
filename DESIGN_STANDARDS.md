@@ -69,6 +69,14 @@ is authorised to change and why.
 - The test: does this describe teaching a topic, or solving a named organisation's problem? Teaching → Speaking. Problem-solving → Work With Me.
 - A workshop delivered at a conference to teach a topic (e.g. Agile India) belongs on Speaking, not Work With Me, even though the word "workshop" appears in its name.
 
+## Red Team Thinking terminology
+- Red Team Thinking® has two distinct offers on this site, and copy must keep them clearly separated:
+  - **Red Team Thinking Training** (licensed): Craig delivers licensed Red Team Thinking training content under permission from Red Team Thinking / TruThinking Corp. He trains, then leaves — outcomes belong to the client from that point.
+  - **Decision Support Workshops**: Craig uses Red Team Thinking tools and critical thinking practice to facilitate a client through a live decision, strategy, or problem. This is described using the accessible term "decision support" rather than the RTT brand name, since not every visitor will know what Red Team Thinking means.
+- This work is facilitation, not consulting. Per Red Team Thinking's own positioning (redteamthinking.com): "We are not a consulting company. We don't provide answers; we provide tools that you unlock the solutions that reside inside your organization." Craig's role is to guide the client's own team through a process, not to advise them on the answer. Site copy describing this offer must use "facilitate"/"facilitation"/"guide" language, not "advise" or "consult".
+- Critical thinking is the broader discipline. Red Team Thinking is one specific, branded, licensed method of applying it — not the only one. Craig can and does apply critical thinking outside the RTT brand.
+- Client engagements using RTT tools are typically confidential — clients frequently do not want to be named or identified. This is why no named case studies exist for Decision Support Workshops or the consulting side of Red Team Thinking; conference talks and video evidence substitute for named case studies here, and this is a deliberate, accepted exception, not a gap to be flagged in future audits.
+
 ## Homepage hero pills
 - The four pills under the hero (Critical Thinking, Delivery, Agile, AI) link exclusively to their corresponding top-level evidence pages: /critical-thinking/, /delivery/, /business-agility/, /ai/.
 - Pills must never link into /work-with-me/ URLs — the "Work with me" button already covers that route.
