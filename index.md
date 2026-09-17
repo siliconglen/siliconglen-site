@@ -8,8 +8,8 @@ description: "Siliconglen: my work in critical thinking, delivery and Agile. Und
     <div>
       <p class="section-eyebrow">Critical Thinking · Delivery · Agile</p>
       <h1>Think clearer.<br>Decide better.<br>Deliver what matters.</h1>
-      <p>I'm Craig Cockburn. I help leaders think more clearly, decide with confidence, and deliver complex change — combining structured challenge with hands-on delivery, across banking, insurance, manufacturing, retail, telecoms, startups, and public sector.</p>
-      <p>For over 20 years I have worked with businesses to help them succeed, and have used a variety of skills across this time including programme and project delivery, coaching leaders, delivery teams, turning around projects and establishing Agile Centres of Excellence. More recently I have added strategy, critical thinking and Red Team Thinking (critical thinking for business) to my skillset, and have applied this in the UK, Malta, Romania and India.</p>
+      <p class="lede">I'm Craig Cockburn. I help leaders think more clearly, decide with confidence, and deliver complex change — combining structured challenge with hands-on delivery, across banking, insurance, manufacturing, retail, telecoms, startups, and public sector.</p>
+      <p class="lede">For over 20 years I have worked with businesses to help them succeed, and have used a variety of skills across this time including programme and project delivery, coaching leaders, delivery teams, turning around projects and establishing Agile Centres of Excellence. More recently I have added strategy, critical thinking and Red Team Thinking (critical thinking for business) to my skillset, and have applied this in the UK, Malta, Romania and India.</p>
       <div class="tag-row">
         <a class="tag" href="{{ '/critical-thinking/' | relative_url }}">Critical Thinking</a>
         <a class="tag" href="{{ '/delivery/' | relative_url }}">Delivery</a>
@@ -56,7 +56,7 @@ description: "Siliconglen: my work in critical thinking, delivery and Agile. Und
   <div class="section__inner">
     <p class="section-eyebrow">Experience includes</p>
     <h2 id="experience-heading">Across industry and public service</h2>
-    <p>Representative organisations from my employed, contracted and consulting engagements include:</p>
+    <p class="lede">Representative organisations from my employed, contracted and consulting engagements include:</p>
     <!-- Real client logos must not be added without permission; use text wordmarks only. -->
     <ul class="proof-band__list" aria-label="Representative organisations">
       <li>Royal Bank of Scotland</li>
