@@ -18,11 +18,10 @@ description: "Siliconglen: my work in critical thinking, delivery and Agile. Und
       </div>
       <p class="hero__case-studies"><a href="{{ '/case-studies/' | relative_url }}">See case studies &rarr;</a></p>
     </div>
-    <figure class="photo-placeholder">
+    <figure class="hero__portrait">
       <div class="photo-frame">
-        <img src="https://picsum.photos/seed/siliconglen-hero/960/720" width="960" height="720" alt="" loading="eager">
+        <img src="{{ '/assets/images/home/craig-cockburn-headshot.jpg' | relative_url }}" width="4200" height="3000" alt="Craig Cockburn" loading="eager">
       </div>
-      <figcaption>Temporary stock photo, real photography to follow</figcaption>
     </figure>
   </div>
 </section>
