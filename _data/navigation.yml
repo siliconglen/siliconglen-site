@@ -3,11 +3,11 @@
 - label: Work With Me
   url: /work-with-me/
   children:
-    - { label: Red Team Thinking Training, url: /work-with-me/red-team-thinking/ }
-    - { label: Decision Support Workshops, url: /work-with-me/decision-support/ }
-    - { label: Programme & Project Delivery, url: /work-with-me/programme-delivery/ }
     - { label: Agile Coaching, url: /work-with-me/agile-coaching/ }
+    - { label: Decision Support Workshops, url: /work-with-me/decision-support/ }
     - { label: Leadership Strategy, url: /work-with-me/leadership-strategy/ }
+    - { label: Programme & Project Delivery, url: /work-with-me/programme-delivery/ }
+    - { label: Red Team Thinking Training, url: /work-with-me/red-team-thinking/ }
     - { label: Team Turnaround Workshops, url: /work-with-me/team-turnaround-workshops/ }
 - { label: Critical Thinking, url: /critical-thinking/ }
 - { label: Delivery, url: /delivery/ }
@@ -17,8 +17,8 @@
 - label: About
   url: /about/
   children:
-    - { label: Speaking, url: /speaking/ }
-    - { label: Insights, url: /insights/ }
     - { label: Citations, url: /citations/ }
+    - { label: Insights, url: /insights/ }
+    - { label: Speaking, url: /speaking/ }
     - { label: Updates, url: /updates/ }
 - { label: Contact, url: /contact/ }

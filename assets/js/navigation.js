@@ -15,6 +15,13 @@
 
   button.addEventListener('click', () => setMenu(button.getAttribute('aria-expanded') !== 'true'));
   backdrop.addEventListener('click', () => setMenu(false));
+  navigation.addEventListener('toggle', (event) => {
+    if (!event.target.matches('details[open]')) return;
+
+    navigation.querySelectorAll('details[open]').forEach((item) => {
+      if (item !== event.target) item.removeAttribute('open');
+    });
+  }, true);
   navigation.addEventListener('click', (event) => {
     if (event.target.closest('a')) setMenu(false);
   });
