@@ -9,7 +9,7 @@ permalink: /work-with-me/team-turnaround-workshops/
 
 ## When a team needs more than a meeting
 
-Some team problems can't be solved in a status update. When delivery is stalling, trust has eroded, or ownership has become unclear, often following a change in leadership, a structured offsite can do in a day what months of meetings can't.
+Some team problems cannot be solved in a status update. A structured offsite helps when delivery has stalled, trust has eroded or a leadership change has left ownership unclear.
 
 ## What a session covers
 
@@ -22,11 +22,13 @@ Some team problems can't be solved in a status update. When delivery is stalling
 
 ## A full day that ends with owners
 
-Each part follows the same pattern: a short framing, a group activity, reference material to ground the discussion, and a concrete follow-through action. The agenda can flex within the fixed day, but the endpoint does not: an agreed set of actions with named owners and review points. I adapt pacing, movement and ground rules for the team in the room, including neurodivergent participants.
+**Agenda:** Each part combines a short framing, group activity, reference material and a concrete follow-through action. The day ends with agreed actions, named owners and review points.
+
+**Accessibility:** I adapt pacing, movement and ground rules for the people in the room, including neurodivergent participants.
 
 ## Recent work
 
-I recently facilitated a full-day offsite for a hardware engineering team at a trading technology firm, helping it surface delivery blockers and agree owned actions and clearer decision-making norms while it worked without an Engineering Manager. [Read the trading technology team turnaround case study]({{ '/case-studies/#trading-technology-hardware-team-turnaround-workshop' | relative_url }}).
+A recent offsite helped a hardware engineering team surface blockers and agree owned actions. [Read the full trading technology team turnaround case study]({{ '/case-studies/#trading-technology-hardware-team-turnaround-workshop' | relative_url }}).
 
 ## When this is useful
 
@@ -39,7 +41,7 @@ I recently facilitated a full-day offsite for a hardware engineering team at a t
 
 This is not the right fit if the team only needs a routine status meeting or if there is no willingness to discuss blockers, trust and ownership openly. A focused offsite can establish owned actions and clearer norms, but it is not a substitute for any longer-term leadership or delivery support those actions reveal.
 
-## Start the conversation
+## Reset the team around owned action
 
 Describe your team's situation and what a successful day would look like, and we'll shape the right design together.
 

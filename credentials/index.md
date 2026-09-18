@@ -7,9 +7,9 @@ description: "Professional credentials, qualifications and certifications held b
 permalink: /credentials/
 ---
 
-## Professional standing and higher education
+## Professional standing and higher education {#professional-standing-and-higher-education}
 
-Craig's professional standing and higher education span engineering, information technology, management and software development.
+My professional standing and higher education span engineering, information technology, management and software development.
 {: .lede}
 
 - Chartered Engineer and Chartered IT Professional, British Computer Society (since 2005)
@@ -22,9 +22,9 @@ Craig's professional standing and higher education span engineering, information
 
 BCS chartered status can be independently verified through the [BCS member directory](https://www.bcs.org/find-a-bcs-member/).
 
-## Critical thinking, Agile and delivery
+## Critical thinking, Agile and delivery {#critical-thinking-agile-and-delivery}
 
-Craig's current professional certifications cover critical thinking, Agile coaching, organisational change and programme delivery.
+My current professional certifications cover critical thinking, Agile coaching, organisational change and programme delivery.
 {: .lede}
 
 - Certified Red Team Coach (Gold), Red Team Thinking (16 July 2024)

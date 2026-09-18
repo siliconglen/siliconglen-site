@@ -11,9 +11,9 @@ permalink: /work-with-me/decision-support/
 
 Difficult decisions often combine incomplete evidence, competing priorities and pressure to move. A plausible answer can arrive before the real question has been agreed, while the knowledge needed to reach a stronger decision may already be spread across your team.
 
-I facilitate leaders and teams through a live decision, strategy or problem using Red Team Thinking® tools and broader critical thinking practices. I bring the tools, structure and process; I do not bring a pre-packaged answer. My role is to guide your team as it surfaces its own knowledge, distinguishes evidence from interpretation and makes uncertainty explicit. The decision and its outcomes remain yours.
+Using Red Team Thinking® tools and broader critical-thinking practices, I guide your team through a live decision, strategy or problem. The structure helps the team surface its knowledge, distinguish evidence from interpretation and make uncertainty explicit; the decision remains yours.
 
-## What we can cover
+## What we can cover {#what-we-can-cover}
 
 - The decision that actually needs to be made and who owns it.
 - Assumptions, evidence gaps and alternative explanations.
@@ -38,9 +38,18 @@ I guide the team to record its rationale, remaining uncertainty and practical ne
 
 ## The decision record
 
-I facilitate the creation of a concise decision record: the agreed question and owner, explicit comparison criteria, an evidence-and-assumption map, tested options, prioritised risks, the rationale and remaining uncertainty, plus an actionable next-step plan. The goal is not a longer report; it is a decision people can understand, explain and use.
+I facilitate a concise decision record containing:
 
-Engagements of this kind are typically confidential, so client teams and the live problems they work through are not identified here. For an illustration of the underlying approach rather than footage of a client engagement, watch the conference talk on the [Red Team Thinking Training page]({{ '/work-with-me/red-team-thinking/#an-introduction-to-the-approach' | relative_url }}).
+- the agreed question and owner;
+- explicit comparison criteria;
+- an evidence-and-assumption map;
+- tested options and prioritised risks;
+- the rationale and remaining uncertainty; and
+- an actionable next-step plan.
+
+The goal is a decision people can understand, explain and use—not a longer report.
+
+Engagements of this kind are confidential. The [Red Team Thinking conference talk]({{ '/speaking/#red-team-thinking-conference-talk' | relative_url }}) illustrates the underlying approach.
 
 ## When this is useful
 
@@ -52,7 +61,7 @@ Engagements of this kind are typically confidential, so client teams and the liv
 
 ## AI-assisted decision support, critically challenged {#ai-assisted-decision-support}
 
-I also facilitate team workshops focused specifically on AI-assisted decisions. I use structured critical-thinking discipline from Red Team Thinking® in the Age of AI certification to guide teams in gaining value from AI's speed and breadth without accepting its output on trust.
+I also facilitate workshops on AI-assisted decisions, helping teams gain value from AI without accepting its output on trust. [My AI verification loop]({{ '/ai/#the-verification-loop' | relative_url }}) explains the underlying discipline.
 
 ### What an AI-focused session covers
 

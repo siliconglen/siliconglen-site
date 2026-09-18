@@ -106,7 +106,7 @@ With thanks to Shane Frederick, Professor of Marketing at Yale School of Managem
 
 ## About the author
 
-Craig Cockburn, B.Sc., M.Sc., CITP, CEng, FBCS, has worked as a business consultant since 2007, helping businesses work more effectively and efficiently. In 2018 he was confirmed as a Chartered Fellow of the Chartered Management Institute, and he holds the same Fellowship from the British Computer Society. His conference speaking topics include critical thinking, strategy, decision support in business, teaching practices for neurodiversity, and remote working. He is credited with inventing an early browser (1990), publishing on remote working (1993), and appearing in the acknowledgements for HTML5. He completed a diploma in digital leadership with distinction and received an acknowledgement in Mike Burrows' *Agendashift*.
+Craig Cockburn writes from experience in critical thinking and delivery. Read more about my [career]({{ '/about/#career' | relative_url }}), [credentials]({{ '/credentials/#critical-thinking-agile-and-delivery' | relative_url }}), [recognition]({{ '/citations/#stanford-law-review-1997' | relative_url }}) and [speaking]({{ '/speaking/#talks-and-teaching-workshops' | relative_url }}).
 
 ## About Shane Frederick
 

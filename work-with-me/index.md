@@ -9,9 +9,7 @@ permalink: /work-with-me/
 
 ## Choose by the situation you face
 
-You may need to make a difficult decision, challenge a strategy, recover a programme or improve how your organisation delivers. The starting point is the problem and the outcome you need—not a method imposed in advance.
-
-You do not need to translate your problem into consultancy terminology. Start with the situation that sounds most like yours; if several overlap, we can shape a proportionate engagement around the outcome you need.
+You may need to make a difficult decision, challenge a strategy, recover a programme or improve delivery. Start with the situation and outcome—not a method or consultancy label—and I will help shape a proportionate engagement.
 
 ### Your people need repeatable tools for challenging plans
 
@@ -39,11 +37,16 @@ You do not need to translate your problem into consultancy terminology. Start wi
 
 ## Match the engagement to the problem
 
-I first clarify the outcome and the situation, then match the work to it: a decision record and evidence map for a difficult choice; two half-day Red Team Thinking sessions for repeatable skills; hands-on programme leadership for delivery; or a full-day team offsite ending in named actions and owners. The work stays connected to evidence, practical action and what your organisation learns.
+- **A live difficult choice:** Decision Support Workshops.
+- **Repeatable challenge skills:** Red Team Thinking Training.
+- **Complex delivery:** Programme & Project Delivery.
+- **A team reset:** Team Turnaround Workshops.
+- **Sustainable adaptive delivery:** Agile Coaching.
+- **Direction connected to priorities:** Leadership Strategy.
 
 ## What you leave with
 
-The precise output follows the problem: a defensible decision, a stronger plan, a delivered outcome, clearer priorities or practical capability your people can keep using. The aim is useful change rather than activity for its own sake.
+The precise output follows the problem: a defensible decision, a stronger plan, a delivered outcome, clearer priorities or practical capability your people can keep using. Every output must change a decision, delivery system or team capability—not merely create more activity.
 
 ## Find the right starting point
 

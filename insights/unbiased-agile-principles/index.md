@@ -17,7 +17,6 @@ Frameworks also tend to assume you've already validated which one to use and are
 
 To counter this premature anchoring towards well-marketed frameworks, I've set out twelve principles below, framework-neutral and focused on people, process and data. Ivar Jacobson describes practices as the “first-class citizens” of software development, with method or process simply a composition of practices. It's practices in line with principles that embed a genuine attitude shift, rather than just telling people to “be agile”.
 
-These principles are deliberately text-light and reference-heavy, so there's more to explore if you want it. Many people write books running to thousands of words with a handful of references nobody reads; this is a concise wrapper around other people's work, with just enough of my own thinking to tie it together. Part of why the Agile Manifesto worked was that it stayed concise. This isn't a manifesto, but it borrows that discipline.
 
 ## Summary
 
