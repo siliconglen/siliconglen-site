@@ -55,6 +55,7 @@ is authorised to change and why.
 
 ## Insights
 - Every full-article Insights page must reference its original publication date near the top of the page. This is the date on which it was first published on LinkedIn or Medium, not the date on which it was migrated to this site.
+- Store all Insights article imagery in `assets/images/insights/` so that future article images use one consistent location.
 
 ## Voice
 - Homepage: first person throughout, no exceptions. Every sentence on the homepage — hero, evidence/experience sections, case-study summaries, any other content — must use "I" and "my", not "Craig" or "his".
