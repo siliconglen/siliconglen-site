@@ -56,4 +56,4 @@ This is not the right fit if the goal is simply to install an Agile framework, c
 
 Describe the delivery problem and what meaningful improvement would look like.
 
-[Contact me]({{ '/contact/' | relative_url }}) or email [craig@siliconglen.com](mailto:craig@siliconglen.com).
+My contact details are in the footer.

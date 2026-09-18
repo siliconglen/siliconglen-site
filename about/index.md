@@ -96,4 +96,4 @@ Other curiosities include an IMDb-listed Gaelic film credit and being named in t
 
 If you have a decision, programme or organisational problem worth thinking through properly, describe it and the outcome you need.
 
-[Contact Craig]({{ '/contact/' | relative_url }}) or email [craig@siliconglen.com](mailto:craig@siliconglen.com).
+Craig's contact details are in the footer.

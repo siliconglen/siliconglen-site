@@ -66,4 +66,4 @@ This is not the right fit if you only need a report or recommendations without h
 
 Describe what must be delivered, the current difficulty and the people involved.
 
-[Contact me]({{ '/contact/' | relative_url }}) or email [craig@siliconglen.com](mailto:craig@siliconglen.com).
+My contact details are in the footer.

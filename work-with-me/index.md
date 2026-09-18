@@ -49,4 +49,4 @@ The precise output follows the problem: a defensible decision, a stronger plan, 
 
 You do not need to diagnose the service yourself. Describe the problem and what a good outcome would look like.
 
-[Contact me]({{ '/contact/' | relative_url }}) or email [craig@siliconglen.com](mailto:craig@siliconglen.com).
+My contact details are in the footer.

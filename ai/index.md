@@ -21,6 +21,8 @@ This is the organising idea for Craig's AI work: **AI expands the search space; 
 
 In July 2025, an unfamiliar electric hire car arrived without a useful quick-start guide. Craig used ChatGPT to assemble the public information he needed about starting, charging and driver-assistance features. It was a useful, small example of AI removing information friction—not a substitute for checking safety-critical guidance.
 
+The experience connected Craig's longstanding interest in AI with a practical question about interface complexity: when a product makes routine actions hard to discover, AI can help people find a path through the detail. His original LinkedIn article, [Car complexity and the new user journey](https://www.linkedin.com/pulse/car-complexity-new-user-journey-craig-cockburn-d7q9e), reflects on that experience without treating an AI-generated answer as a replacement for the manufacturer's guidance.
+
 ## Hands-on delivery with AI
 
 Craig has used AI directly in delivery work, not just written about it.
@@ -45,4 +47,4 @@ Craig's interest in this field goes back to his undergraduate work in Edinburgh 
 
 If you're weighing how to use AI in your own organisation, whether that's a specific tool, a policy for verifying AI-generated work, or training your team to use AI well without outsourcing their thinking, that's a conversation worth having early.
 
-[Contact Craig]({{ '/contact/' | relative_url }}) or email [craig@siliconglen.com](mailto:craig@siliconglen.com).
+Craig's contact details are in the footer.

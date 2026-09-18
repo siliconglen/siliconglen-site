@@ -48,4 +48,4 @@ This work is particularly useful when:
 
 You do not need to choose a method before getting in touch. Describe the problem, the decision or the plan that needs challenging, and we can work out the most useful next step.
 
-[Contact me]({{ '/contact/' | relative_url }}) or email [craig@siliconglen.com](mailto:craig@siliconglen.com).
+My contact details are in the footer.
