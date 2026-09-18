@@ -8,8 +8,8 @@ description: "Siliconglen: my work in critical thinking, delivery and Agile. Und
     <div>
       <p class="section-eyebrow">Critical Thinking · Delivery · Agile</p>
       <h1>Think clearer.<br>Decide better.<br>Deliver what matters.</h1>
-      <p class="lede">I help leaders think more clearly, decide with confidence, and deliver complex change.</p>
-      <p class="lede">I combine critical thinking, delivery and adaptive improvement across private, public and third-sector work. My <a href="{{ '/about/#career' | relative_url }}">career narrative</a> explains how that practice developed.</p>
+      <p class="lede">I'm Craig Cockburn. I help leaders think more clearly, decide with confidence, and deliver complex change by combining structured challenge with hands-on delivery.</p>
+      <p class="lede">For more than 20 years, I have helped organisations turn difficult decisions into working outcomes. My work spans programme and project delivery, coaching leaders and delivery teams, turning around troubled work, and building lasting Agile capability. I now also apply strategy, critical thinking and Red Team Thinking&reg; to help teams expose assumptions before they become expensive problems.</p>
       <div class="tag-row">
         <a class="tag" href="{{ '/critical-thinking/' | relative_url }}">Critical Thinking</a>
         <a class="tag" href="{{ '/delivery/' | relative_url }}">Delivery</a>
@@ -23,6 +23,36 @@ description: "Siliconglen: my work in critical thinking, delivery and Agile. Und
         <img src="{{ '/assets/images/home/craig-cockburn-headshot.jpg' | relative_url }}" width="4200" height="3000" alt="Craig Cockburn" loading="eager">
       </div>
     </figure>
+  </div>
+</section>
+
+<section class="section section--card reveal" aria-labelledby="delivery-cycle-heading">
+  <div class="section__inner">
+    <p class="section-eyebrow">The organising idea</p>
+    <h2 id="delivery-cycle-heading">Think. Decide. Deliver. Improve.</h2>
+    <p class="lede">Useful change is a cycle, not a hand-off. Think clearly about the real problem, make a defensible decision, deliver a working outcome, then use evidence from the result to improve what happens next.</p>
+    <div class="grid grid--4">
+      <div class="card">
+        <svg class="card-icon" viewBox="0 0 24 24" width="32" height="32" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 18h6"/><path d="M10 21h4"/><path d="M12 3a6 6 0 0 0-4 10.5c.6.55 1 1.3 1 2.1V16h6v-.4c0-.8.4-1.55 1-2.1A6 6 0 0 0 12 3Z"/></svg>
+        <h3>Think</h3>
+        <p>Challenge assumptions and expose blind spots before they cost you.</p>
+      </div>
+      <div class="card">
+        <svg class="card-icon" viewBox="0 0 24 24" width="32" height="32" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="m8.5 12.5 2.5 2.5 5-5"/></svg>
+        <h3>Decide</h3>
+        <p>Turn analysis into a clear, defensible decision.</p>
+      </div>
+      <div class="card">
+        <svg class="card-icon" viewBox="0 0 24 24" width="32" height="32" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M7 17 17 7"/><path d="M9 7h8v8"/></svg>
+        <h3>Deliver</h3>
+        <p>Turn decisions into working outcomes, not just plans.</p>
+      </div>
+      <div class="card">
+        <svg class="card-icon" viewBox="0 0 24 24" width="32" height="32" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 17 10 11l4 4 6-7"/><path d="M15 8h5v5"/></svg>
+        <h3>Improve</h3>
+        <p>Use what's delivered to make the organisation better next time.</p>
+      </div>
+    </div>
   </div>
 </section>
 
@@ -71,35 +101,6 @@ description: "Siliconglen: my work in critical thinking, delivery and Agile. Und
   </div>
 </section>
 
-<section class="section section--card reveal">
-  <div class="section__inner">
-    <p class="section-eyebrow">How the work happens</p>
-    <h2>Think. Decide. Deliver. Improve.</h2>
-    <div class="grid grid--4">
-      <div class="card">
-        <svg class="card-icon" viewBox="0 0 24 24" width="32" height="32" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 18h6"/><path d="M10 21h4"/><path d="M12 3a6 6 0 0 0-4 10.5c.6.55 1 1.3 1 2.1V16h6v-.4c0-.8.4-1.55 1-2.1A6 6 0 0 0 12 3Z"/></svg>
-        <h3>Think</h3>
-        <p>Challenge assumptions and expose blind spots before they cost you.</p>
-      </div>
-      <div class="card">
-        <svg class="card-icon" viewBox="0 0 24 24" width="32" height="32" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="m8.5 12.5 2.5 2.5 5-5"/></svg>
-        <h3>Decide</h3>
-        <p>Turn analysis into a clear, defensible decision.</p>
-      </div>
-      <div class="card">
-        <svg class="card-icon" viewBox="0 0 24 24" width="32" height="32" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M7 17 17 7"/><path d="M9 7h8v8"/></svg>
-        <h3>Deliver</h3>
-        <p>Turn decisions into working outcomes, not just plans.</p>
-      </div>
-      <div class="card">
-        <svg class="card-icon" viewBox="0 0 24 24" width="32" height="32" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 17 10 11l4 4 6-7"/><path d="M15 8h5v5"/></svg>
-        <h3>Improve</h3>
-        <p>Use what's delivered to make the organisation better next time.</p>
-      </div>
-    </div>
-  </div>
-</section>
-
 <section class="section reveal">
   <div class="section__inner">
     <p class="section-eyebrow">Three connected capabilities</p>
@@ -134,20 +135,20 @@ description: "Siliconglen: my work in critical thinking, delivery and Agile. Und
     <h2>Results</h2>
     <ul class="ledger">
       <li>
-        <span class="figure">Same day</span>
-        <span class="desc"><strong>Government Spending Challenge</strong>I restored a high-profile government service on the day a public-content risk emerged. <a href="{{ '/case-studies/#government-spending-challenge' | relative_url }}">Read the Government Spending Challenge case study</a>.</span>
+        <span class="figure">Rapid</span>
+        <span class="desc"><strong>Government Spending Challenge</strong>When a high-profile government service faced an immediate public-content risk, I identified the problem, reshaped the response and led the work that restored the service rapidly. <a href="{{ '/case-studies/#government-spending-challenge' | relative_url }}">Read the Government Spending Challenge case study for the full outcome</a>.</span>
       </li>
       <li>
-        <span class="figure">&lt;3 mo</span>
-        <span class="desc"><strong>CIO Council secure procurement portal</strong>A secure replacement was delivered in under three months at roughly 98% under the initial budget. <a href="{{ '/case-studies/#cio-council-secure-procurement-portal' | relative_url }}">Read the secure procurement case study</a>.</span>
+        <span class="figure">Secure</span>
+        <span class="desc"><strong>CIO Council secure procurement portal</strong>I helped connect the diagnosis of a security problem to delivery of a complete, cost-effective replacement rather than a superficial patch. <a href="{{ '/case-studies/#cio-council-secure-procurement-portal' | relative_url }}">Read the secure procurement case study for the measured result</a>.</span>
       </li>
       <li>
-        <span class="figure">13</span>
-        <span class="desc"><strong>Southwark Council</strong>I coordinated an award-winning, multi-supplier transformation. <a href="{{ '/case-studies/#southwark-council-programme' | relative_url }}">Read the Southwark Council case study</a>.</span>
+        <span class="figure">Aligned</span>
+        <span class="desc"><strong>Southwark Council</strong>I brought a complex network of council teams and external suppliers around one transformation, combining disciplined governance with the capability needed to sustain the new service. <a href="{{ '/case-studies/#southwark-council-programme' | relative_url }}">Read the Southwark Council case study for the scale and measured outcomes</a>.</span>
       </li>
       <li>
-        <span class="figure">~900</span>
-        <span class="desc"><strong>Siliconglen AI-assisted rewrite</strong>I led an AI-assisted, human-reviewed rewrite with measured improvement. <a href="{{ '/case-studies/#siliconglen-ai-assisted-rewrite' | relative_url }}">Read the AI-assisted rewrite case study</a>.</span>
+        <span class="figure">Measured</span>
+        <span class="desc"><strong>Siliconglen AI-assisted rewrite</strong>I used AI to accelerate a substantial rewrite while retaining human direction, review and measurement, turning the technology into a delivery tool rather than a substitute for judgement. <a href="{{ '/case-studies/#siliconglen-ai-assisted-rewrite' | relative_url }}">Read the AI-assisted rewrite case study for the figures</a>.</span>
       </li>
     </ul>
     <p><a href="{{ '/case-studies/' | relative_url }}">See the full case studies</a></p>
@@ -227,7 +228,7 @@ description: "Siliconglen: my work in critical thinking, delivery and Agile. Und
     <p class="section-eyebrow">About</p>
     <h2>About me</h2>
     <p class="lede">From software and the early internet, through complex delivery, to organisational systems, critical thinking and AI, the thread running through it all is the same: understand the real problem before you try to solve it.</p>
-    <p><a href="{{ '/about/' | relative_url }}">More about Craig</a></p>
+    <p><a href="{{ '/about/#career' | relative_url }}">Read my career narrative</a></p>
   </div>
 </section>
 

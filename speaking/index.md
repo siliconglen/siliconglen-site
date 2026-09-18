@@ -16,6 +16,9 @@ I have given more than 30 talks on strategy, critical thinking, Red Team Thinkin
 
 ## Red Team Thinking: critical thinking practices to support more proactive agility {#red-team-thinking-conference-talk}
 
+I explain how Red Team Thinking techniques help teams and organisations challenge assumptions, avoid groupthink and make better decisions while remaining able to act.
+{: .lede}
+
 <iframe class="media-embed" width="100%" height="450" src="https://www.youtube-nocookie.com/embed/_NeHGCgzqN4" title="Red Team Thinking: critical thinking practices to support more proactive agility" loading="lazy" allowfullscreen></iframe>
 
 ## Knowledge Canvas {#knowledge-canvas}
@@ -25,17 +28,31 @@ I have given more than 30 talks on strategy, critical thinking, Red Team Thinkin
 Knowledge Canvas is my visualisation practice, combining concept maps, mind maps and Cornell notes with time-based structure and colour-coding.
 {: .lede}
 
-I developed it to make talks and conferences more inclusive for neurodivergent audiences. I released it under a [Creative Commons Attribution 4.0 International licence](https://creativecommons.org/licenses/by/4.0/).
+I developed it to make talks and conferences more inclusive for neurodivergent audiences: approximately one in seven people in the UK have a neurodifference, according to [Acas](https://www.acas.org.uk/neurodiversity-at-work). I released it under a [Creative Commons Attribution 4.0 International licence](https://creativecommons.org/licenses/by/4.0/).
 
 I first presented it at Agile Tour London in October 2020 and at Agile Lithuania on 7 September 2022. The Agile Lithuania organisers invited me to present early so other speakers could use the method while preparing their talks.
 
+> "I just got an idea to add a persona label in each section (problem statement, proposed solution...). In other words, to label the targeted persona in each mind map node when we have a large audience."
+>
+> — Elie Rached, on LinkedIn, in response to the talk
+
+> "We tried to apply your concept during Simon Powers's and my talk... the result looked like this"
+>
+> — Wolfgang Hilpert, on LinkedIn, describing independently applying the Knowledge Canvas method to his own talk
+
 ## How to form and visualise an Agile strategy in a complex landscape {#digital-leaders-week-agile-strategy}
+
+I show how to make the relationships in a complex Agile strategy visible, so that people can discuss the whole landscape rather than treating each roadmap in isolation.
+{: .lede}
 
 <iframe class="media-embed" width="100%" height="450" src="https://www.youtube-nocookie.com/embed/AQTMWaR9Rs4" title="How to form and visualise an Agile strategy in a complex landscape" loading="lazy" allowfullscreen></iframe>
 
 I gave this talk at Digital Leaders Week in October 2020, where 300 people signed up, and later presented the topic at Agile Tour Vilnius in 2022.
 
 ## Strategy Maps: connect your roadmaps to the bigger picture {#strategy-maps-agile-india-2022}
+
+I teach a practical way to connect individual roadmaps to the wider strategy, helping participants see dependencies, choices and the bigger picture around their plans.
+{: .lede}
 
 *Agile India 2022 · Teaching workshop-format conference talk*
 
