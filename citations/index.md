@@ -77,19 +77,23 @@ The following recommendations record professional recognition from colleagues an
 ### Roshan Daryanani {#recommendation-roshan-daryanani}
 
 > “Craig managed a number of projects delivering to the technology roadmap. He is very personable and has displayed a mature approach to project progression. I have no doubt in his ability to undertake the management of large scale projects with ease.”
-
-### Michael Perone {#recommendation-michael-perone}
-
-> “This guy understands technology and the Internet!”
+>
+> — Roshan Daryanani, Enterprise and Solution Architect, LEVO Enterprises
 
 ### Fiona Malone {#recommendation-fiona-malone}
 
 > “Craig was a dedicated and conscientious Project Manager at HMH. Craig built up strong and effective working relationships with geographically dispersed vendors and team members, working long hours to cover multiple timezones where required.”
+>
+> — Fiona Malone, Delivery Director, Houghton Mifflin Harcourt
 
 ### Sorcha Moore {#recommendation-sorcha-moore}
 
 > “I had the pleasure of working with Craig during a major project at Pocketkings. He is a pragmatic project leader, flexible and dynamic, who never takes his eye off the ball and the overall project goals. As well as navigating a time pressurized project efficiently and accurately on target, he consistently motivated the team to achieve their optimum capacity, resulting in successful, on-target project deployment.”
+>
+> — Sorcha Moore, Lead Product UX Designer, Full Tilt Poker (2007–2010)
 
 ### Polly Purvis OBE FRSE {#recommendation-polly-purvis}
 
 > “Craig and I worked together for several years as part of the team developing the community bid for the dotScot Top Level Domain Name (gTLD), and we are now both on the board of the dotScot Registry... Craig has a great eye for detail and the determination to see projects through, as well as a deep knowledge of project governance — a great person to have on your team!”
+>
+> — Polly Purvis OBE FRSE, Chair, Converge Challenge and Non-Executive Director

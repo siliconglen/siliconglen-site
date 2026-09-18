@@ -171,11 +171,6 @@ description: "Siliconglen: my work in critical thinking, delivery and Agile. Und
         <p><a href="{{ '/citations/#recommendation-roshan-daryanani' | relative_url }}">Read the full recommendation</a></p>
       </figure>
       <figure class="card testimonial">
-        <blockquote>“This guy understands technology and the Internet!”</blockquote>
-        <figcaption><strong>Michael Perone</strong><br>Founder, Investor and Creator</figcaption>
-        <p><a href="{{ '/citations/#recommendation-michael-perone' | relative_url }}">Read the full recommendation</a></p>
-      </figure>
-      <figure class="card testimonial">
         <blockquote>“Craig built strong and effective working relationships.”</blockquote>
         <figcaption><strong>Fiona Malone</strong><br>Delivery Director, Houghton Mifflin Harcourt</figcaption>
         <p><a href="{{ '/citations/#recommendation-fiona-malone' | relative_url }}">Read the full recommendation</a></p>
