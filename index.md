@@ -16,10 +16,7 @@ description: "Siliconglen: my work in critical thinking, delivery and Agile. Und
         <a class="tag" href="{{ '/business-agility/' | relative_url }}">Agile</a>
         <a class="tag" href="{{ '/ai/' | relative_url }}">AI</a>
       </div>
-      <div class="hero__ctas">
-        <a class="btn btn--primary" href="{{ '/work-with-me/' | relative_url }}">Work with me</a>
-        <a class="btn" href="{{ '/case-studies/' | relative_url }}">See case studies</a>
-      </div>
+      <p class="hero__case-studies"><a href="{{ '/case-studies/' | relative_url }}">See case studies &rarr;</a></p>
     </div>
     <figure class="photo-placeholder">
       <div class="photo-frame">
@@ -30,10 +27,11 @@ description: "Siliconglen: my work in critical thinking, delivery and Agile. Und
   </div>
 </section>
 
-<section class="section reveal">
+<section class="section section--hero-followup reveal">
   <div class="section__inner">
     <h2>How I can help you</h2>
     <p class="lede">Whether you need to challenge a decision, recover a struggling programme, or build lasting delivery capability in your team, I bring structured thinking and hands-on experience to get you unstuck.</p>
+    <p class="section__cta"><a class="btn btn--primary" href="{{ '/work-with-me/' | relative_url }}">Work with me</a></p>
   </div>
 </section>
 
