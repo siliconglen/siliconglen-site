@@ -89,7 +89,6 @@ is authorised to change and why.
 - No page may ever contain commentary about the site's own content, publishing intentions, editorial approach, or production process as visitor-facing text. This includes but is not limited to: statements about what content "will be" published, how claims are sourced or verified, descriptions of the site's own organisation or structure, and any sentence whose subject is the site or its content pipeline rather than Craig's work or expertise.
 - This is a general category, not a fixed list of banned phrases. Before adding any new page or section, check whether the text describes the site itself rather than Craig, his work, or his expertise — if so, remove or rewrite it.
 - The only exception is the AI page's own statement about how this site was built, which is explicitly permitted and protected elsewhere in this file.
-- Exception: the single homepage placeholder image caption ("Temporary stock photo, real photography to follow") is permitted to remain as a working reminder until real photography is supplied. This is the only exception to the editorial-commentary ban.
 
 ## Speaking vs Work With Me
 - Speaking page: content about teaching a topic to an audience, at a conference, in-house event, or similar — including workshop-format talks (e.g. a teaching workshop at a conference). This is knowledge-sharing, not client engagement.

@@ -136,6 +136,8 @@ h3 { margin: 0 0 .5rem; font-size: 1.25rem; }
 .hero { padding-block: clamp(2.5rem, 8vw, 5rem) clamp(1.25rem, 3vw, 2rem); }
 .hero__grid { display: grid; gap: 2.5rem; grid-template-columns: 1.8fr 1fr; align-items: center; }
 .hero__case-studies { margin: 1.5rem 0 0; }
+.hero__portrait { margin: 0; }
+.hero__portrait img { object-position: 70% center; }
 @media (max-width: 60rem) { .hero__grid { grid-template-columns: 1fr; } }
 
 /* Buttons, simple solid rectangle */
