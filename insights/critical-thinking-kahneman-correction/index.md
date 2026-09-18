@@ -96,7 +96,7 @@ A key principle of critical thinking is that it's undertaken with constructive i
 > *That not alone what to your sense is due,*<br>
 > *All may allow; but seek your friendship too.”*
 >
-> — Alexander Pope, 1711
+> — Alexander Pope, English poet and satirist, 1711
 
 **Further reading:** Meyer & Frederick (2023) and Meyer, Ata-Hussain et al. (2024), one of the last joint papers of Daniel Kahneman before his death in 2024.
 

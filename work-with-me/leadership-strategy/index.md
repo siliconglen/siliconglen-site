@@ -15,7 +15,7 @@ I work with leadership teams to close that gap: connecting the direction they've
 
 ## See the approach
 
-My [Digital Leaders Week strategy talk]({{ '/speaking/#digital-leaders-week-agile-strategy' | relative_url }}) explains the underlying model, and the [Strategy Maps workshop]({{ '/speaking/#strategy-maps-agile-india-2022' | relative_url }}) shows how it connects roadmaps to the bigger picture.
+My [Strategy Maps workshop]({{ '/speaking/#strategy-maps-agile-india-2022' | relative_url }}) explains the underlying model and shows how it connects roadmaps to the bigger picture.
 
 ## What we can work on
 

@@ -40,7 +40,7 @@ is authorised to change and why.
 - Evidence pages must not live under /work-with-me/, and the Work With Me dropdown must not contain evidence pages.
 - Evidence pages should end with a clear, single call-to-action linking to the most relevant corresponding Work With Me service page — this is intended and correct, not a violation. Evidence pages are not required to strip all mention of related services; they may reference and link to the relevant Work With Me offer as their natural conversion point.
 - The Work With Me top-level navigation item linking directly to /work-with-me/ is correct and intended.
-- The About dropdown contains: Citations, Insights, Speaking, Updates. These are dropdown-only links and must not also appear as separate top-level navigation items.
+- The About dropdown contains: Citations, Credentials, Insights, Speaking, Updates. These are dropdown-only links and must not also appear as separate top-level navigation items.
 - Items in the Work With Me and About dropdowns are alphabetised. Any future item added to either dropdown must retain that alphabetical order.
 - Citations uses the top-level URL `/citations/`. It is a third-person record of external recognition, citations and credits Craig has received, ordered most recent first, and opens with: "Recognition, credits and citations from over three decades of work."
 - Updates uses the top-level URL `/updates/`. It is for short-form reflective and opinion posts, presented in reverse chronological order in a blog-like format.
@@ -66,6 +66,10 @@ is authorised to change and why.
 - Direct testimonial quotes retain the speaker's own first-person voice and are not affected by this rule.
 - All visitor-facing sentences must be grammatically sound, plain English. A sentence must not attach a date to an abstract noun or concept in a way that doesn't logically make sense (e.g. "delivery rooted in 2007" is not valid — delivery is not a plant with roots). If a date needs stating, state it as a fact about Craig's experience directly (e.g. "I've been delivering complex programmes since 2007"), not as a decorative modifier bolted onto an unrelated noun.
 - Before publishing any new sentence, read it aloud test: does it parse as something a fluent English speaker would actually say? If not, rewrite it.
+
+## Testimonial attribution
+- Every testimonial or quote attributed to a named person anywhere on the site must include that person's role or title and their company or organisation, unless confidentiality requires the company or organisation to be omitted.
+- A bare name beside a quote carries no credibility and must not be published. If the role or title cannot be determined from the original source, flag the quote for resolution rather than guessing or publishing it with only a name.
 
 ## Content ownership
 - Every recurring fact, story or credential has exactly one canonical owner page containing the full detail. Every other page that references it must use a short one- or two-sentence summary and link to the precise owned entry; it must neither repeat the full detail nor simply delete the fact.

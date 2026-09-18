@@ -178,7 +178,7 @@ This work was independently profiled by a BT colleague: [Building a (remote) cul
 
 > "Craig has been almost entirely responsible for embedding strong and resilient Agile practices, and also for up-skilling incoming Tribe members to a level where they can deliver quality... I couldn't have wished to have had a better Agile Coach by my side on this programme."
 >
-> — Phyroze Mohamed, Programme Manager / Delivery Manager / Senior Project Manager
+> — Phyroze Mohamed, Programme Manager / Delivery Manager / Senior Project Manager, BT
 >
 > [See the full recommendation on LinkedIn](https://www.linkedin.com/in/siliconglen/details/recommendations/)
 
