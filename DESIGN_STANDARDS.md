@@ -53,6 +53,9 @@ is authorised to change and why.
 - Every external link added to the site must be checked before publication using an actual request that confirms the destination responds, not merely by judging whether its URL looks plausible.
 - Broken or dead external links must not be published. Replace one with a verified working URL where possible; otherwise retain the reference as plain text without a hyperlink.
 
+## Insights
+- Every full-article Insights page must reference its original publication date near the top of the page. This is the date on which it was first published on LinkedIn or Medium, not the date on which it was migrated to this site.
+
 ## Voice
 - Homepage: first person throughout, no exceptions. Every sentence on the homepage — hero, evidence/experience sections, case-study summaries, any other content — must use "I" and "my", not "Craig" or "his".
 - Service/proposition pages (Work With Me): first person.
