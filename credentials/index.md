@@ -18,7 +18,6 @@ My professional standing and higher education span engineering, information tech
 - Chartered Manager, Chartered Management Institute (10 September 2018)
 - Master of Science with Distinction, Large Systems Software Development, Napier University (24 November 1994), with class medal
 - BSc (Hons) Computer Science, Edinburgh University (1983–1987)
-- Executive Diploma in Digital Business with Distinction, Academy of Digital Business Leaders (2016), achieving the highest marks of the 120 UK business leaders on the programme
 
 BCS chartered status can be independently verified through the [BCS member directory](https://www.bcs.org/find-a-bcs-member/).
 
@@ -27,9 +26,11 @@ BCS chartered status can be independently verified through the [BCS member direc
 My current professional certifications cover critical thinking, Agile coaching, organisational change and programme delivery.
 {: .lede}
 
-- Certified Red Team Coach (Gold), Red Team Thinking (16 July 2024)
-- Certified Red Team Instructor, Red Team Thinking (October 2025)
+- Executive Diploma in Digital Business with Distinction, Academy of Digital Business Leaders (2016), achieving the highest marks of the 120 UK business leaders on the programme
 - Red Team Thinking® in the Age of AI (July 2026)
+- Certified Red Team Instructor, Red Team Thinking (October 2025)
+- Certified Red Team Coach (Gold), Red Team Thinking (16/07/2024)
+
 - Certified SAFe 6 Practice Consultant
 - Certified SAFe 6 Lean Portfolio Manager
 - ICAgile Certified Professional – Agility in the Enterprise (ICP-ENT) (September 2018)

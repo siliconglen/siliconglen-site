@@ -35,7 +35,7 @@ What surveys, consultancies, coaches and the press reveal about the recurring re
 
 <p class="publication-date">First published on Medium on 4 March 2016.</p>
 
-Written in 2016, arguing that digital-by-default has been the sensible option since long before it became government policy, tracing the idea back to writing Britain's first guide to getting online in 1992 and a 1993 research paper on remote working. A look at what's changed since then, and what still hasn't.
+I wrote this article in 2016 to argue that digital-by-default had been the sensible option since long before it became government policy. It traces the idea back to my work on Britain's first guide to getting online in 1992 and a 1993 research paper on remote working, then considers what's changed and what still hasn't.
 
 [Read Digital by Default on Medium](https://siliconglen.medium.com/digital-by-default-lets-make-it-happen-315d9d10a4f)
 
@@ -43,6 +43,6 @@ Written in 2016, arguing that digital-by-default has been the sensible option si
 
 <p class="publication-date">First published on Medium on 3 March 2016.</p>
 
-Written in 2016, on why intermediary platforms (Skyscanner, job boards, Autotrader) still dominate search years after the idea was first floated that they'd be disrupted, and what that means for how search and discovery need to evolve, an argument that's only become more relevant with AI-driven search.
+I wrote this article in 2016 to examine why intermediary platforms such as Skyscanner, job boards and Autotrader still dominated search years after predictions of their disruption. It considers how search and discovery need to evolve—an argument that has become even more relevant with AI-driven search.
 
 [Read Internet of Things and the future of search on Medium](https://siliconglen.medium.com/the-internet-of-things-and-the-future-of-search-5f1f60a7aab0)

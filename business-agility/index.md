@@ -12,9 +12,9 @@ permalink: /business-agility/
 I help organisations make adaptive delivery work under real regulatory, operational and organisational constraints.
 {: .lede}
 
-My client work includes building sustainable capability at [Admiral]({{ '/case-studies/#enterprise-agile-coach-admiral-group-plc' | relative_url }}) and supporting remote scale at [BT]({{ '/case-studies/#enterprise-agile-coach-bt-mobile-tribe' | relative_url }}). My wider work at Kuberno, AIB and Jaguar Land Rover sits in my [career narrative]({{ '/about/#career' | relative_url }}).
+My client work includes building sustainable capability at [Admiral]({{ '/case-studies/#enterprise-agile-coach-admiral-group-plc' | relative_url }}) and supporting remote scale at [BT]({{ '/case-studies/#enterprise-agile-coach-bt-mobile-tribe' | relative_url }}). I have also led and supported organisational change at [Kuberno, AIB and Jaguar Land Rover]({{ '/about/#career' | relative_url }}).
 
-My professional standing, including SAFe qualifications, is recorded under [Critical thinking, Agile and delivery credentials]({{ '/credentials/#critical-thinking-agile-and-delivery' | relative_url }}). Community work and publishing credits belong in [Citations]({{ '/citations/#bcs-agile-specialist-group-2012-2023' | relative_url }}), including [Agile20Reflect]({{ '/citations/#agile20reflect-2021' | relative_url }}) and the [PSM I book foreword]({{ '/citations/#foreword-your-guide-to-passing-the-psm-i-assessment-2021' | relative_url }}).
+My [critical thinking, Agile and delivery credentials]({{ '/credentials/#critical-thinking-agile-and-delivery' | relative_url }}) include SAFe qualifications. My [Agile community work]({{ '/citations/#bcs-agile-specialist-group-2012-2023' | relative_url }}) includes [Agile20Reflect]({{ '/citations/#agile20reflect-2021' | relative_url }}) and writing the [foreword to a PSM I guide]({{ '/citations/#foreword-your-guide-to-passing-the-psm-i-assessment-2021' | relative_url }}).
 
 ## Build capability that lasts
 

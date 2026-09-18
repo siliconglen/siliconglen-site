@@ -11,7 +11,7 @@ permalink: /work-with-me/red-team-thinking/
 
 A strategy can be coherent, well researched and widely supported while still resting on assumptions that nobody has tested. The more work invested in it, the harder those assumptions can become to see or question.
 
-Red Team Thinking® provides structured, constructive challenge through methods adapted from military and intelligence tradecraft for business. I deliver the licensed training and tailor its application to the organisation; my [Red Team Thinking credentials]({{ '/credentials/#critical-thinking-agile-and-delivery' | relative_url }}) record the certifications and exact dates.
+Red Team Thinking® provides structured, constructive challenge through methods adapted from military and intelligence tradecraft for business. I deliver the licensed training and tailor its application to the organisation, backed by my [Red Team Thinking certifications]({{ '/credentials/#critical-thinking-agile-and-delivery' | relative_url }}).
 
 The purpose is not to criticise for effect or replace the people responsible for a decision. It is to give your team practical methods for examining how conclusions were reached, finding missing perspectives and testing whether plans remain credible when conditions change.
 
