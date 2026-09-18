@@ -18,5 +18,7 @@ This is practical critical thinking for live organisational work, not an abstrac
 
 ## Put the thinking to work
 
-For facilitated work on a live choice, including the specific questions, reasoning artefacts and next-step record, [explore Decision Support Workshops]({{ '/work-with-me/decision-support/#what-we-can-cover' | relative_url }}).
+For a shared, repeatable toolkit that your team can continue using independently, [explore licensed Red Team Thinking Training]({{ '/work-with-me/red-team-thinking/' | relative_url }}).
 {: .lede}
+
+For a live facilitated session focused on your own decision, strategy or problem, including the specific questions, reasoning artefacts and next-step record, [explore Decision Support Workshops]({{ '/work-with-me/decision-support/#what-we-can-cover' | relative_url }}).
