@@ -40,7 +40,8 @@ is authorised to change and why.
 - Evidence pages must not live under /work-with-me/, and the Work With Me dropdown must not contain evidence pages.
 - Evidence pages should end with a clear, single call-to-action linking to the most relevant corresponding Work With Me service page — this is intended and correct, not a violation. Evidence pages are not required to strip all mention of related services; they may reference and link to the relevant Work With Me offer as their natural conversion point.
 - The Work With Me top-level navigation item linking directly to /work-with-me/ is correct and intended.
-- The About dropdown contains, in this order: Speaking, Insights, Citations, Updates. These are dropdown-only links and must not also appear as separate top-level navigation items.
+- The About dropdown contains: Citations, Insights, Speaking, Updates. These are dropdown-only links and must not also appear as separate top-level navigation items.
+- Items in the Work With Me and About dropdowns are alphabetised. Any future item added to either dropdown must retain that alphabetical order.
 - Citations uses the top-level URL `/citations/`. It is a third-person record of external recognition, citations and credits Craig has received, ordered most recent first, and opens with: "Recognition, credits and citations from over three decades of work."
 - Updates uses the top-level URL `/updates/`. It is for short-form reflective and opinion posts, presented in reverse chronological order in a blog-like format.
 
