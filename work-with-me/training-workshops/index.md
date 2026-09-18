@@ -1,17 +1,9 @@
 ---
-layout: null
+layout: page
+title: Training Workshops
+eyebrow: Work with me
 permalink: /work-with-me/training-workshops/
 sitemap: false
+redirect_to: /work-with-me/red-team-thinking/
 ---
-<!doctype html>
-<html lang="en-GB">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="refresh" content="0; url={{ '/work-with-me/red-team-thinking/' | relative_url }}">
-    <link rel="canonical" href="{{ '/work-with-me/red-team-thinking/' | absolute_url }}">
-    <title>Red Team Thinking Training</title>
-  </head>
-  <body>
-    <p><a href="{{ '/work-with-me/red-team-thinking/' | relative_url }}">Red Team Thinking Training</a></p>
-  </body>
-</html>
+[Continue to Red Team Thinking Training]({{ '/work-with-me/red-team-thinking/' | relative_url }}).
