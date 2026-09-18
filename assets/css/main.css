@@ -173,8 +173,8 @@ h3 { margin: 0 0 .5rem; font-size: 1.25rem; }
 
 /* Results */
 .ledger { list-style: none; margin: 2rem 0 0; padding: 0; }
-.ledger li { display: grid; grid-template-columns: 6rem 1fr; gap: 1.5rem; align-items: baseline; padding-block: 1.25rem; border-bottom: 1px solid var(--line); }
-.ledger .figure { font-weight: 800; font-size: clamp(1.5rem, 3.5vw, 2rem); color: var(--accent); }
+.ledger li { display: grid; grid-template-columns: fit-content(40%) minmax(0, 1fr); gap: 1.5rem; align-items: baseline; padding-block: 1.25rem; border-bottom: 1px solid var(--line); }
+.ledger .figure { overflow-wrap: anywhere; font-weight: 800; font-size: clamp(1.5rem, 3.5vw, 2rem); color: var(--accent); }
 .ledger .desc strong { display: block; margin-bottom: .25rem; }
 @media (max-width: 40rem) { .ledger li { grid-template-columns: 1fr; } }
 
