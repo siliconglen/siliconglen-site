@@ -7,6 +7,16 @@ description: "External recognition, citations and credits received by Craig Cock
 permalink: /citations/
 ---
 
+## BCS Neurodiverse IT Specialist Group (2022–2024)
+
+Craig was a founding committee member of the British Computer Society's Neurodiverse IT Specialist Group, from June 2022 to April 2024, work that informs his neurodivergent-inclusive workshop design.
+{: .lede}
+
+## BCS Agile Specialist Group (2012–2023)
+
+Craig was a founding committee member of the British Computer Society's Agile Specialist Group, from January 2012 to November 2023, nearly twelve years of sustained leadership in the professional Agile community.
+{: .lede}
+
 ## Agile20Reflect (2021)
 
 Craig helped originate the idea for a 20th-anniversary retrospective on the Agile Manifesto. It grew into [Agile20Reflect](https://agile20reflect.org/), a global festival with more than 800 events in 19 languages across 140 countries. Craig supported the festival as an advisor, country ambassador and member of its Red Team, as well as giving and hosting talks.
