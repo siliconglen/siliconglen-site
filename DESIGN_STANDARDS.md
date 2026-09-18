@@ -75,7 +75,8 @@ is authorised to change and why.
 - **Speaking** owns talks and conference appearances, including embedded video.
 - **Insights** owns full articles.
 - **About** owns the chronological career narrative.
-- Business Agility, Delivery, Critical Thinking, AI, every Work With Me service page and Home own no recurring facts. They state capability and positioning only and link to the relevant owner entry for detail or evidence.
+- Business Agility, Delivery, Critical Thinking, AI and every Work With Me service page own no recurring facts. They state capability and positioning only and link to the relevant owner entry for detail or evidence.
+- **Homepage exception:** Home may restate general narrative, proposition and capability copy so that it works as a complete, persuasive page in its own right. It must not be reduced to bare links merely to avoid duplication. The exception does not extend to exact figures or facts owned by a specific case study, credential date or citation; Home must keep those to a short mention and link to the precise owner entry for full detail.
 - There must be no net loss of information when consolidating content. Before shortening or removing a duplicated fact, confirm that its full detail exists on its owner page and add it there first if necessary.
 - Every ownership link must target the specific section on the owner page, not the page top. Individual case studies, credential entries, citation entries and speaking entries must have stable anchor IDs wherever another page links to them.
 
