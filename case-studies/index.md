@@ -224,4 +224,4 @@ The rewrite was followed by over 1,000 new users the following month, a 260% inc
 
 Every situation is different, and previous results are not a substitute for understanding the present problem. If you need a decision challenged or an outcome delivered, start with what must change and how success could be evidenced.
 
-[Contact Craig]({{ '/contact/' | relative_url }}) or email [craig@siliconglen.com](mailto:craig@siliconglen.com).
+Craig's contact details are in the footer.

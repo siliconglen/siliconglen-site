@@ -43,4 +43,4 @@ This is not the right fit if the team only needs a routine status meeting or if 
 
 Describe your team's situation and what a successful day would look like, and we'll shape the right design together.
 
-[Contact me]({{ '/contact/' | relative_url }}) or email [craig@siliconglen.com](mailto:craig@siliconglen.com).
+My contact details are in the footer.

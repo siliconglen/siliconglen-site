@@ -82,4 +82,4 @@ Describe your team's current decision-making challenges and the plans or decisio
 
 If your team's challenge is specifically about using AI well in decision-making, see [AI-assisted decision support, critically challenged]({{ '/work-with-me/decision-support/#ai-assisted-decision-support' | relative_url }}).
 
-[Contact me]({{ '/contact/' | relative_url }}) or email [craig@siliconglen.com](mailto:craig@siliconglen.com).
+My contact details are in the footer.

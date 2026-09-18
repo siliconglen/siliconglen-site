@@ -238,9 +238,6 @@ description: "Siliconglen: my work in critical thinking, delivery and Agile. Und
   <div class="section__inner">
     <p class="section-eyebrow">Get in touch</p>
     <h2>Have a problem worth thinking through properly?</h2>
-    <div class="hero__ctas">
-      <a class="btn btn--primary" href="{{ '/contact/' | relative_url }}">Contact Craig</a>
-      <a class="btn" href="mailto:craig@siliconglen.com">craig@siliconglen.com</a>
-    </div>
+    <p class="lede">My contact details are in the footer.</p>
   </div>
 </section>
