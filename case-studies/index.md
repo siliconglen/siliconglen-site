@@ -8,7 +8,7 @@ permalink: /case-studies/
 prose_class: prose--case-studies
 ---
 
-## Outcomes matter more than a method catalogue
+## Outcomes matter more than a method catalogue {#outcomes-matter-more-than-a-method-catalogue}
 
 These case studies show how Craig approaches complex work and the measured outcomes achieved for clients.
 
@@ -16,7 +16,7 @@ These case studies show how Craig approaches complex work and the measured outco
 
 ## Delivery {#delivery}
 
-### Government Spending Challenge
+### Government Spending Challenge {#government-spending-challenge}
 
 #### Situation
 From May to August 2010, Craig was a Senior Project Manager at Directgov, managing significant web projects including HM Treasury's Government Spending Challenge website for the Office of No. 10 Downing Street. The service was [launched by the Prime Minister and Mark Zuckerberg](https://youtu.be/b5Bbzi7s1Ko).
@@ -36,9 +36,13 @@ The revised service returned online with the immediate public-comment risk contr
 #### Measured outcome
 The programme Craig's work supported went on to save the UK government **over £500 million**; the site enabled the public contribution that formed part of that wider programme. The source is an [Institute for Government briefing note](https://www.instituteforgovernment.org.uk/publication/report/policy-making-real-world), which cites Delib's own 2010 case study, *The Spending Challenge – UK Government uses Dialogue App to save over £500m per year*.
 
+> “Craig brought trustworthy technical insight about the platform and fully understood the content side of the equation. He had a level head and good judgement on prioritising real requirements from ‘helpful suggestions’.”
+>
+> — Nick Jones, Head of Digital, Prime Minister's Office and Cabinet Office (2011–2013)
+
 **Capabilities:** Critical Thinking · Delivery
 
-### CIO Council secure procurement portal
+### CIO Council secure procurement portal {#cio-council-secure-procurement-portal}
 
 #### Situation
 A CIO Council procurement portal had a security problem that needed both identification and resolution.
@@ -62,7 +66,7 @@ The secure solution was delivered in **under three months**, at **roughly 98% un
 
 **Capabilities:** Critical Thinking · Delivery
 
-### Southwark Council programme
+### Southwark Council programme {#southwark-council-programme}
 
 #### Situation
 A Southwark Council digital transformation brought a substantial network of organisations and people together to improve the council's website, publishing capability and online services.
@@ -74,9 +78,11 @@ The delivery environment included **13 third-party suppliers**, **approximately 
 Craig worked as Programme Manager, coordinating the participating suppliers, Vangent teams and Southwark staff around programme delivery.
 
 #### Approach
-The work brought the participating suppliers and people together, while developing Southwark's own capability. Separately, more than **150 web authors** were trained for the operational role of running the site day-to-day after the programme went live, so that the council became self-sufficient on the new CMS; previously, it had paid a supplier upward of **£15,000 per change**. The delivery-stage staff and operational web authors were two groups serving different purposes. Some individuals may have belonged to both groups, but the matching approximate figures do not represent one population being counted twice.
+**Approach.** The work brought the participating suppliers and people together.
 
-Governance ran through weekly team meetings, a fortnightly Programme Board and monthly Executive reviews, stepping up to weekly Executive reviews ahead of go-live. Independent audience research by Synovate, a market research firm later acquired by Ipsos, comprised **25 assisted user sessions ("surfs")** and **four focus groups of 10 residents**, conducted over **three research phases** and including eye-tracking analysis of the final site design. This research provided the basis for the finding that **90% of respondents** said the redesign made them more likely to use the site.
+**Capability.** Southwark's own capability was developed:  more than **150 web authors** were trained for the operational role of running the site day-to-day after the programme went live, so that the council became self-sufficient on the new CMS; previously, it had paid a supplier upward of **£15,000 per change**. The delivery-stage staff and operational web authors were two groups serving different purposes. Some individuals may have belonged to both groups, but the matching approximate figures do not represent one population being counted twice.
+
+**Measurement.** Governance ran through weekly team meetings, a fortnightly Programme Board and monthly Executive reviews, stepping up to weekly Executive reviews ahead of go-live. Independent audience research by Synovate, a market research firm later acquired by Ipsos, comprised **25 assisted user sessions ("surfs")** and **four focus groups of 10 residents**, conducted over **three research phases** and including eye-tracking analysis of the final site design. This research provided the basis for the finding that **90% of respondents** said the redesign made them more likely to use the site.
 
 #### Change
 The redesigned service increased web use, improved accessibility and shifted more service requests and transactions to lower-cost online channels. Service-request processing time fell by **over 50%**, and online transactions saved **over 80%** of the cost of face-to-face servicing.
@@ -86,7 +92,7 @@ The programme was delivered **just ahead of schedule** and **within 0.2% under b
 
 **Capabilities:** Delivery · Organisational improvement
 
-### VisitScotland e-commerce rescue
+### VisitScotland e-commerce rescue {#visitscotland-e-commerce-rescue}
 
 #### Situation
 
@@ -116,7 +122,7 @@ The online tourist booking platform was rescued and delivered on time.
 
 ## Business Agility {#business-agility}
 
-### Enterprise Agile Coach, Admiral Group plc
+### Enterprise Agile Coach, Admiral Group plc {#enterprise-agile-coach-admiral-group-plc}
 
 *Cardiff, Wales · March 2021 – December 2022 (1 year 10 months)*
 
@@ -127,7 +133,11 @@ Admiral Group's agile transformation had progressed only partially, with adoptio
 Turning a stalled, partial transformation into a durable capability that teams would actually keep using once the coaching engagement ended, rather than reverting once support was withdrawn.
 
 #### Approach
-Jointly established Admiral's Agile Centre of Excellence and advised the Agile PMO. Designed and delivered interactive training across Agile 101, Squad Lead, Product Owner, Delivery Lead, and Leadership tracks, using a Spotify-model approach tailored to Admiral's context, to more than 500 people. Set up ongoing agile communities, a drop-in clinic, and external events to embed learning beyond the training room, and built a central Confluence reference space to sustain it. Coached individuals at every level, from team members to senior leadership and Release Train Engineers. Delivery relied on Actionable Agile, Jira, Confluence, Miro, Mural, and Microsoft Teams.
+**Approach.** Jointly established Admiral's Agile Centre of Excellence and advised the Agile PMO. Designed and delivered interactive training across Agile 101, Squad Lead, Product Owner, Delivery Lead, and Leadership tracks, using a Spotify-model approach tailored to Admiral's context, to more than 500 people.
+
+**Capability.** Set up ongoing agile communities, a drop-in clinic, and external events to embed learning beyond the training room, and built a central Confluence reference space to sustain it. Coached individuals at every level, from team members to senior leadership and Release Train Engineers.
+
+**Measurement.** Delivery relied on Actionable Agile, Jira, Confluence, Miro, Mural, and Microsoft Teams.
 
 #### Change
 Adoption moved from partial and inconsistent to embedded and self-sustaining, with communities, drop-in support, and a living knowledge base in place beyond the coaching engagement itself.
@@ -141,7 +151,7 @@ Over 500 people trained across five course tracks; agile capability established 
 >
 > [See the full recommendation on LinkedIn](https://www.linkedin.com/in/siliconglen/details/recommendations/)
 
-### Enterprise Agile Coach, BT (Mobile Tribe)
+### Enterprise Agile Coach, BT (Mobile Tribe) {#enterprise-agile-coach-bt-mobile-tribe}
 
 *Remote (full UK lockdown period) · circa 2020–early 2021 (approximately 8 months)*
 
@@ -152,7 +162,11 @@ BT's Mobile Tribe needed to scale its agile delivery model and build sustainable
 Establishing effective ways of working and a coaching culture across a rapidly growing set of squads with no in-person contact, while also contributing to BT's wider agile rollout beyond the immediate team.
 
 #### Approach
-Worked daily with Tribe leadership to develop excellence in ways of working across a scaled agile delivery model (Spotify/SAFe), as the Tribe grew from 4 to 12 squads with no increase in management overhead. Part of a coaching centre of excellence rolling out agile across BT. Supported Scrum Master and Product Owner onboarding, hackathons, three Big Room Planning events, tribe leadership, Release Train Engineers, and cross-tribe synchronisation. Developed an agile learning pathway and learning library for the tribe, recognised as both innovative and helpful by the wider BT agile community. Supported adoption of Scrum, Jira, Confluence, Jira Align, Mural, and delivery metrics across Product Owners, Scrum Masters, RTEs, and Delivery Leads.
+**Approach.** Worked daily with Tribe leadership to develop excellence in ways of working across a scaled agile delivery model (Spotify/SAFe), as the Tribe grew from 4 to 12 squads with no increase in management overhead. Part of a coaching centre of excellence rolling out agile across BT.
+
+**Capability.** Supported Scrum Master and Product Owner onboarding, hackathons, three Big Room Planning events, tribe leadership, Release Train Engineers, and cross-tribe synchronisation. Developed an agile learning pathway and learning library for the tribe, recognised as both innovative and helpful by the wider BT agile community.
+
+**Measurement.** Supported adoption of Scrum, Jira, Confluence, Jira Align, Mural, and delivery metrics across Product Owners, Scrum Masters, RTEs, and Delivery Leads.
 
 #### Change
 The Tribe scaled from 4 to 12 squads without adding management overhead, while sustaining consistently positive feedback from leadership and squads.
@@ -168,7 +182,7 @@ This work was independently profiled by a BT colleague: [Building a (remote) cul
 >
 > [See the full recommendation on LinkedIn](https://www.linkedin.com/in/siliconglen/details/recommendations/)
 
-### Trading technology hardware team turnaround workshop
+### Trading technology hardware team turnaround workshop {#trading-technology-hardware-team-turnaround-workshop}
 
 #### Situation
 
@@ -192,13 +206,13 @@ The team left the day with an agreed, owned set of interim actions, clearer deci
 
 #### Measured outcome
 
-Positive feedback was received from the client following the workshop.
+The client confirmed that the facilitated day had helped the team surface its blockers and leave with owned actions and clearer decision-making norms.
 
 **Capabilities:** Team Facilitation · Delivery
 
 ## AI {#ai}
 
-### Siliconglen AI-assisted rewrite
+### Siliconglen AI-assisted rewrite {#siliconglen-ai-assisted-rewrite}
 
 #### Situation
 Siliconglen had a substantial body of site content requiring rewrite.
@@ -220,8 +234,7 @@ The rewrite was followed by over 1,000 new users the following month, a 260% inc
 
 **Capabilities:** AI & Critical Thinking · Delivery · Improvement
 
-## Discuss the outcome you need
+## Discussing an outcome {#discussing-an-outcome}
 
-Every situation is different, and previous results are not a substitute for understanding the present problem. If you need a decision challenged or an outcome delivered, start with what must change and how success could be evidenced.
-
-Craig's contact details are in the footer.
+For organisations that need a decision challenged or an outcome delivered, Craig’s contact details are in the footer.
+{: .lede}

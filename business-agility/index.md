@@ -3,24 +3,20 @@ layout: page
 title: Business Agility
 eyebrow: What I've done
 intro: Over 12 years embedding scaled agile delivery across regulated, high-stakes environments.
-description: "Craig Cockburn on business agility: scaled agile coaching, Agile Centres of Excellence, and agile transformation across banking, insurance and manufacturing."
+description: "My approach to business agility, scaled coaching and sustainable organisational improvement."
 permalink: /business-agility/
 ---
 
-**Looking to commission a specific coaching engagement? See [Agile Coaching]({{ '/work-with-me/agile-coaching/' | relative_url }}).**
-
 ## Agility that survives regulation and scale
 
-I have over 12 years in scaled agile delivery and programme management, specialising in enterprise agile coaching since 2018 across some of the most regulated, highest-stakes environments in the UK: Lloyds Banking Group, Royal Bank of Scotland, Morgan Stanley, [BT]({{ '/case-studies/#enterprise-agile-coach-bt-mobile-tribe' | relative_url }}), and [Admiral Insurance]({{ '/case-studies/#enterprise-agile-coach-admiral-group-plc' | relative_url }}), where I set up the Agile Centre of Excellence and trained over 500 people.
+I help organisations make adaptive delivery work under real regulatory, operational and organisational constraints.
+{: .lede}
 
-More recently, I have led on the roll out of agile at Kuberno, a NASDAQ-funded fintech startup, worked as an Enterprise Agile Coach at Allied Irish Bank in Dublin, and coached at Jaguar Land Rover, embedding agile ways of working across manufacturing plants rather than just software teams.
+My client work includes building sustainable capability at [Admiral]({{ '/case-studies/#enterprise-agile-coach-admiral-group-plc' | relative_url }}) and supporting remote scale at [BT]({{ '/case-studies/#enterprise-agile-coach-bt-mobile-tribe' | relative_url }}). My wider work at Kuberno, AIB and Jaguar Land Rover sits in my [career narrative]({{ '/about/#career' | relative_url }}).
 
-I was a founding committee member of the **BCS Agile Specialist Group** from January 2012 to November 2023 (11 years 11 months), an extended contribution to Agile community leadership. I am a Certified SAFe 6 Practice Consultant and Certified SAFe 6 Lean Portfolio Manager, and a co-author of *Agile: An Unexpected Journey*. I am qualified to teach SAFe across multiple course tracks, including Leading SAFe, Product Owner/Product Manager and Scrum Master. In 2021 I was an advisor and early supporter of the agile20reflect festival, which I went on to co-organise.
+My professional standing, including SAFe qualifications, is recorded under [Critical thinking, Agile and delivery credentials]({{ '/credentials/#critical-thinking-agile-and-delivery' | relative_url }}). Community work and publishing credits belong in [Citations]({{ '/citations/#bcs-agile-specialist-group-2012-2023' | relative_url }}), including [Agile20Reflect]({{ '/citations/#agile20reflect-2021' | relative_url }}) and the [PSM I book foreword]({{ '/citations/#foreword-your-guide-to-passing-the-psm-i-assessment-2021' | relative_url }}).
 
-## From track record to an engagement
+## Build capability that lasts
 
-If you need agile ways of working embedded into a team, a department, or a whole organisation, including ones with real regulatory or operational constraints, that's exactly this kind of work.
-
-[Explore Agile Coaching]({{ '/work-with-me/agile-coaching/' | relative_url }})
-
-[See the Business Agility case studies]({{ '/case-studies/#business-agility' | relative_url }})
+If your organisation needs adaptive delivery that improves outcomes rather than merely installs a framework, [explore Agile Coaching]({{ '/work-with-me/agile-coaching/' | relative_url }}).
+{: .lede}

@@ -2,7 +2,7 @@
 layout: page
 title: Insights
 eyebrow: About
-intro: Craig's longer-form articles explore the ideas, evidence and practical lessons behind his work.
+intro: My longer-form articles explore the ideas, evidence and practical lessons behind my work.
 description: "Longer-form articles and insights from Craig Cockburn."
 permalink: /insights/
 ---

@@ -47,7 +47,7 @@ permalink: /contact/
   <input type="text" name="_gotcha" class="form-honeypot" tabindex="-1" autocomplete="off" aria-hidden="true">
   <input type="hidden" name="_subject" value="New enquiry from siliconglen.com">
 
-  <p class="form-consent">By submitting this form, you agree that Craig can contact you by email about your enquiry.</p>
+  <p class="form-consent">By submitting this form, you agree that I can contact you by email about your enquiry.</p>
 
   <div class="form-actions">
     <button type="submit" class="btn btn--primary">Send message</button>
@@ -58,10 +58,16 @@ permalink: /contact/
 
 ## What happens next
 
-I read every enquiry personally and will normally reply within two working days. My first response may ask a few focused questions or suggest a short introductory call; there is no obligation, and we will agree any scope, timing and fees before work starts.
+I read every enquiry personally and normally reply within two working days. My first response may ask focused questions or suggest a short introductory call.
+
+There is no obligation. We will agree scope, timing and fees before any work starts.
 
 Work can be delivered remotely worldwide. On-site work is available across the UK and Ireland, and internationally by arrangement.
 
 ## Privacy note
 
-This form uses Formspree to process the details you submit and deliver them to me. Formspree therefore receives the information entered above as a service provider. I use it only to respond to and follow up your enquiry, do not sell it, and do not add you to a marketing list. Please do not include confidential or sensitive information in the form; email me first if your enquiry requires a more suitable channel.
+This form uses Formspree to process the details you submit and deliver them to me. Formspree receives that information as a service provider.
+
+I use your details only to respond to and follow up your enquiry. I do not sell them or add you to a marketing list.
+
+Please do not include confidential or sensitive information in the form. Email me first if your enquiry requires a more suitable channel.

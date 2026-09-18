@@ -26,7 +26,9 @@ I bring critical thinking into delivery: clarify the outcome, expose the constra
 
 ## How the work happens
 
-The engagement can be a focused diagnostic and recovery plan, interim hands-on leadership for a programme or project, or delivery support through to an agreed outcome. Scope, working pattern, governance and decision authority are agreed up front to fit the scale and urgency of the work.
+The engagement may be a focused diagnostic and recovery plan, interim hands-on leadership, or support through to an agreed outcome.
+
+I agree scope, working pattern, governance and decision authority up front to fit the scale and urgency.
 
 ### Understand the situation
 We establish what must be delivered, what has already been decided and where reality differs from the plan.
@@ -42,13 +44,7 @@ Evidence from delivery informs the next decision rather than being hidden by the
 
 ## Control that connects to delivery
 
-I make the outcome, owners, supplier dependencies, governance cadence and blocked decisions visible, then connect each to action. That is the discipline I used while coordinating 13 third-party suppliers, over 150 council staff and five delivery-partner teams on the [Southwark programme]({{ '/case-studies/#southwark-council-programme' | relative_url }}). Where an engagement includes implementation, the purpose is a delivered result—not advice left on a shelf.
-
-The same focus on carrying difficult work through to an outcome runs through the [Government Spending Challenge]({{ '/case-studies/#government-spending-challenge' | relative_url }}), the [CIO Council secure procurement portal]({{ '/case-studies/#cio-council-secure-procurement-portal' | relative_url }}) and the [VisitScotland e-commerce rescue]({{ '/case-studies/#visitscotland-e-commerce-rescue' | relative_url }}).
-
-> "Craig brought trustworthy technical insight about the platform and fully understood the content side of the equation. He had a level head and good judgement on prioritising real requirements from 'helpful suggestions'."
->
-> — Nick Jones, Head of Digital, Prime Minister's Office and Cabinet Office (2011–2013)
+My delivery record includes multi-supplier transformation at [Southwark]({{ '/case-studies/#southwark-council-programme' | relative_url }}), rapid recovery for the [Government Spending Challenge]({{ '/case-studies/#government-spending-challenge' | relative_url }}), a secure [CIO Council portal]({{ '/case-studies/#cio-council-secure-procurement-portal' | relative_url }}) and the [VisitScotland rescue]({{ '/case-studies/#visitscotland-e-commerce-rescue' | relative_url }}). The [Government Spending Challenge case study]({{ '/case-studies/#government-spending-challenge' | relative_url }}) also records Nick Jones's full assessment of my judgement and technical insight.
 
 ## When this is useful
 

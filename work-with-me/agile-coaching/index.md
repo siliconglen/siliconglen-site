@@ -13,7 +13,7 @@ permalink: /work-with-me/agile-coaching/
 
 An organisation can adopt Agile language and activity while the important constraints remain untouched. The useful question is not whether a framework is being followed, but whether the organisation can deliver valuable outcomes, learn from evidence and respond intelligently.
 
-The coaching connects adaptive delivery and organisational improvement with stronger team and leadership capability.
+I connect faster feedback and visible delivery constraints with the leadership changes needed to sustain improvement.
 
 ## What we can cover
 
@@ -26,17 +26,13 @@ The coaching connects adaptive delivery and organisational improvement with stro
 
 ## How the work happens
 
-We begin with the organisation's problem, not a standard transformation recipe. We understand the current delivery system, agree where improvement matters and introduce proportionate changes. Delivery provides evidence; that evidence shapes the next decision and improvement.
+I begin with the organisation's problem, understand the delivery system and agree where improvement matters. Evidence from delivery then shapes each next decision.
 
-An engagement may be a short diagnostic followed by a focused coaching plan, regular team and leadership coaching over an agreed period, or embedded support for a wider change. Sessions can run on-site, online or in a blended format. We agree the participants, cadence, measures of improvement and handover so the organisation builds capability rather than dependence.
+Engagements range from a short diagnostic and coaching plan to regular coaching or embedded support. Sessions can be on-site, online or blended; participants, cadence, measures and handover are agreed at the outset.
 
 ## Capability, not framework dependence
 
-I have established an Agile Centre of Excellence and trained more than 500 people at [Admiral Insurance]({{ '/case-studies/#enterprise-agile-coach-admiral-group-plc' | relative_url }}), and embedded ways of working beyond software teams at Jaguar Land Rover's Birmingham and Liverpool manufacturing plants. I use that experience to leave you with clearer outcomes, a visible delivery system, improved feedback and decision-making, and capability that continues after handover—not dependence on a framework or coach.
-
-> "Craig has contributed so much to the initiatives we've embarked on since the birth of the Agile Centre of Excellence at Admiral."
->
-> — Jez Winkless, Agile Coach, Admiral Group plc
+The [Admiral case study]({{ '/case-studies/#enterprise-agile-coach-admiral-group-plc' | relative_url }}) shows how I built capability designed to last beyond the engagement. My Jaguar Land Rover work belongs in the [career narrative]({{ '/about/#career' | relative_url }}).
 
 The [BT Mobile Tribe case study]({{ '/case-studies/#enterprise-agile-coach-bt-mobile-tribe' | relative_url }}) shows how the same outcome-led approach supported a tribe as it grew from four to twelve squads entirely remotely.
 

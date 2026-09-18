@@ -3,49 +3,20 @@ layout: page
 title: Critical Thinking
 eyebrow: Evidence
 intro: Challenge assumptions, examine evidence and make decisions you can explain and act on.
-description: "Critical thinking support with Craig Cockburn: frame the real problem, test assumptions and evidence, and make clearer, defensible decisions."
+description: "My approach to framing problems, testing assumptions and reaching defensible decisions."
 permalink: /critical-thinking/
 ---
 
 ## See the problem clearly before solving it
 
 Important decisions are rarely short of information. The difficulty is working out what matters, what is missing and which assumptions are quietly shaping the available options.
+{: .lede}
 
-I help leaders and teams slow the thinking down where it matters, without slowing the work down. Together, we make the question clearer, separate evidence from interpretation and identify what would change the decision.
+I help leaders slow the thinking down where it matters without slowing the work down. We clarify the question, separate evidence from interpretation and identify what would change the decision.
 
-This is practical critical thinking for live organisational work, not an abstract exercise.
+This is practical critical thinking for live organisational work, not an abstract exercise. A sound decision should move into delivery, be tested in practice and improve as new evidence emerges. When AI is involved, I treat its output as a hypothesis to test rather than an answer to adopt; [my AI approach explains why]({{ '/ai/#the-verification-loop' | relative_url }}).
 
-## What we can work on
+## Put the thinking to work
 
-- Framing an unclear or contested problem.
-- Testing the assumptions behind a strategy, proposal or programme.
-- Assessing the strength and relevance of evidence.
-- Identifying blind spots, uncertainty and unintended consequences.
-- Comparing options against explicit criteria.
-- Designing a decision process that people can understand and trust.
-- Reviewing AI-generated analysis without outsourcing human judgement.
-
-If AI is part of the picture, see [AI]({{ '/ai/' | relative_url }}) for how I treat AI output as a hypothesis to test, not an answer to adopt.
-
-## A usable reasoning trail
-
-I capture the reasoning in artefacts the team can use: a clearer decision statement, an evidence-and-assumption map, explicit decision criteria, tested options, risks that need action and a practical next-step plan. The aim is not a longer report. It is a visible trail from question to action that colleagues can challenge and decision owners can explain.
-
-Critical thinking also connects directly to delivery. A sound decision should be translated into an outcome, tested in practice and improved as new evidence emerges.
-
-## When this is useful
-
-This work is particularly useful when:
-
-- the stakes are high and the evidence is incomplete;
-- senior people disagree about the problem or the way forward;
-- a plan feels persuasive but has not been properly challenged;
-- a programme is moving quickly without a shared definition of success;
-- an AI tool has produced a plausible answer that still needs verification; or
-- you need objective challenge without handing the decision to an outsider.
-
-## Start with the decision in front of you
-
-You do not need to choose a method before getting in touch. Describe the problem, the decision or the plan that needs challenging, and we can work out the most useful next step.
-
-My contact details are in the footer.
+For facilitated work on a live choice, including the specific questions, reasoning artefacts and next-step record, [explore Decision Support Workshops]({{ '/work-with-me/decision-support/#what-we-can-cover' | relative_url }}).
+{: .lede}

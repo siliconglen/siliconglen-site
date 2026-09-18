@@ -60,14 +60,24 @@ is authorised to change and why.
 - Store all Insights article imagery in `assets/images/insights/` so that future article images use one consistent location.
 
 ## Voice
-- Homepage: first person throughout, no exceptions. Every sentence on the homepage — hero, evidence/experience sections, case-study summaries, any other content — must use "I" and "my", not "Craig" or "his".
-- Service/proposition pages (Work With Me): first person.
-- Default for every other page not listed above: third person, unless this file explicitly states otherwise.
-- About page: third person.
-- All case studies (Case Studies page and any case study content elsewhere, including any reference to this site's own build): third person.
+- The site is first person throughout: every page must use “I” and “my”, not “Craig” or “his”.
+- The sole exception is the Case Studies page, which stays in third person because that is the case-narrative genre.
+- Citations retains its established third-person record format as a named exception.
 - Direct testimonial quotes retain the speaker's own first-person voice and are not affected by this rule.
 - All visitor-facing sentences must be grammatically sound, plain English. A sentence must not attach a date to an abstract noun or concept in a way that doesn't logically make sense (e.g. "delivery rooted in 2007" is not valid — delivery is not a plant with roots). If a date needs stating, state it as a fact about Craig's experience directly (e.g. "I've been delivering complex programmes since 2007"), not as a decorative modifier bolted onto an unrelated noun.
 - Before publishing any new sentence, read it aloud test: does it parse as something a fluent English speaker would actually say? If not, rewrite it.
+
+## Content ownership
+- Every recurring fact, story or credential has exactly one canonical owner page containing the full detail. Every other page that references it must use a short one- or two-sentence summary and link to the precise owned entry; it must neither repeat the full detail nor simply delete the fact.
+- **Case Studies** owns client-specific outcomes and figures, including Southwark, VisitScotland, Government Spending Challenge, Admiral, BT and the trading-technology workshop.
+- **Credentials** owns qualifications, certifications and exact award dates.
+- **Citations** owns community recognition, publications and honours.
+- **Speaking** owns talks and conference appearances, including embedded video.
+- **Insights** owns full articles.
+- **About** owns the chronological career narrative.
+- Business Agility, Delivery, Critical Thinking, AI, every Work With Me service page and Home own no recurring facts. They state capability and positioning only and link to the relevant owner entry for detail or evidence.
+- There must be no net loss of information when consolidating content. Before shortening or removing a duplicated fact, confirm that its full detail exists on its owner page and add it there first if necessary.
+- Every ownership link must target the specific section on the owner page, not the page top. Individual case studies, credential entries, citation entries and speaking entries must have stable anchor IDs wherever another page links to them.
 
 ## Case Studies page
 - The page formerly named "Results" is named "Case Studies" (URL: /case-studies/).
@@ -101,7 +111,7 @@ is authorised to change and why.
 
 ## Zero tolerance
 - No page on this site may return a 404. Every internal link must resolve to a real, existing page. Any task that moves or renames a page must search the entire repository for every reference to the old URL and update every one.
-- The statement that this site (siliconglen.com) was built from its design brief in three days using two different LLMs, with human direction and review throughout, and that the process is recorded in the public Siliconglen site GitHub repository, must never be removed from the AI page under any circumstances, and must stay on the AI page — it is not a case study and must not be moved to Case Studies. Any task that touches ai/index.md must confirm this statement is still present, in third person, with the correct "three days" wording, before reporting success.
+- The statement that this site (siliconglen.com) was built from its design brief in three days using two different LLMs, with human direction and review throughout, and that the process is recorded in the public Siliconglen site GitHub repository, must never be removed from the AI page under any circumstances, and must stay on the AI page — it is not a case study and must not be moved to Case Studies. Any task that touches ai/index.md must confirm this statement is still present, in first person, with the correct "three days" wording, before reporting success.
 
 ## Accessibility and HTML validity
 - Every page must meet WCAG 2.2 Level AA at minimum, including but not limited to: colour contrast of at least 4.5:1 for normal text and 3:1 for large text and UI components; full keyboard navigability with visible, unobscured focus states; semantic heading structure and landmarks; a skip-to-content link; correct alt text on all images; accessible form labels and error messages; and support for 200% zoom/reflow and reduced-motion preferences.

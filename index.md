@@ -8,8 +8,8 @@ description: "Siliconglen: my work in critical thinking, delivery and Agile. Und
     <div>
       <p class="section-eyebrow">Critical Thinking · Delivery · Agile</p>
       <h1>Think clearer.<br>Decide better.<br>Deliver what matters.</h1>
-      <p class="lede">I'm Craig Cockburn. I help leaders think more clearly, decide with confidence, and deliver complex change — combining structured challenge with hands-on delivery, across banking, insurance, manufacturing, retail, telecoms, startups, and public sector.</p>
-      <p class="lede">For over 20 years I have worked with businesses to help them succeed, and have used a variety of skills across this time including programme and project delivery, coaching leaders, delivery teams, turning around projects and establishing Agile Centres of Excellence. More recently I have added strategy, critical thinking and Red Team Thinking (critical thinking for business) to my skillset, and have applied this in the UK, Malta, Romania and India.</p>
+      <p class="lede">I help leaders think more clearly, decide with confidence, and deliver complex change.</p>
+      <p class="lede">I combine critical thinking, delivery and adaptive improvement across private, public and third-sector work. My <a href="{{ '/about/#career' | relative_url }}">career narrative</a> explains how that practice developed.</p>
       <div class="tag-row">
         <a class="tag" href="{{ '/critical-thinking/' | relative_url }}">Critical Thinking</a>
         <a class="tag" href="{{ '/delivery/' | relative_url }}">Delivery</a>
@@ -30,7 +30,7 @@ description: "Siliconglen: my work in critical thinking, delivery and Agile. Und
 <section class="section section--hero-followup reveal">
   <div class="section__inner">
     <h2>How I can help you</h2>
-    <p class="lede">Whether you need to challenge a decision, recover a struggling programme, or build lasting delivery capability in your team, I bring structured thinking and hands-on experience to get you unstuck.</p>
+    <p class="lede">Whether you need to challenge a decision, recover a struggling programme, or build lasting delivery capability in your team, I clarify the decision, expose delivery constraints and help turn the next agreed action into a working outcome.</p>
     <p class="section__cta"><a class="btn btn--primary" href="{{ '/work-with-me/' | relative_url }}">Work with me</a></p>
   </div>
 </section>
@@ -117,13 +117,13 @@ description: "Siliconglen: my work in critical thinking, delivery and Agile. Und
         <svg class="card-icon" viewBox="0 0 24 24" width="32" height="32" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M7 17 17 7"/><path d="M9 7h8v8"/></svg>
         <h3>Delivery</h3>
         <p>Programme and project delivery, and organisational transformation, proving that advice can become a working result.</p>
-        <p><a href="{{ '/work-with-me/programme-delivery/' | relative_url }}">More on Delivery</a></p>
+        <p><a href="{{ '/delivery/' | relative_url }}">More on Delivery</a></p>
       </div>
       <div class="card">
         <svg class="card-icon" viewBox="0 0 24 24" width="32" height="32" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 12a9 9 0 0 1 15-6.7L21 8"/><path d="M21 3v5h-5"/><path d="M21 12a9 9 0 0 1-15 6.7L3 16"/><path d="M3 21v-5h5"/></svg>
         <h3>Agile</h3>
-        <p>Adaptive delivery, organisational improvement and team leadership capability, one part of the offer, not the whole of it.</p>
-        <p><a href="{{ '/work-with-me/agile-coaching/' | relative_url }}">More on Agile</a></p>
+        <p>Adaptive delivery uses evidence and feedback to strengthen the organisation after work meets reality.</p>
+        <p><a href="{{ '/business-agility/' | relative_url }}">More on Agile</a></p>
       </div>
     </div>
   </div>
@@ -136,7 +136,7 @@ description: "Siliconglen: my work in critical thinking, delivery and Agile. Und
     <ul class="ledger">
       <li>
         <span class="figure">Same day</span>
-        <span class="desc"><strong>Government Spending Challenge</strong>I led the team and provided the solution that restored a high-profile government service on the same day an immediate public-content risk emerged. <a href="{{ '/case-studies/#government-spending-challenge' | relative_url }}">Read the Government Spending Challenge case study</a>.</span>
+        <span class="desc"><strong>Government Spending Challenge</strong>I restored a high-profile government service on the day a public-content risk emerged. <a href="{{ '/case-studies/#government-spending-challenge' | relative_url }}">Read the Government Spending Challenge case study</a>.</span>
       </li>
       <li>
         <span class="figure">&lt;3 mo</span>
@@ -144,11 +144,11 @@ description: "Siliconglen: my work in critical thinking, delivery and Agile. Und
       </li>
       <li>
         <span class="figure">13</span>
-        <span class="desc"><strong>Southwark Council</strong>I coordinated 13 suppliers and more than 150 council staff in an award-winning transformation. <a href="{{ '/case-studies/#southwark-council-programme' | relative_url }}">Read the Southwark Council case study</a>.</span>
+        <span class="desc"><strong>Southwark Council</strong>I coordinated an award-winning, multi-supplier transformation. <a href="{{ '/case-studies/#southwark-council-programme' | relative_url }}">Read the Southwark Council case study</a>.</span>
       </li>
       <li>
         <span class="figure">~900</span>
-        <span class="desc"><strong>Siliconglen AI-assisted rewrite</strong>About 900 pages were rewritten with AI assistance and human review, followed by measured improvement. <a href="{{ '/case-studies/#siliconglen-ai-assisted-rewrite' | relative_url }}">Read the AI-assisted rewrite case study</a>.</span>
+        <span class="desc"><strong>Siliconglen AI-assisted rewrite</strong>I led an AI-assisted, human-reviewed rewrite with measured improvement. <a href="{{ '/case-studies/#siliconglen-ai-assisted-rewrite' | relative_url }}">Read the AI-assisted rewrite case study</a>.</span>
       </li>
     </ul>
     <p><a href="{{ '/case-studies/' | relative_url }}">See the full case studies</a></p>
@@ -161,34 +161,34 @@ description: "Siliconglen: my work in critical thinking, delivery and Agile. Und
     <h2 id="testimonials-heading">Trusted across teams and organisations</h2>
     <div class="grid grid--3">
       <figure class="card testimonial">
-        <blockquote>“Craig brought trustworthy technical insight about the platform and fully understood the content side of the equation. He had a level head and good judgement on prioritising real requirements from ‘helpful suggestions’.”</blockquote>
+        <blockquote>“Craig brought trustworthy technical insight… He had a level head and good judgement.”</blockquote>
         <figcaption><strong>Nick Jones</strong><br>Head of Digital, Prime Minister's Office and Cabinet Office (2011–2013)</figcaption>
-        <p><a href="https://www.linkedin.com/in/siliconglen/details/recommendations/">See the full recommendation on LinkedIn</a></p>
+        <p><a href="{{ '/case-studies/#government-spending-challenge' | relative_url }}">Read the full testimonial in the Government Spending Challenge case study</a></p>
       </figure>
       <figure class="card testimonial">
-        <blockquote>“Craig managed a number of projects delivering to the technology roadmap. He is very personable and has displayed a mature approach to project progression. I have no doubt in his ability to undertake the management of large scale projects with ease.”</blockquote>
+        <blockquote>“Craig displayed a mature approach to project progression.”</blockquote>
         <figcaption><strong>Roshan Daryanani</strong><br>Enterprise and Solution Architect, LEVO Enterprises</figcaption>
-        <p><a href="https://www.linkedin.com/in/siliconglen/details/recommendations/">See the full recommendation on LinkedIn</a></p>
+        <p><a href="{{ '/citations/#recommendation-roshan-daryanani' | relative_url }}">Read the full recommendation</a></p>
       </figure>
       <figure class="card testimonial">
         <blockquote>“This guy understands technology and the Internet!”</blockquote>
         <figcaption><strong>Michael Perone</strong><br>Founder, Investor and Creator</figcaption>
-        <p><a href="https://www.linkedin.com/in/siliconglen/details/recommendations/">See the full recommendation on LinkedIn</a></p>
+        <p><a href="{{ '/citations/#recommendation-michael-perone' | relative_url }}">Read the full recommendation</a></p>
       </figure>
       <figure class="card testimonial">
-        <blockquote>“Craig was a dedicated and conscientious Project Manager at HMH. Craig built up strong and effective working relationships with geographically dispersed vendors and team members, working long hours to cover multiple timezones where required.”</blockquote>
+        <blockquote>“Craig built strong and effective working relationships.”</blockquote>
         <figcaption><strong>Fiona Malone</strong><br>Delivery Director, Houghton Mifflin Harcourt</figcaption>
-        <p><a href="https://www.linkedin.com/in/siliconglen/details/recommendations/">See the full recommendation on LinkedIn</a></p>
+        <p><a href="{{ '/citations/#recommendation-fiona-malone' | relative_url }}">Read the full recommendation</a></p>
       </figure>
       <figure class="card testimonial">
-        <blockquote>“I had the pleasure of working with Craig during a major project at Pocketkings. He is a pragmatic project leader, flexible and dynamic, who never takes his eye off the ball and the overall project goals. As well as navigating a time pressurized project efficiently and accurately on target, he consistently motivated the team to achieve their optimum capacity, resulting in successful, on-target project deployment.”</blockquote>
+        <blockquote>“He is a pragmatic project leader, flexible and dynamic.”</blockquote>
         <figcaption><strong>Sorcha Moore</strong><br>Lead Product UX Designer, Full Tilt Poker (2007–2010) — a desktop and mobile gaming platform that reached over 23 million users at its peak in 2008</figcaption>
-        <p><a href="https://www.linkedin.com/in/siliconglen/details/recommendations/">See the full recommendation on LinkedIn</a></p>
+        <p><a href="{{ '/citations/#recommendation-sorcha-moore' | relative_url }}">Read the full recommendation</a></p>
       </figure>
       <figure class="card testimonial">
-        <blockquote>“Craig and I worked together for several years as part of the team developing the community bid for the dotScot Top Level Domain Name (gTLD), and we are now both on the board of the dotScot Registry... Craig has a great eye for detail and the determination to see projects through, as well as a deep knowledge of project governance — a great person to have on your team!”</blockquote>
+        <blockquote>“Craig has a great eye for detail and the determination to see projects through.”</blockquote>
         <figcaption><strong>Polly Purvis, OBE FRSE</strong><br>Chair, Converge Challenge &amp; NED</figcaption>
-        <p><a href="https://www.linkedin.com/in/siliconglen/details/recommendations/">See the full recommendation on LinkedIn</a></p>
+        <p><a href="{{ '/citations/#recommendation-polly-purvis' | relative_url }}">Read the full recommendation</a></p>
       </figure>
     </div>
   </div>
