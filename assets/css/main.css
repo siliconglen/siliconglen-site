@@ -173,10 +173,10 @@ h3 { margin: 0 0 .5rem; font-size: 1.25rem; }
 
 /* Results */
 .ledger { list-style: none; margin: 2rem 0 0; padding: 0; }
-.ledger li { display: grid; grid-template-columns: fit-content(40%) minmax(0, 1fr); gap: 1.5rem; align-items: baseline; padding-block: 1.25rem; border-bottom: 1px solid var(--line); }
-.ledger .figure { overflow-wrap: anywhere; font-weight: 800; font-size: clamp(1.5rem, 3.5vw, 2rem); color: var(--accent); }
+.ledger li { padding-block: 1.25rem; border-bottom: 1px solid var(--line); }
+.ledger .figure { display: block; margin-bottom: .25rem; overflow-wrap: anywhere; font-weight: 800; font-size: clamp(1.5rem, 3.5vw, 2rem); color: var(--accent); }
+.ledger .desc { display: block; }
 .ledger .desc strong { display: block; margin-bottom: .25rem; }
-@media (max-width: 40rem) { .ledger li { grid-template-columns: 1fr; } }
 
 /* Forms and embedded media */
 .contact-form { width: 100%; max-width: 42rem; }
