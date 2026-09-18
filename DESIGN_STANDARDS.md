@@ -55,6 +55,7 @@ is authorised to change and why.
 
 ## Insights
 - Every full-article Insights page must reference its original publication date near the top of the page. This is the date on which it was first published on LinkedIn or Medium, not the date on which it was migrated to this site.
+- The `/insights/` index page must display every entry's original publication date and list all entries most-recent-first. This applies automatically to every Insights article added in future batches.
 - Store all Insights article imagery in `assets/images/insights/` so that future article images use one consistent location.
 
 ## Voice
