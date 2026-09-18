@@ -32,7 +32,7 @@ Engagements range from a short diagnostic and coaching plan to regular coaching 
 
 ## Capability, not framework dependence
 
-The [Admiral case study]({{ '/case-studies/#enterprise-agile-coach-admiral-group-plc' | relative_url }}) shows how I built capability designed to last beyond the engagement. My Jaguar Land Rover work belongs in the [career narrative]({{ '/about/#career' | relative_url }}).
+The [Admiral case study]({{ '/case-studies/#enterprise-agile-coach-admiral-group-plc' | relative_url }}) shows how I built capability designed to last beyond the engagement. I also embedded agile ways of working across [Jaguar Land Rover's manufacturing plants]({{ '/about/#career' | relative_url }}).
 
 The [BT Mobile Tribe case study]({{ '/case-studies/#enterprise-agile-coach-bt-mobile-tribe' | relative_url }}) shows how the same outcome-led approach supported a tribe as it grew from four to twelve squads entirely remotely.
 

@@ -23,7 +23,7 @@ My [Strategy Maps workshop]({{ '/speaking/#strategy-maps-agile-india-2022' | rel
 - Connecting a roadmap back to the strategy it's supposed to serve, so priorities are traceable rather than arbitrary.
 - Facilitating leadership team alignment when priorities compete or direction has drifted.
 - Reviewing and iterating strategy as circumstances change, rather than treating it as fixed once agreed.
-- Bringing governance experience to planning; my [boards and directorships]({{ '/about/#boards-and-directorships' | relative_url }}) are recorded in the career narrative.
+- Bringing my [boards and directorships experience]({{ '/about/#boards-and-directorships' | relative_url }}) to governance and planning.
 
 ## How this differs from Red Team Thinking or Programme Delivery
 

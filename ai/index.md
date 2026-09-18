@@ -23,7 +23,7 @@ In July 2025, I used ChatGPT to assemble public guidance for an unfamiliar elect
 
 ## Hands-on delivery with AI
 
-I have applied AI to reporting, process automation, delivery and quality work. That work sits in the recent part of my [career narrative]({{ '/about/#career' | relative_url }}), while the measured content-rewrite outcome belongs in the [Siliconglen AI-assisted rewrite case study]({{ '/case-studies/#siliconglen-ai-assisted-rewrite' | relative_url }}).
+I have applied AI to reporting, process automation, delivery and quality work throughout my [recent career]({{ '/about/#career' | relative_url }}). The [Siliconglen AI-assisted rewrite]({{ '/case-studies/#siliconglen-ai-assisted-rewrite' | relative_url }}) shows the measured outcome of using AI for content delivery.
 {: .lede}
 
 I built this website from its design brief in three days using two different LLMs, with human direction and review throughout. The public [Siliconglen site GitHub repository](https://github.com/siliconglen/siliconglen-site) records the full process.

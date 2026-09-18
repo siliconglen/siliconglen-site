@@ -44,7 +44,9 @@ Evidence from delivery informs the next decision rather than being hidden by the
 
 ## Control that connects to delivery
 
-My delivery record includes multi-supplier transformation at [Southwark]({{ '/case-studies/#southwark-council-programme' | relative_url }}), rapid recovery for the [Government Spending Challenge]({{ '/case-studies/#government-spending-challenge' | relative_url }}), a secure [CIO Council portal]({{ '/case-studies/#cio-council-secure-procurement-portal' | relative_url }}) and the [VisitScotland rescue]({{ '/case-studies/#visitscotland-e-commerce-rescue' | relative_url }}). The [Government Spending Challenge case study]({{ '/case-studies/#government-spending-challenge' | relative_url }}) also records Nick Jones's full assessment of my judgement and technical insight.
+My delivery record includes multi-supplier transformation at [Southwark]({{ '/case-studies/#southwark-council-programme' | relative_url }}), a secure [CIO Council portal]({{ '/case-studies/#cio-council-secure-procurement-portal' | relative_url }}) and the [VisitScotland rescue]({{ '/case-studies/#visitscotland-e-commerce-rescue' | relative_url }}).
+
+My rapid recovery of the [Government Spending Challenge]({{ '/case-studies/#government-spending-challenge' | relative_url }}) earned praise from Nick Jones for my judgement and technical insight.
 
 ## When this is useful
 
