@@ -85,4 +85,5 @@ Describe your team's current decision-making challenges and the plans or decisio
 
 If your team's challenge is specifically about using AI well in decision-making, see [AI-assisted decision support, critically challenged]({{ '/work-with-me/decision-support/#ai-assisted-decision-support' | relative_url }}).
 
-My contact details are in the footer.
+
+<p class="section__cta">Book me now: <a class="btn btn--primary" href="{{ '/contact/' | relative_url }}">Book me</a></p>

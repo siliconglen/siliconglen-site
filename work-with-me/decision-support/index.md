@@ -80,4 +80,5 @@ This is not the right fit if you want a consultant to supply the answer or take 
 
 Describe the choice, what is at stake and when it must be made. We can agree a proportionate next step.
 
-My contact details are in the footer.
+
+<p class="section__cta">Book me now: <a class="btn btn--primary" href="{{ '/contact/' | relative_url }}">Book me</a></p>

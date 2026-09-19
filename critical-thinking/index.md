@@ -20,3 +20,5 @@ This is practical critical thinking for live organisational work, not an abstrac
 For a shared, repeatable toolkit that your team can continue using independently, [explore licensed Red Team Thinking Training]({{ '/work-with-me/red-team-thinking/' | relative_url }}).
 
 For a live facilitated session focused on your own decision, strategy or problem, including the specific questions, reasoning artefacts and next-step record, [explore Decision Support Workshops]({{ '/work-with-me/decision-support/#what-we-can-cover' | relative_url }}).
+
+<p class="section__cta">Get in touch now: <a class="btn btn--primary" href="{{ '/contact/' | relative_url }}">Contact me</a></p>

@@ -36,9 +36,9 @@ The revised service returned online with the immediate public-comment risk contr
 #### Measured outcome
 The programme Craig's work supported went on to save the UK government **over £500 million**; the site enabled the public contribution that formed part of that wider programme. The source is an [Institute for Government briefing note](https://www.instituteforgovernment.org.uk/publication/report/policy-making-real-world), which cites Delib's own 2010 case study, *The Spending Challenge – UK Government uses Dialogue App to save over £500m per year*.
 
-> “Craig brought trustworthy technical insight about the platform and fully understood the content side of the equation. He had a level head and good judgement on prioritising real requirements from ‘helpful suggestions’.”
+> "Craig and I started working together under extremely pressurised circumstance bringing together digital engagement content on to a web platform. All under intense ministerial scrutiny. Craig brought trustworthy technical insight about the platform and fully understood the content side of the equation. He had a level head when and good judgement on prioritising real requirements from 'helpful suuggestions'"
 >
-> — Nick Jones, Head of Digital, Prime Minister's Office and Cabinet Office (2011–2013)
+> — Nick Jones, Senior Editor, Centre for Cultural Witness
 
 **Capabilities:** Critical Thinking · Delivery
 
@@ -145,9 +145,9 @@ Adoption moved from partial and inconsistent to embedded and self-sustaining, wi
 #### Measured outcome
 Over 500 people trained across five course tracks; agile capability established at every organisational level from individual contributor to senior leadership.
 
-> "Craig has contributed so much to the initiatives we've embarked on since the birth of the Agile Centre of Excellence at Admiral."
+> "I've worked closely with Craig over the last two years and I can say that he has contributed so much to the initiatives that we have embarked upon since the birth of the Agile Centre of Excellence at Admiral Insurance. His knowledge experience and continuous thirst for understanding of the latest theories and advice has kept us on our toes and challenged us to improve day by day."
 >
-> — Jez Winkless, Agile Coach, Admiral Group plc
+> — Jez Winkless, Agile Coach, Admiral Group Plc
 >
 > [See the full recommendation on LinkedIn](https://www.linkedin.com/in/siliconglen/details/recommendations/)
 
@@ -176,9 +176,9 @@ Squad count tripled (4 → 12) with no increase in Tribe management overhead; co
 
 This work was independently profiled by a BT colleague: [Building a (remote) culture of safety](https://robinow.medium.com/building-a-remote-culture-of-safety-ea200f2371fc), Robin Wong, Medium.
 
-> "Craig has been almost entirely responsible for embedding strong and resilient Agile practices, and also for up-skilling incoming Tribe members to a level where they can deliver quality... I couldn't have wished to have had a better Agile Coach by my side on this programme."
+> "Craig has worked with me for around 8 months across 2020 and 2021, as Agile Coach for our Tribe. We aim to be a Tribe which evangelises Agile principles, delivers great outcomes and enjoys a great culture. Craig has been critical to our success against these 3 measures. In his time with us, the Tribe has doubled in size, largely through the arrival of newcomers to Agile. Craig has been almost entirely responsible for embedding strong and resilient Agile practices, and also for up-skilling incoming Tribe members to a level where they can deliver quality. He has balanced a tenacious enthusiasm for the methodology with a pragmatic and patient approach to his day-to-day interactions with Tribe members and Tribe leadership alike. He has also lent considerable support to Tribe-wide initiatives aimed at safeguarding mental wellbeing during the COVID pandemic. Craig's departure is a significant blow - he is very well-liked within the Tribe, and I couldn't have wished to have had a better Agile Coach by my side on this programme. I wish him every success, and have no hesitation in recommending him for future work."
 >
-> — Phyroze Mohamed, Programme Manager / Delivery Manager / Senior Project Manager, BT
+> — Phyroze Mohamed, Product Manager - Service Capabilities, BT Group
 >
 > [See the full recommendation on LinkedIn](https://www.linkedin.com/in/siliconglen/details/recommendations/)
 
@@ -236,4 +236,4 @@ The rewrite was followed by over 1,000 new users the following month, a 260% inc
 
 ## Discussing an outcome {#discussing-an-outcome}
 
-For organisations that need a decision challenged or an outcome delivered, Craig’s contact details are in the footer.
+<p class="section__cta">Get in touch now: <a class="btn btn--primary" href="{{ '/contact/' | relative_url }}">Contact me</a></p>

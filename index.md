@@ -161,28 +161,28 @@ description: "Siliconglen: my work in critical thinking, delivery and Agile. Und
     <h2 id="testimonials-heading">Trusted across teams and organisations</h2>
     <div class="grid grid--3">
       <figure class="card testimonial">
-        <blockquote>“Craig brought trustworthy technical insight… He had a level head and good judgement.”</blockquote>
-        <figcaption><strong>Nick Jones</strong><br>Head of Digital, Prime Minister's Office and Cabinet Office (2011–2013)</figcaption>
+        <blockquote>"Craig and I started working together under extremely pressurised circumstance bringing together digital engagement content on to a web platform. All under intense ministerial scrutiny. Craig brought trustworthy technical insight about the platform and fully understood the content side of the equation. He had a level head when and good judgement on prioritising real requirements from 'helpful suuggestions'"</blockquote>
+        <figcaption><strong>Nick Jones</strong><br>Senior Editor, Centre for Cultural Witness</figcaption>
         <p><a href="{{ '/case-studies/#government-spending-challenge' | relative_url }}">Read the full testimonial in the Government Spending Challenge case study</a></p>
       </figure>
       <figure class="card testimonial">
-        <blockquote>“Craig displayed a mature approach to project progression.”</blockquote>
-        <figcaption><strong>Roshan Daryanani</strong><br>Enterprise and Solution Architect, LEVO Enterprises</figcaption>
+        <blockquote>"Craig managed a number of projects delivering to the technology roadmap. He is very personable and has displayed a mature approach to project progression. I have no doubt in his ability to undertake the management of large scale projects with ease."</blockquote>
+        <figcaption><strong>Roshan Daryanani</strong><br>IT Consultant, LEVO Enterprises</figcaption>
         <p><a href="{{ '/citations/#recommendation-roshan-daryanani' | relative_url }}">Read the full recommendation</a></p>
       </figure>
       <figure class="card testimonial">
-        <blockquote>“Craig built strong and effective working relationships.”</blockquote>
-        <figcaption><strong>Fiona Malone</strong><br>Delivery Director, Houghton Mifflin Harcourt</figcaption>
+        <blockquote>"Craig was a dedicated and conscientious Project Manager at HMH. Craig built up strong and effective working relationships with goegraphically dispersed Vendors and team members, working long hours to cover multiple timezones where required. I would have no hesitation recommending Craig to any potential emlpoyer."</blockquote>
+        <figcaption><strong>Fiona Malone</strong><br>Delivery Director, Zinkworks</figcaption>
         <p><a href="{{ '/citations/#recommendation-fiona-malone' | relative_url }}">Read the full recommendation</a></p>
       </figure>
       <figure class="card testimonial">
-        <blockquote>“He is a pragmatic project leader, flexible and dynamic.”</blockquote>
-        <figcaption><strong>Sorcha Moore</strong><br>Lead Product UX Designer, Full Tilt Poker (2007–2010) — a desktop and mobile gaming platform that reached over 23 million users at its peak in 2008</figcaption>
+        <blockquote>"I had the pleasure of working with Craig during a major project at Pocketkings. He is a pragmatic project leader, flexible and dynamic, who never takes his eye off the ball and the overall project goals. As well as navigating a time pressurized project efficiently and accurately on target, he consistently motivated the team to achieve their optimum capacity, resulting in successful, on-target project deployment."</blockquote>
+        <figcaption><strong>Sorcha Moore</strong><br>Service Design Contractor, Bright Approach Ltd</figcaption>
         <p><a href="{{ '/citations/#recommendation-sorcha-moore' | relative_url }}">Read the full recommendation</a></p>
       </figure>
       <figure class="card testimonial">
-        <blockquote>“Craig has a great eye for detail and the determination to see projects through.”</blockquote>
-        <figcaption><strong>Polly Purvis, OBE FRSE</strong><br>Chair, Converge Challenge &amp; NED</figcaption>
+        <blockquote>"Craig and I worked together for several years as part of the team developing the community bid for the dotScot Top Level Domain Name (gTLD), and we are now both on the board of the dotScot Registry. Negotiations for the dotScot gTLD were protracted so lots of patience has been needed along the way. Craig has a great eye for detail and and the determination to see projects through, as well as a deep knowledge of project governance, - a great person to have on your team!"</blockquote>
+        <figcaption><strong>Polly Purvis OBE FRSE</strong><br>Chair, Converge</figcaption>
         <p><a href="{{ '/citations/#recommendation-polly-purvis' | relative_url }}">Read the full recommendation</a></p>
       </figure>
     </div>

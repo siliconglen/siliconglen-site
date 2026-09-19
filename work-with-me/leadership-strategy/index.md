@@ -48,4 +48,5 @@ This is not the right fit if the need is only to stress-test one plan or to run 
 
 Describe where your leadership team's strategy currently feels disconnected from delivery, and we'll work out the most useful starting point.
 
-My contact details are in the footer.
+
+<p class="section__cta">Book me now: <a class="btn btn--primary" href="{{ '/contact/' | relative_url }}">Book me</a></p>

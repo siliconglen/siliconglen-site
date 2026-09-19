@@ -17,4 +17,7 @@ layout: default
 </header>
 <article class="wrapper prose{% if page.prose_class %} {{ page.prose_class }}{% endif %}">
   {{ content }}
+  {% if page.url contains '/insights/' and page.url != '/insights/' %}
+  <p class="section__cta">Get in touch now: <a class="btn btn--primary" href="{{ '/contact/' | relative_url }}">Contact me</a></p>
+  {% endif %}
 </article>

@@ -35,4 +35,6 @@ I'm a Chartered Engineer and Chartered IT Professional Fellow (British Computer 
 
 ## Start with the problem {#start-with-the-problem}
 
-If you have a decision, programme or organisational problem worth thinking through properly, describe it and the outcome you need. My contact details are in the footer.
+If you have a decision, programme or organisational problem worth thinking through properly, describe it and the outcome you need.
+
+<p class="section__cta">Get in touch now: <a class="btn btn--primary" href="{{ '/contact/' | relative_url }}">Contact me</a></p>

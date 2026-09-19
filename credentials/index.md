@@ -40,3 +40,5 @@ My current professional certifications cover critical thinking, Agile coaching, 
 - Professional Scrum Master I (PSM I) (since 2011)
 - PRINCE2 Foundation and Practitioner (2008)
 - MSP Foundation and Practitioner (2010)
+
+<p class="section__cta">Get in touch now: <a class="btn btn--primary" href="{{ '/contact/' | relative_url }}">Contact me</a></p>

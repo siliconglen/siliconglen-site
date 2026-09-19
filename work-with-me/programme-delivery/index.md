@@ -64,4 +64,5 @@ This is not the right fit if you only need a report or recommendations without h
 
 Describe what must be delivered, the current difficulty and the people involved.
 
-My contact details are in the footer.
+
+<p class="section__cta">Book me now: <a class="btn btn--primary" href="{{ '/contact/' | relative_url }}">Book me</a></p>

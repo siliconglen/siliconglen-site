@@ -49,7 +49,11 @@ is authorised to change and why.
 ## Contact details
 - The footer must present the contact form immediately next to Craig's email address so that both ways to reach him sit together.
 - Contact remains a top-level navigation item.
-- Elsewhere, in-body copy must not duplicate a separate "Contact Craig", "Contact me" or equivalent contact call-to-action. Evidence pages, Work With Me pages and other content should direct readers to the contact details in the footer instead.
+- Closing calls to action use the homepage's bold blue primary-button treatment and link to `/contact/`; weak closing copy such as “My contact details are in the footer” must not be used.
+- General and evidence pages (About, Critical Thinking, Delivery, Business Agility, AI, Credentials, Citations and Speaking) end with “Get in touch now:” followed by a **Contact me** button.
+- Work With Me service pages (Agile Coaching, Decision Support Workshops, Leadership Strategy, Programme & Project Delivery, Red Team Thinking Training and Team Turnaround Workshops) end with “Book me now:” followed by a **Book me** button. The Work With Me overview uses the same service CTA.
+- Case Studies and every individual Insights article end with “Get in touch now:” followed by a **Contact me** button, after any more specific service link already present.
+- The homepage's existing button is unchanged and is not part of this closing CTA system.
 
 ## External links
 - Every external link added to the site must be checked before publication using an actual request that confirms the destination responds, not merely by judging whether its URL looks plausible.
