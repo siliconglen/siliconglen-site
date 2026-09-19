@@ -179,7 +179,9 @@ h3 { margin: 0 0 .5rem; font-size: 1.25rem; }
 .ledger .desc strong { display: block; margin-bottom: .25rem; }
 
 /* Forms and embedded media */
-.contact-form { width: 100%; max-width: 42rem; }
+.contact-form { --form-required: #b00020; width: 100%; max-width: 42rem; }
+.contact-form .form-required-note { color: var(--muted); font-size: .95rem; }
+.contact-form .required-star { color: var(--form-required); }
 .form-field { margin-bottom: 1.25rem; }
 .form-field label { display: block; margin-bottom: .35rem; font-weight: 700; }
 .form-field input, .form-field select, .form-field textarea { display: block; width: 100%; min-height: 2.75rem; padding: .65rem .75rem; border: 1px solid var(--line); border-radius: 0; background: var(--paper); color: var(--ink); font: inherit; }

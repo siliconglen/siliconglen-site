@@ -47,6 +47,7 @@ is authorised to change and why.
 - Updates uses the top-level URL `/updates/`. It is for short-form reflective and opinion posts, presented in reverse chronological order in a blog-like format.
 
 ## Contact details
+- Contact form: name, email and message are mandatory and marked with a red asterisk; all other fields are optional. Topic options match the current Work With Me service names, plus 'Speaking', 'Not sure yet' and 'Something else'.
 - The footer wording is “SILICONGLEN”, then “Craig Cockburn”, then “Write to me at craig@siliconglen.com or via my contact form.” The email address and “contact form” are links, and both ways to reach me sit together.
 - Contact remains a top-level navigation item.
 - Closing calls to action use the homepage's bold blue primary-button treatment and link to `/contact/`; weak closing copy such as “My contact details are in the footer” must not be used.
@@ -91,6 +92,7 @@ is authorised to change and why.
 - Every ownership link must target the specific section on the owner page, not the page top. Individual case studies, credential entries, citation entries and speaking entries must have stable anchor IDs wherever another page links to them.
 
 ## Case Studies page
+- Case study outcome labels: use 'Measured outcome' only where a measure is stated; otherwise use 'Outcome'.
 - The page formerly named "Results" is named "Case Studies" (URL: /case-studies/).
 - Organised into sections for the areas that currently have case studies: Delivery, Business Agility, AI. Critical Thinking must not appear until real case studies exist for that area.
 - The page has on-page quick links at the top, using relative anchor links (e.g. #ai, #delivery, #business-agility) to jump to each section.

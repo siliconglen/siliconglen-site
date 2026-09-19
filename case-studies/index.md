@@ -40,7 +40,7 @@ The programme Craig's work supported went on to save the UK government **over £
 >
 > — Nick Jones, Senior Editor, Centre for Cultural Witness
 
-**Capabilities:** Critical Thinking · Delivery
+**Capabilities:** Critical Thinking · Delivery · Agile
 
 ### CIO Council secure procurement portal {#cio-council-secure-procurement-portal}
 
@@ -64,7 +64,7 @@ A secure procurement solution replaced the unresolved security problem.
 #### Measured outcome
 The secure solution was delivered in **under three months**, at **roughly 98% under the initial budget**.
 
-**Capabilities:** Critical Thinking · Delivery
+**Capabilities:** Critical Thinking · Delivery · Leadership
 
 ### Southwark Council programme {#southwark-council-programme}
 
@@ -114,7 +114,7 @@ Craig identified bugs in the supplier's work that resulted in six-figure fines f
 
 The development capability and delivery process were rebuilt in time to meet the deadline.
 
-#### Measured outcome
+#### Outcome
 
 The online tourist booking platform was rescued and delivered on time.
 
@@ -151,6 +151,8 @@ Over 500 people trained across five course tracks; agile capability established 
 >
 > [See the full recommendation on LinkedIn](https://www.linkedin.com/in/siliconglen/details/recommendations/)
 
+**Capabilities:** Agile · Delivery
+
 ### Enterprise Agile Coach, BT (Mobile Tribe) {#enterprise-agile-coach-bt-mobile-tribe}
 
 *Remote (full UK lockdown period) · circa 2020–early 2021 (approximately 8 months)*
@@ -182,6 +184,8 @@ This work was independently profiled by a BT colleague: [Building a (remote) cul
 >
 > [See the full recommendation on LinkedIn](https://www.linkedin.com/in/siliconglen/details/recommendations/)
 
+**Capabilities:** Agile · Delivery
+
 ### Trading technology hardware team turnaround workshop {#trading-technology-hardware-team-turnaround-workshop}
 
 #### Situation
@@ -204,7 +208,7 @@ Craig designed a structured day combining trust-building exercises, diagnostic d
 
 The team left the day with an agreed, owned set of interim actions, clearer decision-making norms, and explicit agreements on how ideas would be raised, challenged and decided in the absence of a permanent Engineering Manager.
 
-#### Measured outcome
+#### Outcome
 
 The client confirmed that the facilitated day had helped the team surface its blockers and leave with owned actions and clearer decision-making norms.
 
