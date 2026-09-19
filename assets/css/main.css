@@ -203,6 +203,12 @@ h3 { margin: 0 0 .5rem; font-size: 1.25rem; }
 
 .stub-note { margin-top: 1.5rem; color: var(--muted); }
 
+.updates-list { max-width: var(--measure); margin-top: 2rem; }
+.update { padding-block: 2rem; border-top: 1px solid var(--line); }
+.update h2 { margin-bottom: .5rem; font-size: clamp(1.5rem, 4vw, 2rem); }
+.update-date { margin: 0 0 1rem; color: var(--muted); font-size: .95rem; }
+.update-source { margin-bottom: 0; }
+
 .js-reveal .reveal { opacity: 0; transform: translateY(1.25rem); transition: opacity .6s ease, transform .6s ease; }
 .js-reveal .reveal.is-visible { opacity: 1; transform: translateY(0); }
 
