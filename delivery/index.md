@@ -22,3 +22,5 @@ My [programme, project and professional qualifications]({{ '/credentials/#critic
 ## Move from plan to outcome
 
 If you need hands-on leadership for a struggling programme, multi-supplier change or new delivery capability, [explore Programme & Project Delivery]({{ '/work-with-me/programme-delivery/' | relative_url }}).
+
+<p class="section__cta">Get in touch now: <a class="btn btn--primary" href="{{ '/contact/' | relative_url }}">Contact me</a></p>

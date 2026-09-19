@@ -52,4 +52,5 @@ The precise output follows the problem: a defensible decision, a stronger plan, 
 
 You do not need to diagnose the service yourself. Describe the problem and what a good outcome would look like.
 
-My contact details are in the footer.
+
+<p class="section__cta">Book me now: <a class="btn btn--primary" href="{{ '/contact/' | relative_url }}">Book me</a></p>

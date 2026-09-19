@@ -53,3 +53,5 @@ This talk shows how to form an agile strategy and visualise it in a complex land
 *Agile India 2022 · Teaching workshop-format conference talk*
 
 <iframe class="media-embed" width="100%" height="450" src="https://www.youtube-nocookie.com/embed/m8bgiCs1p1g" title="Strategy Maps: connect your roadmaps to the bigger picture at Agile India 2022" loading="lazy" allowfullscreen></iframe>
+
+<p class="section__cta">Get in touch now: <a class="btn btn--primary" href="{{ '/contact/' | relative_url }}">Contact me</a></p>

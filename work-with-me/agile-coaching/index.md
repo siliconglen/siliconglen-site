@@ -52,4 +52,5 @@ This is not the right fit if the goal is simply to install an Agile framework, c
 
 Describe the delivery problem and what meaningful improvement would look like.
 
-My contact details are in the footer.
+
+<p class="section__cta">Book me now: <a class="btn btn--primary" href="{{ '/contact/' | relative_url }}">Book me</a></p>

@@ -45,4 +45,5 @@ This is not the right fit if the team only needs a routine status meeting or if 
 
 Describe your team's situation and what a successful day would look like, and we'll shape the right design together.
 
-My contact details are in the footer.
+
+<p class="section__cta">Book me now: <a class="btn btn--primary" href="{{ '/contact/' | relative_url }}">Book me</a></p>
