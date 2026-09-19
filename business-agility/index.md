@@ -10,7 +10,6 @@ permalink: /business-agility/
 ## Agility that survives regulation and scale
 
 I help organisations make adaptive delivery work under real regulatory, operational and organisational constraints.
-{: .lede}
 
 My client work includes building sustainable capability at [Admiral]({{ '/case-studies/#enterprise-agile-coach-admiral-group-plc' | relative_url }}) and supporting remote scale at [BT]({{ '/case-studies/#enterprise-agile-coach-bt-mobile-tribe' | relative_url }}). I have also led and supported organisational change at [Kuberno, AIB and Jaguar Land Rover]({{ '/about/#career' | relative_url }}).
 
@@ -19,4 +18,3 @@ My [critical thinking, Agile and delivery credentials]({{ '/credentials/#critica
 ## Build capability that lasts
 
 If your organisation needs adaptive delivery that improves outcomes rather than merely installs a framework, [explore Agile Coaching]({{ '/work-with-me/agile-coaching/' | relative_url }}).
-{: .lede}

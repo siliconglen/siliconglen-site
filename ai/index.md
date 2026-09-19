@@ -10,7 +10,6 @@ permalink: /ai/
 ## AI is a tool, not an oracle
 
 I use AI hands-on in delivery, reporting, process automation and quality work, combining it with critical thinking and verification. I treat it as a practical tool for extending what I can do, not as a novelty or a replacement for human judgement.
-{: .lede}
 
 AI can expand what one person sees and does quickly. It cannot replace judgement, domain knowledge or verification.
 
@@ -22,7 +21,7 @@ In July 2025, I used ChatGPT to assemble public guidance for an unfamiliar elect
 
 ## Hands-on delivery with AI
 
-I have applied AI to reporting, process automation, delivery and quality work throughout my [recent career]({{ '/about/#career' | relative_url }}). The [Siliconglen AI-assisted rewrite]({{ '/case-studies/#siliconglen-ai-assisted-rewrite' | relative_url }}) shows the measured outcome of using AI for content delivery.
+I have applied AI to reporting, process automation, delivery and quality work throughout my [recent career]({{ '/about/#career' | relative_url }}). The [siliconglen.scot AI-assisted rewrite]({{ '/case-studies/#siliconglen-ai-assisted-rewrite' | relative_url }}) shows the measured outcome of using AI for content delivery.
 
 I built this website from its design brief in three days using two different LLMs, with human direction and review throughout. The public [Siliconglen site GitHub repository](https://github.com/siliconglen/siliconglen-site) records the full process.
 
