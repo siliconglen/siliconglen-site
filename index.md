@@ -28,9 +28,9 @@ description: "Siliconglen: my work in critical thinking, delivery and Agile. Und
 
 <section class="section section--card reveal" aria-labelledby="delivery-cycle-heading">
   <div class="section__inner">
-    <p class="section-eyebrow">The organising idea</p>
+    <p class="section-eyebrow">How I work</p>
     <h2 id="delivery-cycle-heading">Think. Decide. Deliver. Improve.</h2>
-    <p class="lede">Useful change is a cycle, not a hand-off. Think clearly about the real problem, make a defensible decision, deliver a working outcome, then use evidence from the result to improve what happens next.</p>
+    <p class="lede">Effective change is built on an improvement feedback loop that starts with understanding the problem to be solved.</p>
     <div class="grid grid--4">
       <div class="card">
         <svg class="card-icon" viewBox="0 0 24 24" width="32" height="32" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 18h6"/><path d="M10 21h4"/><path d="M12 3a6 6 0 0 0-4 10.5c.6.55 1 1.3 1 2.1V16h6v-.4c0-.8.4-1.55 1-2.1A6 6 0 0 0 12 3Z"/></svg>

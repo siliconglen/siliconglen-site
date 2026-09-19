@@ -123,7 +123,7 @@ h3 { margin: 0 0 .5rem; font-size: 1.25rem; }
 .section--hero-followup { padding-top: clamp(2rem, 4vw, 3rem); }
 .section__cta { margin: 1.5rem 0 0; }
 .section--card { background: var(--paper-2); }
-.section--tint { background: #eaf2fb; }
+.section--tint { background: var(--paper-2); }
 
 /* Text-only proof band; client logos require explicit permission before use. */
 .proof-band { padding-block: clamp(2.5rem, 6vw, 4rem); border-bottom: 1px solid #003d78; background: var(--accent); color: #fff; }
