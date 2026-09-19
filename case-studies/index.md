@@ -10,7 +10,7 @@ prose_class: prose--case-studies
 
 ## Outcomes matter more than a method catalogue {#outcomes-matter-more-than-a-method-catalogue}
 
-These case studies show how Craig approaches complex work and the measured outcomes achieved for clients.
+Craig approaches complex client work methodically, with a consistent focus on measured, evidenced outcomes.
 
 **On this page:** [Delivery](#delivery) · [Business Agility](#business-agility) · [AI](#ai)
 
