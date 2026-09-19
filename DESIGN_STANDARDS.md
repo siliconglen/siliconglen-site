@@ -47,7 +47,7 @@ is authorised to change and why.
 - Updates uses the top-level URL `/updates/`. It is for short-form reflective and opinion posts, presented in reverse chronological order in a blog-like format.
 
 ## Contact details
-- The footer must present the contact form immediately next to Craig's email address so that both ways to reach him sit together.
+- The footer wording is “SILICONGLEN”, then “Craig Cockburn”, then “Write to me at craig@siliconglen.com or via my contact form.” The email address and “contact form” are links, and both ways to reach me sit together.
 - Contact remains a top-level navigation item.
 - Closing calls to action use the homepage's bold blue primary-button treatment and link to `/contact/`; weak closing copy such as “My contact details are in the footer” must not be used.
 - General and evidence pages (About, Critical Thinking, Delivery, Business Agility, AI, Credentials, Citations and Speaking) end with “Get in touch now:” followed by a **Contact me** button.
