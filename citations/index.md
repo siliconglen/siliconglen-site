@@ -10,12 +10,10 @@ permalink: /citations/
 ## BCS Neurodiverse IT Specialist Group (2022–2024) {#bcs-neurodiverse-it-specialist-group-2022-2024}
 
 Craig was a founding committee member of the British Computer Society's Neurodiverse IT Specialist Group, from June 2022 to April 2024, work that informs his neurodivergent-inclusive workshop design.
-{: .lede}
 
 ## BCS Agile Specialist Group (2012–2023) {#bcs-agile-specialist-group-2012-2023}
 
 Craig was a founding committee member of the British Computer Society's Agile Specialist Group, from January 2012 to November 2023, nearly twelve years of sustained leadership in the professional Agile community.
-{: .lede}
 
 ## Agile20Reflect (2021) {#agile20reflect-2021}
 
@@ -72,7 +70,6 @@ While working at Digital Equipment Co in Reading, Craig proposed a draft, unfile
 ## Professional recommendations {#professional-recommendations}
 
 The following recommendations record professional recognition from colleagues and clients.
-{: .lede}
 
 ### Roshan Daryanani {#recommendation-roshan-daryanani}
 

@@ -10,7 +10,6 @@ permalink: /about/
 ## Understand the real problem before trying to solve it {#understand-the-real-problem}
 
 I help leaders think more clearly, decide with confidence, and deliver complex change.
-{: .lede}
 
 My experience has spanned many sectors, including banking, insurance, manufacturing, retail, telecoms, startups and the public sector, and covers software and the early internet, complex programme delivery, organisational systems, critical thinking, AI and public speaking. The context has changed over that time, but the thread hasn't: understand the real problem, test the assumptions, and turn a sound decision into a useful result.
 
@@ -19,7 +18,6 @@ Siliconglen brings that work together as one blended practice. Critical Thinking
 ## Career {#career}
 
 I started as a Software Engineer at Digital Equipment Company (1987–1992), working on DECnet development and technically certifying Digital's largest customers, and received a personal recognition award from founder Ken Olsen.
-{: .lede}
 
 I went on to lead the e-commerce rescue and platform delivery for VisitScotland (2000–2006), before moving into programme and project management. At Directgov I managed significant web projects, including HM Treasury's Government Spending Challenge website for the Office of No. 10 Downing Street, and I later led Southwark Council's award-winning digital transformation. The delivery records and measured outcomes are in the [case studies]({{ '/case-studies/#delivery' | relative_url }}).
 
@@ -30,14 +28,11 @@ More recently, I've led Agile rollout at Kuberno, worked as an Enterprise Agile 
 ## Boards and directorships {#boards-and-directorships}
 
 I have 16 years' non-executive board experience, including Dot Scot Registry (2012–2023), the Scottish Government-backed not-for-profit regulator for the .scot domain, and Comann an Luchd-Ionnsachaidh, the Gaelic learners' educational charity (1992–1998).
-{: .lede}
 
 ## Credentials and recognition {#credentials-and-recognition}
 
 I'm a Chartered Engineer and Chartered IT Professional Fellow (British Computer Society), a Chartered Manager and Fellow of the Chartered Management Institute, and I hold [professional credentials]({{ '/credentials/#professional-standing-and-higher-education' | relative_url }}) spanning Red Team Thinking, SAFe and Agile coaching. I share practical ideas through [talks and teaching workshops]({{ '/speaking/#talks-and-teaching-workshops' | relative_url }}), while my [community recognition and publishing credits]({{ '/citations/#bcs-neurodiverse-it-specialist-group-2022-2024' | relative_url }}) reflect wider contributions to the profession.
-{: .lede}
 
 ## Start with the problem {#start-with-the-problem}
 
 If you have a decision, programme or organisational problem worth thinking through properly, describe it and the outcome you need. My contact details are in the footer.
-{: .lede}

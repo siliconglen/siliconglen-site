@@ -212,16 +212,16 @@ The client confirmed that the facilitated day had helped the team surface its bl
 
 ## AI {#ai}
 
-### Siliconglen AI-assisted rewrite {#siliconglen-ai-assisted-rewrite}
+### siliconglen.scot AI-assisted rewrite {#siliconglen-ai-assisted-rewrite}
 
 #### Situation
-Siliconglen had a substantial body of site content requiring rewrite.
+The legacy site, siliconglen.scot, had a substantial body of content requiring rewrite.
 
 #### Difficulty
 Approximately **900 pages** had to be revised while retaining analytics so that the effect could be assessed rather than assumed.
 
 #### Craig's role
-Craig led the Siliconglen rewrite using AI assistance while retaining measurement.
+Craig led the siliconglen.scot rewrite using AI assistance while retaining measurement.
 
 #### Approach
 AI assisted the page rewriting, while human judgement and analytics remained part of the process. This is an example of using AI to support delivery rather than outsourcing judgement to it.
@@ -237,4 +237,3 @@ The rewrite was followed by over 1,000 new users the following month, a 260% inc
 ## Discussing an outcome {#discussing-an-outcome}
 
 For organisations that need a decision challenged or an outcome delivered, Craig’s contact details are in the footer.
-{: .lede}

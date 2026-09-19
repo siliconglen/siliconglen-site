@@ -10,7 +10,6 @@ permalink: /credentials/
 ## Professional standing and higher education {#professional-standing-and-higher-education}
 
 My professional standing and higher education span engineering, information technology, management and software development.
-{: .lede}
 
 - Chartered Manager, Chartered Management Institute (10 September 2018)
 - Executive Diploma in Digital Business with Distinction, Academy of Digital Business Leaders (2016) — achieving the highest marks of the 120 UK business leaders on the programme
@@ -25,7 +24,6 @@ BCS chartered status can be independently verified through the [BCS member direc
 ## Critical thinking, Agile and delivery {#critical-thinking-agile-and-delivery}
 
 My current professional certifications cover critical thinking, Agile coaching, organisational change and programme delivery.
-{: .lede}
 
 ### Red Team Thinking
 
