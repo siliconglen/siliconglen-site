@@ -195,6 +195,8 @@ h3 { margin: 0 0 .5rem; font-size: 1.25rem; }
   margin: 2rem auto clamp(3rem, 6vw, 4.5rem);
   border: 0;
 }
+.knowledge-canvas-example { max-width: 32rem; margin: 2rem auto; }
+.knowledge-canvas-example img { display: block; }
 @media (max-width: 32rem) {
   .form-actions .btn { width: 100%; justify-content: center; }
 }
