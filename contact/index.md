@@ -8,13 +8,15 @@ permalink: /contact/
 ---
 
 <form action="https://formspree.io/f/moeqokna" method="POST" class="contact-form">
+  <p class="form-required-note">* Required</p>
+
   <div class="form-field">
-    <label for="name">Name</label>
+    <label for="name">Name <span class="required-star" aria-hidden="true">*</span><span class="visually-hidden"> (required)</span></label>
     <input type="text" id="name" name="name" required autocomplete="name">
   </div>
 
   <div class="form-field">
-    <label for="email">Email</label>
+    <label for="email">Email <span class="required-star" aria-hidden="true">*</span><span class="visually-hidden"> (required)</span></label>
     <input type="email" id="email" name="email" required autocomplete="email">
   </div>
 
@@ -24,23 +26,27 @@ permalink: /contact/
   </div>
 
   <div class="form-field">
+    <label for="location">Where are you? <span class="optional">(optional)</span></label>
+    <input type="text" id="location" name="location" autocomplete="address-level2">
+  </div>
+
+  <div class="form-field">
     <label for="topic">What would you like help with? <span class="optional">(optional)</span></label>
     <select id="topic" name="topic">
-      <option value="">Not sure yet</option>
-      <option value="Critical Thinking">Critical Thinking</option>
-      <option value="Red Team Thinking">Red Team Thinking</option>
-      <option value="Decision Support">Decision Support</option>
-      <option value="Programme or Project Delivery">Programme or Project Delivery</option>
-      <option value="Organisational Transformation">Organisational Transformation</option>
-      <option value="Agile Transformation">Agile Transformation</option>
-      <option value="Training or Workshops">Training or Workshops</option>
+      <option value="Agile Coaching">Agile Coaching</option>
+      <option value="Decision Support Workshops">Decision Support Workshops</option>
+      <option value="Leadership Strategy">Leadership Strategy</option>
+      <option value="Programme &amp; Project Delivery">Programme &amp; Project Delivery</option>
+      <option value="Red Team Thinking Training">Red Team Thinking Training</option>
+      <option value="Team Turnaround Workshops">Team Turnaround Workshops</option>
       <option value="Speaking">Speaking</option>
+      <option value="">Not sure yet</option>
       <option value="Something else">Something else</option>
     </select>
   </div>
 
   <div class="form-field">
-    <label for="message">Message</label>
+    <label for="message">Message <span class="required-star" aria-hidden="true">*</span><span class="visually-hidden"> (required)</span></label>
     <textarea id="message" name="message" rows="6" required></textarea>
   </div>
 
