@@ -11,13 +11,13 @@ permalink: /about/
 
 I help leaders think more clearly, decide with confidence, and deliver complex change.
 
-My experience has spanned many sectors, including banking, insurance, manufacturing, retail, telecoms, startups and the public sector, and covers software and the early internet, complex programme delivery, organisational systems, critical thinking, AI and public speaking. The context has changed over that time, but the thread hasn't: understand the real problem, test the assumptions, and turn a sound decision into a useful result.
+My experience has spanned many sectors, including banking, insurance, manufacturing, retail, telecoms, startups and the public sector, and covers software and the early internet, complex programme delivery, organisational systems, critical thinking, AI and [public speaking]({{ '/speaking/' | relative_url }}). The context has changed over that time, but the thread hasn't: understand the real problem, test the assumptions, and turn a sound decision into a useful result.
 
 Siliconglen brings that work together as one blended practice. Critical Thinking sharpens the question and the decision. Delivery translates it into a working outcome. Agile supports adaptive delivery and improvement once the work meets reality. None of the three is a separate business, or a complete answer on its own.
 
 ## Career {#career}
 
-I started as a Software Engineer at Digital Equipment Company (1987–1992), working on DECnet development and technically certifying Digital's largest customers, and received a personal recognition award from founder Ken Olsen.
+I started as a Software Engineer at Digital Equipment Company (1987–1992), working on DECnet development and technically certifying Digital's largest customers, and [received a personal recognition award from founder Ken Olsen]({{ '/citations/#draft-patent-application-pagelink-1990' | relative_url }}).
 
 I went on to lead the e-commerce rescue and platform delivery for VisitScotland (2000–2006), before moving into programme and project management. At Directgov I managed significant web projects, including HM Treasury's Government Spending Challenge website for the Office of No. 10 Downing Street, and I later led Southwark Council's award-winning digital transformation. I've delivered measured outcomes for clients including [VisitScotland]({{ '/case-studies/#visitscotland-e-commerce-rescue' | relative_url }}), the [Government Spending Challenge]({{ '/case-studies/#government-spending-challenge' | relative_url }}) and [Southwark Council]({{ '/case-studies/#southwark-council-programme' | relative_url }}).
 

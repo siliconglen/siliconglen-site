@@ -65,11 +65,11 @@ Channel 4's consumer programme *Checkout* featured Craig's early campaign for sm
 
 ## Draft patent application, “PageLink” (1990) {#draft-patent-application-pagelink-1990}
 
-While working at Digital Equipment Co in Reading, Craig proposed a draft, unfiled patent for a touch-screen consumer device for browsing linked pages, years ahead of the commercial web. The [PageLink proposal](https://www.siliconglen.com/pagelink) included concepts such as bookmarks, a personalised rolling news feed and in-car navigation.
+While working at Digital Equipment Co in Reading, Craig proposed a draft, unfiled patent for a touch-screen consumer device for browsing linked pages, years ahead of the commercial web. The [PageLink proposal](https://www.siliconglen.scot/pagelink/) included concepts such as bookmarks, a personalised rolling news feed and in-car navigation.
 
 ## Professional recommendations {#professional-recommendations}
 
-The following recommendations record professional recognition from colleagues and clients.
+Colleagues and clients have recognised Craig's work in these terms:
 
 ### Roshan Daryanani {#recommendation-roshan-daryanani}
 
