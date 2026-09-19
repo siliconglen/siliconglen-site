@@ -17,7 +17,7 @@ Critical thinking is the process of analysing available data, assumptions and ar
 
 ## Background
 
-Since giving [my first conference talks on business decisions in 2019](https://www.infoq.com/presentations/wardley-maps-context-change/)—the linked recording is an earlier version of the talk—I've been especially drawn to the concept of Red Team Thinking, as a way of offering a clearer framework for understanding and overcoming the biases that affect decision-making in business. I've drawn on Dave Snowden's Cynefin, Dr Gary Klein's Premortem technique, and Bryce Hoffman's work, which de-emphasises the idea of separate “red teams” and instead treats this as a cognitive exercise within teams, with particular emphasis on avoiding confident predictions too early, if ever (Kahneman, 2011, p. 85).
+Since giving [my first conference talks on business decisions in 2019](https://www.infoq.com/presentations/wardley-maps-context-change/), I've been especially drawn to the concept of Red Team Thinking, as a way of offering a clearer framework for understanding and overcoming the biases that affect decision-making in business. I've drawn on Dave Snowden's Cynefin, Dr Gary Klein's Premortem technique, and Bryce Hoffman's work, which de-emphasises the idea of separate “red teams” and instead treats this as a cognitive exercise within teams, with particular emphasis on avoiding confident predictions too early, if ever (Kahneman, 2011, p. 85).
 
 That tendency to jump to conclusions is illustrated by Shane Frederick's (2005) Cognitive Reflection Test, designed to measure how carefully System 2 (reflective reasoning, or deliberation) monitors and controls the output of System 1 (reflexive reasoning, or intuition).
 
