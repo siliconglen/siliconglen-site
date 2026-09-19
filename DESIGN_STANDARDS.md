@@ -59,6 +59,7 @@ is authorised to change and why.
 - Every full-article Insights page must reference its original publication date near the top of the page. This is the date on which it was first published on LinkedIn or Medium, not the date on which it was migrated to this site.
 - The `/insights/` index page must display every entry's original publication date and list all entries most-recent-first. This applies automatically to every Insights article added in future batches.
 - Store all Insights article imagery in `assets/images/insights/` so that future article images use one consistent location.
+- **Permanent academic-paper lock:** The page `/insights/critical-thinking-kahneman-correction/`, from its title through its References and Keywords, is a submitted, professor-approved academic paper. Codex must never alter its text again, under any circumstances. The only actions Codex may ever take on this page are (a) presentation or styling changes, including fonts, spacing, and layout, and (b) wrapping already-existing exact text in a hyperlink. Codex must not add, remove, reword, correct, normalise, or otherwise change any word of the paper.
 
 ## Voice
 - The site is first person throughout: every page must use “I” and “my”, not “Craig” or “his”.
