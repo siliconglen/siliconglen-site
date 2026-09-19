@@ -12,11 +12,12 @@ permalink: /credentials/
 My professional standing and higher education span engineering, information technology, management and software development.
 {: .lede}
 
-- Chartered Engineer and Chartered IT Professional, British Computer Society (since 2005)
-- Chartered IT Professional Fellow, British Computer Society (30 March 2012)
-- Fellow, Chartered Management Institute (31 January 2013)
 - Chartered Manager, Chartered Management Institute (10 September 2018)
-- Master of Science with Distinction, Large Systems Software Development, Napier University (24 November 1994), with class medal
+- Executive Diploma in Digital Business with Distinction, Academy of Digital Business Leaders (2016) — achieving the highest marks of the 120 UK business leaders on the programme
+- Fellow, Chartered Management Institute (31 January 2013)
+- Fellow, British Computer Society (30 March 2012)
+- Chartered Engineer and Chartered IT Professional, British Computer Society (2005)
+- MSc with Distinction and class medal, Large Systems Software Development, Napier University (24 November 1994)
 - BSc (Hons) Computer Science, Edinburgh University (1983–1987)
 
 BCS chartered status can be independently verified through the [BCS member directory](https://www.bcs.org/find-a-bcs-member/).
@@ -26,16 +27,18 @@ BCS chartered status can be independently verified through the [BCS member direc
 My current professional certifications cover critical thinking, Agile coaching, organisational change and programme delivery.
 {: .lede}
 
-- Executive Diploma in Digital Business with Distinction, Academy of Digital Business Leaders (2016), achieving the highest marks of the 120 UK business leaders on the programme
+### Red Team Thinking
+
 - Red Team Thinking® in the Age of AI (July 2026)
 - Certified Red Team Instructor, Red Team Thinking (October 2025)
-- Certified Red Team Coach (Gold), Red Team Thinking (16/07/2024)
+- Certified Red Team Coach (Gold), Red Team Thinking (July 2024)
+
+### Agile and Project management
 
 - Certified SAFe 6 Practice Consultant
 - Certified SAFe 6 Lean Portfolio Manager
 - ICAgile Certified Professional – Agility in the Enterprise (ICP-ENT) (September 2018)
 - ICAgile Certified Professional – Coaching Agile Transitions (ICP-CAT) (February 2019)
 - Professional Scrum Master I (PSM I) (since 2011)
-- PRINCE2 Foundation and Practitioner
-- MSP Foundation and Practitioner
-- DSDM Atern Foundation
+- PRINCE2 Foundation and Practitioner (2008)
+- MSP Foundation and Practitioner (2010)

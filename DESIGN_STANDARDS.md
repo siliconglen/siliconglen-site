@@ -35,6 +35,7 @@ is authorised to change and why.
 - Current implementation: `.prose > h3` uses `margin: clamp(3rem, 6vw, 4rem) 0 .5rem` and `.prose > h4` uses `margin: 1.25rem 0 .25rem`. Any future spacing change must preserve this principle (larger gap above a heading than below it) even if the exact values are adjusted.
 
 ## Navigation
+- No two navigation items may point to the same destination. Legacy URL redirects must remain out of the navigation when their destination is already represented by another item.
 - Top-level navigation includes evidence pages (Critical Thinking, Delivery, Business Agility, AI, Case Studies) alongside the necessary navigational items Home, Work With Me, About, and Contact.
 - The "Work With Me" dropdown is exclusively for future-tense, bookable services: what Craig will do for a client.
 - Evidence pages must not live under /work-with-me/, and the Work With Me dropdown must not contain evidence pages.
