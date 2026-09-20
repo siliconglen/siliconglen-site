@@ -18,6 +18,8 @@ My [critical thinking, Agile and delivery credentials]({{ '/credentials/#critica
 > "I had the pleasure of working with Craig Cockburn within Business Excellence at JLR, where we co-delivered a 3-day Scrum Master development programme. Craig brought a wealth of experience, a sharp eye for detail, and a facilitation style that made the sessions both engaging and impactful. Craig also joined a cross-functional team I assembled to create a training session on neurodiversity, a topic close to both our hearts. His contributions were thoughtful, informed, and helped us shape a session that resonated deeply with our audience. Whenever we collaborated, the outcomes were consistently strong. Craig has a rare ability to bring training material to life, leaving a lasting impression on our Scrum Master community in particular. I thoroughly enjoyed delivering training sessions with Craig. I hope our paths cross again in the future."
 >
 > — Oliver Atkin, Agile Coach, JLR
+>
+> <a href="https://www.linkedin.com/in/siliconglen/details/recommendations/" target="_blank" rel="noopener noreferrer">Read the full recommendation on LinkedIn</a>
 
 ## Build capability that lasts
 
