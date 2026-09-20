@@ -16,8 +16,8 @@ My professional standing and higher education span engineering, information tech
 - Fellow, Chartered Management Institute (31 January 2013)
 - Fellow, British Computer Society (30 March 2012)
 - Chartered Engineer and Chartered IT Professional, British Computer Society (2005)
-- MSc with Distinction and class medal, Large Systems Software Development, Napier University (24 November 1994)
-- BSc (Hons) Computer Science, Edinburgh University (1983–1987)
+- MSc with Distinction and class medal, Large Systems Software Development, Napier University
+- BSc (Hons) Computer Science, Edinburgh University
 
 BCS chartered status can be independently verified through the [BCS member directory](https://www.bcs.org/find-a-bcs-member/).
 
@@ -33,8 +33,8 @@ My current professional certifications cover critical thinking, Agile coaching, 
 
 ### Agile and Project management
 
-- Certified SAFe 6 Practice Consultant
-- Certified SAFe 6 Lean Portfolio Manager
+- Certified SAFe 6 Practice Consultant (2023)
+- Certified SAFe 6 Lean Portfolio Manager (2023)
 - ICAgile Certified Professional – Agility in the Enterprise (ICP-ENT) (September 2018)
 - ICAgile Certified Professional – Coaching Agile Transitions (ICP-CAT) (February 2019)
 - Professional Scrum Master I (PSM I) (since 2011)

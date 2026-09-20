@@ -7,6 +7,10 @@ description: "External recognition, citations and credits received by Craig Cock
 permalink: /citations/
 ---
 
+## Thinkers360 (June 2026) {#thinkers360-june-2026}
+
+In June 2026, <a href="https://www.thinkers360.com/tl/profiles/view/8985" target="_blank" rel="noopener noreferrer">Thinkers360</a> listed Craig Cockburn as a Top 50 Thought Leader in Agile, a Top 100 Thought Leader in Behavioral Science and a Top 50 Thought Leader in Product Management.
+
 ## BCS Neurodiverse IT Specialist Group (2022–2024) {#bcs-neurodiverse-it-specialist-group-2022-2024}
 
 Craig was a founding committee member of the British Computer Society's Neurodiverse IT Specialist Group, from June 2022 to April 2024, work that informs his neurodivergent-inclusive workshop design.
@@ -93,6 +97,6 @@ Colleagues and clients have recognised Craig's work in these terms:
 
 > "Craig and I worked together for several years as part of the team developing the community bid for the dotScot Top Level Domain Name (gTLD), and we are now both on the board of the dotScot Registry. Negotiations for the dotScot gTLD were protracted so lots of patience has been needed along the way. Craig has a great eye for detail and and the determination to see projects through, as well as a deep knowledge of project governance, - a great person to have on your team!"
 >
-> — Polly Purvis OBE FRSE, Chair, Converge
+> — Polly Purvis OBE FRSE, Chief Executive, ScotlandIS (2013–2019); Director, dotScot Registry (2014–2018)
 
 <p class="section__cta">Get in touch now: <a class="btn btn--primary" href="{{ '/contact/' | relative_url }}">Contact me</a></p>

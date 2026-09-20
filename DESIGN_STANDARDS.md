@@ -93,6 +93,7 @@ is authorised to change and why.
 - Every ownership link must target the specific section on the owner page, not the page top. Individual case studies, credential entries, citation entries and speaking entries must have stable anchor IDs wherever another page links to them.
 
 ## Case Studies page
+- Case studies: each case study shows its location and dates, in the same format as the Admiral case study.
 - Case study outcome labels: use 'Measured outcome' only where a measure is stated; otherwise use 'Outcome'.
 - The page formerly named "Results" is named "Case Studies" (URL: /case-studies/).
 - Organised into sections for the areas that currently have case studies: Delivery, Business Agility, AI. Critical Thinking must not appear until real case studies exist for that area.
@@ -119,6 +120,7 @@ is authorised to change and why.
 - Client engagements using RTT tools are typically confidential — clients frequently do not want to be named or identified. This is why no named case studies exist for Decision Support Workshops or the consulting side of Red Team Thinking; conference talks and video evidence substitute for named case studies here, and this is a deliberate, accepted exception, not a gap to be flagged in future audits.
 
 ## Homepage hero pills
+- Homepage testimonials: four cards only (Nick Jones, Fiona Malone, Phyroze Mohamed, Polly Purvis).
 - The four pills under the hero (Critical Thinking, Delivery, Agile, AI) link exclusively to their corresponding top-level evidence pages: /critical-thinking/, /delivery/, /business-agility/, /ai/.
 - Pills must never link into /work-with-me/ URLs — the "Work with me" button already covers that route.
 
