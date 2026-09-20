@@ -162,7 +162,7 @@ description: "Siliconglen: my work in critical thinking, delivery and Agile. Und
     <div class="grid grid--3">
       <figure class="card testimonial">
         <blockquote>"Craig and I started working together under extremely pressurised circumstance bringing together digital engagement content on to a web platform. All under intense ministerial scrutiny. Craig brought trustworthy technical insight about the platform and fully understood the content side of the equation. He had a level head when and good judgement on prioritising real requirements from 'helpful suuggestions'"</blockquote>
-        <figcaption><strong>Nick Jones</strong><br>Senior Editor, Centre for Cultural Witness</figcaption>
+        <figcaption><strong>Nick Jones</strong><br>Head of Digital, Prime Minister's Office and Cabinet Office (2011–2013)</figcaption>
         <p><a href="{{ '/case-studies/#government-spending-challenge' | relative_url }}">Read the full testimonial in the Government Spending Challenge case study</a></p>
       </figure>
       <figure class="card testimonial">
@@ -172,12 +172,12 @@ description: "Siliconglen: my work in critical thinking, delivery and Agile. Und
       </figure>
       <figure class="card testimonial">
         <blockquote>"Craig was a dedicated and conscientious Project Manager at HMH. Craig built up strong and effective working relationships with goegraphically dispersed Vendors and team members, working long hours to cover multiple timezones where required. I would have no hesitation recommending Craig to any potential emlpoyer."</blockquote>
-        <figcaption><strong>Fiona Malone</strong><br>Delivery Director, Zinkworks</figcaption>
+        <figcaption><strong>Fiona Malone</strong><br>Project Manager, Houghton Mifflin Harcourt (2009–2010)</figcaption>
         <p><a href="{{ '/citations/#recommendation-fiona-malone' | relative_url }}">Read the full recommendation</a></p>
       </figure>
       <figure class="card testimonial">
         <blockquote>"I had the pleasure of working with Craig during a major project at Pocketkings. He is a pragmatic project leader, flexible and dynamic, who never takes his eye off the ball and the overall project goals. As well as navigating a time pressurized project efficiently and accurately on target, he consistently motivated the team to achieve their optimum capacity, resulting in successful, on-target project deployment."</blockquote>
-        <figcaption><strong>Sorcha Moore</strong><br>Service Design Contractor, Bright Approach Ltd</figcaption>
+        <figcaption><strong>Sorcha Moore</strong><br>Lead Product UX Designer, Full Tilt Poker (2007–2010)</figcaption>
         <p><a href="{{ '/citations/#recommendation-sorcha-moore' | relative_url }}">Read the full recommendation</a></p>
       </figure>
       <figure class="card testimonial">
