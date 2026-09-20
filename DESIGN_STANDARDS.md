@@ -113,7 +113,7 @@ is authorised to change and why.
 - A workshop delivered at a conference to teach a topic (e.g. Agile India) belongs on Speaking, not Work With Me, even though the word "workshop" appears in its name.
 
 ## Red Team Thinking® terminology {#red-team-thinking-terminology}
-- Trademarks: Red Team Thinking®, Red Team Coach™, Red Team Instructor™ and Red Team Leaders™ carry their mark on every occurrence in the site's own text (not in URLs, ids, third-party quotations or the Kahneman article).
+- Trademarks: Red Team Thinking®, Red Team Coach™, Red Team Coaching™, Red Team Instructor™ and Red Team Leaders™ carry their mark on every occurrence in the site's own text (not in URLs, ids, third-party quotations or the Kahneman article).
 - Red Team Thinking® has two distinct offers on this site, and copy must keep them clearly separated:
   - **Red Team Thinking® Training** (licensed): Craig delivers licensed Red Team Thinking® training content under permission from Red Team Thinking® / TruThinking Corp. He trains, then leaves — outcomes belong to the client from that point.
   - **Decision Support Workshops**: Craig uses Red Team Thinking® tools and critical thinking practice to facilitate a client through a live decision, strategy, or problem. This is described using the accessible term "decision support" rather than the RTT brand name, since not every visitor will know what Red Team Thinking® means.
