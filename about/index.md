@@ -31,7 +31,7 @@ I have 16 years' non-executive board experience, including Dot Scot Registry (20
 
 ## Credentials and recognition {#credentials-and-recognition}
 
-I'm a Chartered Engineer and Chartered IT Professional Fellow (British Computer Society), a Chartered Manager and Fellow of the Chartered Management Institute, and I hold [professional credentials]({{ '/credentials/#professional-standing-and-higher-education' | relative_url }}) spanning Red Team Thinking, SAFe and Agile coaching. I share practical ideas through [talks and teaching workshops]({{ '/speaking/#talks-and-teaching-workshops' | relative_url }}), while my [community recognition and publishing credits]({{ '/citations/#bcs-neurodiverse-it-specialist-group-2022-2024' | relative_url }}) reflect wider contributions to the profession.
+I'm a Chartered Engineer and Chartered IT Professional Fellow (British Computer Society), a Chartered Manager and Fellow of the Chartered Management Institute, and I hold [professional credentials]({{ '/credentials/#professional-standing-and-higher-education' | relative_url }}) spanning Red Team Thinking®, SAFe and Agile coaching. I share practical ideas through [talks and teaching workshops]({{ '/speaking/#talks-and-teaching-workshops' | relative_url }}), while my [community recognition and publishing credits]({{ '/citations/#bcs-neurodiverse-it-specialist-group-2022-2024' | relative_url }}) reflect wider contributions to the profession.
 
 ## Start with the problem {#start-with-the-problem}
 

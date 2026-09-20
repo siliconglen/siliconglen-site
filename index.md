@@ -69,10 +69,10 @@ description: "Siliconglen: my work in critical thinking, delivery and Agile. Und
     <h2>What type of help do you need?</h2>
     <ul class="problem-list">
       <li><a href="{{ '/work-with-me/decision-support/' | relative_url }}"><span>We need to make a difficult decision.</span><span class="arrow">&rarr; Decision Support</span></a></li>
-      <li><a href="{{ '/work-with-me/red-team-thinking/' | relative_url }}"><span>We need someone to challenge our strategy.</span><span class="arrow">&rarr; Red Team Thinking</span></a></li>
+      <li><a href="{{ '/work-with-me/red-team-thinking/' | relative_url }}"><span>We need someone to challenge our strategy.</span><span class="arrow">&rarr; Red Team Thinking®</span></a></li>
       <li><a href="{{ '/work-with-me/programme-delivery/' | relative_url }}"><span>We need a complex programme delivered.</span><span class="arrow">&rarr; Programme &amp; Project Delivery</span></a></li>
       <li><a href="{{ '/work-with-me/agile-coaching/' | relative_url }}"><span>Our organisation isn't delivering as well as it should.</span><span class="arrow">&rarr; Transformation &amp; Agile</span></a></li>
-      <li><a href="{{ '/work-with-me/red-team-thinking/' | relative_url }}"><span>We want our people to become better thinkers.</span><span class="arrow">&rarr; Red Team Thinking Training</span></a></li>
+      <li><a href="{{ '/work-with-me/red-team-thinking/' | relative_url }}"><span>We want our people to become better thinkers.</span><span class="arrow">&rarr; Red Team Thinking® Training</span></a></li>
       <li><a href="{{ '/speaking/' | relative_url }}"><span>We need a speaker or facilitator.</span><span class="arrow">&rarr; Speaking</span></a></li>
     </ul>
   </div>

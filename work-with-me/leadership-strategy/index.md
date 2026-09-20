@@ -25,9 +25,9 @@ My [Strategy Maps workshop]({{ '/speaking/#strategy-maps-agile-india-2022' | rel
 - Reviewing and iterating strategy as circumstances change, rather than treating it as fixed once agreed.
 - Bringing my [boards and directorships experience]({{ '/about/#boards-and-directorships' | relative_url }}) to governance and planning.
 
-## How this differs from Red Team Thinking or Programme Delivery
+## How this differs from Red Team Thinking® or Programme Delivery {#how-this-differs-from-red-team-thinking-or-programme-delivery}
 
-Leadership Strategy work sits between the two: less about stress-testing a single plan (Red Team Thinking Training) and less about the mechanics of running delivery (Programme Delivery). It's about the leadership team itself: whether they share a clear, connected picture of where they're going and why, and whether that picture is actually usable by the people delivering against it.
+Leadership Strategy work sits between the two: less about stress-testing a single plan (Red Team Thinking® Training) and less about the mechanics of running delivery (Programme Delivery). It's about the leadership team itself: whether they share a clear, connected picture of where they're going and why, and whether that picture is actually usable by the people delivering against it.
 
 ## A strategy map people can use
 

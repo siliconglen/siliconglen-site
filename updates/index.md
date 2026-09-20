@@ -39,9 +39,9 @@ permalink: /updates/
   </article>
 
   <article class="update" id="red-team-instructor-certification">
-    <h2>Red Team Instructor certification</h2>
+    <h2>Red Team Instructor™ certification</h2>
     <p class="update-meta">Published <time datetime="2025-10-08">08/10/2025</time>, <a href="https://www.linkedin.com/feed/update/urn:li:ugcPost:7381641715289473024/" target="_blank" rel="noopener noreferrer">read the original on LinkedIn</a></p>
-    <p>I have completed the Red Team Instructor certification with Red Team Thinking®. It was not a turn-up-and-get-a-certificate course. It ran over several months, often needing many hours a week of instruction, group work and coaching one another, with students spread across Europe, North America and APAC. Some pulled out and not everyone passed. I have already spoken on the topic in several countries and am now speaking to a major business school.</p>
+    <p>I have completed the Red Team Instructor™ certification with Red Team Thinking®. It was not a turn-up-and-get-a-certificate course. It ran over several months, often needing many hours a week of instruction, group work and coaching one another, with students spread across Europe, North America and APAC. Some pulled out and not everyone passed. I have already spoken on the topic in several countries and am now speaking to a major business school.</p>
   </article>
 
   <article class="update" id="digital-transformation-in-the-world-of-ai">
@@ -77,7 +77,7 @@ permalink: /updates/
   <article class="update" id="red-team-coaching-level-4">
     <h2>Red Team Coaching Level 4 certification</h2>
     <p class="update-meta">Published <time datetime="2024-08-07">07/08/2024</time>, <a href="https://www.linkedin.com/feed/update/urn:li:ugcPost:7226846254373195777/" target="_blank" rel="noopener noreferrer">read the original on LinkedIn</a></p>
-    <p>After over a year of training, I have completed the Level 4 Red Team Coaching certification with Red Team Thinking®, led by Bryce Hoffman, author of Red Teaming. For me it was a five-year journey. In 2019 I prepared a talk on strategy, failure and thinking differently for Agile Tour London, later given at Agile Tour Lithuania and Agile Tour India. In March 2020 I met Bryce, and our class predicted a second and worse Covid wave. That class called out groupthink, which the Covid inquiry report also identified as a failure of government planning. Our July 2024 assignment was to improve a government's post-Covid health strategy using Red Team Thinking practices.</p>
+    <p>After over a year of training, I have completed the Level 4 Red Team Coaching certification with Red Team Thinking®, led by Bryce Hoffman, author of Red Teaming. For me it was a five-year journey. In 2019 I prepared a talk on strategy, failure and thinking differently for Agile Tour London, later given at Agile Tour Lithuania and Agile Tour India. In March 2020 I met Bryce, and our class predicted a second and worse Covid wave. That class called out groupthink, which the Covid inquiry report also identified as a failure of government planning. Our July 2024 assignment was to improve a government's post-Covid health strategy using Red Team Thinking® practices.</p>
   </article>
 
   <article class="update" id="why-the-80-20-rule-is-rubbish">
