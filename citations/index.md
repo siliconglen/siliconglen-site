@@ -81,13 +81,13 @@ Colleagues and clients have recognised Craig's work in these terms:
 
 > "Craig was a dedicated and conscientious Project Manager at HMH. Craig built up strong and effective working relationships with goegraphically dispersed Vendors and team members, working long hours to cover multiple timezones where required. I would have no hesitation recommending Craig to any potential emlpoyer."
 >
-> — Fiona Malone, Delivery Director, Zinkworks
+> — Fiona Malone, Project Manager, Houghton Mifflin Harcourt (2009–2010)
 
 ### Sorcha Moore {#recommendation-sorcha-moore}
 
 > "I had the pleasure of working with Craig during a major project at Pocketkings. He is a pragmatic project leader, flexible and dynamic, who never takes his eye off the ball and the overall project goals. As well as navigating a time pressurized project efficiently and accurately on target, he consistently motivated the team to achieve their optimum capacity, resulting in successful, on-target project deployment."
 >
-> — Sorcha Moore, Service Design Contractor, Bright Approach Ltd
+> — Sorcha Moore, Lead Product UX Designer, Full Tilt Poker (2007–2010)
 
 ### Polly Purvis OBE FRSE {#recommendation-polly-purvis}
 

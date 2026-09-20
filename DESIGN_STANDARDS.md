@@ -76,6 +76,7 @@ is authorised to change and why.
 
 ## Testimonial attribution
 - Every testimonial or quote attributed to a named person anywhere on the site must include that person's role or title and their company or organisation, unless confidentiality requires the company or organisation to be omitted.
+- Testimonial attributions give the person's role at the time of the assignment, with years, as supplied by Craig, not their current title.
 - A bare name beside a quote carries no credibility and must not be published. If the role or title cannot be determined from the original source, flag the quote for resolution rather than guessing or publishing it with only a name.
 
 ## Content ownership
