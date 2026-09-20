@@ -161,24 +161,24 @@ description: "Siliconglen: my work in critical thinking, delivery and Agile. Und
     <h2 id="testimonials-heading">Trusted across teams and organisations</h2>
     <div class="grid grid--3">
       <figure class="card testimonial">
+        <blockquote>"Craig has worked with me for around 8 months across 2020 and 2021, as Agile Coach for our Tribe. We aim to be a Tribe which evangelises Agile principles, delivers great outcomes and enjoys a great culture. Craig has been critical to our success against these 3 measures. In his time with us, the Tribe has doubled in size, largely through the arrival of newcomers to Agile"</blockquote>
+        <figcaption><strong>Phyroze Mohamed</strong><br>Technology Tribe Lead, Programme Manager, BT (2020–2021)</figcaption>
+        <p><a href="{{ '/case-studies/#enterprise-agile-coach-bt-mobile-tribe' | relative_url }}">Read the full recommendation</a></p>
+      </figure>
+      <figure class="card testimonial">
         <blockquote>"Craig and I started working together under extremely pressurised circumstance bringing together digital engagement content on to a web platform. All under intense ministerial scrutiny. Craig brought trustworthy technical insight about the platform and fully understood the content side of the equation. He had a level head when and good judgement on prioritising real requirements from 'helpful suuggestions'"</blockquote>
         <figcaption><strong>Nick Jones</strong><br>Head of Digital, Prime Minister's Office and Cabinet Office (2011–2013)</figcaption>
         <p><a href="{{ '/case-studies/#government-spending-challenge' | relative_url }}">Read the full testimonial in the Government Spending Challenge case study</a></p>
       </figure>
       <figure class="card testimonial">
-        <blockquote>"Craig was a dedicated and conscientious Project Manager at HMH. Craig built up strong and effective working relationships with goegraphically dispersed Vendors and team members, working long hours to cover multiple timezones where required. I would have no hesitation recommending Craig to any potential emlpoyer."</blockquote>
-        <figcaption><strong>Fiona Malone</strong><br>Project Manager, Houghton Mifflin Harcourt (2009–2010)</figcaption>
-        <p><a href="{{ '/citations/#recommendation-fiona-malone' | relative_url }}">Read the full recommendation</a></p>
-      </figure>
-      <figure class="card testimonial">
-        <blockquote>"Craig has worked with me for around 8 months across 2020 and 2021, as Agile Coach for our Tribe. We aim to be a Tribe which evangelises Agile principles, delivers great outcomes and enjoys a great culture. Craig has been critical to our success against these 3 measures. In his time with us, the Tribe has doubled in size, largely through the arrival of newcomers to Agile. Craig has been almost entirely responsible for embedding strong and resilient Agile practices, and also for up-skilling incoming Tribe members to a level where they can deliver quality. He has balanced a tenacious enthusiasm for the methodology with a pragmatic and patient approach to his day-to-day interactions with Tribe members and Tribe leadership alike. He has also lent considerable support to Tribe-wide initiatives aimed at safeguarding mental wellbeing during the COVID pandemic. Craig's departure is a significant blow - he is very well-liked within the Tribe, and I couldn't have wished to have had a better Agile Coach by my side on this programme. I wish him every success, and have no hesitation in recommending him for future work."</blockquote>
-        <figcaption><strong>Phyroze Mohamed</strong><br>Technology Tribe Lead, Programme Manager, BT (2020–2021)</figcaption>
-        <p><a href="{{ '/case-studies/#enterprise-agile-coach-bt-mobile-tribe' | relative_url }}">Read the full recommendation</a></p>
-      </figure>
-      <figure class="card testimonial">
         <blockquote>"Craig and I worked together for several years as part of the team developing the community bid for the dotScot Top Level Domain Name (gTLD), and we are now both on the board of the dotScot Registry. Negotiations for the dotScot gTLD were protracted so lots of patience has been needed along the way. Craig has a great eye for detail and and the determination to see projects through, as well as a deep knowledge of project governance, - a great person to have on your team!"</blockquote>
         <figcaption><strong>Polly Purvis OBE FRSE</strong><br>Chief Executive, ScotlandIS (2013–2019); Director, dotScot Registry (2014–2018)</figcaption>
         <p><a href="{{ '/citations/#recommendation-polly-purvis' | relative_url }}">Read the full recommendation</a></p>
+      </figure>
+      <figure class="card testimonial">
+        <blockquote>"I had the pleasure of working with Craig during a major project at Pocketkings. He is a pragmatic project leader, flexible and dynamic, who never takes his eye off the ball and the overall project goals. As well as navigating a time pressurized project efficiently and accurately on target, he consistently motivated the team to achieve their optimum capacity, resulting in successful, on-target project deployment."</blockquote>
+        <figcaption><strong>Sorcha Moore</strong><br>Lead Product UX Designer, Full Tilt Poker (2007–2010)</figcaption>
+        <p><a href="{{ '/citations/#recommendation-sorcha-moore' | relative_url }}">Read the full recommendation</a></p>
       </figure>
     </div>
   </div>

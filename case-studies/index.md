@@ -65,6 +65,8 @@ The programme Craig's work supported went on to save the UK government **over £
 > "Craig and I started working together under extremely pressurised circumstance bringing together digital engagement content on to a web platform. All under intense ministerial scrutiny. Craig brought trustworthy technical insight about the platform and fully understood the content side of the equation. He had a level head when and good judgement on prioritising real requirements from 'helpful suuggestions'"
 >
 > — Nick Jones, Head of Digital, Prime Minister's Office and Cabinet Office (2011–2013)
+>
+> <a href="https://www.linkedin.com/in/siliconglen/details/recommendations/" target="_blank" rel="noopener noreferrer">Read the full recommendation on LinkedIn</a>
 
 **Capabilities:** Critical Thinking · Delivery · Agile
 
@@ -149,7 +151,7 @@ Over 500 people trained across five course tracks; agile capability established 
 >
 > — Jez Winkless, Agile Coach, Admiral Group Plc
 >
-> [See the full recommendation on LinkedIn](https://www.linkedin.com/in/siliconglen/details/recommendations/)
+> <a href="https://www.linkedin.com/in/siliconglen/details/recommendations/" target="_blank" rel="noopener noreferrer">See the full recommendation on LinkedIn</a>
 
 **Capabilities:** Agile · Delivery
 
@@ -182,7 +184,7 @@ This work was independently profiled by a BT colleague: [Building a (remote) cul
 >
 > — Phyroze Mohamed, Technology Tribe Lead, Programme Manager, BT (2020–2021)
 >
-> [See the full recommendation on LinkedIn](https://www.linkedin.com/in/siliconglen/details/recommendations/)
+> <a href="https://www.linkedin.com/in/siliconglen/details/recommendations/" target="_blank" rel="noopener noreferrer">See the full recommendation on LinkedIn</a>
 
 **Capabilities:** Agile · Delivery
 

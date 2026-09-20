@@ -80,23 +80,31 @@ Colleagues and clients have recognised Craig's work in these terms:
 > "Craig managed a number of projects delivering to the technology roadmap. He is very personable and has displayed a mature approach to project progression. I have no doubt in his ability to undertake the management of large scale projects with ease."
 >
 > — Roshan Daryanani, IT Consultant, LEVO Enterprises
+>
+> <a href="https://www.linkedin.com/in/siliconglen/details/recommendations/" target="_blank" rel="noopener noreferrer">Read the full recommendation on LinkedIn</a>
 
 ### Fiona Malone {#recommendation-fiona-malone}
 
 > "Craig was a dedicated and conscientious Project Manager at HMH. Craig built up strong and effective working relationships with goegraphically dispersed Vendors and team members, working long hours to cover multiple timezones where required. I would have no hesitation recommending Craig to any potential emlpoyer."
 >
 > — Fiona Malone, Project Manager, Houghton Mifflin Harcourt (2009–2010)
+>
+> <a href="https://www.linkedin.com/in/siliconglen/details/recommendations/" target="_blank" rel="noopener noreferrer">Read the full recommendation on LinkedIn</a>
 
 ### Sorcha Moore {#recommendation-sorcha-moore}
 
 > "I had the pleasure of working with Craig during a major project at Pocketkings. He is a pragmatic project leader, flexible and dynamic, who never takes his eye off the ball and the overall project goals. As well as navigating a time pressurized project efficiently and accurately on target, he consistently motivated the team to achieve their optimum capacity, resulting in successful, on-target project deployment."
 >
 > — Sorcha Moore, Lead Product UX Designer, Full Tilt Poker (2007–2010)
+>
+> <a href="https://www.linkedin.com/in/siliconglen/details/recommendations/" target="_blank" rel="noopener noreferrer">Read the full recommendation on LinkedIn</a>
 
 ### Polly Purvis OBE FRSE {#recommendation-polly-purvis}
 
 > "Craig and I worked together for several years as part of the team developing the community bid for the dotScot Top Level Domain Name (gTLD), and we are now both on the board of the dotScot Registry. Negotiations for the dotScot gTLD were protracted so lots of patience has been needed along the way. Craig has a great eye for detail and and the determination to see projects through, as well as a deep knowledge of project governance, - a great person to have on your team!"
 >
 > — Polly Purvis OBE FRSE, Chief Executive, ScotlandIS (2013–2019); Director, dotScot Registry (2014–2018)
+>
+> <a href="https://www.linkedin.com/in/siliconglen/details/recommendations/" target="_blank" rel="noopener noreferrer">Read the full recommendation on LinkedIn</a>
 
 <p class="section__cta">Get in touch now: <a class="btn btn--primary" href="{{ '/contact/' | relative_url }}">Contact me</a></p>

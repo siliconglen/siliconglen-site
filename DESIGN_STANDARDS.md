@@ -77,6 +77,7 @@ is authorised to change and why.
 ## Testimonial attribution
 - Every testimonial or quote attributed to a named person anywhere on the site must include that person's role or title and their company or organisation, unless confidentiality requires the company or organisation to be omitted.
 - Testimonial attributions give the person's role at the time of the assignment, with years, as supplied by Craig, not their current title.
+- Testimonials outside the homepage link to https://www.linkedin.com/in/siliconglen/details/recommendations/ with the text 'Read the full recommendation on LinkedIn'.
 - A bare name beside a quote carries no credibility and must not be published. If the role or title cannot be determined from the original source, flag the quote for resolution rather than guessing or publishing it with only a name.
 
 ## Content ownership
@@ -120,7 +121,7 @@ is authorised to change and why.
 - Client engagements using RTT tools are typically confidential — clients frequently do not want to be named or identified. This is why no named case studies exist for Decision Support Workshops or the consulting side of Red Team Thinking; conference talks and video evidence substitute for named case studies here, and this is a deliberate, accepted exception, not a gap to be flagged in future audits.
 
 ## Homepage hero pills
-- Homepage testimonials: four cards only (Nick Jones, Fiona Malone, Phyroze Mohamed, Polly Purvis).
+- Homepage testimonials: four cards only, in this order: Phyroze Mohamed, Nick Jones, Polly Purvis, Sorcha Moore. Each links to the full testimonial on this site.
 - The four pills under the hero (Critical Thinking, Delivery, Agile, AI) link exclusively to their corresponding top-level evidence pages: /critical-thinking/, /delivery/, /business-agility/, /ai/.
 - Pills must never link into /work-with-me/ URLs — the "Work with me" button already covers that route.
 
