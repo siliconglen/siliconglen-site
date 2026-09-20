@@ -13,7 +13,7 @@ You may need to make a difficult decision, challenge a strategy, recover a progr
 
 ### Your people need repeatable tools for challenging plans
 
-[Red Team Thinking Training]({{ '/work-with-me/red-team-thinking/' | relative_url }}) is a two-session learning programme for leadership teams that want shared techniques for exposing assumptions, avoiding groupthink and testing strategy. It builds capability your people can keep using, rather than providing one-off challenge to a single decision.
+[Red Team Thinking® Training]({{ '/work-with-me/red-team-thinking/' | relative_url }}) is a two-session learning programme for leadership teams that want shared techniques for exposing assumptions, avoiding groupthink and testing strategy. It builds capability your people can keep using, rather than providing one-off challenge to a single decision.
 
 ### A difficult decision needs a clear, defensible route forward
 
@@ -38,7 +38,7 @@ You may need to make a difficult decision, challenge a strategy, recover a progr
 ## Match the engagement to the problem
 
 - **A live difficult choice:** Decision Support Workshops.
-- **Repeatable challenge skills:** Red Team Thinking Training.
+- **Repeatable challenge skills:** Red Team Thinking® Training.
 - **Complex delivery:** Programme & Project Delivery.
 - **A team reset:** Team Turnaround Workshops.
 - **Sustainable adaptive delivery:** Agile Coaching.

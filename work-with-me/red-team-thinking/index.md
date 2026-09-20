@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Red Team Thinking Training
+title: Red Team Thinking® Training
 eyebrow: Work with me
 intro: A structured critical thinking programme that helps leadership teams challenge assumptions and make stronger, more resilient decisions.
-description: "Red Team Thinking training with Craig Cockburn: a practical programme that gives leadership teams structured tools to expose blind spots, test plans and improve decisions."
+description: "Red Team Thinking® training with Craig Cockburn: a practical programme that gives leadership teams structured tools to expose blind spots, test plans and improve decisions."
 permalink: /work-with-me/red-team-thinking/
 ---
 
@@ -13,7 +13,7 @@ All too often, I see companies outsource their strategic thinking and advice to 
 
 A strategy can be coherent, well researched and widely supported while still resting on assumptions that nobody has tested. The more work invested in it, the harder those assumptions can become to see or question.
 
-Red Team Thinking® provides structured, constructive challenge through methods adapted from military and intelligence tradecraft for business. I deliver the licensed training and tailor its application to the organisation, backed by my [Red Team Thinking certifications]({{ '/credentials/#critical-thinking-agile-and-delivery' | relative_url }}).
+Red Team Thinking® provides structured, constructive challenge through methods adapted from military and intelligence tradecraft for business. I deliver the licensed training and tailor its application to the organisation, backed by my [Red Team Thinking® certifications]({{ '/credentials/#critical-thinking-agile-and-delivery' | relative_url }}).
 
 The purpose is not to criticise for effect or replace the people responsible for a decision. It is to give your team practical methods for examining how conclusions were reached, finding missing perspectives and testing whether plans remain credible when conditions change.
 
@@ -37,11 +37,11 @@ Across the two sessions, your team learns six practical tools for stronger decis
 - **Assumptions Challenge**, for identifying and stress-testing the assumptions a plan depends on, whether stated or unstated.
 - **Pre-Mortem Analysis**, which asks a team to imagine a plan has already failed and work backwards to find out why, so weaknesses surface while there's still time to fix them.
 
-The wider Red Team Thinking toolkit goes well beyond these six tools. Sessions can draw on other techniques, from stakeholder analysis to structured stress-testing methods, where they fit your situation better.
+The wider Red Team Thinking® toolkit goes well beyond these six tools. Sessions can draw on other techniques, from stakeholder analysis to structured stress-testing methods, where they fit your situation better.
 
 ## An introduction to the approach
 
-My [Red Team Thinking conference talk]({{ '/speaking/#red-team-thinking-conference-talk' | relative_url }}) introduces the concepts at a high level; the licensed training is substantially deeper.
+My [Red Team Thinking® conference talk]({{ '/speaking/#red-team-thinking-conference-talk' | relative_url }}) introduces the concepts at a high level; the licensed training is substantially deeper.
 
 ## Student experience
 
@@ -66,7 +66,7 @@ The goal is not certainty where certainty is impossible, but stronger thinking: 
 
 ## When this is useful
 
-Red Team Thinking Training is particularly useful when:
+Red Team Thinking® Training is particularly useful when:
 
 - a decision is difficult to reverse;
 - a proposal has strong internal momentum;

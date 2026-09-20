@@ -49,7 +49,7 @@ I facilitate a concise decision record containing:
 
 The goal is a decision people can understand, explain and use—not a longer report.
 
-Engagements of this kind are confidential. The [Red Team Thinking conference talk]({{ '/speaking/#red-team-thinking-conference-talk' | relative_url }}) illustrates the underlying approach.
+Engagements of this kind are confidential. The [Red Team Thinking® conference talk]({{ '/speaking/#red-team-thinking-conference-talk' | relative_url }}) illustrates the underlying approach.
 
 ## When this is useful
 

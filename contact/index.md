@@ -38,7 +38,7 @@ permalink: /contact/
       <option value="Decision Support Workshops">Decision Support Workshops</option>
       <option value="Leadership Strategy">Leadership Strategy</option>
       <option value="Programme &amp; Project Delivery">Programme &amp; Project Delivery</option>
-      <option value="Red Team Thinking Training">Red Team Thinking Training</option>
+      <option value="Red Team Thinking Training">Red Team Thinking® Training</option>
       <option value="Team Turnaround Workshops">Team Turnaround Workshops</option>
       <option value="Speaking">Speaking</option>
       <option value="">Not sure yet</option>

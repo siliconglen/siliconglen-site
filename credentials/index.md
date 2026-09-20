@@ -25,11 +25,11 @@ BCS chartered status can be independently verified through the [BCS member direc
 
 My current professional certifications cover critical thinking, Agile coaching, organisational change and programme delivery.
 
-### Red Team Thinking
+### Red Team Thinking® {#red-team-thinking}
 
 - Red Team Thinking® in the Age of AI (July 2026)
-- Certified Red Team Instructor, Red Team Thinking (October 2025)
-- Certified Red Team Coach (Gold), Red Team Thinking (July 2024)
+- Certified Red Team Instructor™, Red Team Thinking® (October 2025)
+- Certified Red Team Coach™ (Gold), Red Team Thinking® (July 2024)
 
 ### Agile and Project management
 

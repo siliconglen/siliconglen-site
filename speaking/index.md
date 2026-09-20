@@ -11,13 +11,13 @@ permalink: /speaking/
 
 I turn complex material into practical talks and visual teaching that give an audience something they can question, remember and apply.
 
-I have given more than 30 talks on strategy, critical thinking, Red Team Thinking, neurodiversity, ways of working, and how to structure and visualise talks. Appearances include conferences in Cluj, Bangalore, Lithuania and London, plus guest lectures at Edinburgh Napier University and the University of Edinburgh.
+I have given more than 30 talks on strategy, critical thinking, Red Team Thinking®, neurodiversity, ways of working, and how to structure and visualise talks. Appearances include conferences in Cluj, Bangalore, Lithuania and London, plus guest lectures at Edinburgh Napier University and the University of Edinburgh.
 
-## Red Team Thinking: Applied critical thinking for leaders {#red-team-thinking-conference-talk}
+## Red Team Thinking®: Applied critical thinking for leaders {#red-team-thinking-conference-talk}
 
-A talk on decision-making in business: the issues and problems leaders face, and how additional tools adapted from the military into a business-friendly context, Red Team Thinking, can help. Covers a full list of the tools, with in-depth focus on a selection and their use for leaders, including within Product Management in agile. Given in Cluj, Romania, in September 2024, and also in India in 2025.
+A talk on decision-making in business: the issues and problems leaders face, and how additional tools adapted from the military into a business-friendly context, Red Team Thinking®, can help. Covers a full list of the tools, with in-depth focus on a selection and their use for leaders, including within Product Management in agile. Given in Cluj, Romania, in September 2024, and also in India in 2025.
 
-<iframe class="media-embed" width="100%" height="450" src="https://www.youtube-nocookie.com/embed/_NeHGCgzqN4" title="Red Team Thinking: Applied critical thinking for leaders" loading="lazy" allowfullscreen></iframe>
+<iframe class="media-embed" width="100%" height="450" src="https://www.youtube-nocookie.com/embed/_NeHGCgzqN4" title="Red Team Thinking®: Applied critical thinking for leaders" loading="lazy" allowfullscreen></iframe>
 
 ## Knowledge Canvas {#knowledge-canvas}
 
