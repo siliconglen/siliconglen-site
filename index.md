@@ -226,6 +226,6 @@ description: "Siliconglen: my work in critical thinking, delivery and Agile. Und
   <div class="section__inner">
     <p class="section-eyebrow">Get in touch</p>
     <h2>Have a problem worth thinking through properly?</h2>
-    <p class="lede">My contact details are in the footer.</p>
+    <p class="section__cta">Get in touch now: <a class="btn btn--primary" href="{{ '/contact/' | relative_url }}">Contact me</a></p>
   </div>
 </section>

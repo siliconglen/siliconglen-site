@@ -33,6 +33,7 @@ permalink: /contact/
   <div class="form-field">
     <label for="topic">What would you like help with? <span class="optional">(optional)</span></label>
     <select id="topic" name="topic">
+      <option value="No selection made" selected>No selection made</option>
       <option value="Agile Coaching">Agile Coaching</option>
       <option value="Decision Support Workshops">Decision Support Workshops</option>
       <option value="Leadership Strategy">Leadership Strategy</option>

@@ -47,7 +47,7 @@ is authorised to change and why.
 - Updates uses the top-level URL `/updates/`. It is for short-form reflective and opinion posts, presented in reverse chronological order in a blog-like format.
 
 ## Contact details
-- Contact form: name, email and message are mandatory and marked with a red asterisk; all other fields are optional. Topic options match the current Work With Me service names, plus 'Speaking', 'Not sure yet' and 'Something else'.
+- Contact form: name, email and message are mandatory and marked with a red asterisk; all other fields are optional. Topic options match the current Work With Me service names, plus 'Speaking', 'Not sure yet' and 'Something else'. The default option is 'No selection made'.
 - The footer wording is “SILICONGLEN”, then “Craig Cockburn”, then “Write to me at craig@siliconglen.com or via my contact form.” The email address and “contact form” are links, and both ways to reach me sit together.
 - Contact remains a top-level navigation item.
 - Closing calls to action use the homepage's bold blue primary-button treatment and link to `/contact/`; weak closing copy such as “My contact details are in the footer” must not be used.
