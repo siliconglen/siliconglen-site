@@ -51,10 +51,10 @@ From May to August 2010, Craig was a Senior Project Manager at Directgov, managi
 The service operated under head-of-government visibility and reached approximately **400,000 page views an hour** at peak. Shortly after launch, its open public-comment feature attracted a wave of inappropriate submissions, creating an immediate risk to public confidence.
 
 #### Craig's role
-As Senior Project Manager, Craig identified the risk and led the incident response.
+As Senior Project Manager, Craig recognised the need for a quick but effective solution, proposed a technical approach the development team could deliver within the timescale, and coordinated the work across multiple teams.
 
 #### Approach
-Craig redesigned the site with reduced interactivity and led its relaunch: from identifying the problem to restoring the service online, the turnaround happened on the same day.
+Craig led the initiative to redesign the site with reduced interactivity. He proposed a solution the development team could implement within the timescale, and the service was back online on the same day the problem was identified.
 
 #### Change
 The revised service returned online with the immediate public-comment risk controlled. [The Drum's contemporaneous report covered its return](https://www.thedrum.com/news/governments-spending-challenge-site-back-online).
@@ -73,21 +73,21 @@ The programme Craig's work supported went on to save the UK government **over £
 ### CIO Council secure procurement portal {#cio-council-secure-procurement-portal}
 
 #### Situation
-A CIO Council procurement portal had a security problem that needed both identification and resolution.
+A CIO Council procurement portal had security issues, which Craig uncovered. They needed to be classified, have their impact assessed and be resolved. All the stakeholders were UK government CIOs, so the work was very high profile.
 
 #### Difficulty
-The solution had to meet the security need while avoiding the cost implied by the initial budget.
+The security need had to be met at a high-profile level, without incurring the cost implied by the initial budget.
 
 #### Craig's role
-Craig contributed to identifying the security problem and delivering the secure solution.
+Craig contributed to identifying the security problem and delivering the secure solution, working with stakeholders who were all UK government CIOs.
 
 #### Approach
 The work connected diagnosis with implementation: understand the security issue, define a suitable response and carry it through to delivery.
 
-The insecure existing procurement solution and site were identified as unfit for purpose and completely replaced—not patched or incrementally improved—with a new secure solution delivered in under three months, at approximately 98% under the initial budget estimate.
+The existing procurement solution and site were identified as unfit for purpose and completely replaced, not patched or incrementally improved. The new secure solution was delivered in under three months, at approximately 98% under the initial budget.
 
 #### Change
-A secure procurement solution replaced the unresolved security problem.
+A secure procurement solution replaced the insecure one.
 
 #### Measured outcome
 The secure solution was delivered in **under three months**, at **roughly 98% under the initial budget**.
@@ -96,21 +96,23 @@ The secure solution was delivered in **under three months**, at **roughly 98% un
 
 ### VisitScotland e-commerce rescue {#visitscotland-e-commerce-rescue}
 
+*Edinburgh, Scotland · February 2000 – August 2000 (7 months)*
+
 #### Situation
 
 VisitScotland's online tourist booking platform needed to launch against an external deadline.
 
 #### Difficulty
 
-The entire development team had been poached by other businesses shortly before the deadline.
+The entire development team left shortly before the deadline, because of political uncertainty in the project and more attractive work elsewhere.
 
 #### Craig's role
 
-Craig identified poor delivery processes, led developer recruitment, and rebuilt the test environments.
+Craig introduced robust development processes and tooling, led developer recruitment, built the test environment and led on testing initiatives.
 
 #### Approach
 
-Craig identified bugs in the supplier's work that resulted in six-figure fines for the supplier, while rebuilding the team and the delivery process from a standing start.
+Craig rebuilt the team, instigated good development processes, led testing initiatives and created an environment in which the developers could reach the necessary productivity.
 
 #### Change
 
