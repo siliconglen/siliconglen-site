@@ -139,4 +139,5 @@ is authorised to change and why.
 - Any task that adds or changes markup must check its own output against both requirements before reporting success, and must report the specific check performed (not just "should be fine").
 
 ## Process rule
+- Live domain: the site is served at https://siliconglen.com with an empty baseurl. The site-wide noindex/nofollow directive has been removed; individual redirect stubs keep their own.
 Every future Codex task prompt must begin by reading this file, and its final report must state explicitly, for each item above, whether it verified compliance or made a change to it (with the requesting task's explicit authorisation quoted).

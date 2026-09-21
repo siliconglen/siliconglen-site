@@ -1,7 +1,7 @@
 title: Siliconglen
 description: Critical thinking, delivery and Agile with Craig Cockburn.
-url: "https://siliconglen.github.io"
-baseurl: "/siliconglen-site"
+url: "https://siliconglen.com"
+baseurl: ""
 lang: en-GB
 markdown: kramdown
 permalink: pretty
