@@ -22,6 +22,8 @@ Some team problems cannot be solved in a status update. A structured offsite hel
 
 ## A full day that ends with owners
 
+I run these from half a day to several days, depending on your situation. Up to about 20 people can take part, in person or remotely, and you leave with an agreed way forward.
+
 **Agenda:** Each part combines a short framing, group activity, reference material and a concrete follow-through action. The day ends with agreed actions, named owners and review points.
 
 **Accessibility:** I adapt pacing, movement and ground rules for the people in the room, including neurodivergent participants.
