@@ -31,6 +31,7 @@ is authorised to change and why.
 
 ## Heading and section spacing
 - Every section and subsection must be clearly visually differentiated from the one before and after it. A visitor must be able to tell at a glance where one item (e.g. a case study, a service description, a list entry) ends and the next begins.
+- Homepage rhythm: sections alternate white and grey, with the blue band and any dark video section as accents. No two adjacent sections (including the footer) may share a background. Re-check the full sequence after any reorder.
 - The gap before a new heading must be visibly larger than the gap between that heading and its own body text — headings must read as attached to the content below them, not floating roughly equidistant between the previous section and their own text.
 - Current implementation: `.prose > h3` uses `margin: clamp(3rem, 6vw, 4rem) 0 .5rem` and `.prose > h4` uses `margin: 1.25rem 0 .25rem`. Any future spacing change must preserve this principle (larger gap above a heading than below it) even if the exact values are adjusted.
 
@@ -47,6 +48,7 @@ is authorised to change and why.
 - Updates uses the top-level URL `/updates/`. It is for short-form reflective and opinion posts, presented in reverse chronological order in a blog-like format.
 
 ## Contact details
+- Homepage calls to action: no two buttons sit adjacent; one button per call-to-action group.
 - Contact form: name, email and message are mandatory and marked with a red asterisk; all other fields are optional. Topic options match the current Work With Me service names, plus 'Speaking', 'Not sure yet' and 'Something else'. The default option is 'No selection made'.
 - The footer wording is “SILICONGLEN”, then “Craig Cockburn”, then “Write to me at craig@siliconglen.com or via my contact form.” The email address and “contact form” are links, and both ways to reach me sit together.
 - Contact remains a top-level navigation item.
