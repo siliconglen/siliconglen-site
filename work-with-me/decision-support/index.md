@@ -24,6 +24,8 @@ Using Red Team Thinking® tools and broader critical-thinking practices, I guide
 
 ## How the work happens
 
+I run these from half a day to several days, depending on your situation. Up to about 20 people can take part, in person or remotely, and you leave with an agreed way forward.
+
 ### Frame
 I guide the team to define the question, desired outcome, constraints and decision point.
 
@@ -47,7 +49,7 @@ I facilitate a concise decision record containing:
 - the rationale and remaining uncertainty; and
 - an actionable next-step plan.
 
-The goal is a decision people can understand, explain and use—not a longer report.
+The goal is a decision people can understand, explain and use, not a longer report.
 
 Engagements of this kind are confidential. The [Red Team Thinking® conference talk]({{ '/speaking/#red-team-thinking-conference-talk' | relative_url }}) illustrates the underlying approach.
 
