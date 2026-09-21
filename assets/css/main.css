@@ -218,3 +218,13 @@ h3 { margin: 0 0 .5rem; font-size: 1.25rem; }
 .js-reveal .reveal.is-visible { opacity: 1; transform: translateY(0); }
 
 @media (prefers-reduced-motion: reduce) { *, *::before, *::after { transition-duration: .01ms !important; animation-duration: .01ms !important; } }
+
+@media print {
+  .reveal { opacity: 1 !important; transform: none !important; visibility: visible !important; }
+  .skip-link { display: none !important; }
+  .section > *:is(h2, h3) { break-inside: avoid; page-break-inside: avoid; }
+}
+
+@media (scripting: none) {
+  .reveal { opacity: 1; transform: none; visibility: visible; }
+}
