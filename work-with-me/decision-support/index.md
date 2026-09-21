@@ -24,7 +24,7 @@ Using Red Team Thinking® tools and broader critical-thinking practices, I guide
 
 ## How the work happens
 
-I run these from half a day to several days, depending on your situation. Up to about 20 people can take part, in person or remotely, and you leave with an agreed way forward.
+I run these from half a day to several days, depending on your situation, in person or remotely. Around 20 people is the ideal size for close, high-level collaboration. I have also run sessions of around 50, which suit a mix of learning and collaboration. At that size it is harder for everyone to contribute, so I plan the format with that in mind. You leave with an agreed way forward.
 
 ### Frame
 I guide the team to define the question, desired outcome, constraints and decision point.

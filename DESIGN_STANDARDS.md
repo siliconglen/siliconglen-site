@@ -48,7 +48,7 @@ is authorised to change and why.
 - Updates uses the top-level URL `/updates/`. It is for short-form reflective and opinion posts, presented in reverse chronological order in a blog-like format.
 
 ## Contact details
-- Homepage calls to action: no two buttons sit adjacent; one button per call-to-action group.
+- Homepage calls to action: the hero has no button; the 'What type of help do you need?' section has one call to action only, a bold blue 'Work with me' button linking to /work-with-me/ placed after the six routes; the closing section has 'Get in touch now:' with the 'Contact me' button. No two buttons sit adjacent anywhere on the page.
 - Contact form: name, email and message are mandatory and marked with a red asterisk; all other fields are optional. Topic options match the current Work With Me service names, plus 'Speaking', 'Not sure yet' and 'Something else'. The default option is 'No selection made'.
 - The footer wording is “SILICONGLEN”, then “Craig Cockburn”, then “Write to me at craig@siliconglen.com or via my contact form.” The email address and “contact form” are links, and both ways to reach me sit together.
 - Contact remains a top-level navigation item.
@@ -124,6 +124,7 @@ is authorised to change and why.
 - Client engagements using RTT tools are typically confidential — clients frequently do not want to be named or identified. This is why no named case studies exist for Decision Support Workshops or the consulting side of Red Team Thinking®; conference talks and video evidence substitute for named case studies here, and this is a deliberate, accepted exception, not a gap to be flagged in future audits.
 
 ## Homepage hero pills
+- Homepage hero: eyebrow, headline, two supporting paragraphs (the introduction and the 20-years paragraph), the four practice-area tags, the case studies link and the portrait. No button.
 - Homepage testimonials: four cards only, in this order: Phyroze Mohamed, Nick Jones, Polly Purvis, Sorcha Moore. Each links to the full testimonial on this site.
 - The four pills under the hero (Critical Thinking, Delivery, Agile, AI) link exclusively to their corresponding top-level evidence pages: /critical-thinking/, /delivery/, /business-agility/, /ai/.
 - Pills must never link into /work-with-me/ URLs — the "Work with me" button already covers that route.

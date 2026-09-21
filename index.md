@@ -9,7 +9,7 @@ description: "Siliconglen: my work in critical thinking, delivery and Agile. Und
       <p class="section-eyebrow">Critical Thinking · Delivery · Agile</p>
       <h1>Think clearer.<br>Decide better.<br>Deliver what matters.</h1>
       <p class="lede">I'm Craig Cockburn. I help leaders think more clearly, decide with confidence, and deliver complex change by combining structured challenge with hands-on delivery.</p>
-      <p class="section__cta"><a class="btn btn--primary" href="{{ '/contact/' | relative_url }}">Contact me</a></p>
+      <p class="lede">For more than 20 years, I have helped organisations turn difficult decisions into working outcomes. My work spans programme and project delivery, coaching leaders and delivery teams, turning around troubled work, and building lasting Agile capability. I now also apply strategy, critical thinking and Red Team Thinking&reg; to help teams expose assumptions before they become expensive problems.</p>
       <div class="tag-row">
         <a class="tag" href="{{ '/critical-thinking/' | relative_url }}">Critical Thinking</a>
         <a class="tag" href="{{ '/delivery/' | relative_url }}">Delivery</a>
@@ -68,8 +68,7 @@ description: "Siliconglen: my work in critical thinking, delivery and Agile. Und
       <li><a href="{{ '/work-with-me/red-team-thinking/' | relative_url }}"><span>We want our people to become better thinkers.</span><span class="arrow">&rarr; Red Team Thinking® Training</span></a></li>
       <li><a href="{{ '/speaking/' | relative_url }}"><span>We need a speaker.</span><span class="arrow">&rarr; Speaking</span></a></li>
     </ul>
-    <p class="hero__case-studies"><a href="{{ '/work-with-me/' | relative_url }}">Work with me</a></p>
-    <p class="section__cta">Get in touch now: <a class="btn btn--primary" href="{{ '/contact/' | relative_url }}">Contact me</a></p>
+    <p class="section__cta"><a class="btn btn--primary" href="{{ '/work-with-me/' | relative_url }}">Work with me</a></p>
   </div>
 </section>
 
@@ -212,7 +211,6 @@ description: "Siliconglen: my work in critical thinking, delivery and Agile. Und
   <div class="section__inner">
     <p class="section-eyebrow">About</p>
     <h2>About me</h2>
-    <p class="lede">For more than 20 years, I have helped organisations turn difficult decisions into working outcomes. My work spans programme and project delivery, coaching leaders and delivery teams, turning around troubled work, and building lasting Agile capability. I now also apply strategy, critical thinking and Red Team Thinking&reg; to help teams expose assumptions before they become expensive problems.</p>
     <p class="lede">From software and the early internet, through complex delivery, to organisational systems, critical thinking and AI, the thread running through it all is the same: understand the real problem before you try to solve it.</p>
     <p><a href="{{ '/about/#career' | relative_url }}">Read my career narrative</a></p>
   </div>

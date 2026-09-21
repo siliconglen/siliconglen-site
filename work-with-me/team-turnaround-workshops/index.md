@@ -22,7 +22,7 @@ Some team problems cannot be solved in a status update. A structured offsite hel
 
 ## A full day that ends with owners
 
-I run these from half a day to several days, depending on your situation. Up to about 20 people can take part, in person or remotely, and you leave with an agreed way forward.
+I run these from half a day to several days, depending on your situation, in person or remotely. Around 20 people is the ideal size for close, high-level collaboration. I have also run sessions of around 50, which suit a mix of learning and collaboration. At that size it is harder for everyone to contribute, so I plan the format with that in mind. You leave with an agreed way forward.
 
 **Agenda:** Each part combines a short framing, group activity, reference material and a concrete follow-through action. The day ends with agreed actions, named owners and review points.
 
