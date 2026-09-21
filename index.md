@@ -56,7 +56,7 @@ description: "Siliconglen: my work in critical thinking, delivery and Agile. Und
   </div>
 </section>
 
-<section class="section section--card reveal">
+<section class="section reveal">
   <div class="section__inner">
     <h2>What type of help do you need?</h2>
     <p class="lede">Whether you need to challenge a decision, recover a struggling programme, or build lasting delivery capability in your team, I clarify the decision, expose delivery constraints and help turn the next agreed action into a working outcome.</p>
@@ -68,7 +68,7 @@ description: "Siliconglen: my work in critical thinking, delivery and Agile. Und
       <li><a href="{{ '/work-with-me/red-team-thinking/' | relative_url }}"><span>We want our people to become better thinkers.</span><span class="arrow">&rarr; Red Team Thinking® Training</span></a></li>
       <li><a href="{{ '/speaking/' | relative_url }}"><span>We need a speaker.</span><span class="arrow">&rarr; Speaking</span></a></li>
     </ul>
-    <p class="section__cta"><a class="btn btn--primary" href="{{ '/work-with-me/' | relative_url }}">Work with me</a></p>
+    <p class="hero__case-studies"><a href="{{ '/work-with-me/' | relative_url }}">Work with me</a></p>
     <p class="section__cta">Get in touch now: <a class="btn btn--primary" href="{{ '/contact/' | relative_url }}">Contact me</a></p>
   </div>
 </section>
@@ -151,7 +151,7 @@ description: "Siliconglen: my work in critical thinking, delivery and Agile. Und
   </div>
 </section>
 
-<section class="section reveal">
+<section class="section section--card reveal">
   <div class="section__inner">
     <p class="section-eyebrow">Three connected capabilities</p>
     <h2>Critical Thinking &middot; Delivery &middot; Agile</h2>
@@ -179,7 +179,7 @@ description: "Siliconglen: my work in critical thinking, delivery and Agile. Und
   </div>
 </section>
 
-<section class="section section--card reveal">
+<section class="section reveal">
   <div class="section__inner">
     <p class="section-eyebrow">AI &amp; Critical Thinking</p>
     <h2>AI can produce an answer. Who is challenging the answer?</h2>
@@ -208,7 +208,7 @@ description: "Siliconglen: my work in critical thinking, delivery and Agile. Und
 </section>
 {% endif %}
 
-<section class="section reveal">
+<section class="section section--card reveal">
   <div class="section__inner">
     <p class="section-eyebrow">About</p>
     <h2>About me</h2>
@@ -218,7 +218,7 @@ description: "Siliconglen: my work in critical thinking, delivery and Agile. Und
   </div>
 </section>
 
-<section class="section section--tint reveal">
+<section class="section reveal">
   <div class="section__inner">
     <p class="section-eyebrow">Get in touch</p>
     <h2>Have a problem worth thinking through properly?</h2>
