@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Critical Thinking
-eyebrow: Evidence
+eyebrow: Decision support
 intro: Challenge assumptions, examine evidence and make decisions you can explain and act on.
 description: "My approach to framing problems, testing assumptions and reaching defensible decisions."
 permalink: /critical-thinking/
