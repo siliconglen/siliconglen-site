@@ -51,6 +51,7 @@ is authorised to change and why.
 - Homepage calls to action: the hero has no button; the 'What type of help do you need?' section has one call to action only, a bold blue 'Work with me' button linking to /work-with-me/ placed after the six routes; the closing section has 'Get in touch now:' with the 'Contact me' button. No two buttons sit adjacent anywhere on the page.
 - Contact form: name, email and message are mandatory and marked with a red asterisk; all other fields are optional. Topic options match the current Work With Me service names, plus 'Speaking', 'Not sure yet' and 'Something else'. The default option is 'No selection made'.
 - The footer wording is “SILICONGLEN”, then “Craig Cockburn”, then “Write to me at craig@siliconglen.com or via my contact form.” The email address and “contact form” are links, and both ways to reach me sit together.
+- Footer: small LinkedIn and YouTube icon links sit next to Craig Cockburn's name, in that order, using the site's muted/ink colour with a teal hover state, each opening in a new tab.
 - Contact remains a top-level navigation item.
 - Closing calls to action use the homepage's bold blue primary-button treatment and link to `/contact/`; weak closing copy such as “My contact details are in the footer” must not be used.
 - General and evidence pages (About, Critical Thinking, Delivery, Business Agility, AI, Credentials, Citations and Speaking) end with “Get in touch now:” followed by a **Contact me** button.
