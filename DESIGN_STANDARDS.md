@@ -140,6 +140,7 @@ is authorised to change and why.
 - Any task that adds or changes markup must check its own output against both requirements before reporting success, and must report the specific check performed (not just "should be fine").
 
 ## Process rule
+- Favicon: favicon.ico, apple-touch-icon.png and a 512x512 PNG icon at /assets/icons/ are referenced in the shared head on every page. Design is the Scottish saltire in Pantone 300 (#005EB8).
 - Live domain: the site is served at https://siliconglen.com with an empty baseurl. The site-wide noindex/nofollow directive has been removed; individual redirect stubs keep their own.
 - Analytics: Umami Cloud (cookieless) is loaded from the shared page head and runs only on siliconglen.com and www.siliconglen.com. No cookie banner is used. Any change to analytics needs a fresh check of UK cookie rules.
 - Structured data: the homepage carries one JSON-LD block (Person, Organization, WebSite) in the head. It must match visible content and must not include dates of birth, qualification dates, a home address or any current employer.
