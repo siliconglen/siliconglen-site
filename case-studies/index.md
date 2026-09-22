@@ -22,7 +22,7 @@ Craig approaches complex client work methodically, with a consistent focus on me
 A Southwark Council digital transformation brought a substantial network of organisations and people together to improve the council's website, publishing capability and online services.
 
 #### Difficulty
-The delivery environment included **13 third-party suppliers**, **approximately 150 Southwark staff involved at different stages across the programme's delivery** and **five teams within delivery partner Vangent**, all requiring coordination around one programme.
+The delivery environment brought together 13 third-party suppliers, five teams within delivery partner Vangent (including one overseas) and the programme delivery board, comprising approximately **150 people across the delivery group**, all requiring coordination around one programme.
 
 #### Craig's role
 Craig worked as Programme Manager, coordinating the participating suppliers, Vangent teams and Southwark staff around programme delivery.
@@ -30,7 +30,7 @@ Craig worked as Programme Manager, coordinating the participating suppliers, Van
 #### Approach
 **Approach.** The work brought the participating suppliers and people together.
 
-**Capability.** Two distinct groups supported the transformation. The **delivery group** comprised approximately **150 Southwark staff** involved at different stages of programme delivery. The **operational group** comprised more than **150 web authors**, who were trained to run the site day-to-day after go-live. Some people may have belonged to both groups, but each group had a different purpose. Training the web authors made the council self-sufficient on the new CMS; previously, it had paid a supplier upward of **£15,000 per change**.
+**Capability.** Two distinct groups supported the transformation. The **delivery group** comprised approximately **150 people**, across five Vangent teams (including one overseas), 13 third-party suppliers and the programme delivery board. The **operational group** comprised more than **150 web authors**, trained to run the site day-to-day after go-live. Some people may have belonged to both groups, but each group had a different purpose. Training the web authors made the council self-sufficient on the new CMS; previously, it had paid a supplier upward of **£15,000 per change**.
 
 **Measurement.** Governance ran through weekly team meetings, a fortnightly Programme Board and monthly Executive reviews, stepping up to weekly Executive reviews ahead of go-live. Independent audience research by Synovate, a market research firm later acquired by Ipsos, comprised **25 assisted user sessions ("surfs")** and **four focus groups of 10 residents**, conducted over **three research phases** and including eye-tracking analysis of the final site design. This research provided the basis for the finding that **90% of respondents** said the redesign made them more likely to use the site.
 

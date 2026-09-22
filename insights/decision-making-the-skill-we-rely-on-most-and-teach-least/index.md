@@ -28,5 +28,3 @@ You are not alone in finding this hard. Even company directors, the people makin
 This is the same discipline used by boards, public sector bodies and military organisations worldwide, applied to a real decision, not one made on instinct or under pressure to be seen to decide quickly.
 
 I have delivered Red Team Thinking® facilitation in the UK, [Romania](https://www.youtube.com/watch?v=_NeHGCgzqN4), India and Malta.
-
-Get in touch now: [Contact me](https://siliconglen.com/contact/)
