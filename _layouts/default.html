@@ -14,6 +14,46 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@700;800&amp;display=swap">
     <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
     <script defer src="https://cloud.umami.is/script.js" data-website-id="af359a4b-f40e-4f05-8d9c-3f469f90b751" data-domains="siliconglen.com,www.siliconglen.com"></script>
+    {% if page.url == '/' %}
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Person",
+          "@id": "https://siliconglen.com/#craig-cockburn",
+          "name": "Craig Cockburn",
+          "url": "https://siliconglen.com/",
+          "image": "https://siliconglen.com/assets/images/home/craig-cockburn-headshot.jpg",
+          "jobTitle": "Think. Decide. Deliver. Improve. | Critical Thinking & Red Team Thinking® | Agile Transformation | Programme & Project Delivery",
+          "description": "Think. Decide. Deliver. Improve. I help leaders and organisations challenge assumptions, make better decisions and turn those decisions into results. My work brings together Critical Thinking, Red Team Thinking®, Agile transformation and programme & project delivery. Better thinking is valuable, but only if it leads to better decisions, and better decisions only create value when organisations can deliver on them.",
+          "email": "mailto:craig@siliconglen.com",
+          "worksFor": { "@id": "https://siliconglen.com/#organization" },
+          "knowsAbout": ["Critical thinking", "Red Team Thinking®", "Programme and project delivery", "Agile", "Business agility"],
+          "sameAs": [
+            "https://www.linkedin.com/in/siliconglen/",
+            "https://www.youtube.com/@siliconglen",
+            "https://www.thinkers360.com/tl/profiles/view/8985"
+          ]
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://siliconglen.com/#organization",
+          "name": "Siliconglen",
+          "legalName": "Siliconglen Ltd",
+          "url": "https://siliconglen.com/"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://siliconglen.com/#website",
+          "url": "https://siliconglen.com/",
+          "name": "Siliconglen",
+          "publisher": { "@id": "https://siliconglen.com/#organization" }
+        }
+      ]
+    }
+    </script>
+    {% endif %}
   </head>
   <body>
     {% include header.html %}

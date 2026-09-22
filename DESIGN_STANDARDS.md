@@ -141,4 +141,5 @@ is authorised to change and why.
 ## Process rule
 - Live domain: the site is served at https://siliconglen.com with an empty baseurl. The site-wide noindex/nofollow directive has been removed; individual redirect stubs keep their own.
 - Analytics: Umami Cloud (cookieless) is loaded from the shared page head and runs only on siliconglen.com and www.siliconglen.com. No cookie banner is used. Any change to analytics needs a fresh check of UK cookie rules.
+- Structured data: the homepage carries one JSON-LD block (Person, Organization, WebSite) in the head. It must match visible content and must not include dates of birth, qualification dates, a home address or any current employer.
 Every future Codex task prompt must begin by reading this file, and its final report must state explicitly, for each item above, whether it verified compliance or made a change to it (with the requesting task's explicit authorisation quoted).
