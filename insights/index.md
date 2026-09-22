@@ -7,6 +7,14 @@ description: "Longer-form articles and insights from Craig Cockburn."
 permalink: /insights/
 ---
 
+## Decision Making: The Skill We Rely On Most and Teach Least
+
+<p class="publication-date">First published on 22 September 2026.</p>
+
+Why decision making is the most important skill you're never taught, and how a structured approach changes the outcome.
+
+[Read Decision Making: The Skill We Rely On Most and Teach Least]({{ '/insights/decision-making-the-skill-we-rely-on-most-and-teach-least/' | relative_url }})
+
 ## How critical thinking uncovered an error in “Thinking, Fast and Slow”
 
 <p class="publication-date">First published in April 2025.</p>
