@@ -21,6 +21,7 @@ I help leaders slow the thinking down where it matters without slowing the work 
 A consultant sells you their answer. I don't bring the experience of your problem, you do. I bring the method for analysing it, so you reach a better answer of your own, and reach it faster. [Read more about why decision making is the skill we rely on most and teach least →](/insights/decision-making-the-skill-we-rely-on-most-and-teach-least/)
 
 This is practical critical thinking for live organisational work, not an abstract exercise. A sound decision should move into delivery, be tested in practice and improve as new evidence emerges. When AI is involved, I treat its output as a hypothesis to test rather than an answer to adopt; [my AI approach explains why]({{ '/ai/#the-verification-loop' | relative_url }}).
+
     </div>
     <figure class="prose-media__figure">
       <img src="{{ '/assets/images/critical-thinking/critical-thinking-malta.jpg' | relative_url }}" alt="Craig Cockburn delivering a Red Team Thinking critical thinking workshop in Malta" loading="lazy">
