@@ -39,7 +39,7 @@ I first presented it at Agile Tour London in October 2020, then at Agile Lithuan
 
 <figure class="knowledge-canvas-example">
   <img src="{{ '/assets/images/speaking/wolfgang-hilpert-knowledge-canvas-example.png' | relative_url }}" alt="Knowledge Canvas diagram created by Wolfgang Hilpert for his talk with Simon Powers" loading="lazy">
-  <figcaption>Wolfgang's own application of the method, from his and Simon Powers's talk.</figcaption>
+  <figcaption>Wolfgang's own application of the method, from the talk he gave with Simon Powers.</figcaption>
 </figure>
 
 ## Strategy Maps: connect your roadmaps to the bigger picture {#strategy-maps-agile-india-2022}
