@@ -199,14 +199,15 @@ h3 { margin: 0 0 .5rem; font-size: 1.25rem; }
 }
 .knowledge-canvas-example { max-width: 32rem; margin: 2rem auto; }
 .knowledge-canvas-example img { display: block; }
-.prose-media { display: grid; grid-template-columns: minmax(0, 1.5fr) minmax(16rem, 1fr); gap: 2.5rem; align-items: start; }
-.prose-media__text h2 { margin: 0 0 1rem; }
+.prose-media > h2 { margin: 0 0 1rem; }
+.prose-media__body { display: grid; grid-template-columns: minmax(0, 1.5fr) minmax(16rem, 1fr); gap: 2.5rem; align-items: start; }
 .prose-media__text p { max-width: var(--measure); }
+.prose-media__text p:first-child { margin-top: 0; }
 .prose-media__figure { width: 100%; max-width: 30rem; margin: 0; justify-self: end; }
 .prose-media__figure img { display: block; width: 100%; height: auto; }
 .prose-media__figure figcaption { margin-top: .5rem; color: var(--muted); font-size: .8rem; text-align: center; }
 @media (max-width: 60rem) {
-  .prose-media { grid-template-columns: 1fr; }
+  .prose-media__body { grid-template-columns: 1fr; }
   .prose-media__figure { max-width: var(--measure); justify-self: start; }
 }
 @media (max-width: 32rem) {
