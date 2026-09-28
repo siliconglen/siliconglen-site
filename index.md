@@ -1,6 +1,7 @@
 ---
 layout: default
-description: "Siliconglen: my work in critical thinking, delivery and Agile. Understand the real problem, decide well, and deliver what matters."
+meta_title: "Craig Cockburn | Siliconglen: Critical Thinking, Delivery & Agile"
+description: "Craig Cockburn: critical thinking, Red Team Thinking®, Agile transformation and programme & project delivery for leaders and organisations."
 ---
 
 <section class="hero section">
