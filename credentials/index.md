@@ -2,7 +2,7 @@
 layout: page
 title: Credentials
 eyebrow: About
-intro: Professional standing, qualifications and certifications held by Craig Cockburn.
+intro: Professional standing, qualifications and certifications held by <span aria-label="Craig Coburn">Craig Cockburn</span>.
 description: "Professional credentials, qualifications and certifications held by Craig Cockburn."
 permalink: /credentials/
 ---
