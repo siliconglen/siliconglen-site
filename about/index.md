@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About Craig Cockburn
+pronunciation: ' (pronounced "Coburn")'
 eyebrow: Siliconglen
 intro: Extensive experience connecting critical thinking, complex delivery, organisational improvement and AI.
 description: "About Craig Cockburn and Siliconglen: critical thinking, delivery and Agile focused on clearer decisions and useful outcomes."

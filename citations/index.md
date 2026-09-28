@@ -9,7 +9,7 @@ permalink: /citations/
 
 ## Thinkers360 (June 2026) {#thinkers360-june-2026}
 
-In June 2026, <a href="https://www.thinkers360.com/tl/profiles/view/8985" target="_blank" rel="noopener noreferrer">Thinkers360</a> listed Craig Cockburn as a Top 50 Thought Leader in Agile, a Top 100 Thought Leader in Behavioral Science and a Top 50 Thought Leader in Product Management.
+In June 2026, <a href="https://www.thinkers360.com/tl/profiles/view/8985" target="_blank" rel="noopener noreferrer">Thinkers360</a> listed <span aria-label="Craig Coburn">Craig Cockburn</span> as a Top 50 Thought Leader in Agile, a Top 100 Thought Leader in Behavioral Science and a Top 50 Thought Leader in Product Management.
 
 ## BCS Neurodiverse IT Specialist Group (2022–2024) {#bcs-neurodiverse-it-specialist-group-2022-2024}
 
