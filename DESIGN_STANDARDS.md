@@ -139,6 +139,7 @@ is authorised to change and why.
 - Every page must meet WCAG 2.2 Level AA at minimum, including but not limited to: colour contrast of at least 4.5:1 for normal text and 3:1 for large text and UI components; full keyboard navigability with visible, unobscured focus states; semantic heading structure and landmarks; a skip-to-content link; correct alt text on all images; accessible form labels and error messages; and support for 200% zoom/reflow and reduced-motion preferences.
 - Every page's HTML must validate with zero errors against the W3C Nu HTML Checker (or equivalent validator). Warnings should be minimised but are not blocking; errors are never acceptable.
 - Any task that adds or changes markup must check its own output against both requirements before reporting success, and must report the specific check performed (not just "should be fine").
+- Technical: any raw HTML block (e.g. prose-media__figure) must start at column 0 with a blank line immediately before and after it, or kramdown will render the tags as literal text instead of parsing them as HTML.
 
 ## Process rule
 - Favicon: favicon.ico, apple-touch-icon.png and a 512x512 PNG icon at /assets/icons/ are referenced in the shared head on every page. Design is the Scottish saltire in Pantone 300 (#005EB8).
