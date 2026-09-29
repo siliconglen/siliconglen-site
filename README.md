@@ -1,6 +1,6 @@
 # Siliconglen site
 
-Jekyll source for siliconglen.com. Development deploys only to the temporary GitHub Pages URL; do not configure a custom domain or change DNS.
+Jekyll source for siliconglen.com. The site is live at [https://siliconglen.com](https://siliconglen.com), served via GitHub Pages with a custom domain configured. Changes merged to main deploy automatically via GitHub Actions.
 
 ## Local preview
 
