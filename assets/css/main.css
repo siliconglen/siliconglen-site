@@ -204,11 +204,13 @@ h3 { margin: 0 0 .5rem; font-size: 1.25rem; }
 .prose-media__text p { max-width: var(--measure); }
 .prose-media__text p:first-child { margin-top: 0; }
 .prose-media__figure { width: 100%; max-width: 30rem; margin: 0; justify-self: end; }
+.prose-media[aria-labelledby="one-key-skill-heading"] .prose-media__figure { margin-top: .8em; }
 .prose-media__figure img { display: block; width: 100%; height: auto; }
 .prose-media__figure figcaption { margin-top: .5rem; color: var(--muted); font-size: .8rem; text-align: center; }
 @media (max-width: 60rem) {
   .prose-media__body { grid-template-columns: 1fr; }
   .prose-media__figure { max-width: var(--measure); justify-self: start; }
+  .prose-media[aria-labelledby="one-key-skill-heading"] .prose-media__figure { margin-top: 0; }
 }
 @media (max-width: 32rem) {
   .form-actions .btn { width: 100%; justify-content: center; }
