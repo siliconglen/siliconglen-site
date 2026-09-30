@@ -1,12 +1,26 @@
 ---
-layout: page
+layout: default
 title: About Craig Cockburn
-pronunciation: ' (pronounced "Coburn")'
 eyebrow: Siliconglen
 intro: Extensive experience connecting critical thinking, complex delivery, organisational improvement and AI.
 description: "About Craig Cockburn and Siliconglen: critical thinking, delivery and Agile focused on clearer decisions and useful outcomes."
 permalink: /about/
 ---
+
+<header class="page-header">
+  <div class="wrapper">
+    <p class="eyebrow">{{ page.eyebrow }}</p>
+    <h1>{{ page.title }}</h1>
+    <p class="pronunciation">(pronounced "Coburn") <button class="pronunciation__button" type="button" aria-label="Play pronunciation of Craig Cockburn's name" aria-controls="name-pronunciation"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path class="pronunciation__speaker" d="M11 5 6.5 9H3v6h3.5l4.5 4V5Z"/><path d="M15 9.5a4 4 0 0 1 0 5"/><path d="M17.5 7a7.5 7.5 0 0 1 0 10"/></svg></button></p>
+    <audio id="name-pronunciation" preload="none">
+      <source src="/assets/audio/craig-cockburn-name.m4a" type="audio/mp4">
+      <source src="/assets/audio/craig-cockburn-name.mp3" type="audio/mpeg">
+    </audio>
+    <p class="lede">{{ page.intro }}</p>
+  </div>
+</header>
+
+<article class="wrapper prose" markdown="1">
 
 ## Understand the real problem before trying to solve it {#understand-the-real-problem}
 
@@ -39,3 +53,19 @@ I'm a Chartered Engineer and Chartered IT Professional Fellow (British Computer 
 If you have a decision, programme or organisational problem worth thinking through properly, describe it and the outcome you need.
 
 <p class="section__cta">Get in touch now: <a class="btn btn--primary" href="{{ '/contact/' | relative_url }}">Contact me</a></p>
+
+</article>
+
+<script>
+  (function () {
+    var button = document.querySelector('.pronunciation__button');
+    var audio = document.getElementById('name-pronunciation');
+
+    if (!button || !audio) return;
+
+    button.addEventListener('click', function () {
+      audio.currentTime = 0;
+      audio.play();
+    });
+  }());
+</script>
