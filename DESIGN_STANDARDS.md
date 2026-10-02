@@ -63,6 +63,12 @@ is authorised to change and why.
 - Every external link added to the site must be checked before publication using an actual request that confirms the destination responds, not merely by judging whether its URL looks plausible.
 - Broken or dead external links must not be published. Replace one with a verified working URL where possible; otherwise retain the reference as plain text without a hyperlink.
 
+## SEO metadata
+- Every page has a self-referencing canonical and Open Graph tags from the shared layout; redirect stubs keep their own canonical only.
+- Page `<title>` comes from `meta_title` when set, otherwise "Title · Siliconglen". Keep titles to about 60 characters and descriptions to about 160.
+- Keyword owner pages use one page per search term, never two: agile coach Scotland = `/work-with-me/agile-coaching/`; critical thinking Scotland and critical thinking trainer UK = `/critical-thinking/`; agile delivery specialist UK = `/delivery/`; red team thinking UK = `/work-with-me/red-team-thinking/`. Business Agility targets business agility and Agile transformation and links to Agile Coaching rather than competing with it.
+- Location wording: based in Scotland, preference for Europe, available internationally. Do not name specific countries for international work unless Craig supplies a dated example.
+
 ## Insights
 - Every full-article Insights page must reference its original publication date near the top of the page. This is the date on which it was first published on LinkedIn or Medium, not the date on which it was migrated to this site.
 - The `/insights/` index page must display every entry's original publication date and list all entries most-recent-first. This applies automatically to every Insights article added in future batches.

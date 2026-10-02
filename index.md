@@ -1,7 +1,7 @@
 ---
 layout: default
-meta_title: "Craig Cockburn | Siliconglen: Critical Thinking, Delivery & Agile"
-description: "Craig Cockburn: critical thinking, Red Team Thinking®, Agile transformation and programme & project delivery for leaders and organisations."
+meta_title: "Craig Cockburn | Critical Thinking & Agile Coach, Scotland"
+description: "Scotland-based critical thinking trainer, agile coach and delivery specialist, working across the UK, Europe and internationally."
 ---
 
 <section class="hero section">
@@ -9,7 +9,7 @@ description: "Craig Cockburn: critical thinking, Red Team Thinking®, Agile tran
     <div>
       <p class="section-eyebrow">Critical Thinking · Delivery · Agile</p>
       <h1>Think clearer.<br>Decide better.<br>Deliver what matters.</h1>
-      <p class="lede">I'm <span aria-label="Craig Coburn">Craig Cockburn</span>. I help leaders think more clearly, decide with confidence, and deliver complex change by combining structured challenge with hands-on delivery.</p>
+      <p class="lede">I'm <span aria-label="Craig Coburn">Craig Cockburn</span>. Based in Scotland, I work with organisations across Europe and internationally, helping leaders think more clearly, decide with confidence, and deliver complex change by combining structured challenge with hands-on delivery.</p>
       <p class="lede">For more than 20 years, I have helped organisations turn difficult decisions into working outcomes. My work spans programme and project delivery, coaching leaders and delivery teams, turning around troubled work, and building lasting Agile capability. I now also apply strategy, critical thinking and Red Team Thinking&reg; to help teams expose assumptions before they become expensive problems.</p>
       <div class="tag-row">
         <a class="tag" href="{{ '/critical-thinking/' | relative_url }}">Critical Thinking</a>
