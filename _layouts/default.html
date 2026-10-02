@@ -3,6 +3,21 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    {% if page.url == "/404.html" %}
+    <meta name="robots" content="noindex">
+    <script>
+    (function () {
+      var prefixes = ["/Scotland/", "/scotland/", "/scotfaq/", "/celtfaq/", "/news/", "/software/", "/usability/", "/craig/"];
+      var p = window.location.pathname;
+      for (var i = 0; i < prefixes.length; i++) {
+        if (p.indexOf(prefixes[i]) === 0) {
+          window.location.replace("https://www.siliconglen.scot" + p + window.location.search + window.location.hash);
+          return;
+        }
+      }
+    })();
+    </script>
+    {% endif %}
     {% capture seo_title %}{% if page.meta_title %}{{ page.meta_title }}{% else %}{% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}{% endif %}{% endcapture %}
     {% assign seo_description = page.description | default: site.description %}
     <title>{{ seo_title }}</title>
@@ -10,7 +25,7 @@
     <link rel="icon" href="{{ '/favicon.ico' | relative_url }}" sizes="any">
     <link rel="icon" type="image/png" href="{{ '/assets/icons/siliconglen-icon-512.png' | relative_url }}" sizes="512x512">
     <link rel="apple-touch-icon" href="{{ '/apple-touch-icon.png' | relative_url }}">
-    {% unless page.redirect_to %}
+    {% unless page.redirect_to or page.url == "/404.html" %}
     <link rel="canonical" href="{{ page.url | absolute_url }}">
     <meta property="og:site_name" content="Siliconglen">
     <meta property="og:locale" content="en_GB">

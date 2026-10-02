@@ -70,6 +70,11 @@ is authorised to change and why.
 - Location wording: based in Scotland, preference for Europe, available internationally. Service page intros and descriptions state UK, Europe and international reach ("internationally" or "beyond"); never limit them to the UK and Europe only. Do not name specific countries for international work unless Craig supplies a dated example.
 - Core skills group: wherever the core offer is summarised (homepage title and description, service page intros, About and Case Studies intros, and any future summary line), name all three skills together: agile coaching, programme and project delivery, and critical thinking, in that order unless the page's own topic leads. Never drop one of the three, and write delivery as "programme and project delivery" when it is spelled out. Single-topic keyword titles on the owner pages are exempt.
 
+## 404 and legacy redirects
+- `/404.html` is a plain "Page not found" page: noindex, excluded from the sitemap, no canonical or Open Graph tags.
+- A head script on the 404 page only forwards these legacy path prefixes to the same path on https://www.siliconglen.scot: `/Scotland/`, `/scotland/`, `/scotfaq/`, `/celtfaq/`, `/news/`, `/software/`, `/usability/`, `/craig/`. `/jokes/` and `/advertise/` are deliberately excluded. Add or remove prefixes only on Craig's instruction.
+- This replaces the earlier "plain 404 only, no redirect logic" decision.
+
 ## Insights
 - Every full-article Insights page must reference its original publication date near the top of the page. This is the date on which it was first published on LinkedIn or Medium, not the date on which it was migrated to this site.
 - The `/insights/` index page must display every entry's original publication date and list all entries most-recent-first. This applies automatically to every Insights article added in future batches.
