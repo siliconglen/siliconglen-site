@@ -2,7 +2,7 @@
 layout: default
 title: About Craig Cockburn
 eyebrow: Siliconglen
-intro: Extensive experience connecting critical thinking, complex delivery, organisational improvement and AI.
+intro: "Extensive experience connecting agile coaching, programme and project delivery, critical thinking and AI."
 description: "About Craig Cockburn and Siliconglen: critical thinking, delivery and Agile focused on clearer decisions and useful outcomes."
 permalink: /about/
 ---

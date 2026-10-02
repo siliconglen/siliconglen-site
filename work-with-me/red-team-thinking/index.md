@@ -3,8 +3,8 @@ layout: page
 title: Red Team Thinking® Training
 meta_title: "Red Team Thinking® Training, UK | Craig Cockburn"
 eyebrow: Work with me
-intro: "A structured critical thinking programme, delivered across the UK and Europe, that helps leadership teams challenge assumptions and make stronger, more resilient decisions."
-description: "Red Team Thinking® training in the UK and Europe from a Certified Red Team Coach™. Structured tools for leadership teams to expose blind spots and decide better."
+intro: "A structured critical thinking programme, delivered across the UK, Europe and internationally, that helps leadership teams challenge assumptions and make stronger, more resilient decisions."
+description: "Red Team Thinking® training from a Certified Red Team Coach™, for the UK, Europe and beyond: structured tools to expose blind spots and decide better."
 permalink: /work-with-me/red-team-thinking/
 ---
 

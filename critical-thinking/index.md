@@ -3,8 +3,8 @@ layout: page
 title: Critical Thinking
 meta_title: "Critical Thinking Trainer, Scotland & UK | Craig Cockburn"
 eyebrow: Decision support
-intro: "Critical thinking training and decision support for leaders and teams in Scotland, across the UK and Europe: challenge assumptions, examine evidence and make decisions you can explain and act on."
-description: "Critical thinking training and decision support in Scotland, the UK and Europe. Practical methods to challenge assumptions, test evidence and decide better."
+intro: "Critical thinking training and decision support for leaders and teams in Scotland, across the UK, Europe and internationally. I combine it with agile coaching and programme and project delivery, so better decisions turn into delivered outcomes."
+description: "Critical thinking training and decision support from Scotland, for the UK, Europe and beyond. Practical methods to challenge assumptions and decide better."
 permalink: /critical-thinking/
 ---
 
