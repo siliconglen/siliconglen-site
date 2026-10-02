@@ -3,11 +3,24 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>{% if page.meta_title %}{{ page.meta_title }}{% else %}{% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}{% endif %}</title>
-    <meta name="description" content="{{ page.description | default: site.description | escape }}">
+    {% capture seo_title %}{% if page.meta_title %}{{ page.meta_title }}{% else %}{% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}{% endif %}{% endcapture %}
+    {% assign seo_description = page.description | default: site.description %}
+    <title>{{ seo_title }}</title>
+    <meta name="description" content="{{ seo_description | escape }}">
     <link rel="icon" href="{{ '/favicon.ico' | relative_url }}" sizes="any">
     <link rel="icon" type="image/png" href="{{ '/assets/icons/siliconglen-icon-512.png' | relative_url }}" sizes="512x512">
     <link rel="apple-touch-icon" href="{{ '/apple-touch-icon.png' | relative_url }}">
+    {% unless page.redirect_to %}
+    <link rel="canonical" href="{{ page.url | absolute_url }}">
+    <meta property="og:site_name" content="Siliconglen">
+    <meta property="og:locale" content="en_GB">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="{{ seo_title | escape }}">
+    <meta property="og:description" content="{{ seo_description | escape }}">
+    <meta property="og:url" content="{{ page.url | absolute_url | escape }}">
+    <meta property="og:image" content="https://siliconglen.com/assets/images/home/craig-cockburn-headshot.jpg">
+    <meta property="og:image:alt" content="Craig Cockburn">
+    {% endunless %}
     {% if page.redirect_to %}
     <meta http-equiv="refresh" content="0; url={{ page.redirect_to | relative_url }}">
     <link rel="canonical" href="{{ page.redirect_to | absolute_url }}">
@@ -28,12 +41,12 @@
           "name": "Craig Cockburn",
           "url": "https://siliconglen.com/",
           "image": "https://siliconglen.com/assets/images/home/craig-cockburn-headshot.jpg",
-          "jobTitle": "Think. Decide. Deliver. Improve. | Critical Thinking & Red Team Thinking® | Agile Transformation | Programme & Project Delivery",
+          "jobTitle": "Critical thinking trainer, agile coach and delivery specialist",
           "description": "Think. Decide. Deliver. Improve. I help leaders and organisations challenge assumptions, make better decisions and turn those decisions into results. My work brings together Critical Thinking, Red Team Thinking®, Agile transformation and programme & project delivery. Better thinking is valuable, but only if it leads to better decisions, and better decisions only create value when organisations can deliver on them.",
           "email": "mailto:craig@siliconglen.com",
           "worksFor": { "@id": "https://siliconglen.com/#organization" },
           "knowsAbout": ["Critical thinking", "Red Team Thinking®", "Programme and project delivery", "Agile", "Business agility"],
-          "areaServed": ["United Kingdom", "European Union", "Global"],
+          "areaServed": ["Scotland", "United Kingdom", "Europe", "Worldwide"],
           "sameAs": [
             "https://www.linkedin.com/in/siliconglen/",
             "https://www.youtube.com/@siliconglen",
@@ -52,6 +65,7 @@
           "@id": "https://siliconglen.com/#website",
           "url": "https://siliconglen.com/",
           "name": "Siliconglen",
+          "alternateName": ["Siliconglen Ltd", "siliconglen.com"],
           "publisher": { "@id": "https://siliconglen.com/#organization" }
         }
       ]

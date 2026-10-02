@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Business Agility
+meta_title: "Business Agility & Agile Transformation | Craig Cockburn"
 eyebrow: What I've done
 intro: Over 12 years embedding scaled agile delivery across regulated, high-stakes environments.
 description: "My approach to business agility, scaled coaching and sustainable organisational improvement."
@@ -10,6 +11,8 @@ permalink: /business-agility/
 ## Agility that survives regulation and scale
 
 I help organisations make adaptive delivery work under real regulatory, operational and organisational constraints.
+
+I also offer [agile coaching in Scotland and the UK]({{ '/work-with-me/agile-coaching/' | relative_url }}) for teams and leaders who want hands-on support.
 
 My client work includes building sustainable capability at [Admiral]({{ '/case-studies/#enterprise-agile-coach-admiral-group-plc' | relative_url }}) and supporting remote scale at [BT]({{ '/case-studies/#enterprise-agile-coach-bt-mobile-tribe' | relative_url }}). I have also led and supported organisational change at [Kuberno, AIB and Jaguar Land Rover]({{ '/about/#career' | relative_url }}).
 
