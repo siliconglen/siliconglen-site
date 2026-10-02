@@ -2,7 +2,7 @@
 layout: page
 title: Case Studies
 eyebrow: Evidence, not claims
-intro: Selected outcomes showing how critical thinking, delivery and improvement connect in practice.
+intro: "Selected outcomes showing how agile coaching, programme and project delivery, and critical thinking connect in practice."
 description: "Siliconglen case studies: evidence from government delivery, business agility, complex supplier coordination and AI-assisted publishing."
 permalink: /case-studies/
 prose_class: prose--case-studies

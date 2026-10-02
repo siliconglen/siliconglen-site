@@ -3,8 +3,8 @@ layout: page
 title: Delivery
 meta_title: "Agile Delivery Specialist, UK | Craig Cockburn"
 eyebrow: What I've done
-intro: "Agile, programme and project delivery proven across UK public service, banking, insurance and manufacturing."
-description: "Agile and programme delivery specialist: programme rescue, transformation and hands-on delivery across UK public service, banking, insurance and manufacturing."
+intro: "Agile, programme and project delivery proven across UK public service, banking, insurance and manufacturing. I combine delivery with agile coaching and critical thinking, so decisions are sound before they are delivered."
+description: "Agile delivery specialist: programme and project delivery, rescue and transformation across UK public service, banking, insurance and manufacturing."
 permalink: /delivery/
 ---
 

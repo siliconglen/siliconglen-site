@@ -3,8 +3,8 @@ layout: page
 title: Agile Coaching
 meta_title: "Agile Coach, Scotland & UK | Craig Cockburn"
 eyebrow: Work with me
-intro: "I'm an agile coach based in Scotland, working with teams and leaders across the UK and Europe to improve delivery through adaptive practice, faster feedback and organisational learning."
-description: "Agile coach based in Scotland, working with teams and leaders across the UK and Europe to improve delivery, feedback and organisational learning."
+intro: "I'm an agile coach based in Scotland, working with teams and leaders across the UK, Europe and internationally. I combine agile coaching with programme and project delivery and critical thinking, so improvement leads to sound decisions and delivered outcomes."
+description: "Agile coach based in Scotland, working with teams and leaders across the UK, Europe and internationally to improve delivery and organisational learning."
 permalink: /work-with-me/agile-coaching/
 ---
 

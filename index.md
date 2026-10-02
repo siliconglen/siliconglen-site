@@ -1,7 +1,7 @@
 ---
 layout: default
-meta_title: "Craig Cockburn | Critical Thinking & Agile Coach, Scotland"
-description: "Scotland-based critical thinking trainer, agile coach and delivery specialist, working across the UK, Europe and internationally."
+meta_title: "Craig Cockburn | Agile Coaching, Delivery & Critical Thinking"
+description: "Scotland-based agile coach, programme and project delivery specialist and critical thinking trainer, working across the UK, Europe and internationally."
 ---
 
 <section class="hero section">
