@@ -72,7 +72,7 @@ is authorised to change and why.
 
 ## 404 and legacy redirects
 - `/404.html` is a plain "Page not found" page: noindex, excluded from the sitemap, no canonical or Open Graph tags.
-- A head script on the 404 page only forwards these legacy path prefixes to the same path on https://www.siliconglen.scot: `/Scotland/`, `/scotland/`, `/scotfaq/`, `/celtfaq/`, `/news/`, `/software/`, `/usability/`, `/craig/`. `/jokes/` and `/advertise/` are deliberately excluded. Add or remove prefixes only on Craig's instruction.
+- A head script on the 404 page forwards every missing path to the same path on https://www.siliconglen.scot (query string and fragment preserved), EXCEPT paths that start with one of the new site's own sections: /about/, /ai/, /articles/, /assets/, /business-agility/, /case-studies/, /citations/, /contact/, /credentials/, /critical-thinking/, /delivery/, /insights/, /speaking/, /updates/, /work-with-me/. Missing paths inside those sections show the local 'Page not found' page. Whenever a new top-level section is added to this site, add its prefix to this list in the same PR.
 - This replaces the earlier "plain 404 only, no redirect logic" decision.
 
 ## Insights
