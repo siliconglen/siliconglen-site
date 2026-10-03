@@ -7,14 +7,13 @@
     <meta name="robots" content="noindex">
     <script>
     (function () {
-      var prefixes = ["/Scotland/", "/scotland/", "/scotfaq/", "/celtfaq/", "/news/", "/software/", "/usability/", "/craig/"];
+      var local = ["/about/", "/ai/", "/articles/", "/assets/", "/business-agility/", "/case-studies/", "/citations/", "/contact/", "/credentials/", "/critical-thinking/", "/delivery/", "/insights/", "/speaking/", "/updates/", "/work-with-me/"];
       var p = window.location.pathname;
-      for (var i = 0; i < prefixes.length; i++) {
-        if (p.indexOf(prefixes[i]) === 0) {
-          window.location.replace("https://www.siliconglen.scot" + p + window.location.search + window.location.hash);
-          return;
-        }
+      if (p === "/" || p === "/404.html") { return; }
+      for (var i = 0; i < local.length; i++) {
+        if (p.indexOf(local[i]) === 0) { return; }
       }
+      window.location.replace("https://www.siliconglen.scot" + p + window.location.search + window.location.hash);
     })();
     </script>
     {% endif %}
