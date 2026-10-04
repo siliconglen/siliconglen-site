@@ -24,6 +24,12 @@ My [critical thinking, Agile and delivery credentials]({{ '/credentials/#critica
 >
 > <a href="https://www.linkedin.com/in/siliconglen/details/recommendations/" target="_blank" rel="noopener noreferrer">Read the full recommendation on LinkedIn</a>
 
+> "Craig's passion for, and deep understanding of, Agile are clear. He is exacting in detail and enthusiastic to get the best out of an agile approach. I look forward to working with Craig in the future."
+>
+> — Thomas Martin Leonard, Agile Coach, Emergn (2011)
+>
+> <a href="https://www.linkedin.com/in/siliconglen/details/recommendations/" target="_blank" rel="noopener noreferrer">Read the full recommendation on LinkedIn</a>
+
 ## Build capability that lasts
 
 If your organisation needs adaptive delivery that improves outcomes rather than merely installs a framework, [explore Agile Coaching]({{ '/work-with-me/agile-coaching/' | relative_url }}).

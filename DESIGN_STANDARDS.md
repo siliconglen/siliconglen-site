@@ -110,6 +110,8 @@ jamesstamford.com is no longer a reference site and must not be used in audits.
 - Testimonial attributions give the person's role at the time of the assignment, with years, as supplied by Craig, not their current title.
 - Testimonials outside the homepage link to https://www.linkedin.com/in/siliconglen/details/recommendations/ with the text 'Read the full recommendation on LinkedIn'.
 - A bare name beside a quote carries no credibility and must not be published. If the role or title cannot be determined from the original source, flag the quote for resolution rather than guessing or publishing it with only a name.
+- Testimonials use the recommender's own words. Obvious spelling and typing errors (misspellings, doubled words, stray punctuation) may be corrected; wording and meaning must never be changed.
+- A shortened excerpt may be used only where the full testimonial is available on this site or on LinkedIn, and the excerpt links to it.
 
 ## Content ownership
 - Every recurring fact, story or credential has exactly one canonical owner page containing the full detail. Every other page that references it must use a short one- or two-sentence summary and link to the precise owned entry; it must neither repeat the full detail nor simply delete the fact.

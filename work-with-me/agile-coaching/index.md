@@ -33,9 +33,15 @@ Engagements range from a short diagnostic and coaching plan to regular coaching 
 
 ## Capability, not framework dependence
 
-The [Admiral case study]({{ '/case-studies/#enterprise-agile-coach-admiral-group-plc' | relative_url }}) shows how I built capability designed to last beyond the engagement. I also embedded agile ways of working across [Jaguar Land Rover's manufacturing plants]({{ '/about/#career' | relative_url }}).
+The [Admiral case study]({{ '/case-studies/#enterprise-agile-coach-admiral-group-plc' | relative_url }}) shows how I built capability designed to last beyond the engagement, with over 500 people trained across five course tracks. I also embedded agile ways of working across [Jaguar Land Rover's manufacturing plants]({{ '/about/#career' | relative_url }}).
 
 The [BT Mobile Tribe case study]({{ '/case-studies/#enterprise-agile-coach-bt-mobile-tribe' | relative_url }}) shows how the same outcome-led approach supported a tribe as it grew from four to twelve squads entirely remotely.
+
+> "Craig is a hugely knowledgeable, considered and empathetic coach. Has a great grasp of market forces for any org he works with, builds rapport with teams and senior leaders alike. I really enjoyed working with him."
+>
+> — James Scrimshire, Lead Agile Coach, JLR (2025); formerly Head of Delivery Capability and Agile CoE, Direct Line Group
+>
+> <a href="https://www.linkedin.com/in/siliconglen/details/recommendations/" target="_blank" rel="noopener noreferrer">Read the full recommendation on LinkedIn</a>
 
 ## When this is useful
 

@@ -32,9 +32,15 @@ If you need hands-on leadership for a struggling programme, multi-supplier chang
 >
 > <a href="https://www.linkedin.com/in/siliconglen/details/recommendations/" target="_blank" rel="noopener noreferrer">Read the full recommendation on LinkedIn</a>
 
-> "Craig was a dedicated and conscientious Project Manager at HMH. Craig built up strong and effective working relationships with goegraphically dispersed Vendors and team members, working long hours to cover multiple timezones where required. I would have no hesitation recommending Craig to any potential emlpoyer."
+> "Craig was a dedicated and conscientious Project Manager at HMH. Craig built up strong and effective working relationships with geographically dispersed vendors and team members, working long hours to cover multiple timezones where required. I would have no hesitation recommending Craig to any potential employer."
 >
 > — Fiona Malone, Project Manager, Houghton Mifflin Harcourt (2009–2010)
+>
+> <a href="https://www.linkedin.com/in/siliconglen/details/recommendations/" target="_blank" rel="noopener noreferrer">Read the full recommendation on LinkedIn</a>
+
+> "I found Craig to be a dedicated, knowledgeable and imaginative professional who is passionate about quality. He manages change well, is able to present creative solutions to complex problems and is committed to getting the job done."
+>
+> — Ken Blair, Applications Team Lead, VisitScotland.com (2001–2006)
 >
 > <a href="https://www.linkedin.com/in/siliconglen/details/recommendations/" target="_blank" rel="noopener noreferrer">Read the full recommendation on LinkedIn</a>
 

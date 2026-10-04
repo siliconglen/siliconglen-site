@@ -133,12 +133,12 @@ description: "Scotland-based agile coach, programme and project delivery special
         <p><a href="{{ '/case-studies/#enterprise-agile-coach-bt-mobile-tribe' | relative_url }}">Read the full recommendation</a></p>
       </figure>
       <figure class="card testimonial">
-        <blockquote>"Craig and I started working together under extremely pressurised circumstance bringing together digital engagement content on to a web platform. All under intense ministerial scrutiny. Craig brought trustworthy technical insight about the platform and fully understood the content side of the equation. He had a level head when and good judgement on prioritising real requirements from 'helpful suuggestions'"</blockquote>
+        <blockquote>"Craig and I started working together under extremely pressurised circumstances bringing together digital engagement content on to a web platform. All under intense ministerial scrutiny. Craig brought trustworthy technical insight about the platform and fully understood the content side of the equation. He had a level head and good judgement on prioritising real requirements from 'helpful suggestions'"</blockquote>
         <figcaption><strong>Nick Jones</strong><br>Head of Digital, Prime Minister's Office and Cabinet Office (2011–2013)</figcaption>
         <p><a href="{{ '/case-studies/#government-spending-challenge' | relative_url }}">Read the full testimonial in the Government Spending Challenge case study</a></p>
       </figure>
       <figure class="card testimonial">
-        <blockquote>"Craig and I worked together for several years as part of the team developing the community bid for the dotScot Top Level Domain Name (gTLD), and we are now both on the board of the dotScot Registry. Negotiations for the dotScot gTLD were protracted so lots of patience has been needed along the way. Craig has a great eye for detail and and the determination to see projects through, as well as a deep knowledge of project governance, - a great person to have on your team!"</blockquote>
+        <blockquote>"Craig and I worked together for several years as part of the team developing the community bid for the dotScot Top Level Domain Name (gTLD), and we are now both on the board of the dotScot Registry. Negotiations for the dotScot gTLD were protracted so lots of patience has been needed along the way. Craig has a great eye for detail and the determination to see projects through, as well as a deep knowledge of project governance - a great person to have on your team!"</blockquote>
         <figcaption><strong>Polly Purvis OBE FRSE</strong><br>Chief Executive, ScotlandIS (2013–2019); Director, dotScot Registry (2014–2018)</figcaption>
         <p><a href="{{ '/citations/#recommendation-polly-purvis' | relative_url }}">Read the full recommendation</a></p>
       </figure>
