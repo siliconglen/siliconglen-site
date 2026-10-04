@@ -93,6 +93,7 @@ jamesstamford.com is no longer a reference site and must not be used in audits.
 
 ## Insights
 - Every full-article Insights page must reference its original publication date near the top of the page. This is the date on which it was first published on LinkedIn or Medium, not the date on which it was migrated to this site.
+- Every full-article Insights page sets published_date in its front matter as a quoted ISO date (YYYY-MM-DD, or YYYY-MM where only the month is known), matching its visible publication date. The shared head then outputs og:type article and article:published_time. All other pages output og:type website.
 - The `/insights/` index page must display every entry's original publication date and list all entries most-recent-first. This applies automatically to every Insights article added in future batches.
 - Store all Insights article imagery in `assets/images/insights/` so that future article images use one consistent location.
 - **Permanent academic-paper lock:** The page `/insights/critical-thinking-kahneman-correction/`, from its title through its References and Keywords, is a submitted, professor-approved academic paper. Codex must never alter its text again, under any circumstances. The only actions Codex may ever take on this page are (a) presentation or styling changes, including fonts, spacing, and layout, and (b) wrapping already-existing exact text in a hyperlink. Codex must not add, remove, reword, correct, normalise, or otherwise change any word of the paper.
@@ -106,6 +107,7 @@ jamesstamford.com is no longer a reference site and must not be used in audits.
 - Before publishing any new sentence, read it aloud test: does it parse as something a fluent English speaker would actually say? If not, rewrite it.
 
 ## Testimonial attribution
+- Testimonial attribution lines begin with an em dash (> — Name, Role, Organisation (years)). This is the only place an em dash may appear in visitor-facing text.
 - Every testimonial or quote attributed to a named person anywhere on the site must include that person's role or title and their company or organisation, unless confidentiality requires the company or organisation to be omitted.
 - Testimonial attributions give the person's role at the time of the assignment, with years, as supplied by Craig, not their current title.
 - Testimonials outside the homepage link to https://www.linkedin.com/in/siliconglen/details/recommendations/ with the text 'Read the full recommendation on LinkedIn'.
@@ -176,7 +178,7 @@ jamesstamford.com is no longer a reference site and must not be used in audits.
 ## Process rule
 - Favicon: favicon.ico, apple-touch-icon.png and a 512x512 PNG icon at /assets/icons/ are referenced in the shared head on every page. Design is the Scottish saltire in Pantone 300 (#005EB8).
 - Live domain: the site is served at https://siliconglen.com with an empty baseurl. The site-wide noindex/nofollow directive has been removed; individual redirect stubs keep their own.
-- Analytics: Umami Cloud (cookieless) is loaded from the shared page head and runs only on siliconglen.com and www.siliconglen.com. No cookie banner is used. Any change to analytics needs a fresh check of UK cookie rules.
+- Analytics: Umami Cloud (cookieless) is loaded from the shared page head and runs only on siliconglen.com and www.siliconglen.com. No cookie banner is used. assets/js/analytics-events.js sends four custom events: cta-click (page, button label, target path), email-click (page), outbound-click (page, destination host) and contact-form-submit (selected topic only). No personal data or form contents are sent, and no cookies or browser storage are used. Any change to analytics needs a fresh check of UK cookie rules.
 - Structured data: the homepage carries one JSON-LD block (Person, Organization, WebSite) in the head. It must match visible content and must not include dates of birth, qualification dates, a home address or any current employer.
-- Structured data: the homepage's JSON-LD Person object states areaServed as United Kingdom, European Union and Global.
+- Structured data: the homepage's JSON-LD Person object states areaServed as Scotland, United Kingdom, Europe and Worldwide, matching _layouts/default.html.
 Every future Codex task prompt must begin by reading this file, and its final report must state explicitly, for each item above, whether it verified compliance or made a change to it (with the requesting task's explicit authorisation quoted).

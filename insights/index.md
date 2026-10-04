@@ -51,6 +51,6 @@ I wrote this article in 2016 to argue that digital-by-default had been the sensi
 
 <p class="publication-date">First published on Medium on 3 March 2016.</p>
 
-I wrote this article in 2016 to examine why intermediary platforms such as Skyscanner, job boards and Autotrader still dominated search years after predictions of their disruption. It considers how search and discovery need to evolve—an argument that has become even more relevant with AI-driven search.
+I wrote this article in 2016 to examine why intermediary platforms such as Skyscanner, job boards and Autotrader still dominated search years after predictions of their disruption. It considers how search and discovery need to evolve. That argument has become even more relevant with AI-driven search.
 
 [Read Internet of Things and the future of search on Medium](https://siliconglen.medium.com/the-internet-of-things-and-the-future-of-search-5f1f60a7aab0)

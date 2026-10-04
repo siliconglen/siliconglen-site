@@ -4,6 +4,7 @@ title: Unbiased Agile Principles
 eyebrow: Insights
 intro: Twelve framework-neutral principles for putting culture, people, flow, quality and value at the centre of agile adoption.
 description: Twelve framework-neutral principles for a people-centred approach to agile adoption.
+published_date: "2022-05-23"
 permalink: /insights/unbiased-agile-principles/
 ---
 

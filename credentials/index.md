@@ -12,7 +12,7 @@ permalink: /credentials/
 My professional standing and higher education span engineering, information technology, management and software development.
 
 - Chartered Manager, Chartered Management Institute (10 September 2018)
-- Executive Diploma in Digital Business with Distinction, Academy of Digital Business Leaders (2016) — achieving the highest marks of the 120 UK business leaders on the programme
+- Executive Diploma in Digital Business with Distinction, Academy of Digital Business Leaders (2016), with the highest marks of the 120 UK business leaders on the programme
 - Fellow, Chartered Management Institute (31 January 2013)
 - Fellow, British Computer Society (30 March 2012)
 - Chartered Engineer and Chartered IT Professional, British Computer Society (2005)

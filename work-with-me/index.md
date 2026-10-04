@@ -9,7 +9,7 @@ permalink: /work-with-me/
 
 ## Choose by the situation you face
 
-You may need to make a difficult decision, challenge a strategy, recover a programme or improve delivery. Start with the situation and outcome—not a method or consultancy label—and I will help shape a proportionate engagement.
+You may need to make a difficult decision, challenge a strategy, recover a programme or improve delivery. Start with the situation and outcome, not a method or consultancy label, and I will help shape a proportionate engagement.
 
 ### Your people need repeatable tools for challenging plans
 
@@ -46,7 +46,7 @@ You may need to make a difficult decision, challenge a strategy, recover a progr
 
 ## What you leave with
 
-The precise output follows the problem: a defensible decision, a stronger plan, a delivered outcome, clearer priorities or practical capability your people can keep using. Every output must change a decision, delivery system or team capability—not merely create more activity.
+The precise output follows the problem: a defensible decision, a stronger plan, a delivered outcome, clearer priorities or practical capability your people can keep using. Every output must change a decision, delivery system or team capability, not merely create more activity.
 
 ## Find the right starting point
 
