@@ -39,6 +39,16 @@ Craig contributed a piece on IT project governance to the British Computer Socie
 
 Edinburgh Napier University selected Craig as one of 50 former students to represent its first 50 years. Each former student represented one year in a commemorative magazine feature.
 
+## BCS ELITE (2013) {#bcs-elite-2013}
+
+Craig encouraged BCS ELITE (Effective Leadership in IT), the British Computer Society's forum for senior IT leaders, to make active use of social media, which it had previously underused. ELITE continues today as the [BCS IT Leaders Forum](https://www.bcs.org/membership-and-registrations/member-communities/bcs-it-leaders-forum/).
+
+> "Craig has guided BCS ELITE to a social network presence. Personally, what with ELITE's need to improve its IT Industry commentary, I see the work that Craig did becoming a vital future part of what ELITE should do."
+>
+> — Professor Jon G. Hall, Chair, BCS ELITE (2012–2015)
+>
+> <a href="https://www.linkedin.com/in/siliconglen/details/recommendations/" target="_blank" rel="noopener noreferrer">Read the full recommendation on LinkedIn</a>
+
 ## W3C HTML5 Specification (2011) {#w3c-html5-specification-2011}
 
 The World Wide Web Consortium published official [acknowledgements for the HTML5 specification](https://www.w3.org/TR/html5/acknowledgements.html). Craig is credited in that section.
@@ -85,7 +95,7 @@ Colleagues and clients have recognised Craig's work in these terms:
 
 ### Fiona Malone {#recommendation-fiona-malone}
 
-> "Craig was a dedicated and conscientious Project Manager at HMH. Craig built up strong and effective working relationships with goegraphically dispersed Vendors and team members, working long hours to cover multiple timezones where required. I would have no hesitation recommending Craig to any potential emlpoyer."
+> "Craig was a dedicated and conscientious Project Manager at HMH. Craig built up strong and effective working relationships with geographically dispersed vendors and team members, working long hours to cover multiple timezones where required. I would have no hesitation recommending Craig to any potential employer."
 >
 > — Fiona Malone, Project Manager, Houghton Mifflin Harcourt (2009–2010)
 >
@@ -101,7 +111,7 @@ Colleagues and clients have recognised Craig's work in these terms:
 
 ### Polly Purvis OBE FRSE {#recommendation-polly-purvis}
 
-> "Craig and I worked together for several years as part of the team developing the community bid for the dotScot Top Level Domain Name (gTLD), and we are now both on the board of the dotScot Registry. Negotiations for the dotScot gTLD were protracted so lots of patience has been needed along the way. Craig has a great eye for detail and and the determination to see projects through, as well as a deep knowledge of project governance, - a great person to have on your team!"
+> "Craig and I worked together for several years as part of the team developing the community bid for the dotScot Top Level Domain Name (gTLD), and we are now both on the board of the dotScot Registry. Negotiations for the dotScot gTLD were protracted so lots of patience has been needed along the way. Craig has a great eye for detail and the determination to see projects through, as well as a deep knowledge of project governance - a great person to have on your team!"
 >
 > — Polly Purvis OBE FRSE, Chief Executive, ScotlandIS (2013–2019); Director, dotScot Registry (2014–2018)
 >

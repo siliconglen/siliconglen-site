@@ -66,7 +66,7 @@ The revised service returned online with the immediate public-comment risk contr
 #### Measured outcome
 The programme Craig's work supported went on to save the UK government **over £500 million**; the site enabled the public contribution that formed part of that wider programme. The source is an [Institute for Government briefing note](https://www.instituteforgovernment.org.uk/publication/report/policy-making-real-world), which cites Delib's own 2010 case study, *The Spending Challenge – UK Government uses Dialogue App to save over £500m per year*.
 
-> "Craig and I started working together under extremely pressurised circumstance bringing together digital engagement content on to a web platform. All under intense ministerial scrutiny. Craig brought trustworthy technical insight about the platform and fully understood the content side of the equation. He had a level head when and good judgement on prioritising real requirements from 'helpful suuggestions'"
+> "Craig and I started working together under extremely pressurised circumstances bringing together digital engagement content on to a web platform. All under intense ministerial scrutiny. Craig brought trustworthy technical insight about the platform and fully understood the content side of the equation. He had a level head and good judgement on prioritising real requirements from 'helpful suggestions'"
 >
 > — Nick Jones, Head of Digital, Prime Minister's Office and Cabinet Office (2011–2013)
 >
@@ -155,11 +155,11 @@ Adoption moved from partial and inconsistent to embedded and self-sustaining, wi
 #### Measured outcome
 Over 500 people trained across five course tracks; agile capability established at every organisational level from individual contributor to senior leadership.
 
-> "I've worked closely with Craig over the last two years and I can say that he has contributed so much to the initiatives that we have embarked upon since the birth of the Agile Centre of Excellence at Admiral Insurance. His knowledge experience and continuous thirst for understanding of the latest theories and advice has kept us on our toes and challenged us to improve day by day."
+> "I've worked closely with Craig over the last two years and I can say that he has contributed so much to the initiatives that we have embarked upon since the birth of the Agile Centre of Excellence at Admiral Insurance. His knowledge, experience and continuous thirst for understanding of the latest theories and advice has kept us on our toes and challenged us to improve day by day."
 >
-> — Jez Winkless, Agile Coach, Admiral Group Plc
+> — Jez Winkless, Agile Coach, Admiral Group plc (2021–2022)
 >
-> <a href="https://www.linkedin.com/in/siliconglen/details/recommendations/" target="_blank" rel="noopener noreferrer">See the full recommendation on LinkedIn</a>
+> <a href="https://www.linkedin.com/in/siliconglen/details/recommendations/" target="_blank" rel="noopener noreferrer">Read the full recommendation on LinkedIn</a>
 
 **Capabilities:** Agile · Delivery
 
@@ -192,7 +192,7 @@ This work was independently profiled by a BT colleague: [Building a (remote) cul
 >
 > — Phyroze Mohamed, Technology Tribe Lead, Programme Manager, BT (2020–2021)
 >
-> <a href="https://www.linkedin.com/in/siliconglen/details/recommendations/" target="_blank" rel="noopener noreferrer">See the full recommendation on LinkedIn</a>
+> <a href="https://www.linkedin.com/in/siliconglen/details/recommendations/" target="_blank" rel="noopener noreferrer">Read the full recommendation on LinkedIn</a>
 
 **Capabilities:** Agile · Delivery
 

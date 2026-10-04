@@ -46,7 +46,15 @@ Evidence from delivery informs the next decision rather than being hidden by the
 
 My delivery record includes multi-supplier transformation at [Southwark]({{ '/case-studies/#southwark-council-programme' | relative_url }}), a secure [CIO Council portal]({{ '/case-studies/#cio-council-secure-procurement-portal' | relative_url }}) and the [VisitScotland rescue]({{ '/case-studies/#visitscotland-e-commerce-rescue' | relative_url }}).
 
+The [Southwark programme]({{ '/case-studies/#southwark-council-programme' | relative_url }}) coordinated 13 suppliers and was delivered just ahead of schedule and 0.2% under budget.
+
 My rapid recovery of the [Government Spending Challenge]({{ '/case-studies/#government-spending-challenge' | relative_url }}) earned praise from Nick Jones for my judgement and technical insight.
+
+> "I had the pleasure of working with Craig during a major project at Pocketkings. He is a pragmatic project leader, flexible and dynamic, who never takes his eye off the ball and the overall project goals."
+>
+> — Sorcha Moore, Lead Product UX Designer, Full Tilt Poker (2007–2010)
+>
+> [Read the full recommendation]({{ '/citations/#recommendation-sorcha-moore' | relative_url }}) · <a href="https://www.linkedin.com/in/siliconglen/details/recommendations/" target="_blank" rel="noopener noreferrer">Read the full recommendation on LinkedIn</a>
 
 ## When this is useful
 
