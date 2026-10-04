@@ -18,11 +18,12 @@ is authorised to change and why.
 - Fallback stack: Arial, Helvetica, sans-serif.
 
 ## Design references
-The site's design reference sites are the four below. Every site audit must assess the site against all four, combining their qualities without copying any of them directly.
+The site's design reference sites are the five below. Every site audit must assess the site against all five, combining their qualities without copying any of them directly.
 - firewalkers.earth: editorial storytelling rhythm (bold one-line claim, short sentences, a band of large statistics that breaks the reading pace, audience pathways, live proof, founder credibility, a recent-writing feed, email sign-up).
 - snehaltalati.com: personal-brand authority, for its functionality rather than its visual style (career timeline, downloadable one-page capability statement, latest-insights feed on the homepage, one clear contact action).
 - dslxcontent.com: content and SEO strength (keyword-led metadata, hierarchical service pages, industry landing pages, FAQ sections answering search intent, named testimonials with titles and companies, a metrics strip, quantified case studies).
 - agilist.co.uk (Tim Robinson): commercial clarity at the point of purchase and design polish (one-sentence positioning, buyer-type entry points, published prices and durations for fixed-format offers, a free or low-cost first step, a visible engagement path, a calendar booking link repeated in navigation, hero and footer).
+- redteamthinking.com: the Red Team Thinking® licensor's own presentation of the method (a clear four-way offer split of Train Me, Train My Team, Red Team This and Coach Me; credibility through a book, a Forbes column, a podcast, military credentials and a named corporate client testimonial; a self-assessment tool and newsletter sign-up; positioning as training and facilitation rather than consulting). Audits check that the Red Team Thinking® pages present the offer at least as clearly and use the licensor's terminology and positioning correctly.
 jamesstamford.com is no longer a reference site and must not be used in audits.
 
 ## Font and colour consistency
