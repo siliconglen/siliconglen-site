@@ -18,6 +18,8 @@ Craig approaches complex client work methodically, with a consistent focus on me
 
 ### Southwark Council programme {#southwark-council-programme}
 
+*London, England · September 2009 – March 2010 (7 months)*
+
 #### Situation
 A Southwark Council digital transformation brought a substantial network of organisations and people together to improve the council's website, publishing capability and online services.
 
@@ -43,6 +45,8 @@ The programme was delivered **just ahead of schedule** and **within 0.2% under b
 **Capabilities:** Delivery · Organisational improvement
 
 ### Government Spending Challenge {#government-spending-challenge}
+
+*London, England · May 2010 – August 2010 (4 months)*
 
 #### Situation
 From May to August 2010, Craig was a Senior Project Manager at Directgov, managing significant web projects including HM Treasury's Government Spending Challenge website for the Office of No. 10 Downing Street. The service was [launched by the Prime Minister and Mark Zuckerberg](https://youtu.be/b5Bbzi7s1Ko).
@@ -71,6 +75,8 @@ The programme Craig's work supported went on to save the UK government **over £
 **Capabilities:** Critical Thinking · Delivery · Agile
 
 ### CIO Council secure procurement portal {#cio-council-secure-procurement-portal}
+
+*London, England · February 2008 – May 2008 (4 months)*
 
 #### Situation
 A CIO Council procurement portal had security issues, which Craig uncovered. They needed to be classified, have their impact assessed and be resolved. All the stakeholders were UK government CIOs, so the work was very high profile.
@@ -192,6 +198,8 @@ This work was independently profiled by a BT colleague: [Building a (remote) cul
 
 ### Trading technology hardware team turnaround workshop {#trading-technology-hardware-team-turnaround-workshop}
 
+*City of London, England · 2026 (one-day workshop)*
+
 #### Situation
 
 A hardware engineering team at a trading technology firm in the City of London, building FPGAs (Field-Programmable Gate Arrays — reprogrammable chips used for ultra-low-latency trading systems), was struggling with delivery friction and had been operating without an Engineering Manager in post.
@@ -221,6 +229,8 @@ The client confirmed that the facilitated day had helped the team surface its bl
 ## AI {#ai}
 
 ### siliconglen.scot AI-assisted rewrite {#siliconglen-ai-assisted-rewrite}
+
+*Edinburgh, Scotland · August 2025*
 
 #### Situation
 The legacy site, siliconglen.scot, had a substantial body of content requiring rewrite.
