@@ -49,9 +49,11 @@ jamesstamford.com is no longer a reference site and must not be used in audits.
 - The "Work With Me" dropdown is exclusively for future-tense, bookable services: what Craig will do for a client.
 - Evidence pages must not live under /work-with-me/, and the Work With Me dropdown must not contain evidence pages.
 - Evidence pages should end with a clear, single call-to-action linking to the most relevant corresponding Work With Me service page — this is intended and correct, not a violation. Evidence pages are not required to strip all mention of related services; they may reference and link to the relevant Work With Me offer as their natural conversion point.
-- The Work With Me top-level navigation item linking directly to /work-with-me/ is correct and intended.
-- The About dropdown contains: Citations, Credentials, Insights, Speaking, Updates. These are dropdown-only links and must not also appear as separate top-level navigation items.
-- Items in the Work With Me and About dropdowns are alphabetised. Any future item added to either dropdown must retain that alphabetical order.
+- Work With Me and About are single dropdown controls, not links and not split link-and-arrow controls. On desktop each dropdown opens on hover, click or Enter; in the mobile menu it opens on tap.
+- Services overview links to `/work-with-me/` as the fixed first item in the Work With Me dropdown. About Craig links to `/about/` as the fixed first item in the About dropdown.
+- The remaining Work With Me and About dropdown items are alphabetised after their fixed overview item. Any future item added to either dropdown must retain that order.
+- The About dropdown contains, after About Craig: Citations, Credentials, Insights, Speaking, Updates. These are dropdown-only links and must not also appear as separate top-level navigation items.
+- Each dropdown header has one visual state and receives a single current-section highlight when the visitor is on any page listed in that dropdown.
 - Citations uses the top-level URL `/citations/`. It is a third-person record of external recognition, citations and credits Craig has received, ordered most recent first, and opens with: "Recognition, credits and citations from over three decades of work."
 - Updates uses the top-level URL `/updates/`. It is for short-form reflective and opinion posts, presented in reverse chronological order in a blog-like format.
 

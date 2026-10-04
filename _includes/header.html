@@ -14,15 +14,13 @@
         {% for item in site.data.navigation %}
           <li{% if item.children %} class="nav-list__item--dropdown"{% endif %}>
             {% if item.children %}
-              <a class="nav-list__link nav-list__parent-link" href="{{ item.url | relative_url }}"{% if page.url == item.url %} aria-current="page"{% endif %}>{{ item.label }}</a>
+              {% assign section_current = false %}
+              {% for child in item.children %}{% if page.url contains child.url %}{% assign section_current = true %}{% endif %}{% endfor %}
               <details class="nav-list__dropdown">
-                <summary class="nav-list__toggle" aria-label="Open {{ item.label }} menu">
-                  <span class="visually-hidden">Open {{ item.label }} menu</span>
-                  <span class="nav-list__chevron" aria-hidden="true">&#9662;</span>
-                </summary>
+                <summary class="nav-list__toggle{% if section_current %} is-current-section{% endif %}">{{ item.label }} <span class="nav-list__chevron" aria-hidden="true">&#9662;</span></summary>
                 <ul class="nav-list__panel">
                   {% for child in item.children %}
-                    <li><a href="{{ child.url | relative_url }}">{{ child.label }}</a></li>
+                    <li><a href="{{ child.url | relative_url }}"{% if page.url == child.url %} aria-current="page"{% endif %}>{{ child.label }}</a></li>
                   {% endfor %}
                 </ul>
               </details>
