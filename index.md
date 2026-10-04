@@ -21,7 +21,7 @@ description: "Scotland-based agile coach, programme and project delivery special
     </div>
     <figure class="hero__portrait">
       <div class="photo-frame">
-        <img src="{{ '/assets/images/home/craig-cockburn-headshot.jpg' | relative_url }}" width="4200" height="3000" alt="Craig Cockburn" loading="eager">
+        <img src="{{ '/assets/images/home/craig-cockburn-headshot.jpg' | relative_url }}" width="1400" height="1000" alt="Craig Cockburn" loading="eager">
       </div>
     </figure>
   </div>
