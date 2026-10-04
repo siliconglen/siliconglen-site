@@ -38,7 +38,7 @@ I first presented it at Agile Tour London in October 2020, then at Agile Lithuan
 > — Wolfgang Hilpert, CPTO & Managing Director, on LinkedIn
 
 <figure class="knowledge-canvas-example">
-  <img src="{{ '/assets/images/speaking/wolfgang-hilpert-knowledge-canvas-example.png' | relative_url }}" alt="Knowledge Canvas diagram created by Wolfgang Hilpert for his talk with Simon Powers" loading="lazy">
+  <img src="{{ '/assets/images/speaking/wolfgang-hilpert-knowledge-canvas-example.png' | relative_url }}" width="2276" height="1248" alt="Knowledge Canvas diagram created by Wolfgang Hilpert for his talk with Simon Powers" loading="lazy">
   <figcaption>Wolfgang's own application of the method, from the talk he gave with Simon Powers.</figcaption>
 </figure>
 

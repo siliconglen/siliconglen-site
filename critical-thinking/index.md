@@ -29,7 +29,7 @@ This is practical critical thinking for live organisational work, not an abstrac
 </div>
 
 <figure class="prose-media__figure">
-<img src="{{ '/assets/images/critical-thinking/critical-thinking-malta.jpg' | relative_url }}" alt="Craig Cockburn delivering a Red Team Thinking critical thinking workshop in Malta" loading="lazy">
+<img src="{{ '/assets/images/critical-thinking/critical-thinking-malta.jpg' | relative_url }}" width="1600" height="901" alt="Craig Cockburn delivering a Red Team Thinking critical thinking workshop in Malta" loading="lazy">
 <figcaption>Teaching Critical Thinking in Malta</figcaption>
 </figure>
 

@@ -32,8 +32,11 @@
     <meta property="og:title" content="{{ seo_title | escape }}">
     <meta property="og:description" content="{{ seo_description | escape }}">
     <meta property="og:url" content="{{ page.url | absolute_url | escape }}">
-    <meta property="og:image" content="https://siliconglen.com/assets/images/home/craig-cockburn-headshot.jpg">
+    <meta property="og:image" content="https://siliconglen.com/assets/images/home/craig-cockburn-og.jpg">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
     <meta property="og:image:alt" content="Craig Cockburn">
+    <meta name="twitter:card" content="summary_large_image">
     {% endunless %}
     {% if page.redirect_to %}
     <meta http-equiv="refresh" content="0; url={{ page.redirect_to | relative_url }}">
