@@ -1,8 +1,8 @@
 - label: Home
   url: /
 - label: Work With Me
-  url: /work-with-me/
   children:
+    - { label: Services overview, url: /work-with-me/ }
     - { label: Agile Coaching, url: /work-with-me/agile-coaching/ }
     - { label: Decision Support Workshops, url: /work-with-me/decision-support/ }
     - { label: Leadership Strategy, url: /work-with-me/leadership-strategy/ }
@@ -15,8 +15,8 @@
 - { label: AI, url: /ai/ }
 - { label: Case Studies, url: /case-studies/ }
 - label: About
-  url: /about/
   children:
+    - { label: About Craig, url: /about/ }
     - { label: Citations, url: /citations/ }
     - { label: Credentials, url: /credentials/ }
     - { label: Insights, url: /insights/ }
