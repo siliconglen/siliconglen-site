@@ -37,6 +37,15 @@
     if (isOpen() && event.target.closest('a')) setMenu(false, false);
   });
 
+  navigation.querySelectorAll('.nav-list__dropdown').forEach((dropdown) => {
+    dropdown.addEventListener('pointerenter', () => {
+      if (!mobileQuery.matches) dropdown.setAttribute('open', '');
+    });
+    dropdown.addEventListener('pointerleave', () => {
+      if (!mobileQuery.matches) dropdown.removeAttribute('open');
+    });
+  });
+
   document.addEventListener('keydown', (event) => {
     if (event.key !== 'Escape') return;
     if (isOpen()) {
@@ -53,5 +62,6 @@
 
   mobileQuery.addEventListener('change', () => {
     if (isOpen()) setMenu(false, false);
+    else navigation.querySelectorAll('details[open]').forEach((item) => item.removeAttribute('open'));
   });
 })();
