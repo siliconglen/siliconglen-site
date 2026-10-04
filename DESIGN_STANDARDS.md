@@ -17,6 +17,15 @@ is authorised to change and why.
 - Heading font: Plus Jakarta Sans, weight 800, loaded via Google Fonts.
 - Fallback stack: Arial, Helvetica, sans-serif.
 
+## Design references
+The site's design reference sites are the five below. Every site audit must assess the site against all five, combining their qualities without copying any of them directly.
+- firewalkers.earth: editorial storytelling rhythm (bold one-line claim, short sentences, a band of large statistics that breaks the reading pace, audience pathways, live proof, founder credibility, a recent-writing feed, email sign-up).
+- snehaltalati.com: personal-brand authority, for its functionality rather than its visual style (career timeline, downloadable one-page capability statement, latest-insights feed on the homepage, one clear contact action).
+- dslxcontent.com: content and SEO strength (keyword-led metadata, hierarchical service pages, industry landing pages, FAQ sections answering search intent, named testimonials with titles and companies, a metrics strip, quantified case studies).
+- agilist.co.uk (Tim Robinson): commercial clarity at the point of purchase and design polish (one-sentence positioning, buyer-type entry points, published prices and durations for fixed-format offers, a free or low-cost first step, a visible engagement path, a calendar booking link repeated in navigation, hero and footer).
+- redteamthinking.com: the Red Team Thinking® licensor's own presentation of the method (a clear four-way offer split of Train Me, Train My Team, Red Team This and Coach Me; credibility through a book, a Forbes column, a podcast, military credentials and a named corporate client testimonial; a self-assessment tool and newsletter sign-up; positioning as training and facilitation rather than consulting). Audits check that the Red Team Thinking® pages present the offer at least as clearly and use the licensor's terminology and positioning correctly.
+jamesstamford.com is no longer a reference site and must not be used in audits.
+
 ## Font and colour consistency
 - Body text must use exactly the approved font stack: Arial, Helvetica, sans-serif. No platform/system font stack (e.g. -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, or similar OS-default fonts) may be introduced anywhere on the site, even as part of a longer fallback list.
 - Headings must use exactly the approved stack: "Plus Jakarta Sans", Arial, Helvetica, sans-serif, at weight 800.
@@ -69,6 +78,11 @@ is authorised to change and why.
 - Keyword owner pages use one page per search term, never two: agile coach Scotland = `/work-with-me/agile-coaching/`; critical thinking Scotland and critical thinking trainer UK = `/critical-thinking/`; agile delivery specialist UK = `/delivery/`; red team thinking UK = `/work-with-me/red-team-thinking/`. Business Agility targets business agility and Agile transformation and links to Agile Coaching rather than competing with it.
 - Location wording: based in Scotland, preference for Europe, available internationally. Service page intros and descriptions state UK, Europe and international reach ("internationally" or "beyond"); never limit them to the UK and Europe only. Do not name specific countries for international work unless Craig supplies a dated example.
 - Core skills group: wherever the core offer is summarised (homepage title and description, service page intros, About and Case Studies intros, and any future summary line), name all three skills together: agile coaching, programme and project delivery, and critical thinking, in that order unless the page's own topic leads. Never drop one of the three, and write delivery as "programme and project delivery" when it is spelled out. Single-topic keyword titles on the owner pages are exempt.
+
+## Images
+- Every image is sized for how it is displayed: the homepage portrait is 1400x1000 and under 200 KB, and no image file over 300 KB is published without a stated reason.
+- The social-sharing image is assets/images/home/craig-cockburn-og.jpg at 1200x630, referenced by og:image with its width and height.
+- Every <img> carries width and height attributes matching the file's real pixel dimensions.
 
 ## 404 and legacy redirects
 - `/404.html` is a plain "Page not found" page: noindex, excluded from the sitemap, no canonical or Open Graph tags.
@@ -152,6 +166,8 @@ is authorised to change and why.
 - Every page's HTML must validate with zero errors against the W3C Nu HTML Checker (or equivalent validator). Warnings should be minimised but are not blocking; errors are never acceptable.
 - Any task that adds or changes markup must check its own output against both requirements before reporting success, and must report the specific check performed (not just "should be fine").
 - Technical: any raw HTML block (e.g. prose-media__figure) must start at column 0 with a blank line immediately before and after it, or kramdown will render the tags as literal text instead of parsing them as HTML.
+- Mobile navigation: when the menu opens, focus moves to its first link and the main content and footer are inert; Escape or the backdrop closes it and returns focus to the menu button; Escape does nothing to the mobile menu when it is closed. On desktop, Escape closes an open dropdown and returns focus to its toggle.
+- Reveal-on-scroll hides content only after confirming IntersectionObserver support and no reduced-motion preference; otherwise all content is visible immediately.
 
 ## Process rule
 - Favicon: favicon.ico, apple-touch-icon.png and a 512x512 PNG icon at /assets/icons/ are referenced in the shared head on every page. Design is the Scottish saltire in Pantone 300 (#005EB8).
