@@ -202,7 +202,7 @@ This work was independently profiled by a BT colleague: [Building a (remote) cul
 
 #### Situation
 
-A hardware engineering team at a trading technology firm in the City of London, building FPGAs (Field-Programmable Gate Arrays — reprogrammable chips used for ultra-low-latency trading systems), was struggling with delivery friction and had been operating without an Engineering Manager in post.
+A hardware engineering team at a trading technology firm in the City of London, building FPGAs (Field-Programmable Gate Arrays, which are reprogrammable chips used for ultra-low-latency trading systems), was struggling with delivery friction and had been operating without an Engineering Manager in post.
 
 #### Difficulty
 

@@ -4,6 +4,7 @@ title: 'How critical thinking uncovered an error in "Thinking, Fast and Slow"'
 eyebrow: Insights
 intro: 'Following consultation with Professor Shane Frederick of Yale''s School of Management, I offer a small correction to Daniel Kahneman''s summary of Shane''s research in his best-selling book: "Thinking, Fast and Slow"'
 description: How critical thinking uncovered an error in Thinking, Fast and Slow.
+published_date: "2025-04"
 permalink: /insights/critical-thinking-kahneman-correction/
 ---
 

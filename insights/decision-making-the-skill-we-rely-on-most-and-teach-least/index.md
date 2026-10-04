@@ -4,6 +4,7 @@ title: "Decision Making: The Skill We Rely On Most and Teach Least"
 eyebrow: Insights
 intro: "Why decision making is the most important skill you're never taught, and how a structured approach changes the outcome."
 description: "Why decision making is the most important skill you're never taught, and how a structured approach changes the outcome."
+published_date: "2026-09-22"
 permalink: /insights/decision-making-the-skill-we-rely-on-most-and-teach-least/
 ---
 

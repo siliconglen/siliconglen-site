@@ -4,6 +4,7 @@ title: Agile Adoption Failure Patterns
 eyebrow: Insights
 intro: A short list of the main reasons agile adoption fails, drawn from surveys, consulting groups, individual coaches and press coverage, with the sources behind each.
 description: Recurring agile adoption failure patterns identified by surveys, consultancies, coaches and the press.
+published_date: "2019-10-16"
 permalink: /insights/agile-adoption-failure-patterns/
 ---
 
