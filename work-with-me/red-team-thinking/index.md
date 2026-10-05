@@ -10,7 +10,7 @@ permalink: /work-with-me/red-team-thinking/
 
 ## Don't outsource thinking
 
-All too often, I see companies outsource their strategic thinking and advice to consultants, when the answers are already within the organisation, waiting to be found through structured practices and analytical thinking rather than bought in from AI or expensive consultants.
+All too often, I see organisations outsource their strategic thinking to consultants, when the answers are already within the organisation, waiting to be found through structured practices and analytical thinking. Don't outsource thinking: Red Team Thinking® gives your own people the tools to find those answers.
 
 A strategy can be coherent, well researched and widely supported while still resting on assumptions that nobody has tested. The more work invested in it, the harder those assumptions can become to see or question.
 
