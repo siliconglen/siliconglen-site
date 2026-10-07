@@ -1,9 +1,10 @@
 ---
 layout: page
 title: Speaking
+meta_title: "Critical Thinking & Agile Speaker | Craig Cockburn"
 eyebrow: Talks and teaching
 intro: Conference talks and teaching workshops that make difficult ideas visible, practical and memorable.
-description: "My talks and teaching workshops on critical thinking, delivery, Agile and AI."
+description: "Conference speaker and guest lecturer on critical thinking, Red Team Thinking®, strategy and agile ways of working, with more than 30 talks given."
 permalink: /speaking/
 ---
 

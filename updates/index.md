@@ -2,7 +2,7 @@
 layout: page
 title: Updates
 eyebrow: About
-description: "My short-form reflections and opinions on work, ideas and practice."
+description: "Short reflections from Craig Cockburn on agile, delivery, leadership and critical thinking."
 permalink: /updates/
 ---
 

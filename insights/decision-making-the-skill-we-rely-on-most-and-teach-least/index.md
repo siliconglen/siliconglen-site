@@ -20,7 +20,7 @@ I help close that gap. From October 2019 I was teaching strategy using pre-morte
 
 The first step is always the same: see the problem clearly before deciding what to do about it. Important decisions are rarely short of information. The difficulty is working out what matters, what is missing and which assumptions are quietly shaping the available options.
 
-A consultant sells you their answer. I don't bring the experience of your problem, you do. I bring the method for analysing it, so you reach a better answer of your own, and reach it faster.
+I don't sell you a ready-made answer. You know your business better than any outside consultant; I bring a structured method for analysing it, so you reach a better answer of your own, and reach it faster.
 
 Think back on your career and the decisions that turned out badly. You can't undo them now. But in five years, looking back on the decisions you're making today, do you want the same story, or do you want to know they were the best you could make with the knowledge you had at the time?
 

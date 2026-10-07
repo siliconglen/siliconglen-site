@@ -17,7 +17,7 @@
     })();
     </script>
     {% endif %}
-    {% capture seo_title %}{% if page.meta_title %}{{ page.meta_title }}{% else %}{% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}{% endif %}{% endcapture %}
+    {% capture seo_title %}{% if page.meta_title %}{{ page.meta_title }}{% else %}{% if page.title %}{{ page.title }} | {% endif %}Craig Cockburn{% endif %}{% endcapture %}
     {% assign seo_description = page.description | default: site.description %}
     <title>{{ seo_title }}</title>
     <meta name="description" content="{{ seo_description | escape }}">

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Decision Support Workshops
+meta_title: "Decision Support Workshops, UK | Craig Cockburn"
 eyebrow: Work with me
 intro: Clarify the real question, test the evidence and options, and reach a decision you can explain and act on.
 description: "Clarify the real question, test the evidence and options, and reach a decision you can explain and act on."
