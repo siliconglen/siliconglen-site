@@ -1,6 +1,7 @@
 ---
 layout: default
 title: About Craig Cockburn
+meta_title: "About Craig Cockburn | Agile, Delivery & Critical Thinking"
 eyebrow: Siliconglen
 intro: "Extensive experience connecting agile coaching, programme and project delivery, critical thinking and AI."
 description: "About Craig Cockburn and Siliconglen: critical thinking, delivery and Agile focused on clearer decisions and useful outcomes."

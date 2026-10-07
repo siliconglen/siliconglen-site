@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Services
+meta_title: "Services: Agile, Delivery & Critical Thinking | Craig Cockburn"
 eyebrow: Think. Decide. Deliver. Improve.
 intro: Practical support to understand the real problem, make a sound decision, deliver the outcome and improve what happens next.
 description: "Practical support to understand the real problem, make a sound decision, deliver the outcome and improve what happens next."

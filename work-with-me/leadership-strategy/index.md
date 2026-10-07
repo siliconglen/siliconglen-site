@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Leadership Strategy
+meta_title: "Leadership Strategy & Alignment | Craig Cockburn"
 eyebrow: Work with me
 intro: Turn strategic direction into something a leadership team can actually align around and act on.
 description: "Leadership strategy support with Craig Cockburn: connect strategic direction to real roadmaps, and get a leadership team genuinely aligned rather than just informed."

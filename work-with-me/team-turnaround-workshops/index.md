@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Team Turnaround Workshops
+meta_title: "Team Turnaround Workshops, UK | Craig Cockburn"
 eyebrow: Work with me
 intro: A structured full-day offsite that surfaces real blockers, rebuilds trust, and leaves a team with clear ownership and decision-making norms.
 description: "Team turnaround workshops with Craig Cockburn: facilitated full-day offsites that surface delivery blockers, rebuild trust and establish clear decision-making norms."

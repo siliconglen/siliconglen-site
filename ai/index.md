@@ -1,9 +1,10 @@
 ---
 layout: page
 title: AI
+meta_title: "AI & Critical Thinking | Craig Cockburn"
 eyebrow: Artificial Intelligence
 intro: Practical AI, used hands-on and held to the same standard as any other source of confident advice.
-description: "My practical approach to AI: useful acceleration, human verification and accountable judgement."
+description: "How I use AI to speed up delivery without outsourcing judgement: verification, automation bias and decision quality."
 permalink: /ai/
 ---
 
