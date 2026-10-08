@@ -3,7 +3,7 @@ layout: page
 title: Insights
 meta_title: "Insights on Critical Thinking & Agile | Craig Cockburn"
 eyebrow: About
-intro: My longer-form articles explore the ideas, evidence and practical lessons behind my work.
+intro: The ideas, evidence and practical lessons behind my work.
 description: "Articles by Craig Cockburn on decision making, critical thinking and agile adoption."
 permalink: /insights/
 ---
