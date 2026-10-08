@@ -2,7 +2,7 @@
 
 This repository contains the source for siliconglen.com, the professional website of Craig Cockburn and his company, Siliconglen Ltd.
 
-The site promotes Craig's services in agile coaching, programme and project delivery, and critical thinking, including licensed Red Team Thinking® training and facilitated decision support.
+The site promotes Craig's services in agile coaching, programme and project delivery, and critical thinking, including Red Team Thinking® training delivered in partnership with Red Team Thinking®, and facilitated decision support.
 
 The site's primary focus is genuine business-to-business (B2B) work contracted through Siliconglen Ltd, of any length, including:
 - workshops and training;

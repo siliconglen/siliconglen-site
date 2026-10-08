@@ -14,13 +14,13 @@ All too often, I see organisations outsource their strategic thinking to consult
 
 A strategy can be coherent, well researched and widely supported while still resting on assumptions that nobody has tested. The more work invested in it, the harder those assumptions can become to see or question.
 
-Red Team Thinking® provides structured, constructive challenge through methods adapted from military and intelligence tradecraft for business. I deliver the licensed training and tailor its application to the organisation, backed by my [Red Team Thinking® certifications]({{ '/credentials/#critical-thinking-agile-and-delivery' | relative_url }}).
+Red Team Thinking® provides structured, constructive challenge through methods adapted from military and intelligence tradecraft for business. I can deliver Red Team Thinking® programmes in partnership with Red Team Thinking®, tailored to each organisation by selecting the tools and modules that fit, backed by my [Red Team Thinking® certifications]({{ '/credentials/#critical-thinking-agile-and-delivery' | relative_url }}).
 
 The purpose is not to criticise for effect or replace the people responsible for a decision. It is to give your team practical methods for examining how conclusions were reached, finding missing perspectives and testing whether plans remain credible when conditions change.
 
 ## Two sessions, six tools and a follow-up
 
-The RTT Accelerator programme includes:
+A typical two-session programme includes:
 
 - two four-hour sessions, on-site or online;
 - advance reflection questions, with nothing to submit;
@@ -32,17 +32,17 @@ The RTT Accelerator programme includes:
 Across the two sessions, your team learns six practical tools for stronger decision-making:
 
 - **Think-Write-Share**, a structured way of surfacing ideas from the whole team rather than just the loudest voices in the room.
-- **Weighted Anonymous Feedback**, which draws out honest input on a plan or idea without it being filtered by hierarchy.
-- **Lies We Tell Ourselves**, a technique for surfacing the comfortable assumptions an organisation uses to avoid uncomfortable truths.
-- **Six Strategic Questions**, a quick discipline for checking that a plan is solving the right problem before committing resources to it.
-- **Assumptions Challenge**, for identifying and stress-testing the assumptions a plan depends on, whether stated or unstated.
+- **Weighted Anonymous Feedback™**, which draws out honest input on a plan or idea without it being filtered by hierarchy.
+- **Lies We Tell Ourselves™**, a technique for surfacing the comfortable assumptions an organisation uses to avoid uncomfortable truths.
+- **Six Strategic Questions™**, a quick discipline for checking that a plan is solving the right problem before committing resources to it.
+- **Assumptions Challenge™**, for identifying and stress-testing the assumptions a plan depends on, whether stated or unstated.
 - **Pre-Mortem Analysis**, which asks a team to imagine a plan has already failed and work backwards to find out why, so weaknesses surface while there's still time to fix them.
 
-The wider Red Team Thinking® toolkit goes well beyond these six tools. Sessions can draw on other techniques, from stakeholder analysis to structured stress-testing methods, where they fit your situation better.
+The wider Red Team Thinking® toolkit goes well beyond these six tools, with more than 20 techniques across four levels, including Alternative Futures Analysis, Four Ways of Seeing and the Devil's Troika™. Programmes can include these where they fit your situation better, and individual tools can also be taught as standalone sessions.
 
 ## An introduction to the approach
 
-My [Red Team Thinking® conference talk]({{ '/speaking/#red-team-thinking-conference-talk' | relative_url }}) introduces the concepts at a high level; the licensed training is substantially deeper.
+My [Red Team Thinking® conference talk]({{ '/speaking/#red-team-thinking-conference-talk' | relative_url }}) introduces the concepts at a high level; the training itself is substantially deeper.
 
 ## Student experience
 
