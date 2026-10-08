@@ -28,7 +28,7 @@ If you need hands-on leadership for a struggling programme, multi-supplier chang
 
 > "Craig managed a number of projects delivering to the technology roadmap. He is very personable and has displayed a mature approach to project progression. I have no doubt in his ability to undertake the management of large scale projects with ease."
 >
-> — Roshan Daryanani, IT Consultant, LEVO Enterprises
+> — Roshan Daryanani, Head of IT Delivery, Directgov (2010)
 >
 > <a href="https://www.linkedin.com/in/siliconglen/details/recommendations/" target="_blank" rel="noopener noreferrer">Read the full recommendation on LinkedIn</a>
 

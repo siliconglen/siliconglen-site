@@ -112,6 +112,7 @@ jamesstamford.com is no longer a reference site and must not be used in audits.
 - Testimonial attributions give the person's role at the time of the assignment, with years, as supplied by Craig, not their current title.
 - Testimonials outside the homepage link to https://www.linkedin.com/in/siliconglen/details/recommendations/ with the text 'Read the full recommendation on LinkedIn'.
 - A bare name beside a quote carries no credibility and must not be published. If the role or title cannot be determined from the original source, flag the quote for resolution rather than guessing or publishing it with only a name.
+- Public comments on Craig's published work (for example, comments on the Knowledge Canvas method on the Speaking page) are not testimonials. Attribute them with the person's name, role and where the comment was made (for example, "on LinkedIn"). The years and organisation requirements for testimonials do not apply to them.
 - Testimonials use the recommender's own words. Obvious spelling and typing errors (misspellings, doubled words, stray punctuation) may be corrected; wording and meaning must never be changed.
 - A shortened excerpt may be used only where the full testimonial is available on this site or on LinkedIn, and the excerpt links to it.
 
