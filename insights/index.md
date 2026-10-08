@@ -16,6 +16,14 @@ Why decision making is the most important skill you're never taught, and how a s
 
 [Read Decision Making: The Skill We Rely On Most and Teach Least]({{ '/insights/decision-making-the-skill-we-rely-on-most-and-teach-least/' | relative_url }})
 
+## Are We Outsourcing Our Thinking to AI?
+
+<p class="publication-date">First published on LinkedIn on 26 September 2025.</p>
+
+Research links heavier AI use with weaker critical thinking. Why that is a decision risk for organisations, and five habits that keep human judgement in charge.
+
+[Read Are We Outsourcing Our Thinking to AI?]({{ '/insights/are-we-outsourcing-our-thinking-to-ai/' | relative_url }})
+
 ## How critical thinking uncovered an error in “Thinking, Fast and Slow”
 
 <p class="publication-date">First published in April 2025.</p>

@@ -48,6 +48,7 @@ permalink: /updates/
     <h2>Digital transformation in the world of AI</h2>
     <p class="update-meta">Published <time datetime="2025-09-26">26/09/2025</time>, <a href="https://www.linkedin.com/feed/update/urn:li:share:7377268291855204353/" target="_blank" rel="noopener noreferrer">read the original on LinkedIn</a></p>
     <p>After hearing BCS President Daljit Rehal speak on digital transformation in the age of AI, one question stayed with me: are we effectively outsourcing our thinking to AI and accepting what it says? I cite a peer reviewed paper reporting a significant negative relationship between AI tool usage and critical thinking skills, with cognitive offloading as the mediating factor. I see that as a big risk to organisations.</p>
+    <p>I have since expanded this into a full article: <a href="{{ '/insights/are-we-outsourcing-our-thinking-to-ai/' | relative_url }}">Are We Outsourcing Our Thinking to AI?</a></p>
   </article>
 
   <article class="update" id="delivering-critical-thinking-across-the-world">

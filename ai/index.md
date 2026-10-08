@@ -32,6 +32,8 @@ My undergraduate work in Edinburgh University's Department of Artificial Intelli
 
 ## Use AI without outsourcing judgement
 
+For the evidence behind this concern, read [Are We Outsourcing Our Thinking to AI?]({{ '/insights/are-we-outsourcing-our-thinking-to-ai/' | relative_url }})
+
 If your team needs to test AI-assisted analysis or establish a reliable verification practice, [explore AI-assisted Decision Support]({{ '/work-with-me/decision-support/#ai-assisted-decision-support' | relative_url }}).
 
 <p class="section__cta">Get in touch now: <a class="btn btn--primary" href="{{ '/contact/' | relative_url }}">Contact me</a></p>
