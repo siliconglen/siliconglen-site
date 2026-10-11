@@ -18,7 +18,7 @@ AI can expand what one person sees and does quickly. It cannot replace judgement
 
 I use a simple discipline: **AI expands the search space; critical-thinking tools interrogate the output; human judgement decides.** The loop repeats when better questions or new evidence emerge.
 
-In July 2025, I used ChatGPT to assemble public guidance for an unfamiliar electric hire car whose routine controls were hard to discover. It removed information friction, but I still checked safety-critical guidance rather than treating the generated answer as authoritative. My article, [Car complexity and the new user journey](https://www.linkedin.com/pulse/car-complexity-new-user-journey-craig-cockburn-d7q9e), explores the experience.
+In July 2025, I used ChatGPT to assemble public guidance for an unfamiliar electric hire car whose routine controls were hard to discover. It removed information friction, but I still checked safety-critical guidance rather than treating the generated answer as authoritative. My article, [Car complexity and the new user journey]({{ '/insights/car-complexity-and-the-new-user-journey/' | relative_url }}), explores the experience.
 
 ## Hands-on delivery with AI
 

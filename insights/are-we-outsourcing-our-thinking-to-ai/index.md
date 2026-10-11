@@ -46,7 +46,7 @@ The answer isn't to stop using AI. It's to make challenge a deliberate part of h
 
 - **Form your own view first.** Write down your own answer before asking the AI, so its answer is something to compare against, not a starting point.
 - **Ask the AI to argue against itself.** Ask for the strongest case against its recommendation, and for the evidence that would prove it wrong.
-- **Check the sources, not just the summary.** If a claim matters, find where it comes from.
+- **Check the sources, not just the summary.** If a claim matters, find where it comes from. For a small example from my own experience, see [Car complexity and the new user journey]({{ '/insights/car-complexity-and-the-new-user-journey/' | relative_url }}).
 - **Run a pre-mortem on important decisions.** Imagine the decision has failed and ask why. AI-supplied assumptions are often where the answer lies.
 - **Decide where AI is not the final word.** Agree in advance which decisions need a named person to own the reasoning, not just the outcome.
 

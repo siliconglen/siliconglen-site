@@ -24,6 +24,14 @@ Research links heavier AI use with weaker critical thinking. Why that is a decis
 
 [Read Are We Outsourcing Our Thinking to AI?]({{ '/insights/are-we-outsourcing-our-thinking-to-ai/' | relative_url }})
 
+## Car complexity and the new user journey
+
+<p class="publication-date">First published on LinkedIn on 5 July 2025.</p>
+
+Why driving an unfamiliar car for the first time is so often a poor experience, and what car makers and hire companies could do about it.
+
+[Read Car complexity and the new user journey]({{ '/insights/car-complexity-and-the-new-user-journey/' | relative_url }})
+
 ## How critical thinking uncovered an error in “Thinking, Fast and Slow”
 
 <p class="publication-date">First published in April 2025.</p>
