@@ -28,4 +28,39 @@
       track('contact-form-submit', { topic: topic ? topic.value : '' });
     });
   }
+
+  var page = window.location.pathname;
+
+  // read-30s: sent once, after 30 seconds of the page being visible in total.
+  var visibleSeconds = 0;
+  var readTimer = window.setInterval(function () {
+    if (document.visibilityState !== 'visible') return;
+    visibleSeconds += 1;
+    if (visibleSeconds >= 30) {
+      window.clearInterval(readTimer);
+      track('read-30s', { page: page });
+    }
+  }, 1000);
+
+  // scroll-75: sent once, when the visitor reaches 75% of a page that is at least 1.5 screens tall.
+  var scrollSent = false;
+  var scrollQueued = false;
+  function checkScroll() {
+    scrollQueued = false;
+    if (scrollSent) return;
+    var docHeight = document.documentElement.scrollHeight;
+    var viewHeight = window.innerHeight;
+    if (docHeight < viewHeight * 1.5) return;
+    if ((window.scrollY + viewHeight) / docHeight >= 0.75) {
+      scrollSent = true;
+      window.removeEventListener('scroll', onScroll);
+      track('scroll-75', { page: page });
+    }
+  }
+  function onScroll() {
+    if (scrollQueued) return;
+    scrollQueued = true;
+    window.requestAnimationFrame(checkScroll);
+  }
+  window.addEventListener('scroll', onScroll, { passive: true });
 })();
